@@ -22,6 +22,7 @@ env:
   opsBranch: ${{ vars.opsBranch}}
   fork_repo_prefix: ${{ vars.fork_repo_prefix }}
   builder: ${{ vars.builder }}
+  buildContainers: ${{ vars.buildContainers }}
 
 jobs:
   check:
@@ -41,7 +42,7 @@ jobs:
 
       - name: pull from repos ${{env.asof}}
         run: |
-          env
+          env | sort --ignore-case
           git clone https://github.com/itaru2622/bluesky-selfhost-env.git ops
           (cd ops; \
               git checkout -b ${opsBranch}; \
@@ -68,10 +69,12 @@ jobs:
           # code==0 => ok otherwise failure
           exit $code
 
-      - name: build docker image ${{env.asof}}
+      - name: build docker image ${{env.asof}} ${{env.buildContainers}}
         run: |
           (cd ops; \
-              make build DOMAIN= f=${builder} dockerCompose='docker compose'; \
+              git branch | cat; \
+              cat ${builder} | yq '.services | keys'; \
+              make build dockerCompose='docker compose' DOMAIN= f=${builder} services="${buildContainers}" ; \
           )
       - name: images ${{env.asof}}
         run: |
