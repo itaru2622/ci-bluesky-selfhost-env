@@ -69,6 +69,14 @@ jobs:
           # code==0 => ok otherwise failure
           exit $code
 
+      - name: cleanup docker env to avoid no disk space ${{env.asof}}
+        run: |
+           docker system df
+           docker system df -v
+           docker system prune -a --volumes -f
+           docker system df
+           docker system df -v
+
       - name: build docker image ${{env.asof}} ${{env.buildContainers}}
         run: |
           (cd ops; \
