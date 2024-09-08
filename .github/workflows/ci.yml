@@ -1,0 +1,78 @@
+name: CI for bluesky-selfhost-env
+
+on:
+  push:
+    paths-ignore:
+    - '**.md'
+    branches: [ master ]
+    tags: [ 'v*.*.*' ]
+  pull_request:
+    branches: [ master ]
+    paths-ignore:
+    - '**.md'
+  schedule:
+   - cron: '00 20 * * *'
+  workflow_dispatch:
+
+env:
+  # Use docker.io for Docker Hub if empty
+  #REGISTRY: ghcr.io
+  REGISTRY: docker.io
+  TZ: ${{ vars.TZ }}
+  opsBranch: ${{ vars.opsBranch}}
+  fork_repo_prefix: ${{ vars.fork_repo_prefix }}
+  builder: ${{ vars.builder }}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: adjust env
+        run : |
+           echo asof=ci-$(date +'%Y%m%d-%H%M%S') >> $GITHUB_ENV
+           echo topDir=${GITHUB_WORKSPACE} >> $GITHUB_ENV
+           echo rDir=${GITHUB_WORKSPACE}/ops/repos >> $GITHUB_ENV
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: pull from repos ${{env.asof}}
+        run: |
+          env
+          git clone https://github.com/itaru2622/bluesky-selfhost-env.git ops
+          (cd ops; \
+              git checkout -b ${opsBranch}; \
+              make cloneAll; \
+          )
+
+      - name: git log    upstream/main from fork/main ${{env.asof}}
+        run: |
+          (cd ops; \
+              make exec under=${rDir}/* cmd="git log --format='%ad ;   %h ; %aL ; %s ; %d' --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full fork/main..main | cat"; \
+          )
+
+      - name: patch apply ${{env.asof}}
+        run: |
+          (cd ops; \
+              make exec under=${rDir}/* cmd='git config --local user.email "github-actions[bot]@users.noreply.github.com"; git config --local user.name  "github-actions[bot]" '; \
+              make exec under=${rDir}/* cmd='git checkout -b work'; \
+              make patch-dockerbuild; \
+          )
+          echo "########### find .rej ################"
+          find ${rDir} -type f | grep -v /.git | grep .rej$ | cat
+          code=`find ${rDir} -type f | grep -v /.git | grep .rej$ | cat | wc -l`
+          echo $code
+          # code==0 => ok otherwise failure
+          exit $code
+
+      - name: build docker image ${{env.asof}}
+        run: |
+          (cd ops; \
+              make build DOMAIN= f=${builder} dockerCompose='docker compose'; \
+          )
+      - name: images ${{env.asof}}
+        run: |
+          docker images | grep itaru2622/bluesky
