@@ -1,4 +1,4 @@
-name: CI for bluesky-selfhost-env
+name: conditional CI for bluesky-selfhost-env
 
 on:
   push:
@@ -70,7 +70,7 @@ jobs:
           # code==0 => ok otherwise failure
           exit $code
 
-      - name: cleanup docker env to avoid no disk space ${{env.asof}}
+      - name: cleanup docker env to avoid no disk space ${{env.asof}}, in conditional
         if: ${{env.buildImage == 'true' }}
         run: |
            docker system df
@@ -79,7 +79,7 @@ jobs:
            docker system df
            docker system df -v
 
-      - name: build docker image ${{env.asof}} ${{env.buildContainers}}
+      - name: build docker image ${{env.asof}} ${{env.buildContainers}}, in conditional
         if: ${{env.buildImage == 'true' }}
         run: |
           (cd ops; \
@@ -87,7 +87,7 @@ jobs:
               cat ${builder} | yq '.services | keys'; \
               make build dockerCompose='docker compose' DOMAIN= f=${builder} services="${buildContainers}" ; \
           )
-      - name: images ${{env.asof}}
+      - name: images ${{env.asof}},    in conditional
         if: ${{env.buildImage == 'true' }}
         run: |
           docker images | grep itaru2622/bluesky
