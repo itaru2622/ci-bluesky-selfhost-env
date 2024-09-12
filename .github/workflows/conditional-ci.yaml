@@ -53,8 +53,14 @@ jobs:
       - name: git log    upstream/main from fork/main ${{env.asof}}
         run: |
           (cd ops; \
-              make exec under=${rDir}/* cmd="git log --format='%ad ;   %h ; %aL ; %s ; %d' --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full fork/main..main | cat"; \
-          )
+              make exec under=repos/* cmd='\
+                 git log --format="%ad ;   %h ; %aL ; %s ; %d" --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full fork/main   > /tmp/log-fork-$${r}     ; \
+                 git log --format="%ad ;   %h ; %aL ; %s ; %d" --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full origin/main > /tmp/log-upstream-$${r} ; \
+                 diff -u /tmp/log-fork-$${r} /tmp/log-upstream-$${r} | grep ^+ | tail -n +2 | sed 's/^+//' | tee ${topDir}/log-commits/$${r};' ; \
+          );\
+          echo "###### ${topDir}/log-commits #######"; \
+          wc -l log-commits/*;
+          git status
 
       - name: patch apply ${{env.asof}}
         run: |
