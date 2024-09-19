@@ -54,13 +54,22 @@ jobs:
         run: |
           (cd ops; \
               make exec under=repos/* cmd='\
-                 git log --format="%ad ;   %h ; %aL ; %s ; %d" --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full fork/main   > /tmp/log-fork-$${r}     ; \
-                 git log --format="%ad ;   %h ; %aL ; %s ; %d" --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full origin/main > /tmp/log-upstream-$${r} ; \
+                 git log --format="%ad ;   %h ; %aL ; %s ;%d" --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full fork/main   > /tmp/log-fork-$${r}     ; \
+                 git log --format="%ad ;   %h ; %aL ; %s ;%d" --date=format:%Y-%m-%dT%H:%M:%S --decorate-refs=refs/tags/ --decorate=full origin/main > /tmp/log-upstream-$${r} ; \
                  diff -u /tmp/log-fork-$${r} /tmp/log-upstream-$${r} | grep ^+ | tail -n +2 | sed 's/^+//' | tee ${topDir}/log-commits/$${r};' ; \
-          );\
-          echo "###### ${topDir}/log-commits #######"; \
-          wc -l log-commits/*;
-          git status
+          )
+
+      - name: statistics of commit diff ${{env.asof}}
+        run: |
+          (cd ${topDir}/log-commits/; \
+              wc -l *; \
+          )
+
+      - name: check if new tag exists in the diff of commits ${{env.asof}}
+        run: |
+          (cd ${topDir}/log-commits/; \
+              grep \; * | sed -e 's/:/;/' | awk -F\; '{print $1" ; "$2";"$3";"$6}' | grep -v ';$'
+          )
 
       - name: patch apply ${{env.asof}}
         run: |
