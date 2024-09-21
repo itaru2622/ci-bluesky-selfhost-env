@@ -56,7 +56,7 @@ jobs:
       - name: check if new tag exists in the diff of commits ${{env.asof}}
         run: |
           (cd ${topDir}/log-commits/; \
-              grep \; * | sed -e 's/:/;/' | awk -F\; '{print $1" ; "$2";"$3";"$6}' | grep -v ';$'
+              grep \; * | sed -e 's/:/;/' | awk -F\; '{print $1" ; "$2";"$3";"$6}' | grep -v ';$' | cat
           )
 
       - name: patch apply ${{env.asof}}
