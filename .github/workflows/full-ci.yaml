@@ -5,13 +5,17 @@ on:
 
 env:
   # Use docker.io for Docker Hub if empty
-  #REGISTRY: ghcr.io
-  REGISTRY: docker.io
+  REGISTRY: ghcr.io
+  #REGISTRY: docker.io
   TZ: ${{ vars.TZ }}
   opsBranch: ${{ vars.opsBranch}}
   fork_repo_prefix: ${{ vars.fork_repo_prefix }}
+
   builder: ${{ vars.builder }}
   buildContainers: ${{ vars.buildContainers }}
+  buildImage: ${{ vars.buildImage }}
+  user: ${{ github.repository_owner }}
+  gh_secret: ${{secrets.GH_TOKEN_WORKFLOW }}
 
 jobs:
   check:
@@ -94,3 +98,18 @@ jobs:
 #       if: ${{env.buildImage == 'true' }}
         run: |
           docker images | grep itaru2622/bluesky
+
+      - name: push docker image to remote registry ${{env.asof}}
+#       if: ${{env.buildImage == 'true' }}
+        run: |
+          # login to docker registry
+          echo ${gh_secret} | docker login ${REGISTRY} -u ${user} --password-stdin
+
+          # pick image and assign tag for upload then push it.
+          for i in `docker images | grep itaru2622/bluesky | awk -v c=':' '{print $1 c $2}' ` ; do
+              echo $i;
+              docker tag $i ${REGISTRY}/$i;
+              docker push   ${REGISTRY}/$i;
+          done
+          #docker push  ${REGISTRY}/${user}/apline:latest
+          docker logout ${REGISTRY}
