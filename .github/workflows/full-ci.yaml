@@ -60,8 +60,12 @@ jobs:
       - name: check if new tag exists in the diff of commits ${{env.asof}}
         run: |
           (cd ${topDir}/log-commits/; \
-              grep \; * | sed -e 's/:/;/' | awk -F\; '{print $1" ; "$2";"$3";"$6}' | grep -v ';$' | cat
+              grep \; * | sed -e 's/:/;/' | awk -F\; '{print $1" ; "$2";"$3";"$6}' | grep -v ';$' | cat; \
           )
+
+      - name: get latest commit in upstreams ${{env.asof}}
+        run: |
+          head -1 /tmp/log-upstream-* | sed 's#/tmp/log-upstream-##g' | cat
 
       - name: patch apply ${{env.asof}}
         run: |
