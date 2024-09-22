@@ -81,6 +81,10 @@ jobs:
         run: |
           head -1 /tmp/log-upstream-* | sed 's#/tmp/log-upstream-##g' | cat
 
+      - name: get latest commit in fork  ${{env.asof}}
+        run: |
+          head -1 /tmp/log-fork-* | sed 's#/tmp/log-fork-##g' | cat
+
       - name:  make condition vars from num of un-followed  ${{env.asof}}
         id: unfollowedCommits
         run: |
