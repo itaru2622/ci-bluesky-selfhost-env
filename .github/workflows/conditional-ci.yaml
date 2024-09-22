@@ -27,7 +27,8 @@ env:
   user: ${{ github.repository_owner }}
   gh_secret: ${{secrets.GH_TOKEN_WORKFLOW }}
   branch:    ${{ github.ref_name }}
-
+  myURL:  ${{github.server_url}}/${{github.repository}}
+  myResultPage: ${{github.server_url}}/${{github.repository}}/actions/runs/${{github.run_id}}
 
 jobs:
   check:
@@ -37,11 +38,12 @@ jobs:
       packages: write
 
     steps:
-      - name: adjust env
+      - name: adjust env   ${{env.myResultPage}}
         run : |
            echo asof=ci-$(date +'%Y%m%d-%H%M%S') >> $GITHUB_ENV
            echo topDir=${GITHUB_WORKSPACE} >> $GITHUB_ENV
            echo rDir=${GITHUB_WORKSPACE}/ops/repos >> $GITHUB_ENV
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -165,7 +167,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
           git add ./log-commits
-          git commit -m "update: log-commits by ${asof} github-actions"
+          git commit -m "update: log-commits by ${asof} github-actions" -m "in detail, refer ${myResultPage}"
 
           # cf. https://github.com/actions/checkout
           echo "git push to ${branch}"
