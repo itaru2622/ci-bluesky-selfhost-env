@@ -26,13 +26,14 @@ env:
   buildContainers: ${{ vars.buildContainers }}
   user: ${{ github.repository_owner }}
   gh_secret: ${{secrets.GH_TOKEN_WORKFLOW }}
+  branch:    ${{ github.ref_name }}
 
 
 jobs:
   check:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       packages: write
 
     steps:
@@ -42,7 +43,7 @@ jobs:
            echo topDir=${GITHUB_WORKSPACE} >> $GITHUB_ENV
            echo rDir=${GITHUB_WORKSPACE}/ops/repos >> $GITHUB_ENV
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: pull from repos ${{env.asof}}
         run: |
@@ -77,6 +78,30 @@ jobs:
       - name: get latest commit in upstreams  ${{env.asof}}
         run: |
           head -1 /tmp/log-upstream-* | sed 's#/tmp/log-upstream-##g' | cat
+
+      - name:  make condition vars from num of un-followed  ${{env.asof}}
+        id: unfollowedCommits
+        run: |
+              # make conditional var of step.{id}.outputs.{name} by 'echo "{name}={value}" >> ${GITHUB_OUTPUT}'
+              wc=$(wc -l ./log-commits/* | grep 'total' | awk '{print $1}')
+              git=$(git status ./log-commits/ --short | wc -l )
+              echo "wc=${wc}" >> ${GITHUB_OUTPUT}
+              echo "git=${git}" >> ${GITHUB_OUTPUT}
+
+      - name: print unfollowedCommits  ${{env.asof}}
+        run: |
+               echo "wc:  ${{ steps.unfollowedCommits.outputs.wc }}"
+               echo "git: ${{ steps.unfollowedCommits.outputs.git }}"
+
+      - name: update env.buildImage by unfollowedCommits as test.
+        if: steps.unfollowedCommits.outputs.wc > 0 && steps.unfollowedCommits.outputs.git > 0
+        run: |
+              echo "buildImage=true" >> $GITHUB_ENV
+
+      - name: revert env.buildImage by vars
+        run: |
+              echo "before overwrite   buildImage=${buildImage}"
+              echo "buildImage=${{vars.buildImage}}" >> $GITHUB_ENV
 
       - name: patch apply ${{env.asof}}
         run: |
@@ -128,3 +153,20 @@ jobs:
           done
           #docker push  ${REGISTRY}/${user}/apline:latest
           docker logout ${REGISTRY}
+
+      - name: commit and push ./log-commits to remote branch
+        if: steps.unfollowedCommits.outputs.git > 0
+        env:
+#         https://qiita.com/SNQ-2001/items/b024bb8664e869bc4fab
+          GITHUB_TOKEN: ${{secrets.GH_TOKEN_WORKFLOW }}
+        run: |
+          # configure name and email as github-actions[bot]
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add ./log-commits
+          git commit -m "update: log-commits by ${asof} github-actions"
+
+          # cf. https://github.com/actions/checkout
+          echo "git push to ${branch}"
+          git push origin ${branch}
