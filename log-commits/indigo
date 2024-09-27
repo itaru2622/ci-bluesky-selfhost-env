@@ -1,0 +1,7 @@
+2024-09-27T09:48:21 ;   6d11dbf0 ; bnewbold ; mst: clarify in comment that fields are nullable, not optional (#766) ;
+2024-09-26T16:32:45 ;   4e43ca65 ; bnewbold ; mst: clarify in comment that fields are nullable, not optional ;
+2024-09-26T13:39:14 ;   f77c6b68 ; bnewbold ; syntax: clearer error for trivial empty string case (#765) ;
+2024-09-26T13:35:51 ;   e022b497 ; bnewbold ; switch from fmt.Errorf to errors.New for static strings ;
+2024-09-26T13:28:28 ;   b3609c65 ; bnewbold ; automod: fix segfault (#764) ;
+2024-09-25T03:39:41 ;   12245315 ; bnewbold ; syntax: clearer error for trivial empty string case ;
+2024-09-25T00:16:21 ;   442474ae ; bnewbold ; automod: fix segfault in harassment rule ;

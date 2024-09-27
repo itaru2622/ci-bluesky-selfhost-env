@@ -1,3 +1,10 @@
+2024-09-27T09:55:47 ;   bcd096b85 ; me ; Fix alignment of cancel button on search (#5520) ;
+2024-09-27T09:54:37 ;   d8f72c1ee ; me ; [Share Extension] Support on Android for sharing videos to app (#5466) ;
+2024-09-27T10:09:00 ;   4553e6b64 ; mozzius ; Ignore bogus onScroll values (#5499) ;
+2024-09-27T00:19:12 ;   dd2fedb2e ; me ; add podcasts to spotify embeds (#5514) ;
+2024-09-26T21:01:57 ;   c7b48cbdc ; me ; Tweak font size of "Write your reply" (#5513) ;
+2024-09-26T20:52:32 ;   389e6f150 ; me ; Lazy load ViewShot (#5517) ;
+2024-09-26T19:57:16 ;   dd1944e9b ; me ; [Share Extension] Support images/movies from other apps like iMessage (#5515) ;
 2024-09-26T21:05:12 ;   77c4a9922 ; mozzius ; tab change on press rather than pressIn (#5508) ;
 2024-09-26T12:57:54 ;   a61b75be5 ; me ; Add margin to bottom of search input (#5510) ;
 2024-09-26T12:37:51 ;   7ee67e4e7 ; me ; [Share Extension] Move away from deprecated API, implement JS side of things (#5509) ;
