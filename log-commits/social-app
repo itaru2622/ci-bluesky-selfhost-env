@@ -1,3 +1,13 @@
+2024-10-02T00:09:21 ;   e33b2b1be ; dan.abramov ; Handle /starter-pack-short/:code in Go (#5546) ;
+2024-10-02T00:08:46 ;   d2fd5589d ; dan.abramov ; Introduce a composer reducer and move image state there (#5547) ;
+2024-10-02T00:03:27 ;   a7ee561e4 ; dan.abramov ; Paralellize image uploads (#5535) ;
+2024-09-30T17:43:14 ;   b59d6dfbb ; git ; Remove local file check (#5544) ;
+2024-10-01T00:53:11 ;   2129f69fa ; mozzius ; ALF text input for generic search input (#5511) ;
+2024-09-30T16:04:19 ;   b4941d855 ; git ; Use Inter variable font (#5540) ;
+2024-09-30T14:04:10 ;   adaa79a46 ; me ; Fix name in `feature_request.yml` (#5542) ;
+2024-09-30T16:04:04 ;   26c09ff10 ; git ; Fix sticky offset, gear color (#5537) ;
+2024-09-30T13:56:49 ;   669cdf222 ; me ; Move email test to root tests dir (#5527) ;
+2024-09-30T13:55:21 ;   66f3068c5 ; me ; revamp issue templates, add new arch template (#5532) ;
 2024-09-30T21:49:53 ;   9ca2928aa ; mozzius ; use PressableScale for animation (#5541) ;
 2024-09-27T15:26:28 ;   587c0c625 ; me ; Rework native autocomplete (#5521) ;
 2024-09-27T22:50:32 ;   4b5d6e6ef ; mozzius ; Pinned posts (#5055) ;

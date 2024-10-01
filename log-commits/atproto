@@ -1,3 +1,11 @@
+2024-10-01T20:13:26 ;   a611a5fe5 ; 41898282+github-actions[bot] ; Version packages (#2846) ; (tag: refs/tags/@atproto/xrpc-server@0.7.1, tag: refs/tags/@atproto/sync@0.1.3, tag: refs/tags/@atproto/repo@0.5.3, tag: refs/tags/@atproto/pds@0.4.61, tag: refs/tags/@atproto/ozone@0.1.47, tag: refs/tags/@atproto/oauth-provider@0.2.3, tag: refs/tags/@atproto/dev-env@0.3.52, tag: refs/tags/@atproto/common@0.4.4, tag: refs/tags/@atproto/bsync@0.0.8, tag: refs/tags/@atproto/bsky@0.0.85, tag: refs/tags/@atproto/aws@0.2.7, tag: refs/tags/@atproto/api@0.13.9)
+2024-10-01T19:37:23 ;   a2bad977a ; foysal ; ✨ Ozone batch repo and record getters (#2836) ;
+2024-10-01T19:08:26 ;   1226ed268 ; matthieusieben ; Do not display the client_name of untrusted clients (#2847) ;
+2024-10-01T19:07:55 ;   cafa8a15c ; foysal ; :zap: Add index on reviewState column on moderation_subject_status table (#2848) ;
+2024-10-01T19:53:19 ;   a8c6b8997 ; mozzius ; Disallow pinning someone else's post (#2840) ;
+2024-10-01T19:53:07 ;   023474cc7 ; mozzius ; Don't replace first post with pin if limit=1 (#2841) ;
+2024-10-01T10:43:15 ;   4098d9890 ; matthieusieben ; Default to unencoded responses (#2834) ;
+2024-09-30T17:18:33 ;   27882035e ; git ; Use uppercase 2fa codes in email templates (#2843) ;
 2024-09-30T18:31:11 ;   2974d8378 ; kevslashnull ; Fix Promise generic in oauth-client README (#2839) ;
 2024-09-30T13:41:03 ;   16a2399e1 ; mozzius ; Revert "add failing test for pinning someone else's post" ;
 2024-09-30T13:40:12 ;   734f5d548 ; mozzius ; add failing test for pinning someone else's post ;
