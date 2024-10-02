@@ -1,3 +1,16 @@
+2024-10-01T17:40:33 ;   00b60c68 ; bnewbold ; goat account migration (#768) ;
+2024-10-01T17:39:08 ;   19912f42 ; bnewbold ; update warnings and comments from review ;
+2024-09-29T18:54:47 ;   77db84f7 ; bnewbold ; goat migrate fixes ;
+2024-09-29T17:58:41 ;   b69d9735 ; bnewbold ; more progress on manual migration ;
+2024-09-29T16:55:11 ;   5a876ccd ; bnewbold ; more account helpers ;
+2024-09-29T16:55:01 ;   a5a683ab ; bnewbold ; goat repo import <path> ;
+2024-09-29T16:54:36 ;   f66c5537 ; bnewbold ; allow overriding PDS discovery on login ;
+2024-09-29T16:53:59 ;   712a4fed ; bnewbold ; initial PDS command ;
+2024-09-29T11:28:59 ;   088d48b7 ; bnewbold ; more account helpers ;
+2024-09-29T11:27:56 ;   ec438e77 ; bnewbold ; remove account check (redundant with status) ;
+2024-09-29T01:03:07 ;   b871b699 ; bnewbold ; account lookup vs status ;
+2024-09-29T01:02:23 ;   a35423da ; bnewbold ; basic bsky prefs export/import ;
+2024-09-29T00:35:40 ;   bca3b615 ; bnewbold ; early work on account migration ;
 2024-09-27T09:48:21 ;   6d11dbf0 ; bnewbold ; mst: clarify in comment that fields are nullable, not optional (#766) ;
 2024-09-26T16:32:45 ;   4e43ca65 ; bnewbold ; mst: clarify in comment that fields are nullable, not optional ;
 2024-09-26T13:39:14 ;   f77c6b68 ; bnewbold ; syntax: clearer error for trivial empty string case (#765) ;
