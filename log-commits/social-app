@@ -1,3 +1,9 @@
+2024-10-03T10:45:01 ;   eb3b01d0a ; git ; Fix profile header buttons (#5558) ;
+2024-10-03T18:19:38 ;   7e79c7f76 ; mozzius ; [🐴] Reduce amount that message sent date is shown (#4228) ;
+2024-10-03T17:28:13 ;   523a9a48c ; mozzius ; 🪵📌 (#5594) ;
+2024-10-03T14:57:48 ;   2aa365b5b ; dan.abramov ; Rename some files and variables (#5587) ;
+2024-10-03T14:26:38 ;   03704e2b4 ; dan.abramov ; Manage video reducer from composer reducer (#5573) ;
+2024-10-03T11:41:23 ;   d2392d2d6 ; dan.abramov ; Refactor video uploads (#5570) ;
 2024-10-02T22:23:11 ;   c2dac855c ; mozzius ; Delete messages NUX (#5574) ;
 2024-10-02T22:21:59 ;   13c9c79ae ; mozzius ; move files around (#5576) ;
 2024-10-02T19:40:18 ;   405966830 ; mozzius ; Make reply prompt more subtle on desktop (#5569) ;
