@@ -1,3 +1,6 @@
+2024-10-04T11:15:38 ;   9bdb3d8 ; foysal ; :sparkles: Show resolve appeal action on workspace (#215) ;
+2024-10-03T16:05:22 ;   a4f7ceb ; dtholmgren ; Related accounts 2 (#214) ;
+2024-10-03T15:32:28 ;   0588989 ; dtholmgren ; Fix hcap detail (#212) ;
 2024-10-02T14:03:04 ;   147b3f2 ; foysal ; :bug: use search param hook to ensure that client side search is triggered (#209) ;
 2024-10-02T10:47:57 ;   f3faf0e ; foysal ; :sparkles: Add search page (#207) ;
 2024-10-02T03:13:37 ;   69b5367 ; dtholmgren ; invert role order (#208) ;

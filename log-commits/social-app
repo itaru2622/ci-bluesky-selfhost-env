@@ -1,3 +1,11 @@
+2024-10-04T13:17:57 ;   9802ebe20 ; me ; Properly patch React Native to fix iOS `RefreshControl` bug (#5605) ;
+2024-10-05T03:45:34 ;   09caf327d ; dan.abramov ; Make composer reducer source of truth for images/video when publishing (#5595) ;
+2024-10-05T03:39:33 ;   282db85c0 ; dan.abramov ; Track links and embeds in the composer reducer (#5593) ;
+2024-10-04T09:34:03 ;   6382fe453 ; git ; Bump SDK (#5602) ;
+2024-10-04T09:33:32 ;   54ca81653 ; git ; Update built asset caching (#5601) ;
+2024-10-04T01:28:26 ;   48241cb2b ; me ; Downgrade sentry to recommended 5.24.3 (#5604) ;
+2024-10-03T20:23:07 ;   3f66531e8 ; git ; Add option to search in any language (#5598) ;
+2024-10-03T20:22:54 ;   ce53b3a26 ; git ; Font tweaks (#5597) ;
 2024-10-03T10:45:01 ;   eb3b01d0a ; git ; Fix profile header buttons (#5558) ;
 2024-10-03T18:19:38 ;   7e79c7f76 ; mozzius ; [🐴] Reduce amount that message sent date is shown (#4228) ;
 2024-10-03T17:28:13 ;   523a9a48c ; mozzius ; 🪵📌 (#5594) ;
