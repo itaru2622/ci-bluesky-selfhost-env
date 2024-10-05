@@ -1,3 +1,14 @@
+2024-10-05T05:58:04 ;   76d63f996 ; git ; Add alt text limit to image dialog (#5611) ;
+2024-10-04T14:39:43 ;   6dfd57e62 ; ericvolp12 ; Merge pull request #5610 from bluesky-social/static_asset_cdn ;
+2024-10-04T14:31:37 ;   795e2c062 ; ericvolp12 ; New assets to static CDN ;
+2024-10-04T14:28:52 ;   5f3c4c60d ; ericvolp12 ; Merge branch 'main' into static_asset_cdn ;
+2024-10-04T16:28:05 ;   3fb14d184 ; git ; Move font-face defs into HTML for CDN (#5612) ;
+2024-10-04T13:49:59 ;   0d99b8b05 ; ericvolp12 ; Consistent spacing for variable handlebars ;
+2024-10-04T13:43:15 ;   eb5a6c891 ; ericvolp12 ; Propagate env var and trim trailing slash ;
+2024-10-04T13:40:45 ;   b0fe2c6c9 ; ericvolp12 ; Serve static assets from a CDN host if provided ;
+2024-10-04T15:33:17 ;   1cedd4a3c ; git ; Post alignment (#5580) ;
+2024-10-04T15:31:40 ;   d17da8474 ; git ; Emoji handling nested (#5609) ;
+2024-10-04T13:24:12 ;   00486e949 ; me ; [Sheets] [Pt. 1] Root PR (#5557) ;
 2024-10-04T13:17:57 ;   9802ebe20 ; me ; Properly patch React Native to fix iOS `RefreshControl` bug (#5605) ;
 2024-10-05T03:45:34 ;   09caf327d ; dan.abramov ; Make composer reducer source of truth for images/video when publishing (#5595) ;
 2024-10-05T03:39:33 ;   282db85c0 ; dan.abramov ; Track links and embeds in the composer reducer (#5593) ;
