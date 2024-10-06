@@ -1,3 +1,5 @@
+2024-10-06T12:03:06 ;   686dfa5f7 ; me ; Fix bounce when expanding sheet on ios (#5627) ;
+2024-10-06T11:41:45 ;   0ebf63665 ; me ; Fix padding in repost dialog (#5626) ;
 2024-10-05T22:42:52 ;   b52f8ced5 ; me ; Fix composer char progress layout (#5620) ;
 2024-10-06T08:22:00 ;   25e3c93e1 ; itoupluk427 ; Improve localization of {els} string on Create Account page (#3912) ;
 2024-10-06T08:12:30 ;   1118fd688 ; 65759+tkusano ; Enclose the entire message in Trans tags for translation (#5616) ;
