@@ -1,0 +1,18 @@
+2024-10-07T08:19:36 ;   160af4ab ; jeromyj ; identity/redisdir: various fixes (#534) ;
+2024-09-27T17:24:29 ;   dc4176cd ; bnewbold ; replace fmt.Errorf with errors.New for static strings ;
+2024-09-27T17:23:19 ;   873a7392 ; bnewbold ; flip err/nill checks back around ;
+2024-09-27T17:22:00 ;   eb405741 ; bnewbold ; add warning about error equality ;
+2024-09-25T03:53:06 ;   a8f3a4ed ; bnewbold ; hepa: set invalid handle TTL to 5min ;
+2024-09-25T03:41:47 ;   f570fec2 ; bnewbold ; redisdir live test (skipped) ;
+2024-09-25T03:37:48 ;   de7eb52a ; bnewbold ; identity: catch invalid handle sooner ;
+2024-09-25T03:37:07 ;   a2efc12f ; bnewbold ; identity: break out cache metrics declarations ;
+2024-09-25T03:35:49 ;   f658332e ; bnewbold ; cleanups ;
+2024-09-25T03:34:32 ;   64033934 ; bnewbold ; redisdir: better meta error messages ;
+2024-09-25T03:26:33 ;   7e2b1159 ; bnewbold ; redisdir: DID as nullable ;
+2024-09-25T03:25:50 ;   618b1502 ; bnewbold ; fix redisdir purging ;
+2024-09-25T02:10:43 ;   22f38fba ; bnewbold ; fix missing return ;
+2024-09-25T01:48:14 ;   23497fa3 ; bnewbold ; redisdir: refactor to *WithCacheState, matching cached directory ;
+2024-09-25T01:47:40 ;   e30e51b3 ; bnewbold ; redisdir: have cache update code match caching directory ;
+2024-09-25T01:46:24 ;   048c0b9a ; bnewbold ; redisdir: add invalid handle TTL ;
+2024-09-25T01:45:31 ;   2e695b86 ; bnewbold ; identity: simplify type sig ;
+2024-01-24T18:21:34 ;   f24fe028 ; bnewbold ; redisdir: handle purge of uncached directory info ;
