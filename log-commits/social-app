@@ -1,3 +1,9 @@
+2024-10-10T12:04:23 ;   3b44ea203 ; git ; Invert non config filtering (#5674) ;
+2024-10-10T11:59:29 ;   96cc31bab ; git ; Include non-configurable in defs query (#5673) ;
+2024-10-10T11:47:12 ;   509e3d9c8 ; git ; Filter out non-configrable mod authorities from report dialog (#5670) ;
+2024-10-10T09:15:24 ;   676e6269e ; me ; Show download button for Apple (#5671) ;
+2024-10-09T15:29:25 ;   284194478 ; me ; Ensure app clip works even with `starter-pack` (#5664) ;
+2024-10-09T14:50:54 ;   9f070cd9c ; me ; Cleanup unused props from dialogs (#5665) ;
 2024-10-09T12:09:16 ;   86b0d3b49 ; me ; Add missing web component (for native view manager) (#5662) ;
 2024-10-09T21:30:42 ;   cca344a3d ; mozzius ; Allow nested sheets without boilerplate (#5660) ;
 2024-10-09T11:08:12 ;   b3ade19bb ; pfrazee ; Update joined_this_week ;
