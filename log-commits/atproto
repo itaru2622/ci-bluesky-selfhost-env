@@ -1,1 +1,5 @@
+2024-10-11T14:37:56 ;   60df3fc65 ; devinivy ; Appview: pinned post validation fix (#2876) ;
+2024-10-11T14:16:23 ;   7096fe03d ; devinivy ; Appview: temp fix for bad pinned post values (#2875) ;
+2024-10-11T14:05:53 ;   fabc8a938 ; matthieusieben ; Update typescript to version 5.6.2 (#2863) ;
+2024-10-11T10:44:20 ;   4f6f57a33 ; 41898282+github-actions[bot] ; Version packages (#2870) ; (tag: refs/tags/@atproto/pds@0.4.65, tag: refs/tags/@atproto/ozone@0.1.51, tag: refs/tags/@atproto/dev-env@0.3.56, tag: refs/tags/@atproto/bsky@0.0.89, tag: refs/tags/@atproto/api@0.13.12)
 2024-10-08T19:16:09 ;   22d039a22 ; foysal ; :sparkles: Ozone sets (#2636) ;
