@@ -1,4 +1,13 @@
-2024-10-11T17:05:56 ;   7f3b5366e ; pfrazee ; Run intl extract (#5733) ; (tag: refs/tags/1.92.1)
+2024-10-14T22:09:47 ;   2d8846345 ; mozzius ; Remove top padding from shell, move down into individual screens (#5548) ;
+2024-10-14T19:47:17 ;   0f4001396 ; 149612116+surfdude29 ; Translate strings in `src/lib/api/index.ts` (#5750) ;
+2024-10-14T21:45:47 ;   ef5bc5243 ; mozzius ; Use admonitions in settings screens (#5741) ;
+2024-10-14T19:21:05 ;   240535fd8 ; 52042597+gpp-0 ; Move the back-button in front of banner (#5748) ;
+2024-10-14T10:44:04 ;   0b4dc64c6 ; git ; Add util for link static clicks (#5683) ;
+2024-10-14T18:19:30 ;   a445489b5 ; mozzius ; Translate some missing strings via global i18n instance (#5740) ;
+2024-10-14T10:11:36 ;   db7b875c5 ; git ; Update web font families def (#5749) ;
+2024-10-14T08:02:16 ;   432dc867f ; me ; Fix keyboard hiding alt text input after viewing DMs on iOS (#5739) ;
+2024-10-14T04:06:07 ;   830b4bee9 ; git ; Add Admonition component (#5680) ;
+2024-10-11T17:05:56 ;   7f3b5366e ; pfrazee ; Run intl extract (#5733) ;
 2024-10-12T01:47:43 ;   8311a7a3d ; bea.ivan ; Update catalan messages.po (#5717) ;
 2024-10-12T08:47:14 ;   b75c9d2ef ; 65759+tkusano ; Update Japanese translation (#5715) ;
 2024-10-11T20:45:10 ;   f40b8ac80 ; filipe.snk ; PT-BR Translation update (#5699) ;
