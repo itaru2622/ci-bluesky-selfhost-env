@@ -1,3 +1,7 @@
+2024-10-18T12:23:55 ;   72270fd50 ; me ; tweak downsample rate to 1% (#5836) ;
+2024-10-17T14:28:38 ;   fd2e94f35 ; me ; Fix dragging up in flat list dialogs on Android (#5817) ;
+2024-10-17T16:35:08 ;   92ef75694 ; ben ; remove font for ProseMirror (#5726) ;
+2024-10-17T15:28:52 ;   05ca97951 ; git ; Apply labelers and handle language for PWI home (#5816) ;
 2024-10-17T12:54:05 ;   e9be8f457 ; me ; Disable feed debug gate due to EME (#5815) ;
 2024-10-17T14:35:45 ;   0d5af050d ; git ; Remove BaseLink component (#5682) ;
 2024-10-17T14:32:53 ;   7ca1789d6 ; git ; Fix font display on Android (#5776) ;
