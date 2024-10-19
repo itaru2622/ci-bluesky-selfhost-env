@@ -1,3 +1,0 @@
-2024-10-18T14:00:56 ;   570629f ; foysal ; :sparkles: Remove the selected filter macro instead of the last one in the list (#221) ;
-2024-10-16T20:28:50 ;   c144403 ; foysal ; :sparkles: Request data from appview without auth if author is blocking mod service (#162) ;
-2024-10-15T10:09:39 ;   d69ec63 ; foysal ; 🚧 Set list viewer and editor (#163) ;
