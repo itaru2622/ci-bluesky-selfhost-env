@@ -1,0 +1,6 @@
+2024-10-20T01:18:33 ;   39f24fb ; ericvolp12 ; Merge pull request #9 from bluesky-social/websocket_upgrader_cors ;
+2024-10-19T17:09:21 ;   dcd4334 ; ericvolp12 ; Merge pull request #10 from snarfed/readme-example-kind ;
+2024-10-19T17:03:12 ;   e61b592 ; git ; readme: fix typo in delete example, kind: commit ;
+2024-10-19T14:24:12 ;   a003f34 ; ericvolp12 ; Explicitly allow all origins in websocket upgrader ;
+2024-10-19T14:21:40 ;   485d0b4 ; ericvolp12 ; Merge pull request #8 from damz/pr/fix-readme ;
+2024-10-16T19:56:29 ;   91f0bbe ; damien ; Fix Prometheus metrics URL ;
