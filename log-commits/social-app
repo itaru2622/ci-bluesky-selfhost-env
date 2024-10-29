@@ -1,3 +1,6 @@
+2024-10-29T16:17:51 ;   9c27d83d4 ; mozzius ; fix splash screen (#5997) ;
+2024-10-29T15:35:43 ;   d1355d52f ; mozzius ; Fix video quality for short videos (#5996) ;
+2024-10-29T14:32:10 ;   80c5f23da ; mozzius ; Fix double padding in `Dialog.InnerFlatList` on web (#5986) ;
 2024-10-28T20:18:54 ;   2502c91de ; git ; Fix drawer icon alignment (#5991) ;
 2024-10-28T17:49:57 ;   b4fcbad64 ; pfrazee ; Release 1.93 (#5990) ;
 2024-10-28T17:21:24 ;   7942c684b ; pfrazee ; Merge branch 'main' of github.com:bluesky-social/social-app into main ;
