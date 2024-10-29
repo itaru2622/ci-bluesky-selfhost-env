@@ -1,0 +1,3 @@
+2024-10-28T22:10:01 ;   75f2991 ; ericvolp12 ; Merge pull request #12 from itaru2622/issue11 ;
+2024-10-21T07:41:43 ;   80a8fa3 ; itaru2622 ; unveil default livness check interval at docker-compose.yaml ;
+2024-10-21T07:39:14 ;   078c2ea ; itaru2622 ; feature: configurable liveness check interval, for shutting down if no events are received ;
