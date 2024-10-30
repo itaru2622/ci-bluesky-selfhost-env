@@ -1,1 +1,6 @@
+2024-10-30T16:20:38 ;   19e36afb2 ; foysal ; :sparkles: Add collection and subjectType filters to queryEvents and queryStatuses (#2914) ;
+2024-10-29T18:20:10 ;   91bd63ba3 ; 41898282+github-actions[bot] ; Version packages (#2925) ; (tag: refs/tags/@atproto/pds@0.4.67, tag: refs/tags/@atproto/dev-env@0.3.58)
+2024-10-29T17:58:56 ;   c1b0e176a ; dtholmgren ; updateHandle changeset (#2924) ;
+2024-10-29T17:57:19 ;   0204a678d ; dtholmgren ; Support alternate did methods in update handle (#2922) ;
+2024-10-29T23:56:22 ;   de194398e ; ilya ; Fix root block missing in too big seq commit (#2894) ;
 2024-10-28T15:59:49 ;   c36456f0b ; davidwood ; chore: add missing symbol in comment (#2913) ;
