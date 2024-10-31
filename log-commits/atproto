@@ -1,3 +1,10 @@
+2024-10-31T18:09:49 ;   e680d55ca ; mozzius ; Filter out invalid facets in RichText (#2933) ;
+2024-10-31T05:21:05 ;   9ffeb5216 ; matthieusieben ; Allow retrying proxied requests (#2850) ;
+2024-10-30T18:36:37 ;   7ea0fc146 ; 41898282+github-actions[bot] ; Version packages (#2930) ; (tag: refs/tags/@atproto/pds@0.4.69, tag: refs/tags/@atproto/ozone@0.1.53, tag: refs/tags/@atproto/dev-env@0.3.60, tag: refs/tags/@atproto/bsky@0.0.92, tag: refs/tags/@atproto/api@0.13.14)
+2024-10-30T18:30:41 ;   73f40e63a ; dtholmgren ; Add threat signatures to ozone repo views (#2931) ;
+2024-10-30T19:09:54 ;   209238769 ; devinivy ; Add app.bsky.unspecced.getConfig endpoint (#2918) ;
+2024-10-30T18:07:13 ;   d9fcaf8a7 ; 41898282+github-actions[bot] ; Version packages (#2928) ; (tag: refs/tags/@atproto/pds@0.4.68, tag: refs/tags/@atproto/ozone@0.1.52, tag: refs/tags/@atproto/dev-env@0.3.59, tag: refs/tags/@atproto/bsky@0.0.91, tag: refs/tags/@atproto/api@0.13.13)
+2024-10-30T18:01:12 ;   0158ab384 ; dtholmgren ; Add threat signatures to admin view (#2929) ;
 2024-10-30T16:20:38 ;   19e36afb2 ; foysal ; :sparkles: Add collection and subjectType filters to queryEvents and queryStatuses (#2914) ;
 2024-10-29T18:20:10 ;   91bd63ba3 ; 41898282+github-actions[bot] ; Version packages (#2925) ; (tag: refs/tags/@atproto/pds@0.4.67, tag: refs/tags/@atproto/dev-env@0.3.58)
 2024-10-29T17:58:56 ;   c1b0e176a ; dtholmgren ; updateHandle changeset (#2924) ;

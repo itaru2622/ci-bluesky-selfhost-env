@@ -1,3 +1,7 @@
+2024-10-31T17:34:33 ;   d85dcc3dd ; dan.abramov ; Explicitly mark lightbox worklets (#6038) ;
+2024-10-31T12:11:54 ;   41452de16 ; git ; Improve notification localization (#5550) ;
+2024-10-31T16:24:15 ;   1e32327de ; dan.abramov ; Measure tapped image coordinates before opening lightbox (#6001) ;
+2024-10-31T10:42:35 ;   6f4703e81 ; git ; Fix width handling for deactivated screen (#5810) ;
 2024-10-31T02:13:08 ;   9a82d20bd ; 99713905+Rinechxn ; add Thai Language translation support (#5879) ;
 2024-10-30T08:14:34 ;   e9f6a8e58 ; ben ; fix warning on labeler profile: emoji detected but emoji not enabled (#6011) ;
 2024-10-30T08:13:52 ;   21ba1fad5 ; brian.tan88 ; Added blur to search's onPressMenu (#6017) ;
