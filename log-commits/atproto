@@ -1,3 +1,5 @@
+2024-11-01T00:16:12 ;   8a4d06c36 ; rafael ; Add --heapsnapshot-signal=SIGUSR2 to bsky service (#2927) ;
+2024-11-01T00:14:49 ;   512585a09 ; rafael ; Enforce feed limit before hydration (#2935) ;
 2024-10-31T18:09:49 ;   e680d55ca ; mozzius ; Filter out invalid facets in RichText (#2933) ;
 2024-10-31T05:21:05 ;   9ffeb5216 ; matthieusieben ; Allow retrying proxied requests (#2850) ;
 2024-10-30T18:36:37 ;   7ea0fc146 ; 41898282+github-actions[bot] ; Version packages (#2930) ; (tag: refs/tags/@atproto/pds@0.4.69, tag: refs/tags/@atproto/ozone@0.1.53, tag: refs/tags/@atproto/dev-env@0.3.60, tag: refs/tags/@atproto/bsky@0.0.92, tag: refs/tags/@atproto/api@0.13.14)
