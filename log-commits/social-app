@@ -1,3 +1,8 @@
+2024-11-02T00:18:19 ;   c580f20b5 ; yael.guilloux ; Improve focus-visible outlines in navigation (#6061) ;
+2024-11-01T22:17:05 ;   7111e38cd ; dan.abramov ; Revert "React compiler beta and reenable rule (#5898)" (#6071) ;
+2024-11-01T22:02:39 ;   3eb531b00 ; dan.abramov ; Composer UI fixes (#6065) ;
+2024-11-01T21:55:37 ;   46004fb2d ; dan.abramov ; Fix duplicates in thread composer (#6068) ;
+2024-11-01T21:10:25 ;   d33ce1dea ; mozzius ; change language for autoplay setting (#6069) ;
 2024-11-01T19:25:31 ;   ff01ffe35 ; dan.abramov ; Fix some images getting squished on Android due to EXIF tags (#6058) ;
 2024-11-01T15:15:44 ;   5c5fc3230 ; ben ; fix text clipping around external embed's domain (#6012) ;
 2024-11-01T19:09:28 ;   2398b84d1 ; dan.abramov ; Change post Follow button color on toggle (#6059) ;
