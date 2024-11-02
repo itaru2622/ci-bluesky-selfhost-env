@@ -52,7 +52,7 @@ jobs:
           env | sort --ignore-case
           git clone https://github.com/itaru2622/bluesky-selfhost-env.git ops
           (cd ops; \
-              git checkout origin/${opsBranch} -b ${opsBranch}; \
+              git checkout origin/${opsBranch} -b ${opsBranch} | cat; \
               make cloneAll; \
           )
 
