@@ -1,0 +1,17 @@
+2024-11-04T21:51:56 ;   f336c8ec ; bnewbold ; more automod account metadata (#789) ;
+2024-11-04T21:50:40 ;   25c72f51 ; bnewbold ; support tokenize while keeping common censor chars (#767) ;
+2024-11-04T21:49:04 ;   fc4b12c1 ; bnewbold ; Add avatar to `AccountMeta` (#779) ;
+2024-11-04T21:43:56 ;   aa48298d ; bnewbold ; fix segfaults ;
+2024-11-04T17:27:52 ;   73bb35e3 ; me ; update ;
+2024-11-04T17:22:58 ;   0739b895 ; bnewbold ; wire up abuse metadata from ozone to automod ;
+2024-11-04T17:08:14 ;   6ac14ce9 ; bnewbold ; lexgen 20241030 (#785) ;
+2024-10-30T23:24:33 ;   bdb4c396 ; bnewbold ; more lexgen ;
+2024-10-30T16:13:45 ;   466e6ec7 ; bnewbold ; updates for QueryModerationEvents calls ;
+2024-10-30T15:56:42 ;   672b10e9 ; bnewbold ; hack: tools.ozone.set.upsertSet input is via ref ;
+2024-10-30T15:54:37 ;   5116f9a3 ; bnewbold ; ozone sets API ;
+2024-10-30T15:54:22 ;   976ce818 ; bnewbold ; ozone lexicon updates ;
+2024-10-29T15:53:21 ;   dd8ad60b ; me ; get cid from url ;
+2024-10-29T01:01:29 ;   04400b8a ; me ; add avatar to accountmeta ;
+2024-09-29T02:35:07 ;   c8238e10 ; me ; clean ;
+2024-09-29T02:27:20 ;   4da4e794 ; me ; rename ;
+2024-09-29T02:24:05 ;   0a82c6c7 ; me ; add tokenize while keeping common censor chars ;

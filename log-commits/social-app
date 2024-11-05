@@ -1,1 +1,10 @@
+2024-11-05T16:48:36 ;   b0c5a37da ; mozzius ; Improve accessibility for navigation on web (#6120) ;
+2024-11-05T21:57:30 ;   977211634 ; 40559587+Rohit3523 ; Fixed issue 5845 (#6085) ;
+2024-11-05T16:00:30 ;   b0b00c9c7 ; mozzius ; use megabytes rather than mebibytes for video limit (#6117) ;
+2024-11-05T16:14:15 ;   a78179aab ; gosimek ; StarterPack: fix "Follow All" processing layout (#6111) ;
+2024-11-05T13:43:20 ;   f8fb6cb9b ; lars ; Fix start value in youtube embed by removing "s" from url param (#6113) ;
+2024-11-04T21:47:35 ;   ab4e36115 ; mozzius ; return to using whitespace (#6109) ;
+2024-11-04T21:47:21 ;   86840f278 ; mozzius ; translate sort replies (#6110) ;
+2024-11-04T21:31:21 ;   26c48373e ; dan.abramov ; Refactor lightbox prop drilling (#6073) ;
+2024-11-04T21:28:27 ;   174988bc5 ; dan.abramov ; Unify dimensions cache between lightbox and feed (#6047) ;
 2024-11-03T18:18:27 ;   ac9d910e1 ; cynthia ; fix(a11y): avoid plain `div`s as button or tabs (#6084) ;
