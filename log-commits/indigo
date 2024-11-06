@@ -1,3 +1,6 @@
+2024-11-05T15:14:34 ;   d1686e9b ; bnewbold ; lexgen: handle 'ref' as procedure input type (#788) ;
+2024-11-05T15:13:04 ;   4c9a9a70 ; bnewbold ; hepa: fix routine order (#790) ;
+2024-11-05T15:05:17 ;   e5a1ac54 ; bnewbold ; hepa: fix routine order ;
 2024-11-04T21:51:56 ;   f336c8ec ; bnewbold ; more automod account metadata (#789) ;
 2024-11-04T21:50:40 ;   25c72f51 ; bnewbold ; support tokenize while keeping common censor chars (#767) ;
 2024-11-04T21:49:04 ;   fc4b12c1 ; bnewbold ; Add avatar to `AccountMeta` (#779) ;
@@ -5,6 +8,7 @@
 2024-11-04T17:27:52 ;   73bb35e3 ; me ; update ;
 2024-11-04T17:22:58 ;   0739b895 ; bnewbold ; wire up abuse metadata from ozone to automod ;
 2024-11-04T17:08:14 ;   6ac14ce9 ; bnewbold ; lexgen 20241030 (#785) ;
+2024-11-04T17:04:37 ;   7b818d1e ; bnewbold ; lexgen: handle 'ref' as procedure input type ;
 2024-10-30T23:24:33 ;   bdb4c396 ; bnewbold ; more lexgen ;
 2024-10-30T16:13:45 ;   466e6ec7 ; bnewbold ; updates for QueryModerationEvents calls ;
 2024-10-30T15:56:42 ;   672b10e9 ; bnewbold ; hack: tools.ozone.set.upsertSet input is via ref ;

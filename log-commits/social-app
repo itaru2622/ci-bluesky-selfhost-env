@@ -1,3 +1,10 @@
+2024-11-06T17:59:22 ;   27bbf8b67 ; mozzius ; dev options in new settings (#6128) ;
+2024-11-06T17:55:10 ;   325bf1988 ; mozzius ; link up verify email dialog (#6042) ;
+2024-11-06T09:47:51 ;   324c5a44a ; me ; fix prop names (#6130) ;
+2024-11-06T07:36:31 ;   f95acdc83 ; khuddite ; Fix thin red circle around Like button on iOS (#6123) ;
+2024-11-06T00:21:35 ;   206df2ab8 ; dan.abramov ; Remove SCREEN from lightbox layout (#6124) ;
+2024-11-05T22:27:48 ;   6b826fb88 ; dan.abramov ; Lower feedfeedback seen threshold to 0.5s (#6127) ;
+2024-11-05T22:27:36 ;   84fb1b7f9 ; dan.abramov ; Update Reanimated (#6126) ;
 2024-11-05T16:48:36 ;   b0c5a37da ; mozzius ; Improve accessibility for navigation on web (#6120) ;
 2024-11-05T21:57:30 ;   977211634 ; 40559587+Rohit3523 ; Fixed issue 5845 (#6085) ;
 2024-11-05T16:00:30 ;   b0b00c9c7 ; mozzius ; use megabytes rather than mebibytes for video limit (#6117) ;
