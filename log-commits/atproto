@@ -1,3 +1,5 @@
+2024-11-07T18:22:33 ;   839202a3d ; matthieusieben ; Allow instantiating an api Agent with a string or URL (#2917) ;
+2024-11-07T13:29:42 ;   1982693e3 ; rafael ; Use node:crypto instead of noble/curves (#2936) ;
 2024-11-05T00:28:39 ;   9e18ab6a3 ; dan.abramov ; Fix optimistic getPostThread for URIs with handle (#2946) ;
 2024-11-04T16:39:51 ;   12af21ef4 ; devinivy ; Appview: apply epoch for indexed-at times in views (#2943) ;
 2024-11-04T09:40:33 ;   709ba3015 ; matthieusieben ; Properly negotiate response content-encoding (#2852) ;

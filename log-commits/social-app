@@ -1,3 +1,5 @@
+2024-11-07T13:21:05 ;   6570f56d8 ; mozzius ; Increase memory on iOS (#6141) ;
+2024-11-06T20:38:22 ;   d666a2d7c ; dan.abramov ; [Lightbox] Set 2 as minimal allowed zoom level (#6132) ;
 2024-11-06T17:59:22 ;   27bbf8b67 ; mozzius ; dev options in new settings (#6128) ;
 2024-11-06T17:55:10 ;   325bf1988 ; mozzius ; link up verify email dialog (#6042) ;
 2024-11-06T09:47:51 ;   324c5a44a ; me ; fix prop names (#6130) ;
