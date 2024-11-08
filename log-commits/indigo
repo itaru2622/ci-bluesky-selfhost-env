@@ -1,3 +1,8 @@
+2024-11-07T16:35:55 ;   1ae8ae99 ; bnewbold ; bigsky: show something helpful when you hit home route (#793) ;
+2024-11-07T16:27:38 ;   83930c91 ; bnewbold ; bigsky: show something helpful when you hit home route ;
+2024-11-07T13:34:18 ;   12d29e93 ; bnewbold ; goat: schema-flexible record creation, and prefs mgmt (#791) ;
+2024-11-05T20:39:10 ;   29a16d0d ; bnewbold ; make goat pref handling schema-agnostic ;
+2024-11-05T20:31:34 ;   716b3d5d ; bnewbold ; make goat record creation work w/o schema defs ;
 2024-11-05T15:14:34 ;   d1686e9b ; bnewbold ; lexgen: handle 'ref' as procedure input type (#788) ;
 2024-11-05T15:13:04 ;   4c9a9a70 ; bnewbold ; hepa: fix routine order (#790) ;
 2024-11-05T15:05:17 ;   e5a1ac54 ; bnewbold ; hepa: fix routine order ;

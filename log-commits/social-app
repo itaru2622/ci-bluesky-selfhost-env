@@ -1,3 +1,11 @@
+2024-11-08T19:04:18 ;   7b5e8ae5c ; mozzius ; [Settings] Improved account switcher (#6131) ;
+2024-11-08T18:00:39 ;   e9d7c444c ; mozzius ; fix 3 image grid in DMs (#6163) ;
+2024-11-08T17:48:01 ;   ce8d62f8c ; dan.abramov ; Fix stuck lightbox (#6166) ;
+2024-11-08T16:24:03 ;   7c45f7dcc ; dan.abramov ; Revert "Increase memory on iOS (#6141)" (#6165) ;
+2024-11-08T06:19:52 ;   6b1ffffce ; 52042597+gpp-0 ; Fix non-home screen soft resetting when feed is selected from right nav (#6158) ;
+2024-11-08T03:38:32 ;   468c4b8f5 ; mozzius ; Improve chat performance (#6157) ;
+2024-11-08T02:52:03 ;   22dd4947f ; dan.abramov ; [Lightbox] Add border radius to avatars (#6136) ;
+2024-11-08T02:49:32 ;   5d0610d41 ; dan.abramov ; [Lightbox] New dismiss gesture (#6135) ;
 2024-11-07T13:21:05 ;   6570f56d8 ; mozzius ; Increase memory on iOS (#6141) ;
 2024-11-06T20:38:22 ;   d666a2d7c ; dan.abramov ; [Lightbox] Set 2 as minimal allowed zoom level (#6132) ;
 2024-11-06T17:59:22 ;   27bbf8b67 ; mozzius ; dev options in new settings (#6128) ;
