@@ -1,3 +1,12 @@
+2024-11-12T11:18:53 ;   427f3a8bd ; me ; Add email verification prompts throughout the app (#6174) ;
+2024-11-12T18:50:37 ;   dd8d14e13 ; mozzius ; dedupe date parsing (#6267) ;
+2024-11-12T17:49:49 ;   df3f71286 ; mozzius ; add subtle web hover to "View full thread" (#6256) ;
+2024-11-12T17:49:14 ;   b60629aff ; mozzius ; use hairline for feedlike (#6257) ;
+2024-11-12T12:26:13 ;   ae97032c4 ; 62555977+khuddite ; Increase bottom padding for mobile login/signup footer (#6254) ;
+2024-11-12T17:19:52 ;   b2e11d317 ; dan.abramov ; Reduce Reanimated serialization traffic (#6219) ;
+2024-11-12T12:14:47 ;   d7841037f ; devinivy ; Embedr: fix build / node version (#6265) ;
+2024-11-12T10:37:33 ;   af31ceb2b ; devinivy ; embedr: increase rate limits (#6255) ;
+2024-11-11T18:21:07 ;   5ee809e42 ; 62555977+khuddite ; Update error component of lists to take up the full height instead of its content height (#6236) ;
 2024-11-11T10:58:22 ;   7008f61ea ; 16024985+trivikr ; Update Node.js to 20.x in Dockerfile (#6099) ;
 2024-11-12T03:34:09 ;   9e1a16686 ; itoupluk427 ; deleted account (#6224) ;
 2024-11-12T01:33:47 ;   2728de03d ; 142023394+JustSNguyen ; Fix unscrollable body when returning to desktop mode from mobile mode with navigation drawer open. (#6201) ;
