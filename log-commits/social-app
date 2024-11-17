@@ -1,3 +1,25 @@
+2024-11-17T18:50:28 ;   2f74a8dbe ; dan.abramov ; Upgrade React Compiler (take two) (#6460) ;
+2024-11-17T17:26:45 ;   dd9a2f60d ; dan.abramov ; Fix build (#6459) ;
+2024-11-17T15:06:28 ;   474c4eff2 ; dan.abramov ; Use compiler-safe Reanimated get/set APIs (#6391) ;
+2024-11-17T06:57:01 ;   d575a2fda ; 16024985+trivikr ; Remove unused 'react-scripts' devDependency (#6441) ;
+2024-11-17T14:56:15 ;   8d1c93efc ; mozzius ; fix video thumb cleanup (#6431) ;
+2024-11-17T03:15:03 ;   e9fe8d90e ; dan.abramov ; Render dropdown menu items lazily (#6437) ;
+2024-11-17T00:37:34 ;   ddf2a64a7 ; dan.abramov ; [Web] Clicking root link twice refreshes the screen (#6434) ;
+2024-11-16T15:12:06 ;   3c30bb1d3 ; pfrazee ; Release 1.94 (#6430) ; (tag: refs/tags/1.94.0)
+2024-11-16T22:02:33 ;   965bcc44d ; dan.abramov ; Sort pins last in thread view (#6426) ;
+2024-11-16T21:39:47 ;   edaf23061 ; dan.abramov ; Remove typography NUX and consistently call upsertProfile (#6424) ;
+2024-11-16T13:34:30 ;   9bbea3f33 ; me ; Email verification tweaks (date) (#6416) ;
+2024-11-16T16:44:11 ;   43d6c15e8 ; luan_uchoa ; Update PT-BR messages.po (#6284) ;
+2024-11-16T21:27:06 ;   4e1ec0db8 ; 63304501+CanGiante ; Fix the translation of the adjective "open" (#6206) ;
+2024-11-16T21:15:42 ;   d8e2a90dd ; elena ; Fix minor localization issues in Spanish: (#6094) ;
+2024-11-16T14:13:27 ;   1f9c94a3c ; kscanne ; Update Irish localization to 100% (#6387) ;
+2024-11-16T21:08:59 ;   8e40b1147 ; signez ; Update French translations (November 9th, 2024) (#6190) ;
+2024-11-16T21:08:22 ;   0fd6eeb02 ; 166719395+marcomaroni-github ; Update italian translation (#6188) ;
+2024-11-17T01:38:02 ;   330ed124d ; 89347388+FalKoopa ; Big update of the Hindi translation (#6077) ;
+2024-11-16T21:07:17 ;   01469b092 ; bea.ivan ; Update catalan messages.po (#6030) ;
+2024-11-16T20:06:24 ;   c81e14974 ; mozzius ; use IAB for translate (#6421) ;
+2024-11-16T20:06:11 ;   ebdbf55d1 ; mozzius ; manually implement drawertype logic (#6419) ;
+2024-11-17T04:05:30 ;   6aa14f320 ; i ; Update Chinese & Cantonese localization (#6020) ;
 2024-11-17T05:04:59 ;   0f1abfa9d ; itoupluk427 ; Update Korean localization (#6014) ;
 2024-11-17T05:04:36 ;   71d5dc088 ; 65759+tkusano ; Update Japanese translation (#6013) ;
 2024-11-15T17:32:28 ;   c0fb5245f ; me ; Tweak email verification dialog (#6397) ;
