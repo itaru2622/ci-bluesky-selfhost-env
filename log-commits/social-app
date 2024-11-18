@@ -1,3 +1,5 @@
+2024-11-18T17:44:45 ;   924f1e0e7 ; dan.abramov ; Optimize ContentHider (#6501) ;
+2024-11-17T21:06:22 ;   0b38c77fa ; dan.abramov ; Revert "Render dropdown menu items lazily (#6437)" (#6470) ;
 2024-11-17T18:50:28 ;   2f74a8dbe ; dan.abramov ; Upgrade React Compiler (take two) (#6460) ;
 2024-11-17T17:26:45 ;   dd9a2f60d ; dan.abramov ; Fix build (#6459) ;
 2024-11-17T15:06:28 ;   474c4eff2 ; dan.abramov ; Use compiler-safe Reanimated get/set APIs (#6391) ;
