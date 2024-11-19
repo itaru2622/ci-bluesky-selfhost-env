@@ -1,3 +1,16 @@
+2024-11-19T10:15:32 ;   966c0932 ; jeromyj ; Rewind cursor a bit before reconnection for some relay hosts to smooth over reconnection (#825) ;
+2024-11-19T18:09:28 ;   fa1eb34d ; ericvolp12 ; Rewind cursor a bit before reconnection for some relay hosts to smooth over reconnection ;
+2024-11-19T08:48:03 ;   65fa60be ; bnewbold ; rainbow service setup tweaks (#821) ;
+2024-11-18T17:01:52 ;   c0181b6c ; bnewbold ; Bnewbold/readme rainbow (#822) ;
+2024-11-18T16:59:44 ;   655eb491 ; bnewbold ; add root path handler for rainbow ;
+2024-11-18T16:47:32 ;   2c8d601d ; bnewbold ; drop default persist window to 72hr (matching bigsky) ;
+2024-11-18T16:47:04 ;   e3e8d705 ; bnewbold ; defaults for file paths (and env vars) ;
+2024-11-18T16:46:46 ;   2ddae12c ; bnewbold ; some args as env vars ;
+2024-11-18T16:45:21 ;   3c7c769b ; bnewbold ; have daemon refer to itself as rainbow (not splitter) ;
+2024-11-18T16:44:50 ;   646117f4 ; bnewbold ; import ordering ;
+2024-11-18T16:44:08 ;   eb257e52 ; bnewbold ; tweak dockerfile description ;
+2024-11-18T16:43:34 ;   9883734e ; bnewbold ; rainbow README ;
+2024-11-18T16:43:11 ;   cdb910dc ; bnewbold ; tiny HACKING entry ;
 2024-11-18T09:53:17 ;   1a4cf37c ; bnewbold ; Bolson/rainbow (#818) ;
 2024-11-18T12:41:26 ;   83811b92 ; brian.olson ; Merge remote-tracking branch 'origin/main' into feat/splitter-rebase ;
 2024-11-17T20:57:45 ;   93497b7e ; brian.olson ; no-cursor subscribe ;
