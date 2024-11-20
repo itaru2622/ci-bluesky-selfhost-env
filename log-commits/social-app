@@ -1,3 +1,9 @@
+2024-11-20T16:21:18 ;   202df845f ; mozzius ; rm unused type lib (#6546) ;
+2024-11-20T13:26:23 ;   0e4f6717c ; mozzius ; fix change handle dialog on android (#6563) ;
+2024-11-19T18:23:26 ;   f1c221ed2 ; 16024985+trivikr ; Bump typescript-eslint to 7.x (#6525) ;
+2024-11-19T14:42:25 ;   78e34c8d3 ; dawneraq ; preserve video's last known time when scrolling away (#6239) ;
+2024-11-19T21:24:18 ;   f882cf973 ; axiand ; Implement Polish translation (#6283) ;
+2024-11-19T21:17:10 ;   c0c8a192c ; szijartoleventepal ; Update Hungarian translation for 1.94 (#6186) ;
 2024-11-19T19:07:27 ;   3c33e42d3 ; LegendEffects ; Fix post interaction selectable text being cut off (#6527) ;
 2024-11-19T13:07:13 ;   5d7cfa020 ; paul.coroneos ; Remove aria-pressed attr from button. Closes #6325 (#6402) ;
 2024-11-19T19:02:28 ;   103dfe214 ; mozzius ; add back expo-system-ui (#6529) ;
