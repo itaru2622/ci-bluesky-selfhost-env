@@ -1,3 +1,9 @@
+2024-11-21T19:20:46 ;   ff23ddb55 ; dan.abramov ; Don't underline links on native hover (#6588) ;
+2024-11-21T12:40:39 ;   dff11fc07 ; poteto ; Pin exact version of React Compiler packages (#6607) ;
+2024-11-21T12:10:34 ;   ad83b8303 ; dan.abramov ; Remove unused RN.Animated code (#6584) ;
+2024-11-21T12:10:16 ;   6438ec6d2 ; dan.abramov ; Disable vertical scrollbars on Android only (#6586) ;
+2024-11-21T01:25:25 ;   97a4ff1a4 ; mozzius ; Bump 1.95.0 (#6530) ;
+2024-11-20T22:47:06 ;   6605970fc ; horusgoul ; Prevent ProfileHeaderHandle from breaking out of its parent view (#6574) ;
 2024-11-20T16:21:18 ;   202df845f ; mozzius ; rm unused type lib (#6546) ;
 2024-11-20T13:26:23 ;   0e4f6717c ; mozzius ; fix change handle dialog on android (#6563) ;
 2024-11-19T18:23:26 ;   f1c221ed2 ; 16024985+trivikr ; Bump typescript-eslint to 7.x (#6525) ;

@@ -1,8 +1,16 @@
+2024-11-20T15:11:09 ;   d619a376 ; bnewbold ; fix requestCrawl forwarding (#835) ;
+2024-11-20T15:07:14 ;   a954f916 ; bnewbold ; fix requestCrawl forwarding ;
+2024-11-20T14:03:17 ;   6b6afc0b ; bnewbold ; add --next-crawler to forward requestCrawl calls to (#829) ;
+2024-11-20T16:54:21 ;   e1f818eb ; brian.olson ; set crawlRequest http client timeout ;
+2024-11-20T16:42:34 ;   7cf02903 ; brian.olson ; forward requestCrawl to multiple nexts ;
+2024-11-20T16:34:20 ;   86357975 ; brian.olson ; Merge remote-tracking branch 'origin/main' into bolson/requestCrawl-forwarder ;
+2024-11-19T15:53:03 ;   85b52ddd ; brian.olson ; stream resync to indexer crawler ;
 2024-11-19T15:48:43 ;   9198b790 ; me ; automod: configurable circuit breaker thresholds (#830) ;
 2024-11-19T15:43:03 ;   cd076e2e ; me ; one more default value ;
 2024-11-19T15:39:02 ;   40a55ced ; me ; default values ;
 2024-11-19T15:20:17 ;   23deea78 ; me ; fix test ;
 2024-11-19T15:16:54 ;   af8753cb ; me ; configurable circuit breakers ;
+2024-11-19T17:57:17 ;   eec59cd5 ; brian.olson ; add --next-crawler to forward requestCrawl calls to ;
 2024-11-19T10:15:32 ;   966c0932 ; jeromyj ; Rewind cursor a bit before reconnection for some relay hosts to smooth over reconnection (#825) ;
 2024-11-19T18:09:28 ;   fa1eb34d ; ericvolp12 ; Rewind cursor a bit before reconnection for some relay hosts to smooth over reconnection ;
 2024-11-19T08:48:03 ;   65fa60be ; bnewbold ; rainbow service setup tweaks (#821) ;
