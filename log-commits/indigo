@@ -1,3 +1,14 @@
+2024-11-20T08:44:30 ;   feceb364 ; brian.olson ; logging tweak ;
+2024-11-20T08:42:51 ;   de95893a ; brian.olson ; use .HasActiveConnection to re-start crawl on target as needed ;
+2024-11-20T02:40:17 ;   091ab9e6 ; brian.olson ; fixes ;
+2024-11-19T22:02:16 ;   e91260a7 ; brian.olson ; tool for relay pds resync, and copy pds state from one relay to another ;
+2024-11-21T18:21:28 ;   b13c6751 ; bnewbold ; handle response nil, close response.Body (#844) ;
+2024-11-21T21:08:50 ;   6a25c339 ; brian.olson ; handle response nil, close response.Body ;
+2024-11-21T18:05:18 ;   8a5b99c0 ; ericvolp12 ; properly pass sequences for repo account events (#843) ;
+2024-11-21T17:55:01 ;   07de0a05 ; why ; properly pass sequences for repo account events ;
+2024-11-21T17:37:51 ;   b6f34c76 ; bnewbold ; fix a segfault when passing on requestCrawl fails (#841) ;
+2024-11-21T17:32:14 ;   8eb0d80e ; bnewbold ; fix a segfault when passing on requestCrawl fails ;
+2024-11-21T15:31:09 ;   aff0005c ; brian.olson ; add memcached for did cache to relay ;
 2024-11-20T15:11:09 ;   d619a376 ; bnewbold ; fix requestCrawl forwarding (#835) ;
 2024-11-20T15:07:14 ;   a954f916 ; bnewbold ; fix requestCrawl forwarding ;
 2024-11-20T14:03:17 ;   6b6afc0b ; bnewbold ; add --next-crawler to forward requestCrawl calls to (#829) ;

@@ -1,3 +1,4 @@
+2024-11-22T15:28:53 ;   011e73ec0 ; foysal ; :sparkles: Add protected tag setting (#3050) ;
 2024-11-21T12:52:30 ;   7b16a861d ; 41898282+github-actions[bot] ; Version packages (#3032) ; (tag: refs/tags/@atproto/pds@0.4.72, tag: refs/tags/@atproto/ozone@0.1.56, tag: refs/tags/@atproto/dev-env@0.3.63, tag: refs/tags/@atproto/bsky@0.0.95, tag: refs/tags/@atproto/api@0.13.17)
 2024-11-21T14:40:45 ;   2e7aa211d ; rafael ; addReservedHandle lexicon (#3056) ;
 2024-11-20T20:09:07 ;   21fd02433 ; devinivy ; Appview: apply needs-review to notifications, threads, quote lists (#3058) ;
