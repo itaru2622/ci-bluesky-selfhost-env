@@ -1,0 +1,7 @@
+2024-11-23T14:52:36 ;   f802f81fa ; 62555977+khuddite ; Fix broken pagination for lists tab on profile page (#6221) ;
+2024-11-23T14:17:29 ;   30af267bb ; roland ; Fix hovered repost button styling when logged out (#6222) ;
+2024-11-23T19:13:17 ;   b1c1c4989 ; dan.abramov ; Fix avi button hitslops (#6662) ;
+2024-11-23T14:12:25 ;   e42847447 ; 62555977+khuddite ; Fix inconsistent number formatting between mobile and web (#6384) ;
+2024-11-23T18:34:16 ;   4dd62e24e ; horusgoul ; Fix Newline handling in Web's Composer (#6658) ;
+2024-11-24T01:25:14 ;   d29599fa6 ; i ; Fix translate button not working (#6657) ;
+2024-11-23T06:01:05 ;   e9a792e4c ; 16024985+trivikr ; Bump @atproto/dev-env to align with @atproto/api (#6652) ;
