@@ -1,3 +1,6 @@
+2024-11-25T14:04:28 ;   6c8109002 ; adaminsley ; Dismiss keyboard on drag in starter pack screens (#6537) ;
+2024-11-25T16:03:55 ;   723bbfc58 ; zyusko.kirik ; fix: keyboard handler memoization (#6719) ;
+2024-11-25T13:24:00 ;   5164ca628 ; LegendEffects ; Make quote post enabled switch label text static (#6720) ;
 2024-11-24T19:10:54 ;   b9406aa01 ; dan.abramov ; Don't re-sort already fetched post thread items (#6698) ;
 2024-11-24T17:41:36 ;   371e6ad33 ; 149612116+surfdude29 ; Fix glitches in gl/messages.po (#6702) ;
 2024-11-24T17:15:08 ;   a21e2b45d ; dan.abramov ; Fix format number polyfill for gl locale (#6680) ;
