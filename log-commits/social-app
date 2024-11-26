@@ -1,3 +1,10 @@
+2024-11-26T15:57:21 ;   736ea3f49 ; mozzius ; Fix Android keyboard bug when opening a sheet (#6739) ;
+2024-11-26T15:55:27 ;   ce1b04b92 ; mozzius ; Fix `<List>` types (#6756) ;
+2024-11-25T18:34:06 ;   56a88098d ; 90143161+rshigg ; focus search input on soft reset in mobile (#5732) ;
+2024-11-25T21:08:14 ;   61e97d696 ; dan.abramov ; Fix camera orientation on Android (#6729) ;
+2024-11-25T20:49:43 ;   9d3bdbb2b ; dan.abramov ; Edit string to avoid churning translations (#6737) ;
+2024-11-25T20:30:33 ;   c6c6c91d7 ; dan.abramov ; Revert "Pass referrer on native (with an opt out) (#6648)" (#6732) ;
+2024-11-25T20:30:15 ;   b0c36383a ; mozzius ; Ensure react-native-keyboard-controller enabled state doesn't get overwritten (#6727) ;
 2024-11-25T14:04:28 ;   6c8109002 ; adaminsley ; Dismiss keyboard on drag in starter pack screens (#6537) ;
 2024-11-25T16:03:55 ;   723bbfc58 ; zyusko.kirik ; fix: keyboard handler memoization (#6719) ;
 2024-11-25T13:24:00 ;   5164ca628 ; LegendEffects ; Make quote post enabled switch label text static (#6720) ;
