@@ -1,3 +1,22 @@
+2024-11-27T19:21:08 ;   c9d86de15 ; dan.abramov ; Revert "bump version to 1.96 (#6781)" (#6790) ;
+2024-11-27T19:19:36 ;   29b3b3db3 ; mozzius ; YT embed tweak (#6789) ;
+2024-11-27T15:34:12 ;   47cbdfecb ; dan.abramov ; Fix web build by removing app icon settings (#6784) ;
+2024-11-27T14:54:09 ;   763a5d5ab ; dan.abramov ; Fix gap between Write Your Reply and bottom bar on web (#6783) ;
+2024-11-27T14:41:18 ;   6a29296ae ; mozzius ; [Subs] Custom app icons (#6758) ;
+2024-11-27T14:34:07 ;   c7d57b637 ; mozzius ; css color transitions on left nav (#6768) ;
+2024-11-27T22:17:44 ;   91fffd3cd ; i ; Fix ast (#6774) ;
+2024-11-27T14:12:04 ;   b2c232e9f ; mozzius ; bump version to 1.96 (#6781) ;
+2024-11-26T19:32:19 ;   2a575addb ; pfrazee ; Fix import sort ; (tag: refs/tags/1.95.0)
+2024-11-26T19:27:44 ;   6d290591d ; pfrazee ; Release 1.95 take2 (#6771) ;
+2024-11-27T04:14:43 ;   1edebc5dc ; servicios ; Add "ast" locale support (#6411) ;
+2024-11-27T04:06:47 ;   5929c2678 ; jpmart ; Add Aragonese language ('an') support and l10n (#6638) ;
+2024-11-27T04:03:19 ;   8cbe68306 ; bea.ivan ; Update catalan messages.po (#6682) ;
+2024-11-27T04:02:09 ;   95e1b2178 ; michele ; Update Italian translations (#6717) ;
+2024-11-27T04:01:02 ;   b9db950d5 ; guido.leenders ; Informal tone and other improvements to Dutch (#6724) ;
+2024-11-27T03:54:18 ;   eb9dfba9f ; 37831410+nandolawson ; Improve German translation (#6750) ;
+2024-11-27T10:53:44 ;   7860b790d ; i ; Update Chinese & Cantonese localization (#6754) ;
+2024-11-26T23:59:31 ;   8825d6b1a ; mozzius ; Lightbox status bar behaviour (#6637) ;
+2024-11-26T23:56:57 ;   2c2d12b39 ; dan.abramov ; Fix stutter when swiping feeds on Android (#6765) ;
 2024-11-26T15:57:21 ;   736ea3f49 ; mozzius ; Fix Android keyboard bug when opening a sheet (#6739) ;
 2024-11-26T15:55:27 ;   ce1b04b92 ; mozzius ; Fix `<List>` types (#6756) ;
 2024-11-25T18:34:06 ;   56a88098d ; 90143161+rshigg ; focus search input on soft reset in mobile (#5732) ;
@@ -11,7 +30,7 @@
 2024-11-24T19:10:54 ;   b9406aa01 ; dan.abramov ; Don't re-sort already fetched post thread items (#6698) ;
 2024-11-24T17:41:36 ;   371e6ad33 ; 149612116+surfdude29 ; Fix glitches in gl/messages.po (#6702) ;
 2024-11-24T17:15:08 ;   a21e2b45d ; dan.abramov ; Fix format number polyfill for gl locale (#6680) ;
-2024-11-23T16:42:43 ;   8c43acc1d ; pfrazee ; Run intl:extract (#6678) ; (tag: refs/tags/1.95.0)
+2024-11-23T16:42:43 ;   8c43acc1d ; pfrazee ; Run intl:extract (#6678) ;
 2024-11-23T16:34:31 ;   7782517a9 ; pfrazee ; Merge branch 'monty241-main' into main ;
 2024-11-23T16:34:11 ;   a55444a53 ; pfrazee ; Add 'nl' to lingui config ;
 2024-11-23T16:21:36 ;   8fc4f68e6 ; pfrazee ; Update src/locale/i18n.ts ;

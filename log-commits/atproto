@@ -1,3 +1,6 @@
+2024-11-26T19:56:42 ;   3303ff16a ; rafael ; Remove author blocks from getLikes (#3012) ;
+2024-11-26T17:44:21 ;   4bf368f6a ; devinivy ; add entry for @DavidBuchanan314 security disclosure ;
+2024-11-26T17:23:03 ;   167270bd7 ; devinivy ; Appview: fix takendown blocklist application on `actor.getProfile` (#3108) ;
 2024-11-25T21:22:04 ;   53fcc2fbc ; 41898282+github-actions[bot] ; Version packages (#3100) ; (tag: refs/tags/@atproto/pds@0.4.74, tag: refs/tags/@atproto/oauth-types@0.2.1, tag: refs/tags/@atproto/oauth-provider@0.2.8, tag: refs/tags/@atproto/oauth-client@0.3.2, tag: refs/tags/@atproto/oauth-client-node@0.2.2, tag: refs/tags/@atproto/oauth-client-browser@0.3.2, tag: refs/tags/@atproto/dev-env@0.3.65)
 2024-11-26T03:22:45 ;   36280bed1 ; hboon ; Fix: typo (#3101) ;
 2024-11-25T08:52:11 ;   1e367cba2 ; matthieusieben ; Update email validation logic (#3092) ;
