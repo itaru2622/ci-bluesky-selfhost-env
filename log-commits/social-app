@@ -1,3 +1,4 @@
+2024-11-28T23:29:45 ;   5f4a0f288 ; dan.abramov ; "Contain" images with missing dimensions instead of cropping them (#6828) ;
 2024-11-28T16:55:05 ;   d08ce0d47 ; dan.abramov ; Fix stuck lightbox (#6816) ;
 2024-11-28T15:41:33 ;   0aee6390f ; mozzius ; ensure black root view on iOS (#6813) ;
 2024-11-28T09:31:10 ;   84796c1bc ; ckhofq ; fix iOS language picker style in dark mode (#6804) ;

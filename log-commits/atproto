@@ -1,3 +1,5 @@
+2024-11-29T18:00:48 ;   c72145dbe ; foysal ; :sparkles: Allow querying events by multiple keywords using OR condition (#3070) ;
+2024-11-29T16:05:58 ;   622654672 ; matthieusieben ; Improve messaging of client metadata loading errors (#3135) ;
 2024-11-26T19:56:42 ;   3303ff16a ; rafael ; Remove author blocks from getLikes (#3012) ;
 2024-11-26T17:44:21 ;   4bf368f6a ; devinivy ; add entry for @DavidBuchanan314 security disclosure ;
 2024-11-26T17:23:03 ;   167270bd7 ; devinivy ; Appview: fix takendown blocklist application on `actor.getProfile` (#3108) ;
