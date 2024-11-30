@@ -1,0 +1,11 @@
+2024-11-29T14:59:04 ;   9bb22ba9 ; brian.olson ; fix did memcached metrics ;
+2024-11-29T10:53:48 ;   4b2f8dc7 ; brian.olson ; fix Shutdown for test ;
+2024-11-29T09:33:26 ;   6373ce47 ; brian.olson ; add gauge bgs_connected_inbound ;
+2024-11-22T13:08:02 ;   7b183a08 ; brian.olson ; pr feedback: .Shudown() instead of Context ;
+2024-11-21T12:12:23 ;   58c1cd21 ; brian.olson ; add gauge indexer_catchup_repos; fix bigsky NewIndexer usage ;
+2024-11-21T08:50:08 ;   bc9dea4d ; brian.olson ; repo_commits_result_counter{status=ok} ;
+2024-11-21T01:44:17 ;   01fd0152 ; brian.olson ; 1am typo ;
+2024-11-21T01:39:26 ;   0372220a ; brian.olson ; fix copy-pasteo ;
+2024-11-21T01:32:50 ;   911ab8c0 ; brian.olson ; repo_commits_received_counter for every way a commit finishes ;
+2024-11-20T16:18:56 ;   a3802a80 ; brian.olson ; better logging ;
+2024-11-19T16:52:09 ;   ef5b0b81 ; brian.olson ; add metric indexer_catchup_events_failed, add "how" tag to indexer_catchup_events_enqueued ;
