@@ -1,3 +1,0 @@
-2024-11-29T12:05:36 ;   de950cc4 ; bnewbold ; syntax: ParseDID performance (#853) ;
-2024-11-29T11:51:55 ;   1e2f969c ; bnewbold ; syntax: fast-path for did:plc parsing ;
-2024-11-29T11:51:34 ;   2b814e81 ; bnewbold ; direct DID syntax validation helper ;
