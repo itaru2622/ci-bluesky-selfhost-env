@@ -1,3 +1,7 @@
+2024-11-21T16:54:54 ;   72b4acb7 ; egonelbre ; automod/rules: remove unused fmt import ;
+2024-11-21T13:31:41 ;   59538a14 ; egonelbre ; fix unnecssary fmt.Sprintf (staticcheck S1039) ;
+2024-11-21T13:28:35 ;   82af8d80 ; egonelbre ; fix staticcheck S1011 ;
+2024-11-21T13:24:59 ;   4989d798 ; egonelbre ; fix staticcheck SA2000 ;
 2024-11-29T14:59:04 ;   9bb22ba9 ; brian.olson ; fix did memcached metrics ;
 2024-11-29T10:53:48 ;   4b2f8dc7 ; brian.olson ; fix Shutdown for test ;
 2024-11-29T09:33:26 ;   6373ce47 ; brian.olson ; add gauge bgs_connected_inbound ;
