@@ -1,3 +1,8 @@
+2024-12-04T11:09:12 ;   ff209b56 ; bnewbold ; :bug: Fix typo in moderation review state check (#814) ;
+2024-12-04T10:54:34 ;   e0efa19f ; bnewbold ; add warn log line for unexpected review state ;
+2024-12-03T15:24:50 ;   9ea78700 ; jeromyj ; better get-record (#861) ;
+2024-12-03T12:40:30 ;   c26ef955 ; why ; better get-record ;
+2024-12-03T12:12:19 ;   7fd58873 ; bnewbold ; backfill: add failback to fetch CAR file from PDS (if relay errors) (#855) ;
 2024-11-21T16:54:54 ;   72b4acb7 ; egonelbre ; automod/rules: remove unused fmt import ;
 2024-11-21T13:31:41 ;   59538a14 ; egonelbre ; fix unnecssary fmt.Sprintf (staticcheck S1039) ;
 2024-11-21T13:28:35 ;   82af8d80 ; egonelbre ; fix staticcheck S1011 ;
@@ -13,3 +18,8 @@
 2024-11-21T01:32:50 ;   911ab8c0 ; brian.olson ; repo_commits_received_counter for every way a commit finishes ;
 2024-11-20T16:18:56 ;   a3802a80 ; brian.olson ; better logging ;
 2024-11-19T16:52:09 ;   ef5b0b81 ; brian.olson ; add metric indexer_catchup_events_failed, add "how" tag to indexer_catchup_events_enqueued ;
+2024-11-29T15:24:12 ;   8d81824c ; bnewbold ; add PDS backfill log line ;
+2024-11-29T15:02:55 ;   6b00e558 ; bnewbold ; updates to PDS backfill; and search integration ;
+2024-11-29T14:55:05 ;   54f76497 ; bnewbold ; backfill: basic PDS repo fetching fallback ;
+2024-11-16T19:11:11 ;   d7fd302e ; cfaion341 ; :bug: Use actual value of review state ;
+2024-11-16T18:54:30 ;   ea1aca3f ; cfaion341 ; :bug: Fix typo in moderation review state check ;
