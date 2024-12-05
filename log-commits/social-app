@@ -1,3 +1,4 @@
+2024-12-04T16:42:15 ;   0ee20731d ; ckhofq ; adjust feed scroll bar top offset (#6940) ;
 2024-12-04T09:21:52 ;   4582a9cf1 ; laurence ; Fix oEmbed provider_url and provider_name (#6942) ;
 2024-12-03T23:57:26 ;   df3b43bb6 ; mozzius ; simplify date picker theme (#6926) ;
 2024-12-03T15:03:22 ;   0c71f8196 ; pfrazee ; Add link-click metrics (#6934) ;

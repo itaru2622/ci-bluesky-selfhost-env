@@ -1,3 +1,10 @@
+2024-12-04T20:20:28 ;   dd43c550 ; brian.olson ; also respond to GOLOG_{LOG_LEVEL,LOG_FMT,FILE} ;
+2024-12-02T08:03:25 ;   39f5b5f8 ; brian.olson ; SetIpfsWriter, GOLOG_* env to BSKYLOG_* ;
+2024-11-30T12:22:16 ;   0a3197db ; brian.olson ; SetupSlog GOLOG_ROTATE_KEEP to keep some old logs, rm older ;
+2024-12-04T17:23:34 ;   a5a00fc0 ; brian.olson ; replace github.com/ipfs/go-log with stdlib log/slog ;
+2024-12-04T17:47:12 ;   767cd562 ; bnewbold ; lexicon: nsid rkey type (#865) ;
+2024-12-04T17:46:13 ;   2105fe0f ; bnewbold ; lexicon: nsid rkey type ;
+2024-12-04T10:23:57 ;   5a7d037e ; brian.olson ; fix RWLock usage ;
 2024-12-04T11:09:12 ;   ff209b56 ; bnewbold ; :bug: Fix typo in moderation review state check (#814) ;
 2024-12-04T10:54:34 ;   e0efa19f ; bnewbold ; add warn log line for unexpected review state ;
 2024-12-03T15:24:50 ;   9ea78700 ; jeromyj ; better get-record (#861) ;

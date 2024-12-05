@@ -1,2 +1,6 @@
+2024-12-05T17:26:17 ;   7aab439 ; foysal ; :sparkles: Optionally ack all subjects of an account when acknowledgi… (#254) ;
+2024-12-05T13:08:11 ;   a646d5a ; foysal ; :sparkles: Allow managing page size for event stream (#256) ;
+2024-12-05T12:21:56 ;   c3cf1b2 ; foysal ; :lipstick: Hide blob list by default and add image viewer (#252) ;
+2024-12-05T12:00:21 ;   bdc3468 ; foysal ; :sparkles: Allow reverseTakedown from workspace (#250) ;
 2024-12-02T21:37:25 ;   0a55cba ; foysal ; :arrow_up: Update @atproto/ozone version (#219) ; (tag: refs/tags/v0.1.8)
 2024-12-02T18:02:53 ;   3c1fb44 ; foysal ; :sparkles: Load and display moderation status in event list (#249) ;
