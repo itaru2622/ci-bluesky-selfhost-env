@@ -1,3 +1,8 @@
+2024-12-05T19:52:16 ;   5ee89370 ; bnewbold ; re-organize identity package files (#871) ;
+2024-12-05T17:11:35 ;   28d2ee47 ; bnewbold ; move DID doc code out to separate file ;
+2024-12-05T17:06:46 ;   817bfc89 ; bnewbold ; move Directory interface to separate file ;
+2024-12-05T16:02:57 ;   1cdcd105 ; bnewbold ; make fmt (#867) ;
+2024-12-05T16:02:12 ;   46ac1b85 ; bnewbold ; make fmt ;
 2024-12-04T20:20:28 ;   dd43c550 ; brian.olson ; also respond to GOLOG_{LOG_LEVEL,LOG_FMT,FILE} ;
 2024-12-02T08:03:25 ;   39f5b5f8 ; brian.olson ; SetIpfsWriter, GOLOG_* env to BSKYLOG_* ;
 2024-11-30T12:22:16 ;   0a3197db ; brian.olson ; SetupSlog GOLOG_ROTATE_KEEP to keep some old logs, rm older ;

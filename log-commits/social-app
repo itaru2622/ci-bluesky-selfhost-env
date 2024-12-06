@@ -1,3 +1,7 @@
+2024-12-06T09:52:08 ;   1f6acc11a ; me ; clean rn 0.76 upgrade (#6887) ;
+2024-12-06T09:42:42 ;   3ab6c435d ; git ; Trim back prefs exposure in NUXs, make naming more friendly (#6980) ;
+2024-12-05T18:59:26 ;   143e2c802 ; git ; [Layout] Base (#6907) ;
+2024-12-05T18:15:30 ;   8467dfd45 ; git ; Add some icons (#6976) ;
 2024-12-04T16:42:15 ;   0ee20731d ; ckhofq ; adjust feed scroll bar top offset (#6940) ;
 2024-12-04T09:21:52 ;   4582a9cf1 ; laurence ; Fix oEmbed provider_url and provider_name (#6942) ;
 2024-12-03T23:57:26 ;   df3b43bb6 ; mozzius ; simplify date picker theme (#6926) ;

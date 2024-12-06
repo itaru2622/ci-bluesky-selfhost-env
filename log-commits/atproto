@@ -1,3 +1,5 @@
+2024-12-05T19:01:23 ;   0bec389a1 ; dtholmgren ; Sync: pass through websocket opts (#2992) ;
+2024-12-05T18:16:10 ;   c9848edaf ; dtholmgren ; Fix missing delete blocks (#3033) ;
 2024-12-05T18:06:01 ;   588baae12 ; matthieusieben ; Minor adaptation of VerifyCidTransform implementation (#3178) ;
 2024-12-05T11:51:46 ;   21542d448 ; 41898282+github-actions[bot] ; Version packages (#3136) ; (tag: refs/tags/@atproto/pds@0.4.75, tag: refs/tags/@atproto/ozone@0.1.58, tag: refs/tags/@atproto/oauth-provider@0.2.9, tag: refs/tags/@atproto/oauth-client@0.3.3, tag: refs/tags/@atproto/oauth-client-node@0.2.3, tag: refs/tags/@atproto/oauth-client-browser@0.3.3, tag: refs/tags/@atproto/dev-env@0.3.66, tag: refs/tags/@atproto/bsky@0.0.97, tag: refs/tags/@atproto/api@0.13.19, tag: refs/tags/@atproto-labs/identity-resolver@0.1.7, tag: refs/tags/@atproto-labs/handle-resolver-node@0.1.8, tag: refs/tags/@atproto-labs/fetch@0.1.2, tag: refs/tags/@atproto-labs/fetch-node@0.1.4, tag: refs/tags/@atproto-labs/did-resolver@0.1.6)
 2024-12-05T11:45:28 ;   ed2236220 ; foysal ; ✨ Optionally ack all open subjects from the author with acknowledge event (#3171) ;
