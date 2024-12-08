@@ -1,1 +1,2 @@
+2024-12-07T21:47:02 ;   e9240c8b5 ; foysal ; :bug: Retrieve takendown profiles from app.bsky.actor.getProfiles based on auth (#3206) ;
 2024-12-07T17:02:42 ;   32baddf4a ; foysal ; :bug: Fix auth level check for protected tags (#3205) ;
