@@ -1,3 +1,5 @@
+2024-12-09T13:43:16 ;   bc4b4a3cf ; git ; Add `isSelfHosted` to `SessionAccount` (#7028) ;
+2024-12-08T14:44:01 ;   63c0c7e62 ; git ; Add back button to desktop threads (#7010) ;
 2024-12-07T17:10:13 ;   ea6ac2568 ; dan.abramov ; Revert "[Video] Revert safari hackfix (#5367)" (#7001) ;
 2024-12-07T11:09:46 ;   296aab473 ; git ; Fix squashed content on mod screens (#7004) ;
 2024-12-07T11:50:50 ;   5297973f6 ; mozzius ; [ELI5] Change feed page     copy (#6932) ;
