@@ -1,3 +1,6 @@
+2024-12-10T18:23:23 ;   f34e8d8cd ; dan.abramov ; Limit feed prefetching to native (#7038) ;
+2024-12-10T04:40:40 ;   46e1e5cee ; dan.abramov ; Fix drawer swipe (#7007) ;
+2024-12-09T23:23:36 ;   fec3352b6 ; dgrachikov ; Access content of extended block properly (block.Super instead of super()) (#7026) ;
 2024-12-09T13:43:16 ;   bc4b4a3cf ; git ; Add `isSelfHosted` to `SessionAccount` (#7028) ;
 2024-12-08T14:44:01 ;   63c0c7e62 ; git ; Add back button to desktop threads (#7010) ;
 2024-12-07T17:10:13 ;   ea6ac2568 ; dan.abramov ; Revert "[Video] Revert safari hackfix (#5367)" (#7001) ;

@@ -1,3 +1,5 @@
+2024-12-10T19:45:04 ;   5ade78ddb ; dan.abramov ; Add fast path skipping UTF8 length counting (#2819) ;
+2024-12-10T05:23:39 ;   57c58f632 ; tesaguriguma ; fix(crypto): fix error message of `bytesToMultibase` (#3203) ;
 2024-12-09T12:44:04 ;   45e7ed52c ; devinivy ; Appview: apply needs-review to addl notif types (#3199) ;
 2024-12-07T21:47:02 ;   e9240c8b5 ; foysal ; :bug: Retrieve takendown profiles from app.bsky.actor.getProfiles based on auth (#3206) ;
 2024-12-07T17:02:42 ;   32baddf4a ; foysal ; :bug: Fix auth level check for protected tags (#3205) ;

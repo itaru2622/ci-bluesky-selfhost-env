@@ -1,0 +1,4 @@
+2024-12-09T16:51:30 ;   ea96859 ; ericvolp12 ; Merge pull request #21 from bluesky-social/jetstream_limiters ;
+2024-12-09T16:29:24 ;   4cb3eef ; ericvolp12 ; Merge pull request #23 from uniphil/client-close-after-read-err ;
+2024-11-17T18:22:16 ;   5e9ab19 ; uniphil ; Close the client connection after a read error ;
+2024-11-17T00:26:00 ;   2aacb58 ; ericvolp12 ; Add per-IP rate limiters ;
