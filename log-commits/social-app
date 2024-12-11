@@ -1,3 +1,12 @@
+2024-12-11T19:13:09 ;   b081f8f8d ; mozzius ; Remove rounding mode hack (#7055) ;
+2024-12-12T01:31:29 ;   de15f8e2d ; 67428053+kakkokari-gtyih ; feat(embed): Add support for dark mode (#6912) ;
+2024-12-10T22:17:27 ;   48c534164 ; dan.abramov ; Fix iOS build (#7042) ;
+2024-12-10T21:19:53 ;   86155986a ; dan.abramov ; Fix composer shortcut detaching a reply (#7041) ;
+2024-12-10T21:17:58 ;   bee50c395 ; barrypollard ; Font loading improvements (#6993) ;
+2024-12-10T13:16:45 ;   6308e91de ; rcombs ; LoginForm: enable autocomplete on 2FA code field (#7019) ;
+2024-12-10T17:59:35 ;   b7ddb07d9 ; renan.mav ; fix: typo in filename list-converations (#7036) ;
+2024-12-10T20:57:53 ;   d00879e62 ; dan.abramov ; Disambiguate feed component naming (#7040) ;
+2024-12-10T14:52:30 ;   e052f5e19 ; git ; Refactor sidebar (#6971) ;
 2024-12-10T18:23:23 ;   f34e8d8cd ; dan.abramov ; Limit feed prefetching to native (#7038) ;
 2024-12-10T04:40:40 ;   46e1e5cee ; dan.abramov ; Fix drawer swipe (#7007) ;
 2024-12-09T23:23:36 ;   fec3352b6 ; dgrachikov ; Access content of extended block properly (block.Super instead of super()) (#7026) ;
