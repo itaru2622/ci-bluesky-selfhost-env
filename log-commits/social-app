@@ -1,3 +1,13 @@
+2024-12-13T12:36:00 ;   ce69e052b ; git ; Allow non-graph emoji to inherit parent color (#7096) ;
+2024-12-13T18:20:48 ;   f6aecf5c2 ; dan.abramov ; Give minWidth to tab indicator only (#7095) ;
+2024-12-13T12:20:38 ;   41228dce1 ; git ; Better alignment on web (#7098) ;
+2024-12-13T17:16:53 ;   356dad193 ; dan.abramov ; Remove the environment indirections (#7089) ;
+2024-12-13T17:14:41 ;   e2a7965e4 ; dan.abramov ; Gate bitdrift integration (#7088) ;
+2024-12-13T12:14:31 ;   5655241be ; BradEstey ; Uppercase the auth factor token in input value to match the email casing. (#7094) ;
+2024-12-12T21:57:26 ;   add7a91d5 ; dan.abramov ; Fix web Home header (#7086) ;
+2024-12-12T21:52:51 ;   8a790cdd7 ; dan.abramov ; Revert "Edit string to avoid churning translations (#6737)" (#7087) ;
+2024-12-12T21:50:30 ;   10dd0f76e ; 149612116+surfdude29 ; mark string for localization (#7083) ;
+2024-12-12T21:16:15 ;   6e20893a0 ; dan.abramov ; Fix double border due to progress guide (#7084) ;
 2024-12-12T11:50:29 ;   2276cb0e7 ; me ; Fix share button not working for some users (#5849) ;
 2024-12-12T11:48:26 ;   2808f8b73 ; git ; New profile feed header (#7056) ;
 2024-12-12T17:46:19 ;   ffc63dc85 ; mozzius ; [Layout] Bleed profile banner into safe area (#6967) ;
