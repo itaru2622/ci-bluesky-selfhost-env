@@ -1,0 +1,13 @@
+2024-12-16T11:34:25 ;   86719b02 ; jeromyj ; non-archival relay (#827) ;
+2024-12-16T10:26:52 ;   e495daf5 ; why ; more logging fixup ;
+2024-12-16T10:19:30 ;   62578eb4 ; why ; fixup logging now ;
+2024-12-16T10:12:42 ;   51af58f5 ; why ; small review updates ;
+2024-12-12T21:54:23 ;   23e96288 ; audreyt ; Use keyed field in DbCID initialization. ;
+2024-12-02T19:13:22 ;   8f492f77 ; why ; return written blocks in closing deltasession ;
+2024-11-21T22:07:50 ;   aa676332 ; why ; run more tests on both archive/nonarchive ;
+2024-11-21T17:50:15 ;   d30a1e0e ; why ; rm deadcode ;
+2024-11-21T17:39:46 ;   f9f6e8c1 ; why ; fixing up a few more tests ;
+2024-11-19T15:39:56 ;   2a077980 ; why ; be okay missing revs ;
+2024-11-19T14:33:05 ;   cc763787 ; why ; add missing file ;
+2024-11-19T13:41:54 ;   5c7f9373 ; why ; config flag ;
+2024-11-19T13:36:48 ;   07dc3767 ; why ; hack: non-archival relay work ;
