@@ -1,3 +1,7 @@
+2024-12-20T19:52:20 ;   6d308b857 ; foysal ; :sparkles: Allow appeals on takendown account (#3251) ;
+2024-12-20T13:34:22 ;   522294bb4 ; 41898282+github-actions[bot] ; Version packages (#3275) ; (tag: refs/tags/@atproto/pds@0.4.78, tag: refs/tags/@atproto/ozone@0.1.61, tag: refs/tags/@atproto/lex-cli@0.5.4, tag: refs/tags/@atproto/dev-env@0.3.70, tag: refs/tags/@atproto/bsky@0.0.100, tag: refs/tags/@atproto/api@0.13.22)
+2024-12-20T11:58:46 ;   f22383cee ; git ; Add codegen to support deprecated labels (#3270) ;
+2024-12-19T17:28:52 ;   672243a9e ; dtholmgren ; Nullable ratelimit calcKey (#3274) ;
 2024-12-19T11:41:41 ;   85a437800 ; 41898282+github-actions[bot] ; Version packages (#3259) ; (tag: refs/tags/@atproto/oauth-client@0.3.5, tag: refs/tags/@atproto/oauth-client-node@0.2.5, tag: refs/tags/@atproto/oauth-client-browser@0.3.5, tag: refs/tags/@atproto/dev-env@0.3.69, tag: refs/tags/@atproto-labs/identity-resolver@0.1.8, tag: refs/tags/@atproto-labs/handle-resolver@0.1.5, tag: refs/tags/@atproto-labs/handle-resolver-node@0.1.9)
 2024-12-19T11:25:41 ;   638f5a831 ; rafael ; Fix avatar path resolution in dev-env (#3266) ;
 2024-12-18T22:57:27 ;   c559e7e3d ; foysal ; :sparkles: Add subject tags with report type (#3260) ;

@@ -1,3 +1,12 @@
+2024-12-20T13:59:33 ;   8116d12c1 ; git ; Fix Emoji picker focus (#7217) ;
+2024-12-20T18:00:30 ;   8a3dfcb9d ; dan.abramov ; Don't add unused keydown listeners (#7218) ;
+2024-12-20T16:57:19 ;   6afa44ddc ; mozzius ; Moderate composer quote (#7213) ;
+2024-12-19T23:14:33 ;   ab0697a0e ; dan.abramov ; Bump clamp max value (#7198) ;
+2024-12-19T21:57:45 ;   7f63679a5 ; dan.abramov ; Fix build ;
+2024-12-19T13:51:18 ;   975e61d45 ; me ; bump (#7197) ;
+2024-12-19T21:47:00 ;   10981eec5 ; dan.abramov ; Proper fix for iOS cropper being stuck (#7194) ;
+2024-12-19T21:45:44 ;   fb920f89d ; dan.abramov ; Revert "Fix post time localization on Android (#6742)" (#7196) ;
+2024-12-19T21:12:58 ;   25d20c639 ; dan.abramov ; Add iOS hack to fix cropper failing to show (#7191) ;
 2024-12-19T05:50:37 ;   a3031de19 ; dan.abramov ; Tweak GH action ;
 2024-12-19T05:36:19 ;   59739a608 ; dan.abramov ; Tweak GH action ;
 2024-12-19T05:19:57 ;   24540400d ; dan.abramov ; Try to fix action ;
