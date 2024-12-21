@@ -1,3 +1,8 @@
+2024-12-20T15:53:25 ;   82305ef0 ; bnewbold ; sync get record shouldnt unmarshal (#815) ;
+2024-12-20T14:45:19 ;   7e16f332 ; bnewbold ; Add PDS host argument to blob export (#884) ;
+2024-12-19T13:27:23 ;   39439f44 ; 12125+ngerakines ; refactor: Removing env variable because it is a bit ambiguous ;
+2024-12-19T08:43:02 ;   b7bd2ee4 ; 12125+ngerakines ; refactor: Updating variables to follow convention ;
+2024-12-19T08:38:59 ;   55df0a7e ; 12125+ngerakines ; feature: Added --pds-host argument to blob export ;
 2024-12-18T15:05:55 ;   17593f7f ; brian.olson ; drop dead code ;
 2024-12-18T13:27:05 ;   d67ed727 ; brian.olson ; fix merge copy-paste-o ;
 2024-12-17T01:59:27 ;   63d2b488 ; brian.olson ; slog fix ;
@@ -28,3 +33,4 @@
 2024-11-19T13:41:54 ;   5c7f9373 ; why ; config flag ;
 2024-11-19T13:36:48 ;   07dc3767 ; why ; hack: non-archival relay work ;
 2024-12-14T06:06:05 ;   f84b8a0b ; elizabeth ; feat(cmd/goat): allow specifying authFactorToken ;
+2024-11-16T10:39:41 ;   e06f58cc ; why ; sync get record shouldnt unmarshal ;

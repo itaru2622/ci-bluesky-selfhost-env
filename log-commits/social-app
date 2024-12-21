@@ -1,3 +1,10 @@
+2024-12-21T00:15:45 ;   fa2072cef ; github ; Apply avatar moderation to quote post (#7229) ;
+2024-12-20T21:30:23 ;   3aa1a5f88 ; dan.abramov ; Bump ;
+2024-12-20T21:17:58 ;   7d86bba7f ; dan.abramov ; Fix Android save to camera permissions ;
+2024-12-20T20:39:18 ;   f5a9ac131 ; mozzius ; fix lightbox on android 15 (#7221) ;
+2024-12-20T20:37:55 ;   c5421596a ; mozzius ; fix recent searches tap handling (#7214) ;
+2024-12-20T20:33:34 ;   8f7a6e5ff ; mozzius ; add default empty state text (#7212) ;
+2024-12-20T12:15:21 ;   aeb78daf8 ; me ; bump package (#7223) ;
 2024-12-20T13:59:33 ;   8116d12c1 ; git ; Fix Emoji picker focus (#7217) ;
 2024-12-20T18:00:30 ;   8a3dfcb9d ; dan.abramov ; Don't add unused keydown listeners (#7218) ;
 2024-12-20T16:57:19 ;   6afa44ddc ; mozzius ; Moderate composer quote (#7213) ;

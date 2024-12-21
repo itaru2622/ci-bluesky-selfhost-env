@@ -1,3 +1,4 @@
+2024-12-20T14:09:06 ;   b4674a61a ; dtholmgren ; Fix auth scopes for account migration (#3273) ;
 2024-12-20T19:52:20 ;   6d308b857 ; foysal ; :sparkles: Allow appeals on takendown account (#3251) ;
 2024-12-20T13:34:22 ;   522294bb4 ; 41898282+github-actions[bot] ; Version packages (#3275) ; (tag: refs/tags/@atproto/pds@0.4.78, tag: refs/tags/@atproto/ozone@0.1.61, tag: refs/tags/@atproto/lex-cli@0.5.4, tag: refs/tags/@atproto/dev-env@0.3.70, tag: refs/tags/@atproto/bsky@0.0.100, tag: refs/tags/@atproto/api@0.13.22)
 2024-12-20T11:58:46 ;   f22383cee ; git ; Add codegen to support deprecated labels (#3270) ;
