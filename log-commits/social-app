@@ -1,1 +1,6 @@
-2024-12-22T18:45:08 ;   9d4ae0230 ; github ; Make "Retry" translatable (#7243) ;
+2024-12-23T18:17:09 ;   2b28c85b4 ; mozzius ; Cropper - opt out of edge-to-edge enforcement on Android 15 (#7254) ;
+2024-12-23T12:42:10 ;   1e4ea1a27 ; ahmed.h.soliman ; checking list/feed owner on empty state when prompting to add users (#7247) ;
+2024-12-23T17:41:00 ;   08a5f7a0b ; barrypollard ; Correct font preload (#7249) ;
+2024-12-23T15:58:54 ;   5020e4233 ; mozzius ; make horizontal scrollview touch edges (#7256) ;
+2024-12-23T16:12:38 ;   190c7d6ed ; github ; Extend clickable area to height of container (#7248) ;
+2024-12-22T18:45:08 ;   9d4ae0230 ; github ; Make "Retry" translatable (#7243) ; (tag: refs/tags/1.96.2)
