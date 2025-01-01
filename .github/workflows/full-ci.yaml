@@ -20,6 +20,7 @@ env:
 
   myURL:  ${{github.server_url}}/${{github.repository}}
   myResultPage: ${{github.server_url}}/${{github.repository}}/actions/runs/${{github.run_id}}
+  _nrepo: ${{vars._nrepo}}
 
 jobs:
   check:
