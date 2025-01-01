@@ -1,3 +1,14 @@
+2024-12-31T22:27:14 ;   9f075b134 ; signez ; Localize lang selectors according to the app language (#6207) ; (tag: refs/tags/1.96.3)
+2024-12-31T13:06:33 ;   09297d92c ; pfrazee ; Release 1.96.3 (#7318) ;
+2024-12-31T22:28:17 ;   2300410b4 ; imertz ; Add Greek Language ('el') Support and Internationalization (#6677) ;
+2024-12-31T17:25:42 ;   30d110dbc ; filipe.snk ; PT-BR Translation update (#6975) ;
+2025-01-01T01:20:38 ;   af94b79e2 ; Virenbar ; Update Russian localization (#7116) ;
+2025-01-01T05:20:01 ;   6e94de9f8 ; 65759+tkusano ; Update Japanese translation (#7170) ;
+2025-01-01T05:19:43 ;   9dc04bbfb ; itoupluk427 ; Update Korean localization (#7171) ;
+2024-12-31T21:19:22 ;   eb3bfc9ff ; bea.ivan ; Update catalan messages.po for 1.96.0 (#7182) ;
+2024-12-31T22:18:43 ;   ad42a9297 ; dev ; Update Finnish localization (#7183) ;
+2024-12-31T21:18:16 ;   97288983c ; michele ; Update Italian translations (#7184) ;
+2024-12-31T21:16:18 ;   0118fe75e ; contact ; Update Polish translation (#7206) ;
 2024-12-31T20:40:12 ;   e44726529 ; szijartoleventepal ; Update Hungarian translation for 1.96 (#7219) ;
 2024-12-31T14:36:33 ;   619da8191 ; iam ; Fix Spanish translations for some messages (#7233) ;
 2025-01-01T03:34:48 ;   cf1ccdf8e ; i ; Update Chinese & Cantonese localization (#7235) ;
