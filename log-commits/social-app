@@ -1,3 +1,4 @@
+2025-01-02T17:27:15 ;   c11a90124 ; dan.abramov ; Fix key issue in trending topics (#7329) ;
 2024-12-31T22:27:14 ;   9f075b134 ; signez ; Localize lang selectors according to the app language (#6207) ; (tag: refs/tags/1.96.3)
 2024-12-31T13:06:33 ;   09297d92c ; pfrazee ; Release 1.96.3 (#7318) ;
 2024-12-31T22:28:17 ;   2300410b4 ; imertz ; Add Greek Language ('el') Support and Internationalization (#6677) ;
