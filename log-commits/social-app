@@ -1,3 +1,7 @@
+2025-01-02T16:10:34 ;   615bbc353 ; me ; bump version (#7337) ;
+2025-01-02T15:57:03 ;   59709ad8d ; bnewbold ; bump golang version to v1.23 (#7325) ;
+2025-01-02T20:20:40 ;   85ad52e39 ; dan.abramov ; Add loading state to new trending interstitial (#7332) ;
+2025-01-02T20:20:30 ;   3e0ed3b83 ; dan.abramov ; Remove upstreamed drawer patch (#7331) ;
 2025-01-02T17:27:15 ;   c11a90124 ; dan.abramov ; Fix key issue in trending topics (#7329) ;
 2024-12-31T22:27:14 ;   9f075b134 ; signez ; Localize lang selectors according to the app language (#6207) ; (tag: refs/tags/1.96.3)
 2024-12-31T13:06:33 ;   09297d92c ; pfrazee ; Release 1.96.3 (#7318) ;
