@@ -1,0 +1,2 @@
+2025-01-07T15:13:01 ;   cdd7d040b ; foohyfooh ; Fix `moveToPermanentPath` ext Default Missing '.' (#7281) ;
+2025-01-07T18:29:27 ;   fe8d3b081 ; mozzius ; Fix double text input in composer (#7381) ;
