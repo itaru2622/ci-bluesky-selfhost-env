@@ -1,2 +1,9 @@
+2025-01-08T19:22:04 ;   7c8c78b18 ; mozzius ; [ELI5] Tweaks to hosting provider (#6935) ;
+2025-01-08T18:59:39 ;   40ab77781 ; dan.abramov ; Delete <AppProfiler> (#7403) ;
+2025-01-08T18:21:21 ;   aa3d8c523 ; github ; Preconnect to public.api.bsky.app (#7396) ;
+2025-01-07T19:13:03 ;   c56498140 ; roland ; Add key to invalidate spinner when theme changes (#7351) ;
+2025-01-07T22:21:58 ;   f61390fdf ; mozzius ; Hide menu button when search is focused (#7373) ;
+2025-01-07T21:14:14 ;   f3229d554 ; dan.abramov ; Bump version to 1.97.0 (#7386) ;
+2025-01-07T21:07:06 ;   89353c6f2 ; dan.abramov ; Remove unused default argument ;
 2025-01-07T15:13:01 ;   cdd7d040b ; foohyfooh ; Fix `moveToPermanentPath` ext Default Missing '.' (#7281) ;
 2025-01-07T18:29:27 ;   fe8d3b081 ; mozzius ; Fix double text input in composer (#7381) ;

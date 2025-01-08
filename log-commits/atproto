@@ -1,3 +1,4 @@
+2025-01-08T16:24:31 ;   9dc7251fc ; foysal ; :white_check_mark: Update snapshot check for tags array (#3340) ;
 2025-01-07T12:06:16 ;   5b6e0611d ; 41898282+github-actions[bot] ; Version packages (#3336) ; (tag: refs/tags/@atproto/xrpc-server@0.7.6, tag: refs/tags/@atproto/sync@0.1.9, tag: refs/tags/@atproto/repo@0.6.2, tag: refs/tags/@atproto/pds@0.4.83, tag: refs/tags/@atproto/ozone@0.1.66, tag: refs/tags/@atproto/identity@0.4.5, tag: refs/tags/@atproto/dev-env@0.3.75, tag: refs/tags/@atproto/crypto@0.4.3, tag: refs/tags/@atproto/bsky@0.0.105, tag: refs/tags/@atproto/aws@0.2.12, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.2)
 2025-01-07T11:59:21 ;   1abfd74ec ; dtholmgren ; Update crypto libraries (#3335) ;
 2025-01-07T10:01:51 ;   513b83248 ; devinivy ; fix pds and bsky builds, ensure all deps are included in dockerfile ;
