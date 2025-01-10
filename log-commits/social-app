@@ -1,3 +1,8 @@
+2025-01-10T18:06:07 ;   6ca97406c ; dan.abramov ; A simpler fix for trending swipe issue (#7424) ;
+2025-01-10T17:57:10 ;   a7da64628 ; mozzius ; [ELI5] Validate too long handles in signup (#7422) ;
+2025-01-10T09:45:58 ;   d79c66af8 ; me ; add back statsig gate testing (#7404) ;
+2025-01-10T00:32:08 ;   02dbcc134 ; dan.abramov ; Fix trending swipe gesture (#7417) ;
+2025-01-09T15:34:00 ;   72dc508cb ; git ; Move intent dialogs inside Alf, but above intent handlers (#7416) ;
 2025-01-09T18:06:24 ;   3b9a51c43 ; mozzius ; Fix Android composer padding: Director's Cut (#7412) ;
 2025-01-09T17:29:33 ;   e5c587450 ; mozzius ; fix padding on android 15 (#7411) ;
 2025-01-09T16:47:37 ;   b49e93d58 ; mozzius ; Downgrade paste input dependency (#7410) ;
