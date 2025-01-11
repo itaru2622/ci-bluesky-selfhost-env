@@ -1,5 +1,0 @@
-2025-01-10T14:24:59 ;   15dd68a ; foysal ; ✨ Add video fallback url (#277) ;
-2025-01-09T19:33:07 ;   9ba1f47 ; foysal ; :sparkles: Add self-harm to list of configurable media filters (#276) ;
-2025-01-09T13:12:35 ;   a28c3a5 ; matthieusieben ; Support longer sessions through use of refresh_token's (#275) ;
-2025-01-08T17:41:28 ;   63146b2 ; foysal ; ✨ Advanced tag filters (#266) ;
-2025-01-04T11:56:43 ;   73d4003 ; foysal ; :bug: Get policies field value from workspace form (#273) ;
