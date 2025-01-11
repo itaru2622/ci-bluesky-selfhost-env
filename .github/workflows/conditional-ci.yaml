@@ -72,6 +72,12 @@ jobs:
               wc -l *; \
           )
 
+      - name: repos having commits in one line ${{env.asof}}
+        run: |
+          (cd ${topDir}/log-commits/; \
+              wc -l * | grep -v total$ | awk '{if ($1 != 0) print $2}' | tr '\n' ' ' | sed 's/$/\n/'
+          )
+
       - name: check if new tag exists in the diff of commits ${{env.asof}}
         run: |
           (cd ${topDir}/log-commits/; \
