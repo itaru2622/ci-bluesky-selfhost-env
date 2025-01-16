@@ -1,3 +1,6 @@
+2025-01-16T16:38:28 ;   4ab7075fd ; rafael ; small rate-limit improvements (#3376) ;
+2025-01-16T15:46:37 ;   4e43cc0de ; rafael ; use ubuntu 22.04 on github actions (#3377) ;
+2025-01-15T19:34:42 ;   688ff00dd ; rafael ; codegen un-codegen-ed stuff on main (#3374) ;
 2025-01-15T13:58:19 ;   fa96a997e ; 41898282+github-actions[bot] ; Version packages (#3372) ; (tag: refs/tags/@atproto/xrpc-server@0.7.7, tag: refs/tags/@atproto/sync@0.1.10, tag: refs/tags/@atproto/pds@0.4.85, tag: refs/tags/@atproto/ozone@0.1.68, tag: refs/tags/@atproto/dev-env@0.3.77, tag: refs/tags/@atproto/bsky@0.0.107, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.3)
 2025-01-15T13:43:16 ;   0832a377d ; rafael ; Allow resetting a route's rate limits (#3348) ;
 2025-01-15T11:04:42 ;   c6c8686de ; devinivy ; Appview: permit redirects during blob resolution (#3370) ;
