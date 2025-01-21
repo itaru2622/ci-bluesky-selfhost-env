@@ -1,3 +1,11 @@
+2025-01-21T15:49:02 ;   c0a75d310 ; rafael ; posts_with_video filter (#3390) ;
+2025-01-21T15:35:16 ;   6b8a51e88 ; rafael ; [threadContext 2] Add threadContext to threadViewPost - backend (#3313) ;
+2025-01-21T14:36:50 ;   b1dd0504c ; rafael ; [threadContext 1] Add threadContext to threadViewPost - lex (#3318) ;
+2025-01-21T17:12:02 ;   1ada2d093 ; matthieusieben ; Fix getSubjectStatuses SQL (#3426) ;
+2025-01-21T10:55:50 ;   74ee10826 ; 41898282+github-actions[bot] ; Version packages (#3425) ; (tag: refs/tags/@atproto/xrpc-server@0.7.8, tag: refs/tags/@atproto/sync@0.1.11, tag: refs/tags/@atproto/pds@0.4.88, tag: refs/tags/@atproto/ozone@0.1.71, tag: refs/tags/@atproto/dev-env@0.3.80, tag: refs/tags/@atproto/bsky@0.0.110, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.4)
+2025-01-21T10:33:28 ;   1015d9692 ; rafael ; changeset (#3422) ;
+2025-01-20T22:00:43 ;   d3432f0a7 ; 41898282+github-actions[bot] ; Version packages (#3421) ; (tag: refs/tags/@atproto/lex-cli@0.5.6)
+2025-01-20T21:56:11 ;   6241f6b00 ; rafael ; expose resetRouteRateLimits to the req handler (#3420) ;
 2025-01-20T15:28:55 ;   d80380cb5 ; 41898282+github-actions[bot] ; Version packages (#3417) ; (tag: refs/tags/@atproto/pds@0.4.87, tag: refs/tags/@atproto/ozone@0.1.70, tag: refs/tags/@atproto/dev-env@0.3.79, tag: refs/tags/@atproto/bsky@0.0.109, tag: refs/tags/@atproto/api@0.13.29)
 2025-01-20T16:17:42 ;   50603b4f2 ; matthieusieben ; Add account and record level statistics when querring `tools.ozone.mo… (#3416) ;
 2025-01-20T15:36:02 ;   ee9779d07 ; matthieusieben ; Add account details to queryStatuses (#3236) ;
