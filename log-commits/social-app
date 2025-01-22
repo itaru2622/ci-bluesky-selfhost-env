@@ -1,3 +1,15 @@
+2025-01-22T20:01:37 ;   638008c78 ; dan.abramov ; Only show pins on Posts and Replies (#7544) ;
+2025-01-22T18:58:42 ;   9e1cd11e2 ; mozzius ; fix deprecation warning (#7540) ;
+2025-01-22T18:39:57 ;   d4cf6752d ; dan.abramov ; Minor video feed refactor (#7536) ;
+2025-01-21T18:45:33 ;   653801348 ; git ; Add videos tab to profile (#7517) ;
+2025-01-22T00:25:41 ;   1403570a6 ; dan.abramov ; Adjust decay formula (#7535) ;
+2025-01-21T22:05:33 ;   99d23d65e ; dan.abramov ; Bump to 1.97.0 (#7533) ;
+2025-01-21T15:56:01 ;   9df5caf3c ; git ; Update hashtag menu to use `Menu`, convert to native link for additional a11y and click handling (#7529) ;
+2025-01-21T21:37:44 ;   c8d062f1a ; 149612116+surfdude29 ; Tweak Cantonese language tag (#7440) ;
+2025-01-21T21:36:09 ;   f0cc83154 ; mozzius ; move indicatorStyle to `List` (#7526) ;
+2025-01-21T20:56:08 ;   f5b277c9f ; dan.abramov ; [Experiment] Add Video feed on signup (#7531) ;
+2025-01-21T13:44:31 ;   5f9f81f86 ; snowp ; Reenable bitdrift (#7405) ;
+2025-01-21T14:08:37 ;   8e00f044f ; kaytwo ; show video feeds from posts even if they are replies (#7516) ;
 2025-01-21T18:59:13 ;   45b5af604 ; mozzius ; render adjacent players on ios (#7525) ;
 2025-01-21T12:05:46 ;   bdda3020f ; git ; Some immersive video a11y fixes (#7528) ;
 2025-01-21T08:45:16 ;   76885f859 ; pfrazee ; 1.96.7 ; (tag: refs/tags/1.96.7)

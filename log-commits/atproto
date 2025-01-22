@@ -1,3 +1,6 @@
+2025-01-22T15:52:42 ;   e6bd2ad8d ; 41898282+github-actions[bot] ; Version packages (#3427) ; (tag: refs/tags/@atproto/pds@0.4.89, tag: refs/tags/@atproto/ozone@0.1.72, tag: refs/tags/@atproto/oauth-provider@0.2.14, tag: refs/tags/@atproto/dev-env@0.3.81, tag: refs/tags/@atproto/bsky@0.0.111, tag: refs/tags/@atproto/api@0.13.30)
+2025-01-22T11:17:20 ;   c5a4cdb0a ; matthieusieben ; Improve error description in case invalid DPoP nonce is used (#3415) ;
+2025-01-21T22:06:08 ;   e6e6aea38 ; rafael ; version api (#3429) ;
 2025-01-21T15:49:02 ;   c0a75d310 ; rafael ; posts_with_video filter (#3390) ;
 2025-01-21T15:35:16 ;   6b8a51e88 ; rafael ; [threadContext 2] Add threadContext to threadViewPost - backend (#3313) ;
 2025-01-21T14:36:50 ;   b1dd0504c ; rafael ; [threadContext 1] Add threadContext to threadViewPost - lex (#3318) ;
