@@ -1,3 +1,5 @@
+2025-01-24T15:29:33 ;   da7a831a7 ; matthieusieben ; Code cleanup (#3437) ;
+2025-01-24T01:53:02 ;   090451506 ; devinivy ; Add imax to contributors for disclosure (#3434) ;
 2025-01-23T15:53:38 ;   4f2841efe ; matthieusieben ; Improve error reporting in case of failed PLC update operation (#3439) ;
 2025-01-23T14:27:29 ;   3aa97a9dd ; 41898282+github-actions[bot] ; Version packages (#3438) ; (tag: refs/tags/@atproto/pds@0.4.90, tag: refs/tags/@atproto/ozone@0.1.73, tag: refs/tags/@atproto/oauth-provider@0.2.15, tag: refs/tags/@atproto/dev-env@0.3.82, tag: refs/tags/@atproto/bsky@0.0.112, tag: refs/tags/@atproto/api@0.13.31)
 2025-01-23T14:22:55 ;   8c6c7813a ; mozzius ; Allow passing `allowTakendown` to createSession (#3441) ;
