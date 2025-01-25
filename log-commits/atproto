@@ -1,3 +1,6 @@
+2025-01-24T18:49:35 ;   a8f06939f ; devinivy ; Appview: ensure takedowns on modlist authors always apply (#3192) ;
+2025-01-24T18:07:59 ;   8c777f041 ; devinivy ; Appview: add user-agent for feeds and resolving blobs (#3450) ;
+2025-01-24T14:59:31 ;   e5d4c7462 ; git ; Update confirm-email template (#2849) ;
 2025-01-24T15:29:33 ;   da7a831a7 ; matthieusieben ; Code cleanup (#3437) ;
 2025-01-24T01:53:02 ;   090451506 ; devinivy ; Add imax to contributors for disclosure (#3434) ;
 2025-01-23T15:53:38 ;   4f2841efe ; matthieusieben ; Improve error reporting in case of failed PLC update operation (#3439) ;
