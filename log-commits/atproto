@@ -1,3 +1,6 @@
+2025-01-31T12:01:17 ;   7f52e6735 ; foysal ; :sparkles: Mark appeals as resolved when takedown is issued (#3352) ;
+2025-01-31T11:48:10 ;   d377d1a9b ; foysal ; :sparkles: Allow creating labels with expiry (#3476) ;
+2025-01-31T11:46:45 ;   8fd5dcea9 ; foysal ; :bug: Add account, record and identity events to the list of allowed event filter (#3464) ;
 2025-01-27T01:06:06 ;   cc2a1222b ; matthieusieben ; Fix did:web encoding/decoding (#3454) ;
 2025-01-26T22:24:27 ;   fb64d50ee ; matthieusieben ; Explicitly allow "undefined" values in `headers` (#3456) ;
 2025-01-26T22:24:03 ;   8810885b8 ; matthieusieben ; fix pds tests flakiness (#3463) ;
