@@ -1,2 +1,5 @@
+2025-02-03T11:38:36 ;   2523740bd ; mozzius ; change search cancel behaviour (#7624) ;
+2025-02-03T11:38:09 ;   b27a11cc1 ; mozzius ; reduce padding on video overlay (#7617) ;
+2025-02-03T13:06:37 ;   1ec0d1172 ; 149612116+surfdude29 ; Typo fix (#7637) ;
 2025-01-27T13:37:44 ;   ea932534d ; mozzius ; no follow self (#7606) ;
 2025-01-26T15:40:02 ;   ebb6d5cc0 ; me ; env var tweaks (#7457) ;
