@@ -1,0 +1,11 @@
+2025-02-12T19:17:58 ;   521a764d4 ; mozzius ; fix quote & feed padding not being pressable (#7694) ;
+2025-02-12T16:00:56 ;   7d694f605 ; mozzius ; ungate trending (#7696) ;
+2025-02-12T15:38:04 ;   0d1d0d8fb ; mozzius ; run prettier (#7727) ;
+2025-02-11T22:26:28 ;   1ffdd668d ; 1270099+pfrazee ; Nightly source-language update ;
+2025-02-11T14:22:59 ;   94e35ee3e ; pfrazee ; Add deploy key to nightly commit (#7722) ;
+2025-02-11T16:07:10 ;   459611ca7 ; git ; [APP-1031] Add new followerRule to threadgate settings (#7681) ;
+2025-02-11T13:52:28 ;   03f75e8ff ; pfrazee ; Fix bug in GH action nightly-update-source-languages.yaml ;
+2025-02-11T13:47:46 ;   3ab5c6a71 ; pfrazee ; More i18n process updates (#7720) ;
+2025-02-11T13:11:25 ;   accd1834b ; pfrazee ; Run intl:extract on english to see if crowdin picks up on the changes ;
+2025-02-12T06:07:00 ;   b1cc4a5e9 ; itoupluk427 ; Refine accessibilityHint (#7554) ;
+2025-02-11T12:51:19 ;   eabe3ed23 ; pfrazee ; Add language: Interlingua (#7715) ;
