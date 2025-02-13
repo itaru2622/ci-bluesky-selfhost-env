@@ -1,3 +1,13 @@
+2025-02-13T14:56:12 ;   a3f79cc71 ; mozzius ; Revert "fix quote & feed padding not being pressable (#7694)" (#7733) ;
+2025-02-13T02:27:57 ;   ae8ddc2c4 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-02-13T01:11:13 ;   d56efe250 ; the.tomsherman ; Add dev mode for easy copying of at:// URIs and DIDs (#7723) ;
+2025-02-13T00:00:45 ;   db25f95c3 ; mozzius ; Improved search language select (#7591) ;
+2025-02-12T22:48:29 ;   b37199a5a ; mozzius ; Improved search page (#7590) ;
+2025-02-12T21:51:16 ;   1a3ecdf6e ; mozzius ; Animate drawer menu on mobile web (#7711) ;
+2025-02-12T21:34:21 ;   66f5e3a83 ; mozzius ; Special treatment for recommended starter packs (#7706) ;
+2025-02-12T21:33:24 ;   5a865a504 ; mozzius ; invert new postonboarding gate (#7695) ;
+2025-02-12T21:20:08 ;   ff2a82d35 ; mozzius ; Animate dropdown menus (#7704) ;
+2025-02-12T21:18:26 ;   5d3e2e146 ; mozzius ; Better animations for dialogs, animate web composer (#7703) ;
 2025-02-12T19:17:58 ;   521a764d4 ; mozzius ; fix quote & feed padding not being pressable (#7694) ;
 2025-02-12T16:00:56 ;   7d694f605 ; mozzius ; ungate trending (#7696) ;
 2025-02-12T15:38:04 ;   0d1d0d8fb ; mozzius ; run prettier (#7727) ;
