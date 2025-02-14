@@ -1,3 +1,10 @@
+2025-02-14T12:03:45 ;   a154459b8 ; pfrazee ; 1.98 release: Pull latest from crowdin (#7746) ;
+2025-02-14T19:52:53 ;   d793abf8c ; mozzius ; [Instrumentation] Signin (#7742) ;
+2025-02-14T19:50:08 ;   11616846c ; mozzius ; Reenable router events (#7735) ;
+2025-02-14T02:28:00 ;   a14704ddf ; 1270099+pfrazee ; Nightly source-language update ;
+2025-02-13T15:59:30 ;   22a902e0d ; git ; Bitdrift integration (#7728) ;
+2025-02-13T15:57:55 ;   99051f0ab ; git ; Use effective filtering for feeds (#7736) ;
+2025-02-14T05:48:44 ;   f45f9afab ; itoupluk427 ; Update PostInteractionSettingsDialog.tsx (#7726) ;
 2025-02-13T14:56:12 ;   a3f79cc71 ; mozzius ; Revert "fix quote & feed padding not being pressable (#7694)" (#7733) ;
 2025-02-13T02:27:57 ;   ae8ddc2c4 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-02-13T01:11:13 ;   d56efe250 ; the.tomsherman ; Add dev mode for easy copying of at:// URIs and DIDs (#7723) ;

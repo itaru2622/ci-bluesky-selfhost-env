@@ -1,3 +1,14 @@
+2025-02-14T14:24:57 ;   f1d323a6e ; 41898282+github-actions[bot] ; Version packages (#3539) ; (tag: refs/tags/@atproto/pds@0.4.97, tag: refs/tags/@atproto/oauth-provider@0.3.1, tag: refs/tags/@atproto/dev-env@0.3.89)
+2025-02-14T14:20:18 ;   bde6f71c4 ; matthieusieben ; Mark "userAgent" as optional in `RequestMetadata` (#3538) ;
+2025-02-14T10:57:36 ;   a3d2204a7 ; 41898282+github-actions[bot] ; Version packages (#3533) ; (tag: refs/tags/@atproto/pds@0.4.96, tag: refs/tags/@atproto/ozone@0.1.79, tag: refs/tags/@atproto/oauth-provider@0.3.0, tag: refs/tags/@atproto/lex-cli@0.6.1, tag: refs/tags/@atproto/dev-env@0.3.88, tag: refs/tags/@atproto/bsky@0.0.118, tag: refs/tags/@atproto/api@0.14.1)
+2025-02-14T10:49:42 ;   3f58dd0e7 ; matthieusieben ; changeset for Appview: apply needs-review to individual records (#3537) ;
+2025-02-14T10:15:33 ;   ba5bb6e66 ; matthieusieben ; Add missing changeset for bugfix in api package (#3535) ;
+2025-02-14T10:10:10 ;   175f89f8f ; matthieusieben ; Fix lex-cli Windows compatibility (#3534) ;
+2025-02-14T09:53:53 ;   e69e89a03 ; matthieusieben ; Properly compute sleep time in contantTime util (#3514) ;
+2025-02-14T09:44:07 ;   20e57bacf ; matthieusieben ; Improve indexing for chat.bsky.moderation.getMessageContext (#3520) ;
+2025-02-14T17:41:28 ;   eb83ae176 ; t28.is.tatsuya ; fix(api): pass refreshJwt to `deleteSession` on `logout()` (#3530) ;
+2025-02-14T09:38:57 ;   6ea9c961a ; matthieusieben ; Rework of authorization request hooks (#3525) ;
+2025-02-13T22:56:50 ;   3c7976a0d ; devinivy ; Appview: apply needs-review to individual records (#3532) ;
 2025-02-13T10:34:01 ;   809c7ac5e ; rafael ; Label expiration (#3510) ;
 2025-02-13T15:27:09 ;   03351a581 ; 41898282+github-actions[bot] ; Version packages (#3529) ; (tag: refs/tags/@atproto/xrpc@0.6.9, tag: refs/tags/@atproto/xrpc-server@0.7.11, tag: refs/tags/@atproto/syntax@0.3.3, tag: refs/tags/@atproto/sync@0.1.14, tag: refs/tags/@atproto/repo@0.6.5, tag: refs/tags/@atproto/pds@0.4.95, tag: refs/tags/@atproto/ozone@0.1.78, tag: refs/tags/@atproto/oauth-client@0.3.10, tag: refs/tags/@atproto/oauth-client-node@0.2.11, tag: refs/tags/@atproto/oauth-client-browser@0.3.10, tag: refs/tags/@atproto/lexicon@0.4.7, tag: refs/tags/@atproto/lex-cli@0.6.0, tag: refs/tags/@atproto/dev-env@0.3.87, tag: refs/tags/@atproto/bsync@0.0.14, tag: refs/tags/@atproto/bsky@0.0.117, tag: refs/tags/@atproto/aws@0.2.15, tag: refs/tags/@atproto/api@0.14.0, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.7, tag: refs/tags/@atproto-labs/identity-resolver@0.1.13)
 2025-02-13T15:21:00 ;   c53d943c8 ; matthieusieben ; Improve codegen typings (#2999) ;
