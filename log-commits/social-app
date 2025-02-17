@@ -1,0 +1,2 @@
+2025-02-18T01:52:06 ;   d805dec08 ; itoupluk427 ; Fix "log in", "log out" to "sign in", "sign out" (#7739) ;
+2025-02-17T07:31:40 ;   326445d3a ; me ; Make Android app start faster by disabling JS bundle compression (#7751) ;
