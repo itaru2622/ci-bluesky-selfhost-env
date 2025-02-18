@@ -1,2 +1,8 @@
+2025-02-18T09:45:46 ;   da45c42b6 ; git ; [APP-1049] show label expiration in frontend (#7738) ;
+2025-02-18T09:45:37 ;   63ba0a436 ; git ; [APP-1054] Add option to align web dialogs to top (#7760) ;
+2025-02-18T08:54:25 ;   a51fc8e43 ; git ; `@atproto/api@next` integration (#7344) ;
+2025-02-17T19:55:40 ;   e2c0f7871 ; pfrazee ; Fix mapping (#7767) ;
+2025-02-17T19:52:17 ;   4146f9fe0 ; pfrazee ; Update i18n release process to solve missing translations (#7766) ;
+2025-02-18T02:27:08 ;   a28791680 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-02-18T01:52:06 ;   d805dec08 ; itoupluk427 ; Fix "log in", "log out" to "sign in", "sign out" (#7739) ;
 2025-02-17T07:31:40 ;   326445d3a ; me ; Make Android app start faster by disabling JS bundle compression (#7751) ;
