@@ -1,3 +1,7 @@
+2025-02-19T10:20:10 ;   88ce852a8 ; 41898282+github-actions[bot] ; Version packages (#3556) ; (tag: refs/tags/@atproto/ozone@0.1.81, tag: refs/tags/@atproto/dev-env@0.3.91)
+2025-02-19T10:16:21 ;   6faf3eb25 ; matthieusieben ; Add vscode settings and recommended extensions (#3507) ;
+2025-02-19T09:15:58 ;   7449f8607 ; foysal ; :sparkles: Allow filtering ozone team list by role and status (#3554) ;
+2025-02-19T09:44:01 ;   7b9361835 ; 41898282+github-actions[bot] ; Version packages (#3548) ; (tag: refs/tags/@atproto/pds@0.4.98, tag: refs/tags/@atproto/ozone@0.1.80, tag: refs/tags/@atproto/dev-env@0.3.90, tag: refs/tags/@atproto/bsky@0.0.119, tag: refs/tags/@atproto/api@0.14.2)
 2025-02-18T15:23:02 ;   a9887f687 ; foysal ; :memo: Add changeset for ozone reporter stats feature (#3546) ;
 2025-02-17T21:28:00 ;   afb3e1cd6 ; bnewbold ; update CONTRIBUTORS.md (#3549) ;
 2025-02-17T21:15:35 ;   010f10c6f ; bnewbold ; com.atproto.sync.listReposByCollection Lexicon, for collections directory (#3524) ;

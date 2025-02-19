@@ -1,3 +1,5 @@
+2025-02-19T02:28:13 ;   48fd397d4 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-02-18T17:25:59 ;   f23a621c7 ; git ; Remove shadowed follow gate handling (#7774) ;
 2025-02-18T09:45:46 ;   da45c42b6 ; git ; [APP-1049] show label expiration in frontend (#7738) ;
 2025-02-18T09:45:37 ;   63ba0a436 ; git ; [APP-1054] Add option to align web dialogs to top (#7760) ;
 2025-02-18T08:54:25 ;   a51fc8e43 ; git ; `@atproto/api@next` integration (#7344) ;
