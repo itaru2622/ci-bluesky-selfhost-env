@@ -1,3 +1,6 @@
+2025-02-20T11:50:24 ;   01874c4be ; bnewbold ; lexicons: use 'tid' and 'record-key' formats in sync+repo lexicons (#2378) ;
+2025-02-20T12:24:19 ;   2c0435f4e ; dtholmgren ; Emit `identity` event on `activateAccount` (#3560) ;
+2025-02-19T16:10:51 ;   8b2f0a62c ; bnewbold ; update year to 2025 (#3559) ;
 2025-02-19T10:20:10 ;   88ce852a8 ; 41898282+github-actions[bot] ; Version packages (#3556) ; (tag: refs/tags/@atproto/ozone@0.1.81, tag: refs/tags/@atproto/dev-env@0.3.91)
 2025-02-19T10:16:21 ;   6faf3eb25 ; matthieusieben ; Add vscode settings and recommended extensions (#3507) ;
 2025-02-19T09:15:58 ;   7449f8607 ; foysal ; :sparkles: Allow filtering ozone team list by role and status (#3554) ;
