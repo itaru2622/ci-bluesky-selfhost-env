@@ -1,3 +1,15 @@
+2025-02-21T20:39:57 ;   cb85768e9 ; 75842491+NicolasBorlet ; fix: click on our profile when seeing someone's profile (#7732) ;
+2025-02-21T11:25:42 ;   ca7116ec3 ; mozzius ; connect inputs together in signup (#7809) ;
+2025-02-21T11:13:21 ;   80e59d31d ; mozzius ; npx update-browserslist-db@latest (#7677) ;
+2025-02-21T11:12:51 ;   ca70aacb8 ; mozzius ; Mute account from post (#7712) ;
+2025-02-21T11:10:51 ;   e6bfeb1ba ; mozzius ; Fix android datepicker height (#7804) ;
+2025-02-21T11:10:33 ;   3b4f1e91e ; mozzius ; consistent sentence case captialisation (#7749) ;
+2025-02-21T10:59:27 ;   fff625167 ; mozzius ; set minimum birthday to 13 years ago (#7808) ;
+2025-02-21T10:59:08 ;   5d30111b7 ; mozzius ; Get sheet padding working consistently (#7798) ;
+2025-02-21T08:42:21 ;   798bf4782 ; mozzius ; fix handle length error message (#7802) ;
+2025-02-20T22:15:11 ;   b0f7f51b0 ; pfrazee ; Set branch to main on crowdin nightly push ;
+2025-02-20T22:02:26 ;   ea9f2dfbd ; pfrazee ; Fix bad indent ;
+2025-02-20T22:00:32 ;   1fda7d055 ; pfrazee ; Add crowdin nightly push (#7799) ;
 2025-02-20T02:28:35 ;   7ff65df41 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-02-19T16:12:51 ;   f8f88878d ; bnewbold ; makefile: bump nvm to use node 20 (#7324) ;
 2025-02-19T12:52:58 ;   8f63cb86b ; pfrazee ; Update intl:build to extract for all languages (#7787) ;

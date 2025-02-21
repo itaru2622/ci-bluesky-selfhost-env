@@ -1,3 +1,7 @@
+2025-02-21T16:42:38 ;   27bff80a9 ; 41898282+github-actions[bot] ; Version packages (#3565) ; (tag: refs/tags/@atproto/pds@0.4.100, tag: refs/tags/@atproto/ozone@0.1.83, tag: refs/tags/@atproto/dev-env@0.3.93, tag: refs/tags/@atproto/bsky@0.0.121, tag: refs/tags/@atproto/api@0.14.4)
+2025-02-21T16:11:17 ;   b9cb049d9 ; foysal ; :bug: Add missing divert event to list of events on emitEvent (#3561) ;
+2025-02-21T11:22:50 ;   36ad5b1e8 ; 41898282+github-actions[bot] ; Version packages (#3563) ; (tag: refs/tags/@atproto/pds@0.4.99, tag: refs/tags/@atproto/ozone@0.1.82, tag: refs/tags/@atproto/dev-env@0.3.92, tag: refs/tags/@atproto/bsky@0.0.120, tag: refs/tags/@atproto/api@0.14.3)
+2025-02-21T05:01:37 ;   22af31a89 ; rafael ; Update chat lexicons (#3564) ;
 2025-02-20T11:50:24 ;   01874c4be ; bnewbold ; lexicons: use 'tid' and 'record-key' formats in sync+repo lexicons (#2378) ;
 2025-02-20T12:24:19 ;   2c0435f4e ; dtholmgren ; Emit `identity` event on `activateAccount` (#3560) ;
 2025-02-19T16:10:51 ;   8b2f0a62c ; bnewbold ; update year to 2025 (#3559) ;
