@@ -1,4 +1,1 @@
-2025-02-21T18:07:49 ;   3876678 ; foysal ; :sparkles: Upgrade atproto/api sdk to 0.14.2 and refactor (#294) ;
-2025-02-19T16:11:00 ;   1cf86e8 ; bnewbold ; update year to 2025 (#293) ;
-2025-02-18T19:31:55 ;   13c6f6e ; foysal ; ❇️ Add reposters to workspace (#290) ;
-2025-02-17T14:46:52 ;   8402a0c ; foysal ; :sparkle: Increase search result page size for actor and post (#289) ;
+2025-02-22T11:53:34 ;   c53770e ; foysal ; :sparkles: Add role and status filter for team list (#291) ;
