@@ -1,0 +1,3 @@
+2025-02-24T14:29:37 ;   95299e0f6 ; 41898282+github-actions[bot] ; Version packages (#3566) ; (tag: refs/tags/@atproto/sync@0.1.15, tag: refs/tags/@atproto/repo@0.7.0, tag: refs/tags/@atproto/pds@0.4.101, tag: refs/tags/@atproto/ozone@0.1.84, tag: refs/tags/@atproto/dev-env@0.3.94, tag: refs/tags/@atproto/bsky@0.0.122, tag: refs/tags/@atproto/aws@0.2.16, tag: refs/tags/@atproto/api@0.14.5)
+2025-02-24T13:19:06 ;   9b643fbec ; foysal ; :memo: Make comment property optional on ozone comment event (#3572) ;
+2025-02-24T13:15:20 ;   5e6112615 ; foysal ; :bug: Store empty comment for ozone events (#3571) ;
