@@ -1,3 +1,9 @@
+2025-02-26T15:36:53 ;   b996b304c ; 149612116+surfdude29 ; Tweak accessibility label and add translation comment (#7843) ;
+2025-02-27T00:36:31 ;   ec75cbc01 ; itoupluk427 ; Modify hosting provider text for better localization (#7847) ;
+2025-02-26T07:33:27 ;   b924c53b2 ; sethlwood ; Fix for avatar preloading (#7816) ;
+2025-02-26T06:24:19 ;   c5b831d5d ; mozzius ; Bump version (#7846) ;
+2025-02-26T02:32:31 ;   3795d8559 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-02-25T17:50:01 ;   7dc8ba8e4 ; mozzius ; label pref alignment (#7844) ;
 2025-02-25T11:12:38 ;   22aee9704 ; mozzius ; improve toasts on oled dark mode (#7842) ;
 2025-02-25T10:27:11 ;   3409a7254 ; mozzius ; Add soft reset to chat list (#7771) ;
 2025-02-25T17:54:20 ;   595a89455 ; 149612116+surfdude29 ; translate hosting provider text (#7834) ;
