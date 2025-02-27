@@ -1,3 +1,4 @@
+2025-02-26T14:36:58 ;   dc6e4ecb0 ; bnewbold ; lex: add more identity helpers (#2264) ;
 2025-02-26T11:20:07 ;   48b0a6f7b ; devinivy ; Appview: etcd-backed dataplane host list (#3586) ;
 2025-02-26T10:12:09 ;   e5d72e8d1 ; 41898282+github-actions[bot] ; Version packages (#3584) ; (tag: refs/tags/@atproto/pds@0.4.104, tag: refs/tags/@atproto/ozone@0.1.86, tag: refs/tags/@atproto/dev-env@0.3.97, tag: refs/tags/@atproto/bsky@0.0.124, tag: refs/tags/@atproto/api@0.14.7)
 2025-02-26T09:00:57 ;   11d8d21be ; git ; [APP-1072] Support labeler declaration fields on app view responses (#3579) ;
