@@ -1,3 +1,8 @@
+2025-02-28T12:46:27 ;   36a7a8d8c ; git ; Colocate bitdrift in logger, use logger for transport (#7868) ;
+2025-02-28T12:09:36 ;   7c36ea115 ; git ; Logger improvements (#7729) ;
+2025-02-28T17:49:01 ;   9e9ffd5c6 ; 149612116+surfdude29 ; fix label (#7856) ;
+2025-02-28T02:33:23 ;   3f963cfed ; 1270099+pfrazee ; Nightly source-language update ;
+2025-02-27T13:18:30 ;   a2b71e3a4 ; me ; tweak link handling (#7857) ;
 2025-02-27T02:33:08 ;   a3d36393a ; 1270099+pfrazee ; Nightly source-language update ;
 2025-02-26T15:36:53 ;   b996b304c ; 149612116+surfdude29 ; Tweak accessibility label and add translation comment (#7843) ;
 2025-02-27T00:36:31 ;   ec75cbc01 ; itoupluk427 ; Modify hosting provider text for better localization (#7847) ;
