@@ -1,4 +1,10 @@
+2025-03-05T10:03:37 ;   cf9da65d ; bnewbold ; refactor event persist implementations in to sub-packages (#968) ;
+2025-03-05T03:30:39 ;   39139875 ; jakub.suder ; added missing connection close in splitter ;
+2025-03-04T14:50:40 ;   3ceb27fe ; bnewbold ; remove a bunch of indexer functionality (#971) ;
+2025-03-04T14:50:22 ;   ad5bcded ; bnewbold ; remove `./cmd/laputa` (#973) ;
 2025-03-04T10:39:54 ;   a5758cf2 ; bnewbold ; remove deadcode (2025-03-03) (#972) ;
+2025-03-03T21:48:14 ;   c694fc92 ; bnewbold ; updates for refactored persist ;
+2025-03-03T20:41:36 ;   f64c9abc ; bnewbold ; refactor persisters in to sub-packages ;
 2025-03-03T22:49:18 ;   8f5088c2 ; bnewbold ; remove more pds dead code ;
 2025-03-03T22:45:06 ;   341585e9 ; bnewbold ; pds: remove unused (and incorrect) createCrossServerAuthToken ;
 2025-03-03T22:43:59 ;   6acd8ada ; bnewbold ; bgs: remove unused (and confusing) stub lists ;
@@ -10,6 +16,13 @@
 2025-03-04T01:12:44 ;   c2959122 ; bnewbold ; inductive firehose interop tests (#963) ;
 2025-03-04T01:10:42 ;   85d4bb65 ; bnewbold ; remove notifs package (#970) ;
 2025-03-04T01:10:30 ;   7a010d0c ; bnewbold ; move all sonar code in to ./cmd/sonar/ (#969) ;
+2025-03-03T23:12:47 ;   a4115443 ; bnewbold ; comment out some test checks which rely on BGS indexing ;
+2025-03-03T22:54:06 ;   70ca3f6b ; bnewbold ; remove mentions of laputa ;
+2025-03-03T22:52:14 ;   72a7d865 ; bnewbold ; remove laputa command (PDS) ;
+2025-03-03T22:26:06 ;   569c85ba ; bnewbold ; updates for indexer simplification ;
+2025-03-03T22:25:45 ;   ec73bfe2 ; bnewbold ; remove indexer spidering and aggregation entirely ;
+2025-03-03T22:17:08 ;   040ad3e7 ; bnewbold ; testing: fix feed.vote references ;
+2025-03-03T22:15:24 ;   c33cf56a ; bnewbold ; indexer: rip out a bunch of record processing code ;
 2025-03-03T22:02:28 ;   25aba9fa ; bnewbold ; rip out notifs code ;
 2025-03-03T21:58:43 ;   403cb000 ; bnewbold ; delete notifs package ;
 2025-03-03T21:55:53 ;   1b0e7b60 ; bnewbold ; move all sonar code in to ./cmd/sonar/ ;
