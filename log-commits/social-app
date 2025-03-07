@@ -1,3 +1,14 @@
+2025-03-07T10:32:10 ;   d155b718b ; pfrazee ; Run intl:extract:all ;
+2025-03-07T12:07:04 ;   166c56c4c ; git ; Fix translation def (#7934) ;
+2025-03-07T08:41:50 ;   131578ca3 ; pfrazee ; Run intl:pull ; (tag: refs/tags/1.99.0)
+2025-03-07T10:34:14 ;   0014b8b9c ; git ; Small revert to be on the safe side (#7932) ;
+2025-03-07T16:20:55 ;   f06a78017 ; mozzius ; fix autocomplete (#7930) ;
+2025-03-06T22:21:54 ;   27ae82969 ; git ; Add plugin to bump gradle jvm heap size (#7922) ;
+2025-03-06T19:45:29 ;   ada2ac8b9 ; pfrazee ; Release 1.99 prep (#7925) ;
+2025-03-06T21:14:00 ;   fd8ac1da7 ; git ; Catch thrown error for autoplay in Safari (#7921) ;
+2025-03-07T02:34:14 ;   beb0fce56 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-03-06T23:54:40 ;   ac43b666c ; mozzius ; Fix text not wrapping in social proof (#7920) ;
+2025-03-06T12:20:48 ;   618c4e4a5 ; me ; add some metrics for labelers (#7747) ;
 2025-03-06T19:49:51 ;   153fc1767 ; mozzius ; tweak ci (#7916) ;
 2025-03-06T12:14:58 ;   8eb1f8f1f ; git ; Merge #7903 (#7917) ;
 2025-03-06T10:10:39 ;   da2b6f479 ; sethlwood ; fixing moderation blur gap when replying via the thread feed (#7783) ;
