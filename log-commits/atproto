@@ -1,1 +1,5 @@
+2025-03-10T11:47:27 ;   c501715b0 ; 4201229+tcyrus ; lex-cli: Fix TS Errors with codegen (#3282) ;
+2025-03-10T15:43:11 ;   5ada66ceb ; matthieusieben ; OAuth sign-up fixes (#3621) ;
+2025-03-10T15:19:25 ;   0ae7f416e ; matthieusieben ; Emit "sync" event on account creation through OAuth (#3624) ;
+2025-03-10T14:58:35 ;   9e3eace8f ; matthieusieben ; Validate OAuth sign-up handle using @atproto/syntax (#3622) ;
 2025-03-09T16:21:32 ;   7a7f2c43a ; foysal ; :bug: include takendown list members for admins (#3609) ;
