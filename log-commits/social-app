@@ -1,0 +1,4 @@
+2025-03-11T12:50:17 ;   490e38127 ; me ; encode url (#7968) ;
+2025-03-11T19:21:27 ;   26fb0a7f1 ; mozzius ; fix iframe transparency by unspecifying color-scheme (#7967) ;
+2025-03-11T18:04:06 ;   94d7bc986 ; mozzius ; Fix color theme for embed (#7965) ;
+2025-03-11T16:37:53 ;   8cb55adf8 ; mozzius ; fix submit behaviour (#7959) ;

@@ -1,1 +1,4 @@
+2025-03-11T11:33:38 ;   cb0394f3 ; bnewbold ; allow `goat firehose` to accept source url as positional arg (#980) ;
+2025-03-11T01:40:54 ;   d7166a4c ; brian.olson ; error on suprious positional args ;
+2025-03-11T01:39:03 ;   722d6181 ; brian.olson ; allow `goat firehose` to accept source url as positional arg ;
 2025-03-06T16:16:52 ;   aa8c2ee9 ; brian.olson ; use ipld cbor Blockstore interface ;
