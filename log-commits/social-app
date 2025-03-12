@@ -1,3 +1,8 @@
+2025-03-12T13:59:21 ;   597e3c1ab ; 149612116+surfdude29 ; tweak label (#7937) ;
+2025-03-12T15:58:57 ;   5e1c262ed ; 64747363+omar0404 ; fix: Account switcher shows outdated profile name (#7969) ;
+2025-03-12T02:34:05 ;   810e85c07 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-03-11T22:56:40 ;   d16c80d92 ; 149612116+surfdude29 ; Update `VideoTooLargeError` strings (#7923) ;
+2025-03-11T20:12:49 ;   e7212f990 ; mozzius ; clean up logic for showing request buttons (#7964) ;
 2025-03-11T12:50:17 ;   490e38127 ; me ; encode url (#7968) ;
 2025-03-11T19:21:27 ;   26fb0a7f1 ; mozzius ; fix iframe transparency by unspecifying color-scheme (#7967) ;
 2025-03-11T18:04:06 ;   94d7bc986 ; mozzius ; Fix color theme for embed (#7965) ;
