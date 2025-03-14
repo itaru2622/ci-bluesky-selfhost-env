@@ -1,3 +1,7 @@
+2025-03-14T12:08:19 ;   5bff031e7 ; git ; A few good metrics (#7897) ;
+2025-03-14T10:28:02 ;   9cea7f039 ; git ; Fix missing RecordWithMedia media embed preview in notifications view (#7988) ;
+2025-03-14T10:27:45 ;   dcc8b3514 ; git ; Add checks for invalid syntax post-i18n builds (#7935) ;
+2025-03-14T02:33:55 ;   cb54c9833 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-03-13T17:50:26 ;   1f1c1cfbc ; mozzius ; Filter deleted convos from inbox (#7944) ;
 2025-03-13T17:46:24 ;   6cbd9fbc4 ; mozzius ; Fix lists tab appearing when user has a starterpack but no lists (#7952) ;
 2025-03-13T17:44:14 ;   c7ba0e4f6 ; mozzius ; fix newskie dialog width (#7949) ;
