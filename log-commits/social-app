@@ -1,3 +1,4 @@
+2025-03-14T13:36:01 ;   799205e6c ; pfrazee ; Update i18n (#7992) ;
 2025-03-14T12:08:19 ;   5bff031e7 ; git ; A few good metrics (#7897) ;
 2025-03-14T10:28:02 ;   9cea7f039 ; git ; Fix missing RecordWithMedia media embed preview in notifications view (#7988) ;
 2025-03-14T10:27:45 ;   dcc8b3514 ; git ; Add checks for invalid syntax post-i18n builds (#7935) ;
@@ -13,7 +14,3 @@
 2025-03-12T02:34:05 ;   810e85c07 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-03-11T22:56:40 ;   d16c80d92 ; 149612116+surfdude29 ; Update `VideoTooLargeError` strings (#7923) ;
 2025-03-11T20:12:49 ;   e7212f990 ; mozzius ; clean up logic for showing request buttons (#7964) ;
-2025-03-11T12:50:17 ;   490e38127 ; me ; encode url (#7968) ;
-2025-03-11T19:21:27 ;   26fb0a7f1 ; mozzius ; fix iframe transparency by unspecifying color-scheme (#7967) ;
-2025-03-11T18:04:06 ;   94d7bc986 ; mozzius ; Fix color theme for embed (#7965) ;
-2025-03-11T16:37:53 ;   8cb55adf8 ; mozzius ; fix submit behaviour (#7959) ;
