@@ -1,3 +1,7 @@
+2025-02-24T06:38:52 ;   0d12453b ; brian.olson ; collectiondir more metrics ;
+2025-03-14T07:59:08 ;   6edaedd1 ; brian.olson ; PR tweaks and fixes ;
+2025-03-13T07:44:17 ;   c6370ea6 ; brian.olson ; cleanup upstream url handling --splitter-host should work for any http/https/ws/wss url ;
+2025-03-12T14:21:28 ;   6aa979fa ; brian.olson ; medsky radical trim of bigsky (relay) sync 1.1 induction firehose add getRepo 302 redirect note subscribeRepos message deprecation time-seq rename everything from 'bigsky' to 'relay' don't bounce auth key off db handleFedEvent clean-er deprecated {handle,migrate,tombstone} BGS.createExternalUser() is now syncPDSAccount() metric events_warn_counter{pds,warn} a bunch of rename 'user' to 'account' tiny ram blockstore even more minimal than ipld/ipfs do deprecate migrate/handle/tombstone (but don't delete yet so we have the option of measuring stale data received) ;
 2025-03-12T17:07:55 ;   d9a74f69 ; bnewbold ; relay admin helper commands (#985) ;
 2025-03-12T17:07:15 ;   17b7770b ; bnewbold ; update `goat` to work with sync v1.1 (#982) ;
 2025-03-11T18:45:14 ;   50333c51 ; bnewbold ; goat: support #sync event ;

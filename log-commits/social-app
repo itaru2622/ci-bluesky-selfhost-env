@@ -1,3 +1,4 @@
+2025-03-17T12:18:59 ;   4b7bda705 ; git ; Don't poll for latest for Discover (#7993) ;
 2025-03-14T13:36:01 ;   799205e6c ; pfrazee ; Update i18n (#7992) ;
 2025-03-14T12:08:19 ;   5bff031e7 ; git ; A few good metrics (#7897) ;
 2025-03-14T10:28:02 ;   9cea7f039 ; git ; Fix missing RecordWithMedia media embed preview in notifications view (#7988) ;
