@@ -1,3 +1,11 @@
+2025-03-17T23:02:34 ;   4bd8faf4 ; bnewbold ; goat: verify sync v1.1 firehose (#988) ;
+2025-03-17T22:57:14 ;   2bc49551 ; bnewbold ; rename LoadCommitFromCAR to match relay impl ;
+2025-03-13T17:46:10 ;   88c00ec8 ; bnewbold ; goat: add firehose verify args ;
+2025-03-13T17:45:04 ;   20f86dec ; bnewbold ; remove noisy 'success' log in verification example ;
+2025-03-13T17:44:44 ;   a94a2f58 ; bnewbold ; FIXUP: label ;
+2025-03-13T16:18:10 ;   34fba308 ; bnewbold ; goat: print #sync commit data ;
+2025-03-13T16:17:48 ;   58ef851c ; bnewbold ; label-as-data helper (for JSON out) ;
+2025-03-13T16:11:12 ;   dc9a0cd2 ; bnewbold ; commit-as-data helper (for JSON export) ;
 2025-02-24T06:38:52 ;   0d12453b ; brian.olson ; collectiondir more metrics ;
 2025-03-14T07:59:08 ;   6edaedd1 ; brian.olson ; PR tweaks and fixes ;
 2025-03-13T07:44:17 ;   c6370ea6 ; brian.olson ; cleanup upstream url handling --splitter-host should work for any http/https/ws/wss url ;
