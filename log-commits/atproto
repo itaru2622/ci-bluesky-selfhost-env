@@ -1,2 +1,5 @@
+2025-03-19T16:52:41 ;   c20a3f068 ; matthieu.sieben ; fix pds image build ;
+2025-03-19T09:19:27 ;   cc4122652 ; matthieusieben ; Split OAuth Provider's ui into its own package (#3640) ;
+2025-03-19T08:42:45 ;   03fc0aa27 ; matthieu.sieben ; Improve password reset error reporting during OAuth ;
 2025-03-12T10:17:10 ;   670b6b5de ; bnewbold ; add missing changeset (#3635) ;
 2025-03-11T18:04:14 ;   a07aca973 ; bnewbold ; syntax: update to allow non-leading digits in NSID 'name' part (#3633) ;
