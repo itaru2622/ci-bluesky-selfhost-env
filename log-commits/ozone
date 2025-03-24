@@ -1,0 +1,1 @@
+2025-03-23T21:13:08 ;   d0cfb75 ; foysal ; :bug: Escape special chars more aggressively when exporting to csv (#319) ;

@@ -1,0 +1,5 @@
+2025-03-24T21:55:05 ;   412b10742 ; mozzius ; Extract center column offset, reduce by 20px (#7974) ;
+2025-03-24T21:45:43 ;   1b8719293 ; 64747363+omar0404 ; fix:Conversations don't refresh when going offline and back online (#7985) ;
+2025-03-24T21:11:13 ;   dba6f4bb1 ; mozzius ; Revert "Small revert to be on the safe side (#7932)" (#7958) ;
+2025-03-24T20:07:56 ;   6a5770ee8 ; hi ; change touch device detection method (#5919) ;
+2025-03-24T19:17:35 ;   7daf7a703 ; mozzius ; haptics on external link card (#8049) ;
