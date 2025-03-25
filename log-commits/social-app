@@ -1,3 +1,5 @@
+2025-03-25T02:35:58 ;   5dc4f0450 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-03-24T22:23:27 ;   a48e64e72 ; mozzius ; make the sidebar smaller when offset, reduce total offset (#8052) ;
 2025-03-24T21:55:05 ;   412b10742 ; mozzius ; Extract center column offset, reduce by 20px (#7974) ;
 2025-03-24T21:45:43 ;   1b8719293 ; 64747363+omar0404 ; fix:Conversations don't refresh when going offline and back online (#7985) ;
 2025-03-24T21:11:13 ;   dba6f4bb1 ; mozzius ; Revert "Small revert to be on the safe side (#7932)" (#7958) ;
