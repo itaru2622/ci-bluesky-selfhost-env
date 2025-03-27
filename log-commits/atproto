@@ -1,3 +1,7 @@
+2025-03-27T17:03:04 ;   01c5e636e ; 41898282+github-actions[bot] ; Version packages (#3682) ; (tag: refs/tags/@atproto/pds@0.4.113, tag: refs/tags/@atproto/oauth-provider@0.6.2, tag: refs/tags/@atproto/dev-env@0.3.106)
+2025-03-27T16:46:21 ;   a5a760c1f ; matthieusieben ; Allow null hostname in hcaptcha result (#3681) ;
+2025-03-27T16:32:00 ;   d0747e837 ; 41898282+github-actions[bot] ; Version packages (#3679) ; (tag: refs/tags/@atproto/pds@0.4.112, tag: refs/tags/@atproto/ozone@0.1.92, tag: refs/tags/@atproto/dev-env@0.3.105, tag: refs/tags/@atproto/bsky@0.0.130, tag: refs/tags/@atproto/api@0.14.13)
+2025-03-27T15:50:44 ;   076c2f987 ; foysal ; :sparkles: Add getSubjects endpoint to ozone for full view of subjects (#3651) ;
 2025-03-26T12:12:07 ;   e3969b03f ; 41898282+github-actions[bot] ; Version packages (#3675) ; (tag: refs/tags/@atproto/pds@0.4.111, tag: refs/tags/@atproto/ozone@0.1.91, tag: refs/tags/@atproto/dev-env@0.3.104, tag: refs/tags/@atproto/bsky@0.0.129, tag: refs/tags/@atproto/api@0.14.12)
 2025-03-26T21:08:06 ;   44f5c3639 ; mozzius ; Run codegen for reaction lexicon changes (#3674) ;
 2025-03-26T11:50:32 ;   620b10954 ; me ; Revert "add codegen" ;
