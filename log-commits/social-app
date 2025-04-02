@@ -1,3 +1,14 @@
+2025-04-02T17:15:02 ;   0874d9602 ; 130826840+aryiu ; Update languages.ts (#7996) ;
+2025-04-02T02:36:32 ;   1289707b1 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-04-02T00:09:53 ;   758cb731f ; 149612116+surfdude29 ; Add plural formatting for alt text truncated string (#7994) ;
+2025-04-02T00:01:44 ;   5130f932e ; 149612116+surfdude29 ; Make `Posts` and `People` tabs translatable for user lists (#7982) ;
+2025-04-02T08:00:14 ;   8dfdee80b ; itoupluk427 ; Reapply "Modify hosting provider text for better localization" (#7928) ;
+2025-04-01T23:59:53 ;   df9909baa ; 149612116+surfdude29 ; Translate number joined starter pack string and add plural formatting (#7984) ;
+2025-04-01T23:51:57 ;   7a041da3a ; 149612116+surfdude29 ; Add plural formatting for `STARTER_PACK_MAX_SIZE` toast (#8000) ;
+2025-04-01T23:51:39 ;   ffbcbf814 ; 149612116+surfdude29 ; add plural formatting for too long handle error (#7999) ;
+2025-04-01T23:50:58 ;   98fe7edbc ; 149612116+surfdude29 ; Add plural formatting for "too long" error messages when editing profile info (#7998) ;
+2025-04-02T01:45:29 ;   5cb49314d ; mozzius ; [Reactions] Get reactions in chat list working again with new lexicon (#8093) ;
+2025-04-02T00:19:59 ;   318b29d3f ; mozzius ; Fix loading jumps and footer on feeds tab (#8063) ;
 2025-04-01T11:33:31 ;   4db3ccbec ; git ; Fix suggested follows scrolling (#8036) ;
 2025-04-01T15:36:46 ;   3d7fce563 ; 149612116+surfdude29 ; add `msg` macro in EmojiPopup.android.tsx (#8091) ;
 2025-04-01T17:27:40 ;   fffcb609c ; mozzius ; fix warnings (#8092) ;
