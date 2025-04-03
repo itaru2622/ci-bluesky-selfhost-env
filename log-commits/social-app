@@ -1,3 +1,10 @@
+2025-04-03T13:32:35 ;   faa5f40c5 ; git ; Wait for preferences before fetching trending data (#8109) ;
+2025-04-03T02:36:31 ;   b6185039f ; 1270099+pfrazee ; Nightly source-language update ;
+2025-04-03T03:21:15 ;   87da619aa ; mozzius ; [Explore] Base (#8053) ;
+2025-04-03T00:22:06 ;   8d1f97b5f ; 149612116+surfdude29 ; Tweak copy to remove remaining uses of `sign up` (#7987) ;
+2025-04-02T23:44:03 ;   4a7fa07e8 ; 149612116+surfdude29 ; Add plural formatting, translate and tweak some accessibility strings in composer (#7997) ;
+2025-04-03T01:25:56 ;   0897a692d ; mozzius ; fix bg color (#8102) ;
+2025-04-02T22:51:10 ;   c5900034a ; 149612116+surfdude29 ; Simplify content warning dialog text (#7943) ;
 2025-04-02T17:15:02 ;   0874d9602 ; 130826840+aryiu ; Update languages.ts (#7996) ;
 2025-04-02T02:36:32 ;   1289707b1 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-04-02T00:09:53 ;   758cb731f ; 149612116+surfdude29 ; Add plural formatting for alt text truncated string (#7994) ;
