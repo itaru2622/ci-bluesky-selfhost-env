@@ -1,3 +1,4 @@
+2025-04-15T12:22:15 ;   4fe62dbd ; bnewbold ; some collectiondir fixes (#1024) ;
 2025-04-14T13:27:59 ;   826fcdea ; bnewbold ; goat: support both 'Basic' and 'Bearer' relay admin (#1027) ;
 2025-04-14T12:45:53 ;   175a11d6 ; bnewbold ; remove XXX ;
 2025-04-14T12:22:26 ;   60a73800 ; bnewbold ; switch to atproto/syntax TID generator (#1028) ;
@@ -5,6 +6,9 @@
 2025-04-11T00:37:06 ;   f42375f2 ; bnewbold ; goat: support both 'Basic' and 'Bearer' relay admin ;
 2025-04-10T19:43:10 ;   8500c47d ; bnewbold ; api: getHostStatus and listHosts endpoints (#1025) ;
 2025-04-10T19:42:12 ;   bdb355ab ; bnewbold ; api: getHostStatus and listHosts endpoints ;
+2025-04-10T18:55:32 ;   bacee86d ; bnewbold ; have collectiondir return proper XRPC error JSON messages ;
+2025-04-10T18:46:56 ;   67cfacac ; bnewbold ; add missing shutdown chan receiver ;
+2025-04-10T17:09:03 ;   3e00e819 ; bnewbold ; rework collectiondir README ;
 2025-04-10T17:07:47 ;   68ea75a3 ; bnewbold ; make identity.Identity more easily JSON serializable (#1017) ;
 2025-04-10T00:14:50 ;   15337ff3 ; bnewbold ; goat: option to output raw commit blocks as base64 in firehose (#1022) ;
 2025-04-09T21:02:03 ;   b5e29561 ; bnewbold ; goat: option to output raw commit blocks as base64 in firehose ;
