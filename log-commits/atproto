@@ -1,0 +1,12 @@
+2025-04-15T17:35:49 ;   bf0faed1f ; 41898282+github-actions[bot] ; Version packages (#3748) ; (tag: refs/tags/@atproto/pds@0.4.124, tag: refs/tags/@atproto/oauth-types@0.2.5, tag: refs/tags/@atproto/oauth-provider@0.7.0, tag: refs/tags/@atproto/oauth-provider-ui@0.1.0, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.0, tag: refs/tags/@atproto/oauth-provider-api@0.1.0, tag: refs/tags/@atproto/oauth-client@0.3.14, tag: refs/tags/@atproto/oauth-client-node@0.2.15, tag: refs/tags/@atproto/oauth-client-browser@0.3.14, tag: refs/tags/@atproto/jwk@0.1.5, tag: refs/tags/@atproto/jwk-webcrypto@0.1.6, tag: refs/tags/@atproto/jwk-jose@0.1.6, tag: refs/tags/@atproto/dev-env@0.3.117, tag: refs/tags/@atproto-labs/rollup-plugin-bundle-manifest@0.2.0)
+2025-04-15T17:27:23 ;   5720b644a ; matthieusieben ; Fix build of PDS docker image (#3749) ;
+2025-04-15T17:15:27 ;   371e04aad ; matthieusieben ; Account management page (#3659) ;
+2025-04-15T16:00:50 ;   8b98fec88 ; matthieusieben ; Hide client id pathname if it is exaclty `/oauth-client-metadata.json` (#3667) ;
+2025-04-15T09:59:09 ;   26a077716 ; devinivy ; Oauth: fix typo in jwk error (#3747) ;
+2025-04-11T16:55:58 ;   3496935e7 ; 41898282+github-actions[bot] ; Version packages (#3734) ; (tag: refs/tags/@atproto/pds@0.4.123, tag: refs/tags/@atproto/ozone@0.1.101, tag: refs/tags/@atproto/dev-env@0.3.116, tag: refs/tags/@atproto/bsky@0.0.139, tag: refs/tags/@atproto/api@0.14.22)
+2025-04-11T16:48:18 ;   ca07871c4 ; rafael ; Update DM reaction length on chat lexicon (#3741) ;
+2025-04-10T20:27:30 ;   a4af3494b ; git ; fix a couple typos in the PLC code email template (#3730) ;
+2025-04-10T21:30:02 ;   388e5d3d2 ; devinivy ; Appview: skip actor cache for viewer (#3733) ;
+2025-04-09T14:40:49 ;   fc61662d7 ; bnewbold ; new host status com.atproto.sync lexicons (#3714) ;
+2025-04-08T10:19:52 ;   f329c5645 ; 41898282+github-actions[bot] ; Version packages (#3725) ; (tag: refs/tags/@atproto/pds@0.4.122, tag: refs/tags/@atproto/ozone@0.1.100, tag: refs/tags/@atproto/dev-env@0.3.115, tag: refs/tags/@atproto/bsky@0.0.138, tag: refs/tags/@atproto/api@0.14.21)
+2025-04-07T18:30:10 ;   8b7bf7e8f ; me ; use full profile in suggested users response (#3724) ;

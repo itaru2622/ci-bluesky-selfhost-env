@@ -1,0 +1,16 @@
+2025-04-14T13:27:59 ;   826fcdea ; bnewbold ; goat: support both 'Basic' and 'Bearer' relay admin (#1027) ;
+2025-04-14T12:45:53 ;   175a11d6 ; bnewbold ; remove XXX ;
+2025-04-14T12:22:26 ;   60a73800 ; bnewbold ; switch to atproto/syntax TID generator (#1028) ;
+2025-04-13T19:37:43 ;   002a71fc ; m ; switch to atproto/syntax TID generator ;
+2025-04-11T00:37:06 ;   f42375f2 ; bnewbold ; goat: support both 'Basic' and 'Bearer' relay admin ;
+2025-04-10T19:43:10 ;   8500c47d ; bnewbold ; api: getHostStatus and listHosts endpoints (#1025) ;
+2025-04-10T19:42:12 ;   bdb355ab ; bnewbold ; api: getHostStatus and listHosts endpoints ;
+2025-04-10T17:07:47 ;   68ea75a3 ; bnewbold ; make identity.Identity more easily JSON serializable (#1017) ;
+2025-04-10T00:14:50 ;   15337ff3 ; bnewbold ; goat: option to output raw commit blocks as base64 in firehose (#1022) ;
+2025-04-09T21:02:03 ;   b5e29561 ; bnewbold ; goat: option to output raw commit blocks as base64 in firehose ;
+2025-04-08T00:20:29 ;   63f3f48e ; bnewbold ; docs.go for did, handles, plc (#1015) ;
+2025-04-08T00:17:48 ;   9a68b5f7 ; bnewbold ; parallel worker: variable typo, and add a docs line (#1019) ;
+2025-04-06T22:13:21 ;   a189f073 ; bnewbold ; add to parallel scheduler doc string ;
+2025-04-06T22:10:27 ;   9405d09a ; bnewbold ; parallel scheduler: fix typo ;
+2025-04-01T20:46:40 ;   dc63161d ; bnewbold ; make identity.Identity more easily JSON serializable ;
+2025-04-06T21:23:44 ;   fb747742 ; bnewbold ; docs.go for did, handles, plc; marking deprecated ;
