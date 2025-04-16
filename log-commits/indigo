@@ -1,4 +1,12 @@
+2025-04-16T10:58:50 ;   539c5771 ; bnewbold ; rainbow: small refactors, and improve request forwarding (#1023) ;
+2025-04-15T14:17:01 ;   d6e162c3 ; bnewbold ; go.mod: specify full version (1.23.0) (#1013) ;
+2025-04-15T14:14:23 ;   9406097c ; bnewbold ; remove invalid JSON 'const=' struct field tags (#1032) ;
+2025-04-15T16:33:33 ;   c41fea6b ; jamesrcalabro ; Import atproto Repo Dependency (#1034) ;
+2025-04-15T16:28:07 ;   e8c9a4b6 ; jamesrcalabro ; import atproto dependency ;
 2025-04-15T12:22:15 ;   4fe62dbd ; bnewbold ; some collectiondir fixes (#1024) ;
+2025-04-15T12:20:14 ;   3c416546 ; bnewbold ; improvements from review ;
+2025-04-14T19:48:36 ;   e78c4325 ; bnewbold ; remove invalid JSON 'const=' struct field tags ;
+2025-04-14T14:37:59 ;   38adff67 ; bnewbold ; go.mod: go 1.23; toolchain go1.23.8 ;
 2025-04-14T13:27:59 ;   826fcdea ; bnewbold ; goat: support both 'Basic' and 'Bearer' relay admin (#1027) ;
 2025-04-14T12:45:53 ;   175a11d6 ; bnewbold ; remove XXX ;
 2025-04-14T12:22:26 ;   60a73800 ; bnewbold ; switch to atproto/syntax TID generator (#1028) ;
@@ -8,8 +16,12 @@
 2025-04-10T19:42:12 ;   bdb355ab ; bnewbold ; api: getHostStatus and listHosts endpoints ;
 2025-04-10T18:55:32 ;   bacee86d ; bnewbold ; have collectiondir return proper XRPC error JSON messages ;
 2025-04-10T18:46:56 ;   67cfacac ; bnewbold ; add missing shutdown chan receiver ;
+2025-04-10T17:38:52 ;   90ff4fa0 ; bnewbold ; clean up rainbow host URL wrangling a bit ;
+2025-04-10T17:27:27 ;   3f926971 ; bnewbold ; rainbow: add proxying to collectiondir ;
 2025-04-10T17:09:03 ;   3e00e819 ; bnewbold ; rework collectiondir README ;
 2025-04-10T17:07:47 ;   68ea75a3 ; bnewbold ; make identity.Identity more easily JSON serializable (#1017) ;
+2025-04-10T03:21:40 ;   651040fa ; bnewbold ; rainbow: small refactors; improve upstream proxying and requestCrawl forwarding ;
+2025-04-10T01:14:35 ;   92091970 ; bnewbold ; svcutil: config logger helper ;
 2025-04-10T00:14:50 ;   15337ff3 ; bnewbold ; goat: option to output raw commit blocks as base64 in firehose (#1022) ;
 2025-04-09T21:02:03 ;   b5e29561 ; bnewbold ; goat: option to output raw commit blocks as base64 in firehose ;
 2025-04-08T00:20:29 ;   63f3f48e ; bnewbold ; docs.go for did, handles, plc (#1015) ;
@@ -18,3 +30,4 @@
 2025-04-06T22:10:27 ;   9405d09a ; bnewbold ; parallel scheduler: fix typo ;
 2025-04-01T20:46:40 ;   dc63161d ; bnewbold ; make identity.Identity more easily JSON serializable ;
 2025-04-06T21:23:44 ;   fb747742 ; bnewbold ; docs.go for did, handles, plc; marking deprecated ;
+2025-04-06T15:20:06 ;   00a36206 ; bnewbold ; go.mod: specify full version (1.23.0) ;
