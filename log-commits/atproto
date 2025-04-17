@@ -1,3 +1,7 @@
+2025-04-17T14:04:07 ;   3bdddeb43 ; 41898282+github-actions[bot] ; Version packages (#3760) ;
+2025-04-17T15:19:09 ;   8d99915ce ; rafael ; Update chat verification lexicon (#3766) ;
+2025-04-17T11:02:32 ;   96de2acb3 ; matthieusieben ; Use more secure COEP header when hCaptcha is enabled (#3755) ;
+2025-04-16T19:38:16 ;   688268b6a ; rafael ; Delegated verification (#3761) ;
 2025-04-16T16:41:18 ;   cf7227f8a ; matthieusieben ; Update `messages.po` files (#3759) ;
 2025-04-16T16:39:50 ;   0f3899dd5 ; matthieusieben ; Minor UI/UX tweaks (#3758) ;
 2025-04-16T14:37:20 ;   b53e2c5d7 ; 41898282+github-actions[bot] ; Version packages (#3756) ; (tag: refs/tags/@atproto/pds@0.4.126, tag: refs/tags/@atproto/ozone@0.1.103, tag: refs/tags/@atproto/lex-cli@0.8.0, tag: refs/tags/@atproto/dev-env@0.3.119, tag: refs/tags/@atproto/bsky@0.0.141, tag: refs/tags/@atproto/api@0.15.0)
