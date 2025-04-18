@@ -1,3 +1,15 @@
+2025-04-18T14:59:07 ;   f1a2b4455 ; 41898282+github-actions[bot] ; Version packages (#3782) ; (tag: refs/tags/@atproto/pds@0.4.131, tag: refs/tags/@atproto/ozone@0.1.106, tag: refs/tags/@atproto/dev-env@0.3.124, tag: refs/tags/@atproto/bsky@0.0.144, tag: refs/tags/@atproto/api@0.15.3)
+2025-04-18T16:46:42 ;   0087dc1c0 ; rafael ; Verification notifications (#3773) ;
+2025-04-18T15:37:26 ;   8e696dbcb ; 41898282+github-actions[bot] ; Version packages (#3779) ; (tag: refs/tags/@atproto/pds@0.4.130, tag: refs/tags/@atproto/oauth-provider@0.7.4, tag: refs/tags/@atproto/oauth-provider-ui@0.1.3, tag: refs/tags/@atproto/dev-env@0.3.123)
+2025-04-18T14:20:36 ;   a70dad5ae ; git ; Skip lazy load of hcaptcha for now (#3781) ;
+2025-04-18T19:12:12 ;   81524fcb0 ; matthieusieben ; Minor UI fixes to OAuth flow (#3778) ;
+2025-04-18T11:11:53 ;   90e9a20d3 ; 41898282+github-actions[bot] ; Version packages (#3777) ; (tag: refs/tags/@atproto/pds@0.4.129, tag: refs/tags/@atproto/oauth-types@0.2.6, tag: refs/tags/@atproto/oauth-provider@0.7.3, tag: refs/tags/@atproto/oauth-provider-ui@0.1.2, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.3, tag: refs/tags/@atproto/oauth-provider-api@0.1.1, tag: refs/tags/@atproto/oauth-client@0.3.15, tag: refs/tags/@atproto/oauth-client-node@0.2.16, tag: refs/tags/@atproto/oauth-client-browser@0.3.15, tag: refs/tags/@atproto/dev-env@0.3.122, tag: refs/tags/@atproto-labs/simple-store@0.2.0, tag: refs/tags/@atproto-labs/simple-store-memory@0.1.3, tag: refs/tags/@atproto-labs/identity-resolver@0.1.16, tag: refs/tags/@atproto-labs/handle-resolver@0.1.8, tag: refs/tags/@atproto-labs/handle-resolver-node@0.1.15, tag: refs/tags/@atproto-labs/did-resolver@0.1.12)
+2025-04-18T11:04:34 ;   30f9b6690 ; matthieusieben ; OAuth Provider account page fixes (#3764) ;
+2025-04-18T11:04:24 ;   0d77d1b55 ; matthieusieben ; Add `context` getter option to `CachedGetter` class (#3776) ;
+2025-04-18T11:00:43 ;   6db9faa4a ; matthieusieben ; Remove unused `image-url.ts` file (#3775) ;
+2025-04-18T07:51:20 ;   d23f31168 ; 149612116+surfdude29 ; Fix typo in lexicon (#3769) ;
+2025-04-17T17:25:40 ;   a70e7dabd ; 41898282+github-actions[bot] ; Version packages (#3771) ; (tag: refs/tags/@atproto/pds@0.4.128, tag: refs/tags/@atproto/ozone@0.1.105, tag: refs/tags/@atproto/dev-env@0.3.121, tag: refs/tags/@atproto/bsky@0.0.143, tag: refs/tags/@atproto/api@0.15.2)
+2025-04-17T17:11:03 ;   553c988f1 ; git ; Add prefs (#3770) ;
 2025-04-17T14:04:07 ;   3bdddeb43 ; 41898282+github-actions[bot] ; Version packages (#3760) ;
 2025-04-17T15:19:09 ;   8d99915ce ; rafael ; Update chat verification lexicon (#3766) ;
 2025-04-17T11:02:32 ;   96de2acb3 ; matthieusieben ; Use more secure COEP header when hCaptcha is enabled (#3755) ;

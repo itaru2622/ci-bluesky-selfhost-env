@@ -1,9 +1,12 @@
+2025-04-17T16:36:40 ;   6b0010a6 ; bnewbold ; relay tweaks: JSON fields for db models, and fix some API endpoints (#1038) ;
+2025-04-17T11:24:36 ;   fa41b343 ; bnewbold ; add json serialization names to db models ;
 2025-04-17T11:07:48 ;   05f18059 ; bnewbold ; sonar: just use stdlib json (removing go-json dependency) (#1036) ;
 2025-04-17T10:18:57 ;   e2741b8d ; bnewbold ; Revert "make identity.Identity more easily JSON serializable" (#1037) ;
 2025-04-16T20:45:04 ;   89335167 ; bnewbold ; Revert "make identity.Identity more easily JSON serializable" ;
 2025-04-16T20:43:01 ;   faa2f324 ; bnewbold ; go mod tidy ;
 2025-04-16T20:42:44 ;   acff632e ; bnewbold ; sonar: remove use of go-json external lib ;
 2025-04-16T18:56:56 ;   59baab82 ; bnewbold ; more `goat relay` helpers (#1035) ;
+2025-04-16T18:31:02 ;   899b7b57 ; bnewbold ; add missing fields from relay endpoints ;
 2025-04-16T18:25:19 ;   7cb590fc ; bnewbold ; improve relay helpers ;
 2025-04-16T17:52:23 ;   77f75865 ; bnewbold ; make firehose relay URL parsing more forgiving ;
 2025-04-16T17:47:50 ;   67866324 ; bnewbold ; allow blocks in #sync output ;
