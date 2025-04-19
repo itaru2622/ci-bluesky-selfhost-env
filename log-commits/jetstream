@@ -1,5 +1,0 @@
-2025-04-13T21:43:04 ;   d17bd81 ; ericvolp12 ; Merge pull request #50 from robpc/fix-max-message-size ;
-2025-04-13T14:11:12 ;   43f4d2c ; rpcann ; Fixes setting max message size option with subscribers ;
-2025-04-10T21:32:05 ;   f4da85b ; ericvolp12 ; Pings and bigger buffer ;
-2025-04-10T21:16:01 ;   f079042 ; ericvolp12 ; Merge pull request #41 from caseyho/div-by-zero-event-error ;
-2025-01-31T21:38:24 ;   0fbefb1 ; caseyho ; Avoid dividing by zero in rare case where zero events are read before logger is called ;
