@@ -1,0 +1,6 @@
+2025-04-21T14:58:15 ;   873ba16d2 ; git ; Use normal spaces around check (#8252) ;
+2025-04-21T12:08:05 ;   d5dc065a8 ; git ; Make whole verifier clickable, no nested interactives (#8249) ;
+2025-04-21T12:07:55 ;   0278c7a0b ; git ; Make notifications clickable (#8251) ;
+2025-04-21T19:53:01 ;   a091def51 ; mozzius ; rm other close (#8250) ;
+2025-04-21T11:28:35 ;   b800334eb ; git ; Center handle in verifier dialog (#8247) ;
+2025-04-21T19:00:38 ;   9363ff6f4 ; mozzius ; rm double close (#8246) ;
