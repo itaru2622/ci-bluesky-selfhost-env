@@ -1,3 +1,16 @@
+2025-04-22T11:54:17 ;   e27134c7f ; me ; bump 1.102.0 (#8271) ;
+2025-04-22T21:49:20 ;   b1550f9c0 ; mozzius ; fix first sheet height change not registering (#8267) ;
+2025-04-22T21:13:13 ;   dba0bd837 ; mozzius ; move dev mode hook (#8270) ;
+2025-04-22T18:16:50 ;   a770f5635 ; zoontek ; Edge to edge support (#7497) ;
+2025-04-22T02:37:34 ;   6e80b340c ; 1270099+pfrazee ; Nightly source-language update ;
+2025-04-21T19:16:59 ;   0a7734f9e ; git ; Refactor search history (#8260) ;
+2025-04-21T18:08:06 ;   8a602bf9f ; git ; Tweak alignment (#8258) ;
+2025-04-21T17:05:14 ;   3f47c8cf0 ; git ; Improve display name in Settings (#8256) ;
+2025-04-21T16:59:46 ;   aa3ee8db4 ; git ; Align handling (#8255) ;
+2025-04-21T16:32:29 ;   8fdefb7e9 ; git ; Add check to composer user autocomplete (#8253) ;
+2025-04-21T15:41:15 ;   4aaf81fed ; git ; Show date in verifications dialog (#8257) ;
+2025-04-21T15:34:20 ;   b3c3ee554 ; git ; Tweak dialog copy (#8254) ;
+2025-04-21T23:29:46 ;   13884b0a1 ; mozzius ; fix composer reply line height (#8241) ;
 2025-04-21T14:58:15 ;   873ba16d2 ; git ; Use normal spaces around check (#8252) ;
 2025-04-21T12:08:05 ;   d5dc065a8 ; git ; Make whole verifier clickable, no nested interactives (#8249) ;
 2025-04-21T12:07:55 ;   0278c7a0b ; git ; Make notifications clickable (#8251) ;

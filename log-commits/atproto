@@ -1,2 +1,3 @@
+2025-04-22T10:13:45 ;   9a585b6a2 ; devinivy ; Ozone: fix correctness and perf issues with reporter stats (#3791) ;
 2025-04-21T12:25:33 ;   a1b2370db ; rafael ; Mark generated files in gitattributes (#3788) ;
 2025-04-21T11:38:14 ;   d65ceaeee ; rafael ; lex codegen for #3769 (#3787) ;
