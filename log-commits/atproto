@@ -1,3 +1,6 @@
+2025-04-23T13:08:35 ;   da168588d ; rafael ; Don't use unsafe values for HTTP codes (#3789) ;
+2025-04-22T17:02:08 ;   60d8e9ac5 ; 41898282+github-actions[bot] ; Version packages (#3794) ; (tag: refs/tags/@atproto/dev-env@0.3.126, tag: refs/tags/@atproto/bsky@0.0.145)
+2025-04-22T16:47:04 ;   9ef52d829 ; git ; Return verification views with empty display name values (#3772) ;
 2025-04-22T10:13:45 ;   9a585b6a2 ; devinivy ; Ozone: fix correctness and perf issues with reporter stats (#3791) ;
 2025-04-21T12:25:33 ;   a1b2370db ; rafael ; Mark generated files in gitattributes (#3788) ;
 2025-04-21T11:38:14 ;   d65ceaeee ; rafael ; lex codegen for #3769 (#3787) ;
