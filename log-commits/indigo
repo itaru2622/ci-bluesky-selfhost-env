@@ -1,5 +1,9 @@
+2025-04-25T11:46:06 ;   786a781b ; bnewbold ; goat relay host diff (#1052) ;
 2025-04-24T02:02:36 ;   d6fa2c23 ; bnewbold ; support multiple admin passwords (#1044) ;
 2025-04-24T02:01:34 ;   94c21ee5 ; bnewbold ; fix admin auth response header and error code ;
+2025-04-24T01:04:33 ;   a80bc6f6 ; bnewbold ; add goat to 'make build' ;
+2025-04-24T01:04:20 ;   e014be10 ; bnewbold ; tweak output terms ;
+2025-04-23T20:10:41 ;   daa2eff3 ; bnewbold ; goat relay host diff ;
 2025-04-23T20:25:09 ;   9f5c9a1f ; bnewbold ; goat: more plc dump args/ergonomics (#1053) ;
 2025-04-23T20:20:17 ;   19ddb3ac ; bnewbold ; goat: more plc dump args/ergonomics ;
 2025-04-23T17:16:34 ;   57d5c7ba ; bnewbold ; relay pull-hosts command (for public bootstrapping) (#1047) ;
