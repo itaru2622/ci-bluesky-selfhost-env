@@ -1,0 +1,3 @@
+2025-04-26T21:26:42 ;   077fd843f ; mozzius ; don't await deleting temp files (#8287) ;
+2025-04-27T04:10:32 ;   1eb678cab ; 80987908+Novaenia ; Optimize compressImage method to also use binary search (#7490) ;
+2025-04-26T19:47:34 ;   ea718190c ; mozzius ; Update mention of MobX in README (#8286) ;
