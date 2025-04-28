@@ -1,0 +1,2 @@
+2025-04-28T20:30:11 ;   e1bda27e5 ; matthieusieben ; Fix CORS issue on `<img>` tags (#3810) ;
+2025-04-28T20:28:13 ;   eccbce278 ; matthieusieben ; Small memory leak fix when reading CAR file with multiple roots (#3814) ;
