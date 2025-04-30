@@ -1,0 +1,10 @@
+2025-04-30T11:47:18 ;   8aa64b2a ; bnewbold ; Small cleanup for relay host code (#1060) ;
+2025-04-29T23:18:39 ;   7ea3ed5e ; bnewbold ; add more executables to gitignore (#1062) ;
+2025-04-29T23:14:40 ;   3adb17a8 ; bnewbold ; add more executables to gitignore ;
+2025-04-29T22:12:16 ;   e475b5e2 ; James-Gilbert- ; gorm call cleanup for relay host ;
+2025-04-29T17:20:31 ;   41da898e ; bnewbold ; basic IP filtering net.Dialer for SSRF protection (#1057) ;
+2025-04-29T17:20:03 ;   6ece2ee0 ; bnewbold ; goat: include User-Agent header more consistently (#1054) ;
+2025-04-29T15:36:03 ;   16f1b3dd ; bnewbold ; fix stray typo ;
+2025-04-29T15:35:23 ;   b5d04fb2 ; bnewbold ; move SSRF code to sub-package of util ;
+2025-04-29T15:32:20 ;   8c151315 ; bnewbold ; basic IP filtering net.Dialer for SSRF protection ;
+2025-04-25T11:56:38 ;   4759253d ; bnewbold ; goat: include User-Agent header more consistently ;

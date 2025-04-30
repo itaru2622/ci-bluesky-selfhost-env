@@ -1,3 +1,5 @@
+2025-04-30T14:03:05 ;   7049117ea ; rafael ; Fix takendown blocklists application (#3807) ;
+2025-04-30T17:58:08 ;   5fd7ef0bf ; foysal ; :bug: Ignore expired labels when queried from ozone database (#3786) ;
 2025-04-29T09:58:55 ;   ab4e72084 ; rafael ; Handle resolution improvements (#3816) ;
 2025-04-28T19:15:35 ;   b428ce366 ; rafael ; Hookup no-cache arg to GetInteractionCounts (#3812) ;
 2025-04-28T22:51:09 ;   3301a2697 ; foysal ; :bug: Verification cleanups (#3802) ;
