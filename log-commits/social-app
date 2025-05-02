@@ -1,3 +1,16 @@
+2025-05-02T10:36:43 ;   46ea3fdbe ; pfrazee ; Merge branch 'demo' into main ;
 2025-04-26T21:26:42 ;   077fd843f ; mozzius ; don't await deleting temp files (#8287) ;
 2025-04-27T04:10:32 ;   1eb678cab ; 80987908+Novaenia ; Optimize compressImage method to also use binary search (#7490) ;
 2025-04-26T19:47:34 ;   ea718190c ; mozzius ; Update mention of MobX in README (#8286) ;
+2025-04-25T11:51:33 ;   2aa30f527 ; pfrazee ; Update third post in demo ;
+2025-04-25T10:49:10 ;   7b245935e ; pfrazee ; Remove demo-mode spacing tweak ;
+2025-04-25T10:42:35 ;   55795dc26 ; pfrazee ; Updated demo copy ;
+2025-04-24T09:31:04 ;   ba002d825 ; pfrazee ; Tune spacing for demo mode ;
+2025-04-23T18:30:25 ;   9a7f6ad63 ; git ; Moar demo ;
+2025-04-23T15:54:29 ;   6a8dd353e ; git ; Update bottom bar avi ;
+2025-04-23T15:29:17 ;   c1e090e9e ; git ; Better data ;
+2025-04-23T15:01:19 ;   9f66b7fe6 ; git ; Delete unused fake data, update bottom bar avi ;
+2025-04-23T14:50:10 ;   eb2008cd8 ; git ; Update data ;
+2025-04-22T21:35:31 ;   f3edd6dfd ; mozzius ; add more posts ;
+2025-04-22T21:29:27 ;   91f9bc7cc ; mozzius ; demo mode ;
+2025-04-22T21:01:28 ;   c34c67e4d ; mozzius ; add demo storage ;
