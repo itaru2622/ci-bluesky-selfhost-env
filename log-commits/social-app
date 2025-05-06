@@ -1,3 +1,10 @@
+2025-05-06T22:50:28 ;   4c8fd006f ; mozzius ; New Edit Profile dialog on web, use new Edit Image dialog everywhere (#8220) ;
+2025-05-06T12:09:50 ;   3f7dc9a8e ; bnewbold ; use legally registered name for company (#8338) ;
+2025-05-06T11:13:15 ;   0d02a076d ; me ; bump cropper version (#8339) ;
+2025-05-06T10:54:08 ;   521ec8e04 ; me ; swap out cropper library (#8327) ;
+2025-05-06T20:27:05 ;   973538d24 ; mozzius ; New `Select` component (#8323) ;
+2025-05-06T17:34:50 ;   25f8506c4 ; mozzius ; Remove post from feed after pressing show less (#8333) ;
+2025-05-06T17:03:48 ;   04dc6dc9c ; mozzius ; add internal topic misclassification report button (#8332) ;
 2025-05-05T00:20:34 ;   e7fe9ab55 ; me ; revert changes to scroll forwarder (#8328) ;
 2025-05-03T02:36:58 ;   abbdeb4f2 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-05-02T13:23:39 ;   544f7befe ; me ; bump it bop it upgrade it (rn 79/expo 53) (#8281) ;

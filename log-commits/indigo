@@ -1,5 +1,14 @@
+2025-05-06T10:40:12 ;   7075cf22 ; bnewbold ; use legally registered name for company (#1076) ;
+2025-05-06T10:33:48 ;   9b64b9db ; bnewbold ; use legally registered name for company ;
+2025-05-06T00:30:24 ;   f441353c ; bnewbold ; Changed error handling during blob export command in goat to help with account migration (#1073) ;
+2025-05-05T20:55:10 ;   a17940a9 ; orual.nbc ; reword the failure text ;
+2025-05-05T17:44:32 ;   9d849ab2 ; bnewbold ; lexgen against atproto 7049117ea28105666b762a7a0ca7c1246ad8b98b (#1069) ;
+2025-05-05T11:22:37 ;   c40ade8d ; orual.nbc ; slightly better logic for errors ;
+2025-05-05T10:55:14 ;   8b493c71 ; orual.nbc ; Avoid printing incorrect "downloaded" message when it can't find a blob ;
+2025-05-05T10:51:40 ;   06cdd9ae ; orual.nbc ; During export, skip blobs it can't find rather than erroring out. ;
 2025-05-04T21:20:36 ;   9c19d0c4 ; bnewbold ; bump relay integration test timeout from 3s to 10s (#1072) ;
 2025-05-04T20:41:22 ;   0eef396d ; bnewbold ; bump relay integration test timeout from 3s to 10s ;
+2025-05-03T19:23:31 ;   15acd49b ; bnewbold ; lexgen against atproto 7049117ea28105666b762a7a0ca7c1246ad8b98b ;
 2025-05-02T14:39:49 ;   67e95825 ; jeromyj ; add basic command to verify a user (#1040) ;
 2025-05-02T09:09:31 ;   cf8f9ea6 ; bnewbold ; new relay: fix bugs with host cursor, lastSeq, and status tracking (#1068) ;
 2025-05-01T18:03:10 ;   b3f9d576 ; bnewbold ; Fix typo (#1067) ;
