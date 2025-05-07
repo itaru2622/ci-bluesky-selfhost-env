@@ -1,3 +1,10 @@
+2025-05-07T21:49:49 ;   0b06a9383 ; mozzius ; add 10px more padding (#8345) ;
+2025-05-07T21:44:38 ;   f1372abec ; mozzius ; delete unused auth components (#8334) ;
+2025-05-07T10:23:33 ;   0f96669f8 ; git ; [APP-1158] Refactor email-related dialogs (#8296) ;
+2025-05-07T17:06:49 ;   0edd3bd3b ; mozzius ; fix select triggers on ios safari (#8343) ;
+2025-05-07T02:39:23 ;   e01b24702 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-05-06T23:07:48 ;   d1ec73a28 ; mozzius ; hide footer when lists list is empty (#8337) ;
+2025-05-06T23:07:21 ;   433fa33b2 ; mozzius ; bump `hls.js` (#8336) ;
 2025-05-06T22:50:28 ;   4c8fd006f ; mozzius ; New Edit Profile dialog on web, use new Edit Image dialog everywhere (#8220) ;
 2025-05-06T12:09:50 ;   3f7dc9a8e ; bnewbold ; use legally registered name for company (#8338) ;
 2025-05-06T11:13:15 ;   0d02a076d ; me ; bump cropper version (#8339) ;
