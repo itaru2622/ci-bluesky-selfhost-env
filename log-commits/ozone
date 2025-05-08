@@ -1,3 +1,8 @@
+2025-05-08T12:39:19 ;   3505d7b ; tre ; Fix the build for GHCR (#340) ;
+2025-05-08T19:29:15 ;   9e679df ; foysal ; :sparkles: Show country flag instead of 2 letter country code with regional details (#339) ;
+2025-05-08T19:28:10 ;   2163d00 ; foysal ; ❇️ Quick takedown escalation appeal filter (#335) ;
+2025-05-08T19:27:57 ;   5a301be ; foysal ; :sparkles: Add quick filter to only show verifications from trusted verifiers (#336) ;
+2025-05-08T10:27:49 ;   7db52f5 ; bnewbold ; use legally registered name for company (#338) ;
 2025-05-05T14:47:51 ;   f9d48d8 ; foysal ; Resolve appeal on ack (#337) ;
 2025-04-28T23:29:30 ;   7567cba ; foysal ; :broom: Cleanup test code left over (#334) ;
 2025-04-28T23:22:43 ;   6c0f562 ; foysal ; :sparkles: Support for verification feature. (#330) ;
