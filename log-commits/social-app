@@ -1,3 +1,8 @@
+2025-05-09T13:17:39 ;   ce2fffc88 ; jerry ; Fix notifications badge on web (#8347) ;
+2025-05-09T21:12:40 ;   6c28d7d53 ; mozzius ; move and rename button (#8358) ;
+2025-05-09T02:39:21 ;   a7e0070b1 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-05-08T23:50:12 ;   207527f1d ; mozzius ; [Android] Save photos to "Bluesky" folder (#8018) ;
+2025-05-08T23:17:44 ;   36697755c ; mozzius ; fix reply display name being clipped (#8315) ;
 2025-05-08T21:58:32 ;   1c2a7b0b5 ; mozzius ; Fix some more warnings for web (#8316) ;
 2025-05-08T08:49:43 ;   a6455b3de ; me ; fix crash (#8348) ;
 2025-05-08T02:39:40 ;   a260ecd30 ; 1270099+pfrazee ; Nightly source-language update ;
