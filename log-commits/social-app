@@ -1,3 +1,8 @@
+2025-05-09T20:09:02 ;   d01b9ed44 ; pfrazee ; Release 1.102.0 (#8360) ; (tag: refs/tags/1.102.0)
+2025-05-10T02:36:59 ;   1b9448c6e ; 1270099+pfrazee ; Nightly source-language update ;
+2025-05-10T03:14:42 ;   a2365e08b ; 149612116+surfdude29 ; Add language: Frisian (#8214) ;
+2025-05-10T00:06:06 ;   a0bd80426 ; mozzius ; Live (#8354) ;
+2025-05-09T15:58:12 ;   2e80fa3da ; git ; Fix email dialog width on large phones (#8350) ;
 2025-05-09T13:17:39 ;   ce2fffc88 ; jerry ; Fix notifications badge on web (#8347) ;
 2025-05-09T21:12:40 ;   6c28d7d53 ; mozzius ; move and rename button (#8358) ;
 2025-05-09T02:39:21 ;   a7e0070b1 ; 1270099+pfrazee ; Nightly source-language update ;
