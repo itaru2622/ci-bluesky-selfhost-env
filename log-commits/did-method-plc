@@ -1,8 +1,0 @@
-2025-05-09T15:24:22 ;   bd58255 ; bnewbold ; Merge pull request #94 from sriganesh/fix-did-key-url ;
-2025-05-09T15:23:30 ;   041066a ; bnewbold ; Merge pull request #100 from johnspurlock/patch-4 ;
-2025-05-09T12:25:08 ;   6fc9792 ; john.spurlock ; Fix response type for /log/last ;
-2025-05-06T10:52:12 ;   4d5d017 ; bnewbold ; Merge pull request #99 from did-method-plc/bnewbold/company-name ;
-2025-05-06T10:43:21 ;   4c0af12 ; bnewbold ; use legally registered name for company ;
-2025-04-28T18:34:49 ;   cc74d84 ; bnewbold ; Merge pull request #96 from did-method-plc/bnewbold/bump-aka-length ;
-2025-04-19T22:24:16 ;   b085d1e ; bnewbold ; slightly bump AKA length for max handle size ;
-2025-04-08T23:41:23 ;   1e6875a ; git ; docs: update did:key specification links in README and did-plc documentation ;
