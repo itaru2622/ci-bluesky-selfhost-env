@@ -1,0 +1,3 @@
+2025-05-12T11:48:41 ;   3edc6e26 ; jeromyj ; lexgen: add --external-lexicons (#1078) ;
+2025-05-09T13:46:14 ;   95e6b8d1 ; eli ; lexgen: remove unused --prefix ;
+2025-05-09T13:20:26 ;   7c0f267e ; eli ; lexgen: add --external-schema ;
