@@ -1,0 +1,5 @@
+2025-05-20T14:37:02 ;   8318c5718 ; matthieusieben ; Allow proxying of `getSession` using OAuth session (#3820) ;
+2025-05-20T14:08:16 ;   36dbd4155 ; matthieusieben ; Fix potential memory leak (#3819) ;
+2025-05-20T14:01:10 ;   43861a452 ; matthieusieben ; Remove dependency on the Public Suffix List (#3818) ;
+2025-05-20T13:36:38 ;   5050b6550 ; matthieusieben ; Allow implicit redirects in safe fetch wrap (#3821) ;
+2025-05-20T13:32:48 ;   eab7c9fb8 ; matthieusieben ; Use the PDS's hostname as fallback PDS "name" in the auth screen (#3868) ;
