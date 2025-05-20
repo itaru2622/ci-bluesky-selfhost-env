@@ -1,3 +1,7 @@
+2025-05-15T18:08:18 ;   f8de501b ; bnewbold ; bypass subscribe limits in /admin/pds/requestCrawl (#1080) ;
+2025-05-15T18:02:48 ;   903575f7 ; bnewbold ; crypto: add Multibase() method to PrivateKeyExportable interface (#1079) ;
+2025-05-15T02:36:59 ;   73d257f4 ; mackuba ; bypass subscribe limits in /admin/pds/requestCrawl ;
 2025-05-12T11:48:41 ;   3edc6e26 ; jeromyj ; lexgen: add --external-lexicons (#1078) ;
+2025-05-09T21:36:29 ;   e4601b44 ; bnewbold ; crypto: add Multibase() method to PrivateKeyExportable interface ;
 2025-05-09T13:46:14 ;   95e6b8d1 ; eli ; lexgen: remove unused --prefix ;
 2025-05-09T13:20:26 ;   7c0f267e ; eli ; lexgen: add --external-schema ;
