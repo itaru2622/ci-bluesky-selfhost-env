@@ -1,6 +1,0 @@
-2025-05-19T20:03:01 ;   29de23bba ; mozzius ; Fix emoji reaction expanded picker on web getting squished (#8245) ;
-2025-05-19T19:35:06 ;   ca6c96f50 ; mozzius ; fix view collapse on android (#8390) ;
-2025-05-19T09:33:55 ;   4ef7a6b64 ; me ; add reason to log (#8381) ;
-2025-05-17T12:19:37 ;   f3bc96249 ; me ; temporary react-native-view-shot patch (#8383) ;
-2025-05-17T02:38:01 ;   2fab992c0 ; 1270099+pfrazee ; Nightly source-language update ;
-2025-05-17T01:38:34 ;   1cdbfc709 ; mozzius ; Live via service config (#8378) ;
