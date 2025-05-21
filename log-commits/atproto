@@ -1,3 +1,7 @@
+2025-05-21T17:21:21 ;   36d0d370c ; matthieu.sieben ; Remove query & fragment from DPoP proof `htu` claim ;
+2025-05-20T21:04:40 ;   24e20b96c ; bnewbold ; lexicons: update searchPosts to indicate it isn't always available publicly (#3844) ;
+2025-05-20T15:15:10 ;   0a2c30dd9 ; 41898282+github-actions[bot] ; Version packages (#3872) ; (tag: refs/tags/@atproto/pds@0.4.138, tag: refs/tags/@atproto/ozone@0.1.111, tag: refs/tags/@atproto/oauth-provider@0.7.7, tag: refs/tags/@atproto/oauth-provider-ui@0.1.5, tag: refs/tags/@atproto/oauth-client@0.3.17, tag: refs/tags/@atproto/oauth-client-node@0.2.18, tag: refs/tags/@atproto/oauth-client-browser@0.3.17, tag: refs/tags/@atproto/oauth-client-browser-example@0.0.4, tag: refs/tags/@atproto/dev-env@0.3.132, tag: refs/tags/@atproto/bsky@0.0.150, tag: refs/tags/@atproto/api@0.15.8, tag: refs/tags/@atproto-labs/pipe@0.1.1, tag: refs/tags/@atproto-labs/identity-resolver@0.1.17, tag: refs/tags/@atproto-labs/handle-resolver-node@0.1.16, tag: refs/tags/@atproto-labs/fetch@0.2.3, tag: refs/tags/@atproto-labs/fetch-node@0.1.9, tag: refs/tags/@atproto-labs/did-resolver@0.1.13)
+2025-05-20T14:45:19 ;   80f402f36 ; me ; add `reqId` to interactions (#3869) ;
 2025-05-20T14:37:02 ;   8318c5718 ; matthieusieben ; Allow proxying of `getSession` using OAuth session (#3820) ;
 2025-05-20T14:08:16 ;   36dbd4155 ; matthieusieben ; Fix potential memory leak (#3819) ;
 2025-05-20T14:01:10 ;   43861a452 ; matthieusieben ; Remove dependency on the Public Suffix List (#3818) ;
