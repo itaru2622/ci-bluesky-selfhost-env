@@ -1,0 +1,4 @@
+2025-05-26T22:04:18 ;   d6c40d655 ; 41898282+github-actions[bot] ; Version packages (#3878) ; (tag: refs/tags/@atproto/pds@0.4.139, tag: refs/tags/@atproto/ozone@0.1.112, tag: refs/tags/@atproto/oauth-provider@0.7.8, tag: refs/tags/@atproto/oauth-provider-ui@0.1.6, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.5, tag: refs/tags/@atproto/oauth-client@0.3.18, tag: refs/tags/@atproto/oauth-client-node@0.2.19, tag: refs/tags/@atproto/oauth-client-browser@0.3.18, tag: refs/tags/@atproto/dev-env@0.3.133, tag: refs/tags/@atproto/bsky@0.0.151, tag: refs/tags/@atproto/api@0.15.9)
+2025-05-26T19:28:59 ;   79a75bb1e ; mozzius ; Referred likes lexicon changes (#3882) ;
+2025-05-26T13:45:09 ;   d1e3e68dd ; matthieu.sieben ; changeset ;
+2025-05-26T13:42:54 ;   ba293da9f ; johannes.andersen ; feat: password reset discovery and sign-in/up autofill (#3888) ;
