@@ -1,0 +1,2 @@
+2025-05-27T13:25:41 ;   342f820ec ; git ; Quiet some logs, fix a bug (#8404) ;
+2025-05-27T13:25:30 ;   df2f62e94 ; git ; Move SENTRY_DSN to secrets (#8096) ;
