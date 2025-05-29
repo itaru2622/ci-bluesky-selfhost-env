@@ -1,3 +1,9 @@
+2025-05-29T15:27:40 ;   e05b38a72 ; 41898282+github-actions[bot] ; Version packages (#3907) ; (tag: refs/tags/@atproto/pds@0.4.141, tag: refs/tags/@atproto/ozone@0.1.114, tag: refs/tags/@atproto/oauth-provider@0.7.9, tag: refs/tags/@atproto/lex-cli@0.8.2, tag: refs/tags/@atproto/dev-env@0.3.135, tag: refs/tags/@atproto/bsky@0.0.153, tag: refs/tags/@atproto/api@0.15.11)
+2025-05-29T15:20:29 ;   a978681fd ; rafael ; changeset (#3910) ;
+2025-05-29T13:01:11 ;   f6d5a467e ; rafael ; Fix handling following users in threads v2 (#3909) ;
+2025-05-29T18:42:56 ;   d880665e6 ; mozzius ; Fixed codegen for arrays of strings with known values (#3906) ;
+2025-05-29T14:15:45 ;   06bf684a4 ; matthieusieben ; Add max length limit to passwords (#3900) ;
+2025-05-29T00:32:11 ;   cb8bf1838 ; rafael ; `app.bsky.unspecced.getPostThreadV2` filtering (#3905) ;
 2025-05-28T21:39:28 ;   498f3c073 ; foysal ; :bug: Fetch record from pds if appview fails to find it for ozone (#3892) ;
 2025-05-28T10:37:04 ;   e474623d3 ; jamesrcalabro ; Add Generic Bsync Proto (#3887) ;
 2025-05-28T10:30:54 ;   37b5a4ef2 ; foysal ; :bug: Add missing union ref to ozone mod subject (#3605) ;
