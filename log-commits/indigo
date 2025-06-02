@@ -1,0 +1,9 @@
+2025-06-02T09:00:12 ;   d5c9745a ; jamesrcalabro ; Collectiondir Improvements (#1029) ;
+2025-04-17T16:18:40 ;   5fd97836 ; jamesrcalabro ; still wait for server shutdown ;
+2025-04-17T16:16:06 ;   a71a87bf ; jamesrcalabro ; merge w/ main ;
+2025-04-15T09:09:15 ;   444a6aa9 ; jamesrcalabro ; handle server errors as fatal ;
+2025-04-14T10:26:57 ;   c90e279b ; jamesrcalabro ; fix final race condition ;
+2025-04-14T10:23:48 ;   5191ddd7 ; jamesrcalabro ; fix server create/shutdown data race ;
+2025-04-14T10:17:14 ;   8c00259a ; jamesrcalabro ; fix infinite hang on service shutdown ;
+2025-04-14T10:05:47 ;   82656e88 ; jamesrcalabro ; fix startup race condition ;
+2025-04-14T10:02:52 ;   f1625888 ; jamesrcalabro ; install /debug/pprof/ handlers on the metrics server ;
