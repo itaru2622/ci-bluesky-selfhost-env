@@ -1,4 +1,4 @@
-2025-05-28T21:27:48 ;   c1d3300 ; foysal ; :lipstick: Add reply context when reviewing a post which is a reply to a post (#350) ;
+2025-05-28T21:27:48 ;   c1d3300 ; foysal ; :lipstick: Add reply context when reviewing a post which is a reply to a post (#350) ; (tag: refs/tags/v0.1.96)
 2025-05-28T09:25:12 ;   85c229e ; foysal ; ❇️ Verification list filter improvements (#348) ;
 2025-05-28T09:23:33 ;   a16e8fa ; foysal ; :bug: Add missing prop when saving filter macro (#347) ;
 2025-05-28T09:23:22 ;   b784268 ; foysal ; :bug: Fix filter dropdown getting cut off (#344) ;

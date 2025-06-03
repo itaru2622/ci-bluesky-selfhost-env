@@ -1,4 +1,15 @@
+2025-06-03T12:35:50 ;   0b69efcd ; bnewbold ; update codegen (#1082) ;
+2025-06-03T12:30:07 ;   82b8a299 ; bnewbold ; make fmt ;
+2025-06-03T12:27:11 ;   e60f3545 ; bnewbold ; Merge branch 'main' into hailey/codegen-2 ;
+2025-06-03T11:59:31 ;   1c879a77 ; bnewbold ; events: add sync event support to persist implementations (#1020) ;
+2025-06-03T11:57:27 ;   2c892757 ; bnewbold ; lexgen: use lexutil.LexClient interface for codegen (#1070) ;
+2025-06-02T23:31:29 ;   66566a8f ; bnewbold ; better method param names for LexDo() ;
 2025-06-02T09:00:12 ;   d5c9745a ; jamesrcalabro ; Collectiondir Improvements (#1029) ;
+2025-05-31T19:29:46 ;   054cbe16 ; bnewbold ; switch to using net/http consts for request types ;
+2025-05-03T19:14:53 ;   9c41058b ; bnewbold ; manually update record-agnostic API helpers as an example ;
+2025-05-03T19:14:29 ;   dee24e74 ; bnewbold ; new lexutil.LexClient interface which xrpc.Client implements ;
+2025-05-20T17:21:20 ;   e203ea0e ; why ; remove all the unused event fields ;
+2025-05-20T15:18:06 ;   8ba39017 ; me ; codegen ;
 2025-04-17T16:18:40 ;   5fd97836 ; jamesrcalabro ; still wait for server shutdown ;
 2025-04-17T16:16:06 ;   a71a87bf ; jamesrcalabro ; merge w/ main ;
 2025-04-15T09:09:15 ;   444a6aa9 ; jamesrcalabro ; handle server errors as fatal ;
@@ -7,3 +18,4 @@
 2025-04-14T10:17:14 ;   8c00259a ; jamesrcalabro ; fix infinite hang on service shutdown ;
 2025-04-14T10:05:47 ;   82656e88 ; jamesrcalabro ; fix startup race condition ;
 2025-04-14T10:02:52 ;   f1625888 ; jamesrcalabro ; install /debug/pprof/ handlers on the metrics server ;
+2025-04-08T00:59:23 ;   00cf7c4f ; bnewbold ; add sync event support to persist implementations ;

@@ -1,3 +1,5 @@
+2025-06-03T14:23:35 ;   b9616f63b ; rafael ; [bsync] Rename operation endpoint properties (#3921) ;
+2025-06-03T10:10:42 ;   71b9dcda9 ; matthieusieben ; Show account picker instead of welcome screen when user already signed-in (#3916) ;
 2025-06-02T19:18:33 ;   8fa2502e8 ; matthieusieben ; Require manual invocation of `i18n:extract` (#3918) ;
 2025-06-02T16:45:02 ;   e2f1dfd3d ; foysal ; :white_check_mark: Fix flaky team test in ozone suite (#3917) ;
 2025-05-31T16:37:17 ;   45e8717e1 ; 41898282+github-actions[bot] ; Version packages (#3914) ; (tag: refs/tags/@atproto/pds@0.4.142, tag: refs/tags/@atproto/ozone@0.1.115, tag: refs/tags/@atproto/dev-env@0.3.136, tag: refs/tags/@atproto/bsync@0.0.20, tag: refs/tags/@atproto/bsky@0.0.154, tag: refs/tags/@atproto/api@0.15.12)
