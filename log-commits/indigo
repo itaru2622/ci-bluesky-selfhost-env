@@ -1,3 +1,11 @@
+2025-06-03T19:21:08 ;   a6d3e9a1 ; bnewbold ; sync v1.1 event updates: add `#sync`, remove `#handle`, `#migrate`, `#tombstone` (#967) ;
+2025-03-03T19:06:22 ;   2916fd6b ; bnewbold ; update search ;
+2025-03-03T19:06:06 ;   eb1e65a3 ; bnewbold ; update BGS code ;
+2025-03-03T19:05:43 ;   da884deb ; bnewbold ; update sonar ;
+2025-03-03T19:05:36 ;   bd81ed70 ; bnewbold ; update supercollider ;
+2025-03-03T19:05:19 ;   562ec6eb ; bnewbold ; update integration tests for new event types ;
+2025-03-03T18:55:42 ;   26455479 ; bnewbold ; updates to gosky ;
+2025-03-03T18:46:34 ;   7b651c10 ; bnewbold ; cborgen sync event type; and update events impl ;
 2025-06-03T12:35:50 ;   0b69efcd ; bnewbold ; update codegen (#1082) ;
 2025-06-03T12:30:07 ;   82b8a299 ; bnewbold ; make fmt ;
 2025-06-03T12:27:11 ;   e60f3545 ; bnewbold ; Merge branch 'main' into hailey/codegen-2 ;

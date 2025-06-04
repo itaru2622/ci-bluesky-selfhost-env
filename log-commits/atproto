@@ -1,3 +1,5 @@
+2025-06-04T17:03:16 ;   9214bd017 ; matthieusieben ; Improve logging of XRPC errors (#3699) ;
+2025-06-04T13:35:53 ;   1919d10a2 ; 41898282+github-actions[bot] ; Version packages (#3920) ; (tag: refs/tags/@atproto/pds@0.4.143, tag: refs/tags/@atproto/oauth-provider@0.7.10, tag: refs/tags/@atproto/oauth-provider-ui@0.1.7, tag: refs/tags/@atproto/dev-env@0.3.137)
 2025-06-03T14:23:35 ;   b9616f63b ; rafael ; [bsync] Rename operation endpoint properties (#3921) ;
 2025-06-03T10:10:42 ;   71b9dcda9 ; matthieusieben ; Show account picker instead of welcome screen when user already signed-in (#3916) ;
 2025-06-02T19:18:33 ;   8fa2502e8 ; matthieusieben ; Require manual invocation of `i18n:extract` (#3918) ;
