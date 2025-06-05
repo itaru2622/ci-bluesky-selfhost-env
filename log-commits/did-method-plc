@@ -1,0 +1,14 @@
+2025-06-05T12:30:35 ;   4e2063b ; bnewbold ; Merge pull request #101 from DavidBuchanan314/permissive-service-keys ;
+2025-06-05T19:06:33 ;   35d6c0b ; d ; naming things ;
+2025-06-04T22:36:09 ;   d51995b ; d ; support rendering DID docs for unrecognized key formats ;
+2025-06-04T22:35:36 ;   9c449dd ; d ; fix erroneously-passing did doc readback test ;
+2025-06-04T19:48:52 ;   dbf3d45 ; d ; fix error string format ;
+2025-06-04T19:41:34 ;   1121b03 ; d ; add tests for long and non-b58 verificationMethod keys ;
+2025-06-04T19:35:16 ;   8048945 ; d ; add verificationMethod count limit, key length limit, require b58btc ;
+2025-06-03T22:01:52 ;   9241061 ; d ; improve test to make sure DID docs containing 'exotic' keys can still be read back ;
+2025-06-03T21:45:49 ;   08ff322 ; d ; split server tests across two dids, to avoid rate limits ;
+2025-06-03T20:48:47 ;   6b1c5e1 ; d ; add test for 'exotic' service key type (BLS12-381) ;
+2025-06-03T20:39:31 ;   2b2901c ; d ; refactor did:key check to reuse extractMultikey util logic ;
+2025-06-03T20:28:35 ;   d592f66 ; d ; fix test breakages due to side-effects of the new test case succeeding ;
+2025-06-03T20:27:46 ;   77a77fa ; d ; relax constraints on service key format ;
+2025-06-03T20:18:31 ;   027de2e ; d ; add test for unsupported rotation keys, rewrite test for unsupported service keys to expect success (even though it currently fails), and add basic tests for syntactically invalid service keys ;

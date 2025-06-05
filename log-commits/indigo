@@ -1,4 +1,8 @@
+2025-06-04T18:07:11 ;   db9bb600 ; bnewbold ; update codegen with LexClient change (#1089) ;
+2025-06-04T17:59:11 ;   17911f43 ; bnewbold ; update codegen with LexClient change ;
+2025-06-04T17:45:00 ;   d7a2bbf3 ; bnewbold ; update lexgen types to not send go zero vals as URL params for optional fields (#1077) ;
 2025-06-03T19:21:08 ;   a6d3e9a1 ; bnewbold ; sync v1.1 event updates: add `#sync`, remove `#handle`, `#migrate`, `#tombstone` (#967) ;
+2025-06-03T19:09:18 ;   e1314b9e ; bnewbold ; Merge branch 'main' into bnewbold/omitempty-params ;
 2025-03-03T19:06:22 ;   2916fd6b ; bnewbold ; update search ;
 2025-03-03T19:06:06 ;   eb1e65a3 ; bnewbold ; update BGS code ;
 2025-03-03T19:05:43 ;   da884deb ; bnewbold ; update sonar ;
@@ -18,6 +22,10 @@
 2025-05-03T19:14:29 ;   dee24e74 ; bnewbold ; new lexutil.LexClient interface which xrpc.Client implements ;
 2025-05-20T17:21:20 ;   e203ea0e ; why ; remove all the unused event fields ;
 2025-05-20T15:18:06 ;   8ba39017 ; me ; codegen ;
+2025-05-06T16:10:17 ;   43a3501c ; bnewbold ; add nullable check as well ;
+2025-05-06T15:59:57 ;   124f34cb ; bnewbold ; run lexgen with query param tweak ;
+2025-05-06T15:57:16 ;   6be07157 ; bnewbold ; lexgen: include non-required query params conditionally ;
+2025-05-06T15:22:40 ;   f5fe7a54 ; bnewbold ; manually update lexgen types to not send go zero vals as URL params ;
 2025-04-17T16:18:40 ;   5fd97836 ; jamesrcalabro ; still wait for server shutdown ;
 2025-04-17T16:16:06 ;   a71a87bf ; jamesrcalabro ; merge w/ main ;
 2025-04-15T09:09:15 ;   444a6aa9 ; jamesrcalabro ; handle server errors as fatal ;
