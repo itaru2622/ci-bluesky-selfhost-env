@@ -1,4 +1,8 @@
+2025-06-05T13:46:06 ;   60e8158 ; bnewbold ; Merge pull request #103 from DavidBuchanan314/patch-1 ;
+2025-06-05T21:40:46 ;   a582520 ; d ; spec: clarify did:key validity rules, add changelog ;
 2025-06-05T12:30:35 ;   4e2063b ; bnewbold ; Merge pull request #101 from DavidBuchanan314/permissive-service-keys ;
+2025-06-05T20:23:46 ;   e11ecb7 ; d ; duplicate spec changes into README ;
+2025-06-05T20:14:06 ;   6180041 ; d ; Update did-plc.md ;
 2025-06-05T19:06:33 ;   35d6c0b ; d ; naming things ;
 2025-06-04T22:36:09 ;   d51995b ; d ; support rendering DID docs for unrecognized key formats ;
 2025-06-04T22:35:36 ;   9c449dd ; d ; fix erroneously-passing did doc readback test ;
