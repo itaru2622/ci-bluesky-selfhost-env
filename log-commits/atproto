@@ -1,3 +1,5 @@
+2025-06-06T20:20:02 ;   93bf69df9 ; 41898282+github-actions[bot] ; Version packages (#3936) ; (tag: refs/tags/@atproto/pds@0.4.146, tag: refs/tags/@atproto/ozone@0.1.118, tag: refs/tags/@atproto/oauth-client@0.3.21, tag: refs/tags/@atproto/oauth-client-node@0.2.22, tag: refs/tags/@atproto/oauth-client-browser@0.3.21, tag: refs/tags/@atproto/dev-env@0.3.140, tag: refs/tags/@atproto/bsky@0.0.157, tag: refs/tags/@atproto/api@0.15.14)
+2025-06-07T00:29:05 ;   a48671e73 ; mozzius ; Notification preferences V2 endpoints (#3901) ;
 2025-06-06T19:29:48 ;   cd4bed3c9 ; matthieusieben ; Cache new nonces from successful retries (#3935) ;
 2025-06-06T11:49:33 ;   bd77a88d0 ; 41898282+github-actions[bot] ; Version packages (#3931) ; (tag: refs/tags/@atproto/pds@0.4.145, tag: refs/tags/@atproto/ozone@0.1.117, tag: refs/tags/@atproto/dev-env@0.3.139, tag: refs/tags/@atproto/bsky@0.0.156, tag: refs/tags/@atproto/api@0.15.13)
 2025-06-06T10:54:36 ;   c6eb8a12e ; git ; Update V2 additional replies naming convention (#3929) ;
