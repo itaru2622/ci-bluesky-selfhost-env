@@ -1,3 +1,5 @@
+2025-06-09T17:52:04 ;   e094adb ; foysal ; :sparkles: Add remove set action: (#351) ;
+2025-06-09T17:51:56 ;   4db80e3 ; foysal ; :lipstick: Show confirmation panel over quick action panel (#353) ;
 2025-05-28T21:27:48 ;   c1d3300 ; foysal ; :lipstick: Add reply context when reviewing a post which is a reply to a post (#350) ; (tag: refs/tags/v0.1.96)
 2025-05-28T09:25:12 ;   85c229e ; foysal ; ❇️ Verification list filter improvements (#348) ;
 2025-05-28T09:23:33 ;   a16e8fa ; foysal ; :bug: Add missing prop when saving filter macro (#347) ;
