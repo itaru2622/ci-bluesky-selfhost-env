@@ -1,0 +1,7 @@
+2025-06-10T20:53:56 ;   0286f7ee3 ; matthieusieben ; Refactor route rate limiter builder (#3886) ;
+2025-06-10T16:14:22 ;   809822cee ; matthieu.sieben ; fix pds build ;
+2025-06-10T10:57:04 ;   dfdc8c847 ; rafael ; Add threads v2 seeds to dev-env seeds (#3911) ;
+2025-06-10T11:58:25 ;   b675fbbf1 ; matthieusieben ; Return an error if the wrong HTTP verb is used for a known XRPC method (#3884) ;
+2025-06-10T11:57:49 ;   192f3ab89 ; matthieusieben ; Improve `login_hint` handling (#3933) ;
+2025-06-10T11:56:04 ;   4e96e2c7b ; matthieusieben ; Remove `iss` claim from DPoP proofs (#3926) ;
+2025-06-10T11:55:51 ;   30f851dee ; matthieusieben ; Fix footer links not working in account page (#3934) ;
