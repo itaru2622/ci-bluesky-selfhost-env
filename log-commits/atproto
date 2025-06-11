@@ -1,3 +1,4 @@
+2025-06-10T17:20:39 ;   3f07ffd3e ; rafael ; Add field to NotificationPreferences proto msg (#3946) ;
 2025-06-10T20:53:56 ;   0286f7ee3 ; matthieusieben ; Refactor route rate limiter builder (#3886) ;
 2025-06-10T16:14:22 ;   809822cee ; matthieu.sieben ; fix pds build ;
 2025-06-10T10:57:04 ;   dfdc8c847 ; rafael ; Add threads v2 seeds to dev-env seeds (#3911) ;

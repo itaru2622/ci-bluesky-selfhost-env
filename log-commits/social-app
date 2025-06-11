@@ -1,3 +1,10 @@
+2025-06-11T22:38:46 ;   9e186dd2b ; mozzius ; Video - remove `MediaInsetBorder` when fullscreen (#8476) ;
+2025-06-11T22:33:43 ;   32dfcc3a5 ; mozzius ; disable avatar preview in searchable people list (#8453) ;
+2025-06-11T14:32:14 ;   61004b887 ; git ; [Threads V2] Preliminary integration of unspecced V2 APIs (#8443) ;
+2025-06-11T13:22:02 ;   143d5f3b8 ; git ; Post source handling updates (#8472) ;
+2025-06-11T20:12:05 ;   7341294df ; mozzius ; Fix using screen names in `Link` (#8473) ;
+2025-06-11T14:21:31 ;   269105371 ; fnascimento1284 ; Instant Feed Update on Mute or Moderation Action (#8463) ;
+2025-06-10T23:29:39 ;   1380c5ac6 ; mozzius ; use ref instead of source (#8471) ;
 2025-06-10T02:41:37 ;   c6fc298d1 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-06-09T20:29:53 ;   f93896346 ; dan.abramov ; Update react-navigation (#5967) ;
 2025-06-09T21:21:11 ;   42c4da1ec ; itoupluk427 ; Update SetNewPasswordForm.tsx (#8349) ;
