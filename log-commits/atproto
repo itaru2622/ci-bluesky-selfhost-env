@@ -1,3 +1,5 @@
+2025-06-12T15:10:17 ;   349b59175 ; matthieusieben ; Properly validate auth during refresh (#3847) ;
+2025-06-11T16:49:12 ;   c2b57e3f6 ; 41898282+github-actions[bot] ; Version packages (#3944) ; (tag: refs/tags/@atproto/xrpc-server@0.8.0, tag: refs/tags/@atproto/sync@0.1.25, tag: refs/tags/@atproto/pds@0.4.147, tag: refs/tags/@atproto/ozone@0.1.119, tag: refs/tags/@atproto/oauth-provider@0.8.1, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.7, tag: refs/tags/@atproto/oauth-client@0.3.22, tag: refs/tags/@atproto/oauth-client-node@0.2.23, tag: refs/tags/@atproto/oauth-client-browser@0.3.22, tag: refs/tags/@atproto/dev-env@0.3.141, tag: refs/tags/@atproto/bsky@0.0.158, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.16, tag: refs/tags/@atproto-labs/identity-resolver@0.1.18)
 2025-06-10T17:20:39 ;   3f07ffd3e ; rafael ; Add field to NotificationPreferences proto msg (#3946) ;
 2025-06-10T20:53:56 ;   0286f7ee3 ; matthieusieben ; Refactor route rate limiter builder (#3886) ;
 2025-06-10T16:14:22 ;   809822cee ; matthieu.sieben ; fix pds build ;

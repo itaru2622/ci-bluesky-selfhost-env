@@ -1,3 +1,8 @@
+2025-06-12T21:21:16 ;   8a5a7db14 ; mozzius ; rm browserslist (#8481) ;
+2025-06-12T10:46:22 ;   477e5f4ec ; me ; new arch (#8295) ;
+2025-06-12T02:40:53 ;   a26b20b56 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-06-12T01:22:21 ;   18b258d06 ; mozzius ; Loosen post source constraints (#8478) ;
+2025-06-11T23:19:26 ;   093454f5b ; mozzius ; hide keyboard when backgrounding (#8450) ;
 2025-06-11T22:38:46 ;   9e186dd2b ; mozzius ; Video - remove `MediaInsetBorder` when fullscreen (#8476) ;
 2025-06-11T22:33:43 ;   32dfcc3a5 ; mozzius ; disable avatar preview in searchable people list (#8453) ;
 2025-06-11T14:32:14 ;   61004b887 ; git ; [Threads V2] Preliminary integration of unspecced V2 APIs (#8443) ;
