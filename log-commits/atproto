@@ -1,3 +1,4 @@
+2025-06-14T11:39:56 ;   8bd45e2f8 ; bnewbold ; bump MST key length from 256 to 1024 chars (#3956) ;
 2025-06-14T14:30:24 ;   7d9808ca8 ; matthieusieben ; Allow HTTPS `redirect_uris` from any origin (#3811) ;
 2025-06-14T14:25:11 ;   e27d90845 ; matthieusieben ; Increase oauth session & refresh token lifetimes (#3883) ;
 2025-06-14T05:15:44 ;   5072e5b81 ; kidGodzilla ; Update README.md to add some missing details in examples (#3254) ;
