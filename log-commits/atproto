@@ -1,13 +1,3 @@
-2025-06-13T13:49:11 ;   71a0a026c ; 41898282+github-actions[bot] ; Version packages (#3947) ; (tag: refs/tags/@atproto/pds@0.4.148, tag: refs/tags/@atproto/ozone@0.1.120, tag: refs/tags/@atproto/oauth-types@0.3.0, tag: refs/tags/@atproto/oauth-provider@0.9.0, tag: refs/tags/@atproto/oauth-provider-ui@0.1.9, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.8, tag: refs/tags/@atproto/oauth-provider-api@0.1.4, tag: refs/tags/@atproto/oauth-client@0.4.0, tag: refs/tags/@atproto/oauth-client-node@0.2.24, tag: refs/tags/@atproto/oauth-client-browser@0.3.23, tag: refs/tags/@atproto/jwk@0.3.0, tag: refs/tags/@atproto/jwk-webcrypto@0.1.8, tag: refs/tags/@atproto/jwk-jose@0.1.8, tag: refs/tags/@atproto/dev-env@0.3.142, tag: refs/tags/@atproto/bsky@0.0.159, tag: refs/tags/@atproto/api@0.15.15)
-2025-06-13T13:37:33 ;   7f1316748 ; git ; Add `match: MuteWordMatch` to `muted-word` mod decision `cause` (#2934) ;
-2025-06-13T12:28:19 ;   6b07b4b08 ; rafael ; bsync: Accept NSID with fragment in operation ns (#3954) ;
-2025-06-12T15:10:17 ;   349b59175 ; matthieusieben ; Properly validate auth during refresh (#3847) ;
-2025-06-11T16:49:12 ;   c2b57e3f6 ; 41898282+github-actions[bot] ; Version packages (#3944) ; (tag: refs/tags/@atproto/xrpc-server@0.8.0, tag: refs/tags/@atproto/sync@0.1.25, tag: refs/tags/@atproto/pds@0.4.147, tag: refs/tags/@atproto/ozone@0.1.119, tag: refs/tags/@atproto/oauth-provider@0.8.1, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.7, tag: refs/tags/@atproto/oauth-client@0.3.22, tag: refs/tags/@atproto/oauth-client-node@0.2.23, tag: refs/tags/@atproto/oauth-client-browser@0.3.22, tag: refs/tags/@atproto/dev-env@0.3.141, tag: refs/tags/@atproto/bsky@0.0.158, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.16, tag: refs/tags/@atproto-labs/identity-resolver@0.1.18)
-2025-06-10T17:20:39 ;   3f07ffd3e ; rafael ; Add field to NotificationPreferences proto msg (#3946) ;
-2025-06-10T20:53:56 ;   0286f7ee3 ; matthieusieben ; Refactor route rate limiter builder (#3886) ;
-2025-06-10T16:14:22 ;   809822cee ; matthieu.sieben ; fix pds build ;
-2025-06-10T10:57:04 ;   dfdc8c847 ; rafael ; Add threads v2 seeds to dev-env seeds (#3911) ;
-2025-06-10T11:58:25 ;   b675fbbf1 ; matthieusieben ; Return an error if the wrong HTTP verb is used for a known XRPC method (#3884) ;
-2025-06-10T11:57:49 ;   192f3ab89 ; matthieusieben ; Improve `login_hint` handling (#3933) ;
-2025-06-10T11:56:04 ;   4e96e2c7b ; matthieusieben ; Remove `iss` claim from DPoP proofs (#3926) ;
-2025-06-10T11:55:51 ;   30f851dee ; matthieusieben ; Fix footer links not working in account page (#3934) ;
+2025-06-14T14:30:24 ;   7d9808ca8 ; matthieusieben ; Allow HTTPS `redirect_uris` from any origin (#3811) ;
+2025-06-14T14:25:11 ;   e27d90845 ; matthieusieben ; Increase oauth session & refresh token lifetimes (#3883) ;
+2025-06-14T05:15:44 ;   5072e5b81 ; kidGodzilla ; Update README.md to add some missing details in examples (#3254) ;
