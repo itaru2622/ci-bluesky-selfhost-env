@@ -1,3 +1,5 @@
+2025-06-17T12:37:14 ;   21989b558 ; mozzius ; Granular notification settings (#8484) ;
+2025-06-17T02:41:29 ;   7dc6bb57a ; 1270099+pfrazee ; Nightly source-language update ;
 2025-06-16T20:00:38 ;   c16d5ce82 ; mozzius ; Fix misuse of Promise.all (#8222) ;
 2025-06-16T10:39:41 ;   c2b71a6a9 ; git ; Fix v2 tree view bug caused by moderation settings (#8503) ;
 2025-06-16T18:32:51 ;   585dbebb6 ; mozzius ; Fix long-press loophole for disabled quote posts (#8502) ;

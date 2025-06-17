@@ -1,3 +1,6 @@
+2025-06-17T21:40:02 ;   96c08da3a ; 136604165+leopardracer ; Minor Fixes: Typo Correction and Comment Update (#3961) ;
+2025-06-17T20:45:49 ;   97ef11657 ; mozzius ; Rename `filter` -> `include` (#3966) ;
+2025-06-17T15:50:58 ;   b4cb1ebac ; 41898282+github-actions[bot] ; Version packages (#3959) ; (tag: refs/tags/@atproto/sync@0.1.26, tag: refs/tags/@atproto/repo@0.8.2, tag: refs/tags/@atproto/pds@0.4.149, tag: refs/tags/@atproto/oauth-provider@0.9.1, tag: refs/tags/@atproto/dev-env@0.3.143, tag: refs/tags/@atproto/bsky@0.0.160, tag: refs/tags/@atproto/aws@0.2.22)
 2025-06-14T11:39:56 ;   8bd45e2f8 ; bnewbold ; bump MST key length from 256 to 1024 chars (#3956) ;
 2025-06-14T14:30:24 ;   7d9808ca8 ; matthieusieben ; Allow HTTPS `redirect_uris` from any origin (#3811) ;
 2025-06-14T14:25:11 ;   e27d90845 ; matthieusieben ; Increase oauth session & refresh token lifetimes (#3883) ;
