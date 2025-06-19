@@ -1,3 +1,9 @@
+2025-06-19T19:25:17 ;   d53fdb0dd ; mozzius ; fix prefetch returning undefined (#8538) ;
+2025-06-19T02:41:35 ;   9be3b0794 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-06-18T23:42:06 ;   77db98de6 ; mozzius ; bump keyboard dep (#8528) ; (tag: refs/tags/1.104.0-rc2)
+2025-06-18T15:41:58 ;   51babe016 ; git ; Fix anchor text overflow in threads v2 (#8530) ;
+2025-06-18T15:39:58 ;   04a2a227f ; git ; Revert "Move dialog outputs inside navigation context (#8511)" (#8531) ;
+2025-06-18T23:36:37 ;   42510c051 ; mozzius ; gate notification settings (#8527) ;
 2025-06-18T12:46:24 ;   f36776a91 ; me ; switch mmkv version before android eas bundle (#8526) ;
 2025-06-18T21:37:04 ;   eb18b6a49 ; mozzius ; add scrollbars back on android (#8529) ;
 2025-06-18T11:58:37 ;   3eaa2d9dd ; git ; Disable android new arch (#8525) ;
