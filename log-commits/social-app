@@ -1,3 +1,11 @@
+2025-06-20T22:44:53 ;   25baf1f66 ; mozzius ; Allow disabling replies (#8537) ;
+2025-06-20T22:19:48 ;   dcbcd1bb8 ; mozzius ; simple heuristic for reducing footer height in thread (#8549) ;
+2025-06-20T19:50:21 ;   92ee6260c ; mozzius ; Ignore common video errors (#8548) ;
+2025-06-20T19:49:45 ;   9c7b330f9 ; mozzius ; Catch web browser errors (#8547) ;
+2025-06-20T11:44:39 ;   bc95c0e50 ; git ; Don't send any debugs to Sentry (#8533) ;
+2025-06-20T11:30:52 ;   aeafb14fb ; git ; Couple of Sentry cleanups (#8532) ;
+2025-06-20T11:01:55 ;   4c75b568d ; mozzius ; Android notification channels (#8539) ;
+2025-06-20T02:41:14 ;   9702b210c ; 1270099+pfrazee ; Nightly source-language update ;
 2025-06-19T19:25:17 ;   d53fdb0dd ; mozzius ; fix prefetch returning undefined (#8538) ;
 2025-06-19T02:41:35 ;   9be3b0794 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-06-18T23:42:06 ;   77db98de6 ; mozzius ; bump keyboard dep (#8528) ; (tag: refs/tags/1.104.0-rc2)
