@@ -1,3 +1,5 @@
+2025-07-01T02:51:03 ;   5f291b5ca ; 1270099+pfrazee ; Nightly source-language update ;
+2025-06-30T13:24:53 ;   806d3792a ; me ; feat: use t.gifs cdn for tenor search results (#8574) ;
 2025-06-30T19:13:14 ;   5e20d5ffa ; mozzius ; Reduce composer font size (#8591) ;
 2025-06-29T02:49:46 ;   130f795df ; 1270099+pfrazee ; Nightly source-language update ;
 2025-06-28T16:35:14 ;   7837c8f07 ; 149612116+surfdude29 ; tweak string in ContentLanguagesSettings.tsx (#8582) ;
