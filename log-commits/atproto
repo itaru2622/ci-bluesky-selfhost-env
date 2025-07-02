@@ -1,3 +1,4 @@
+2025-07-02T21:17:38 ;   02c358d0c ; foysal ; :sparkles: Adds safelink module (#3945) ;
 2025-07-01T06:59:28 ;   cf3af4660 ; 41898282+github-actions[bot] ; Version packages (#4012) ; (tag: refs/tags/@atproto/pds@0.4.156, tag: refs/tags/@atproto/ozone@0.1.126, tag: refs/tags/@atproto/dev-env@0.3.150, tag: refs/tags/@atproto/bsky@0.0.167, tag: refs/tags/@atproto/api@0.15.21)
 2025-07-01T16:48:09 ;   d344723a1 ; mozzius ; Loosen unspecced constraint on saved feed IDs (#4010) ;
 2025-07-01T00:43:27 ;   8a0f19039 ; mozzius ; Subscribe to activity implementation (#3908) ;

@@ -1,0 +1,10 @@
+2025-07-01T23:36:34 ;   ed6705a3 ; bnewbold ; bump to go v1.24 (#1096) ;
+2025-07-01T20:55:39 ;   31aeb9d7 ; bnewbold ; update old MST test to use fixed CIDs (instead of random seed) ;
+2025-07-01T20:47:13 ;   f2ad2426 ; bnewbold ; identity SDK: match spec better w/r/t handle normalization and extraction from DID doc alsoKnownAs (#1105) ;
+2025-06-20T17:45:03 ;   25432e2c ; bnewbold ; case-insensitive handle processing in bluepages ;
+2025-06-20T17:04:20 ;   3f391970 ; bnewbold ; identity: ensure handles are normalized in more places ;
+2025-06-20T16:55:49 ;   1bc8502d ; bnewbold ; identity: normalize DID doc handles; try harder to find valid handles ;
+2025-06-15T16:49:44 ;   7a062a9f ; bnewbold ; fix goat Sprintf lint ;
+2025-06-15T16:49:26 ;   c4909fe1 ; bnewbold ; fix Dockerfile update typo ;
+2025-06-15T16:42:16 ;   92f1aac2 ; bnewbold ; bump to go 1.24 in dockerfiles and CI ;
+2025-06-15T16:41:04 ;   d89c79f5 ; bnewbold ; bump to go 1.24 ;
