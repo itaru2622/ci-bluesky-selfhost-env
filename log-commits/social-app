@@ -1,3 +1,5 @@
+2025-07-03T20:17:36 ;   1ed019bd7 ; mozzius ; specify mcemojipicker version (#8600) ;
+2025-07-03T02:43:45 ;   42af417e8 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-07-02T20:52:40 ;   dbfb9dad2 ; mozzius ; fix label for activity notifs (#8599) ;
 2025-07-01T17:56:27 ;   9d44673ac ; pfrazee ; Release 1.104.0 (#8595) ; (tag: refs/tags/1.104.0)
 2025-07-02T00:36:04 ;   bc072570d ; mozzius ; Activity notification settings (#8485) ;
