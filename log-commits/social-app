@@ -1,7 +1,9 @@
+2025-07-03T22:22:59 ;   34291131b ; me ; bump video lib (#8604) ; (tag: refs/tags/1.104.0)
+2025-07-04T02:30:24 ;   a9469cc11 ; mozzius ; Move NUX date (#8603) ;
 2025-07-03T20:17:36 ;   1ed019bd7 ; mozzius ; specify mcemojipicker version (#8600) ;
 2025-07-03T02:43:45 ;   42af417e8 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-07-02T20:52:40 ;   dbfb9dad2 ; mozzius ; fix label for activity notifs (#8599) ;
-2025-07-01T17:56:27 ;   9d44673ac ; pfrazee ; Release 1.104.0 (#8595) ; (tag: refs/tags/1.104.0)
+2025-07-01T17:56:27 ;   9d44673ac ; pfrazee ; Release 1.104.0 (#8595) ;
 2025-07-02T00:36:04 ;   bc072570d ; mozzius ; Activity notification settings (#8485) ;
 2025-07-01T23:24:20 ;   8f9a8ddce ; mozzius ; enforce border radius on default avatar (#8577) ;
 2025-07-01T23:24:03 ;   9fdd98d8b ; mozzius ; Improve post spacing (#8589) ;
