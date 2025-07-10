@@ -1,1 +1,2 @@
+2025-07-09T18:55:48 ;   5ed4a8859 ; devinivy ; Fix json and text uploads: don't parse bodies with input encoding of */* (#4027) ;
 2025-07-08T13:04:11 ;   8ef976d38 ; matthieusieben ; xrpc-server & lex-cli rework (#3999) ;

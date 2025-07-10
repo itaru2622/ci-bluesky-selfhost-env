@@ -1,0 +1,3 @@
+2025-07-09T14:05:41 ;   ef43ad32 ; bnewbold ; lexgen empty union (#1115) ;
+2025-07-09T13:51:02 ;   14936ba6 ; bnewbold ; lexgen: encode empty union as util.LexiconTypeDecoder ;
+2025-07-09T13:50:45 ;   70081f6c ; bnewbold ; lexgen: support another true unknown field (modTool meta) ;
