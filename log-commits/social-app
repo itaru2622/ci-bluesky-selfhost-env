@@ -1,3 +1,8 @@
+2025-07-11T18:49:59 ;   0e3124a97 ; mozzius ; Filter activity notifs for muted words (#8637) ;
+2025-07-11T02:46:37 ;   8f5a8f37a ; 1270099+pfrazee ; Nightly source-language update ;
+2025-07-10T19:53:57 ;   3b329430a ; jamesrcalabro ; Merge pull request #8634 from bluesky-social/jc/aaip ;
+2025-07-11T00:36:53 ;   377d80e21 ; mozzius ; Handle notifications on first load (#8629) ;
+2025-07-10T12:41:15 ;   c2a5b3efa ; jamesrcalabro ; Detect Age Restricted Geos ;
 2025-07-10T02:44:40 ;   22bda086d ; 1270099+pfrazee ; Nightly source-language update ;
 2025-07-09T10:14:30 ;   07b028ee6 ; mozzius ; Fix quote+list card padding (#8623) ;
 2025-07-08T18:35:16 ;   1fcd31342 ; mozzius ; Translation update (#8624) ;

@@ -1,2 +1,7 @@
+2025-07-11T20:35:18 ;   f27ae6643 ; 41898282+github-actions[bot] ; Version packages (#4024) ; (tag: refs/tags/@atproto/xrpc@0.7.1, tag: refs/tags/@atproto/xrpc-server@0.9.0, tag: refs/tags/@atproto/sync@0.1.29, tag: refs/tags/@atproto/repo@0.8.5, tag: refs/tags/@atproto/pds@0.4.159, tag: refs/tags/@atproto/ozone@0.1.129, tag: refs/tags/@atproto/oauth-client@0.5.1, tag: refs/tags/@atproto/oauth-client-node@0.3.3, tag: refs/tags/@atproto/oauth-client-browser@0.3.27, tag: refs/tags/@atproto/lexicon@0.4.12, tag: refs/tags/@atproto/lex-cli@0.9.0, tag: refs/tags/@atproto/dev-env@0.3.153, tag: refs/tags/@atproto/bsky@0.0.170, tag: refs/tags/@atproto/aws@0.2.25, tag: refs/tags/@atproto/api@0.15.24, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.17)
+2025-07-11T18:09:49 ;   34d7a0846 ; foysal ; :memo: Add changeset for ozone age assurance changes (#4034) ;
+2025-07-11T18:00:55 ;   926193f82 ; foysal ; Ozone support for age assurance compliance events (#4029) ;
+2025-07-11T17:17:05 ;   ad18fc171 ; matthieusieben ; Properly compute token `exp` in `getServiceAuth` endpoint (#4025) ;
+2025-07-10T17:22:09 ;   c73d91335 ; jamesrcalabro ; Pass Through Age Restricted Status on Device Push Tokens (#4030) ;
 2025-07-09T18:55:48 ;   5ed4a8859 ; devinivy ; Fix json and text uploads: don't parse bodies with input encoding of */* (#4027) ;
 2025-07-08T13:04:11 ;   8ef976d38 ; matthieusieben ; xrpc-server & lex-cli rework (#3999) ;
