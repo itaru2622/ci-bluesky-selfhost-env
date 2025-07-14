@@ -1,2 +1,5 @@
+2025-07-14T20:03:28 ;   b76f95c9b ; mozzius ; bump version to v1.105 (#8616) ;
+2025-07-14T20:01:48 ;   587c14bac ; mozzius ; fix who can reply icon (#8625) ;
+2025-07-14T11:37:23 ;   be75e00d2 ; git ; Only show WhoCanReply on root post (#8645) ;
 2025-07-13T02:52:39 ;   27d6de0b1 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-07-12T20:50:04 ;   ff57e75b1 ; mozzius ; fix mention tab flicker (#8640) ;
