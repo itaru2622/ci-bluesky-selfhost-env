@@ -1,3 +1,9 @@
+2025-07-15T15:53:52 ;   60c068923 ; mozzius ; Fix navigation (#8648) ;
+2025-07-15T07:48:24 ;   4ccbae7c3 ; mozzius ; Fix perf issue on web - restore pop behaviour to tabs (#8620) ;
+2025-07-15T02:49:31 ;   1f82b1d55 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-07-14T17:22:41 ;   c9c91fb11 ; jamesrcalabro ; omitempty on aa (#8647) ;
+2025-07-14T16:24:53 ;   6375c54aa ; jamesrcalabro ; Merge pull request #8646 from bluesky-social/jc/aa ;
+2025-07-14T16:21:06 ;   1da123b12 ; jamesrcalabro ; Fix Age Restriction Type ;
 2025-07-14T20:03:28 ;   b76f95c9b ; mozzius ; bump version to v1.105 (#8616) ;
 2025-07-14T20:01:48 ;   587c14bac ; mozzius ; fix who can reply icon (#8625) ;
 2025-07-14T11:37:23 ;   be75e00d2 ; git ; Only show WhoCanReply on root post (#8645) ;
