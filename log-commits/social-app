@@ -1,3 +1,9 @@
+2025-07-18T14:21:23 ;   0995e81b5 ; git ; Age assurance tweaks (#8671) ;
+2025-07-18T10:19:56 ;   6a15679fb ; git ; Handle missed error branch (#8663) ;
+2025-07-18T10:09:59 ;   4dd9459cb ; git ; Update copy (#8664) ;
+2025-07-17T22:11:34 ;   95ab4fa0a ; ljharb ; show precise count in label/hover text (#6164) ;
+2025-07-17T21:59:23 ;   cfaf74164 ; sedat ; rename file names with colons to the common notation (#8264) ;
+2025-07-18T02:49:23 ;   f4909e5e0 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-07-17T23:03:55 ;   08a1a806e ; mozzius ; Fix checkmark overflow in profile card (#8612) ;
 2025-07-17T14:32:58 ;   964eed54e ; git ; Age assurance fast-follows (#8656) ;
 2025-07-17T13:22:09 ;   00b017804 ; git ; Fix bug where replying to grandparents re-orders thread (#8662) ;

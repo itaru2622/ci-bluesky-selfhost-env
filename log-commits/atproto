@@ -1,3 +1,5 @@
+2025-07-18T14:13:25 ;   8787fd9de ; git ; Prevent assured user from re-initiating (#4058) ;
+2025-07-18T12:12:09 ;   534bea0a9 ; rafael ; Fixes on handle suggestions (#4055) ;
 2025-07-17T16:09:14 ;   dc84906c8 ; rafael ; `checkHandleAvailability` endpoint (#4049) ;
 2025-07-16T17:09:52 ;   527729e0d ; 41898282+github-actions[bot] ; Version packages (#4051) ; (tag: refs/tags/@atproto/dev-env@0.3.156, tag: refs/tags/@atproto/bsky@0.0.173)
 2025-07-16T15:13:21 ;   77c6dffd0 ; rafael ; AA fixes (#4050) ;
