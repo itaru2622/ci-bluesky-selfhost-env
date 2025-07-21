@@ -1,0 +1,4 @@
+2025-07-21T17:34:58 ;   9ebfbd0e4 ; mozzius ; Nicer error message for backend video too large error (#8596) ;
+2025-07-21T17:33:59 ;   74f7a44d7 ; mozzius ; Patch in upstream fix for video rotation on Android (#8635) ;
+2025-07-21T17:22:35 ;   760b184d2 ; mozzius ; fix emoji popup scroll (#8636) ;
+2025-07-21T17:18:33 ;   36fba20a0 ; mozzius ; Follow redirects for soundcloud shortlinks (#8614) ;

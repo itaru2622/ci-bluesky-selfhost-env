@@ -1,0 +1,5 @@
+2025-07-21T12:36:17 ;   2b664622 ; david ; goat: Create service auth token via locally-held signing key (#1122) ;
+2025-07-21T12:31:51 ;   3efc8831 ; d ; goat: add TODO for iss fragment identifiers ;
+2025-07-21T12:28:40 ;   14a207bf ; d ; goat: rename service-auth-local to service-auth-offline ;
+2025-07-17T15:18:17 ;   c23ec469 ; d ; goat account service-auth-local: nicer errors ;
+2025-07-17T15:12:24 ;   fdf4607c ; d ; goat account service-auth-local: create service auth token via locally-held signing key ;
