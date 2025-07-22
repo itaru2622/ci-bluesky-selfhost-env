@@ -1,3 +1,12 @@
+2025-07-21T20:15:29 ;   9e2b99e86 ; pfrazee ; Release 1.105.0 (#8693) ; (tag: refs/tags/1.105.0)
+2025-07-21T19:49:59 ;   fc4bf4e91 ; 10610892+BinaryFiddler ; add  margin between messages in the composer thread (#8691) ;
+2025-07-22T02:48:49 ;   2a30a344b ; 1270099+pfrazee ; Nightly source-language update ;
+2025-07-22T02:51:09 ;   4a853794d ; 149612116+surfdude29 ; bskyembed correct hashtag link (#8685) ;
+2025-07-21T20:49:49 ;   7635a4900 ; git ; introduce context for "Following" as a feed name. (#8262) (#8690) ;
+2025-07-22T01:19:41 ;   8ce9bdb27 ; 149612116+surfdude29 ; tweak accessibility label (#8242) ;
+2025-07-22T00:41:01 ;   e1a0beff7 ; 149612116+surfdude29 ; add `action` context for `Repost` string in RepostButton.web.tsx (#8427) ;
+2025-07-22T00:40:25 ;   e5d44923f ; 149612116+surfdude29 ; tweak app language names (#8436) ;
+2025-07-22T00:35:04 ;   6d90d3c2f ; 149612116+surfdude29 ; remove title casing of `Intl.DisplayNames` language names (#8433) ;
 2025-07-21T17:34:58 ;   9ebfbd0e4 ; mozzius ; Nicer error message for backend video too large error (#8596) ;
 2025-07-21T17:33:59 ;   74f7a44d7 ; mozzius ; Patch in upstream fix for video rotation on Android (#8635) ;
 2025-07-21T17:22:35 ;   760b184d2 ; mozzius ; fix emoji popup scroll (#8636) ;
