@@ -1,3 +1,9 @@
+2025-07-23T14:32:19 ;   3ae3ed245 ; git ; Clean up AA gate (#8707) ;
+2025-07-23T19:52:38 ;   8fdcc3ee3 ; mozzius ; Replace `resumeSession` with `getSession` in the email check (#8670) ;
+2025-07-23T11:52:06 ;   b4938bc9d ; git ; Bump version (#8698) ;
+2025-07-23T09:31:03 ;   cf8d8b3bb ; git ; Include app version in metrics (#8699) ;
+2025-07-23T02:49:16 ;   bbc022c0a ; 1270099+pfrazee ; Nightly source-language update ;
+2025-07-22T17:16:07 ;   bbc39806f ; me ; feat(ui): remove like count from trending videos (#8689) ;
 2025-07-21T20:15:29 ;   9e2b99e86 ; pfrazee ; Release 1.105.0 (#8693) ; (tag: refs/tags/1.105.0)
 2025-07-21T19:49:59 ;   fc4bf4e91 ; 10610892+BinaryFiddler ; add  margin between messages in the composer thread (#8691) ;
 2025-07-22T02:48:49 ;   2a30a344b ; 1270099+pfrazee ; Nightly source-language update ;
