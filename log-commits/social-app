@@ -1,3 +1,10 @@
+2025-07-24T11:22:19 ;   dff0332dd ; elijaharita ; fix: general profile component layout fixes, and ability to disable the inset border for UserAvatar (#8711) ;
+2025-07-24T08:34:31 ;   f0b869aee ; me ; fix moderation preferences for non-AA'd users (#8712) ;
+2025-07-23T21:46:56 ;   0610c822c ; 310223+jimmylee ; Merge pull request #8708 from internet-development/@APiligrim/chat-request-ui ;
+2025-07-23T17:21:17 ;   a3b188bae ; anastasiyauraleva ; update: comment with a name ;
+2025-07-23T21:01:32 ;   3775aeb14 ; git ; If birth date is not set, ensure AA still shows (#8709) ;
+2025-07-23T15:03:32 ;   8f1cd8611 ; anastasiyauraleva ; update: chat request ui ;
+2025-07-23T15:19:48 ;   6a7b8a279 ; elijaharita ; [APP-1291] prevent GestureActionView from hijacking swipe in a direction which no actions are specified (#8705) ;
 2025-07-23T14:32:19 ;   3ae3ed245 ; git ; Clean up AA gate (#8707) ;
 2025-07-23T19:52:38 ;   8fdcc3ee3 ; mozzius ; Replace `resumeSession` with `getSession` in the email check (#8670) ;
 2025-07-23T11:52:06 ;   b4938bc9d ; git ; Bump version (#8698) ;
