@@ -1,3 +1,12 @@
+2025-07-31T19:47:22 ;   f4724e378 ; mozzius ; Don't animate images that will be posted as JPGs (#8760) ;
+2025-07-31T10:32:16 ;   e87555c48 ; git ; [APP-1310] Button cleanup (#8754) ;
+2025-07-31T10:15:35 ;   3bcfcba6d ; git ; Some toasts cleanup and reorg (#8748) ;
+2025-07-31T14:40:39 ;   33e071494 ; 149612116+surfdude29 ; tweak case of labels in SearchResults.tsx (#8759) ;
+2025-07-31T07:41:10 ;   b3d207c7b ; git ; Make proper extension of `Button` more clearly defined (#8753) ;
+2025-07-31T02:51:14 ;   85981deb3 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-07-30T15:15:01 ;   045101286 ; ericvolp12 ; Merge pull request #8755 from bluesky-social/echoprom_fix ;
+2025-07-30T21:42:56 ;   b25677eb7 ; ericvolp12 ; build ;
+2025-07-30T21:42:26 ;   4393a275a ; ericvolp12 ; fix echoprom config ;
 2025-07-30T13:56:27 ;   3ff42f159 ; git ; Fix bad substitution (#8752) ;
 2025-07-30T11:07:35 ;   3dc6dcd9b ; ericvolp12 ; Merge pull request #8749 from bluesky-social/go-124 ;
 2025-07-30T21:05:45 ;   25e60548c ; mozzius ; Mark old components as deprecated (#8747) ;
