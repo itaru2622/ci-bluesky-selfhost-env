@@ -1,3 +1,12 @@
+2025-08-01T02:58:13 ;   598641742 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-07-31T19:46:17 ;   f21478735 ; 310223+jimmylee ; Merge pull request #8762 from JimmyCushnie/updates-readme-like-a-boss ;
+2025-07-31T14:28:00 ;   9eba56713 ; 310223+jimmylee ; Merge pull request #8763 from internet-development/caidan/app-1364-fix-suggested-follows-small-web-view ;
+2025-07-30T21:40:32 ;   79f365b21 ; caidan ; fix(ui): small bug where on small web views the final card was not full height ;
+2025-07-30T21:39:44 ;   8b344ca9f ; caidan ; fix(ui): adjust padding for ProfileGrid layout consistency ;
+2025-07-31T13:59:29 ;   648dda754 ; git ; README: fix verb form of CC ;
+2025-07-31T13:55:13 ;   bf455f3e1 ; git ; README: fix brand capitalization ("Github" -> "GitHub") ;
+2025-07-31T13:52:49 ;   91574f1f5 ; git ; README: improve phrasing of packages mention ;
+2025-07-31T13:47:13 ;   394974719 ; git ; README: Use alert for the contributions note ;
 2025-07-31T19:47:22 ;   f4724e378 ; mozzius ; Don't animate images that will be posted as JPGs (#8760) ;
 2025-07-31T10:32:16 ;   e87555c48 ; git ; [APP-1310] Button cleanup (#8754) ;
 2025-07-31T10:15:35 ;   3bcfcba6d ; git ; Some toasts cleanup and reorg (#8748) ;
