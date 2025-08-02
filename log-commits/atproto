@@ -1,4 +1,0 @@
-2025-07-30T15:43:03 ;   82e3e7bf6 ; matthieusieben ; Small xrpc-server optimizations (#4073) ;
-2025-07-29T17:13:36 ;   c55d5910e ; 41898282+github-actions[bot] ; Version packages (#4063) ; (tag: refs/tags/@atproto/pds@0.4.163, tag: refs/tags/@atproto/ozone@0.1.133, tag: refs/tags/@atproto/lex-cli@0.9.1, tag: refs/tags/@atproto/dev-env@0.3.158, tag: refs/tags/@atproto/bsky@0.0.175, tag: refs/tags/@atproto/api@0.16.0)
-2025-07-29T17:00:05 ;   9751eebd7 ; rafael ; Cleanup app.bsky.unspecced.checkHandleAvailability (#4072) ;
-2025-07-28T10:53:10 ;   459a5dcdd ; rafael ; Cleanup AA gate (#4066) ;

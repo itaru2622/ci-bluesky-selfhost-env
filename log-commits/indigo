@@ -1,5 +1,0 @@
-2025-07-30T00:31:59 ;   573ae927 ; bnewbold ; atproto/label: fix missing `neg` in lexicon functions (#1125) ;
-2025-07-28T17:03:14 ;   d9cf6fb8 ; eli ; atproto/label: fix missing `neg` in lexicon functions ;
-2025-07-28T18:30:42 ;   01ae6633 ; bnewbold ; remove stale docs (#1113) ;
-2025-07-03T13:16:12 ;   424d26d3 ; bnewbold ; remove old feed schema notes ;
-2025-07-03T13:16:03 ;   0d3e10a4 ; bnewbold ; remove old sessin auth JWT notes ;
