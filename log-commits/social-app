@@ -1,3 +1,5 @@
+2025-08-05T06:04:32 ;   fd37d92f8 ; 49870466+arturo32 ; Fix quality of first seconds of videos on web (#8761) (#8778) ;
+2025-08-05T02:53:53 ;   53cf0b3b4 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-04T20:24:53 ;   a5437ebbe ; mozzius ; Fix web video ViewportObserver component (#8776) ;
 2025-08-04T19:41:09 ;   15bc77321 ; mozzius ; Fix android starting at notif screen (#8775) ;
 2025-08-04T18:42:55 ;   7b5d11eb8 ; mozzius ; Fix video thumbnails on native (#8774) ;
