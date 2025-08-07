@@ -1,3 +1,15 @@
+2025-08-07T14:55:19 ;   11c9931fd ; git ; Fix policy overlay logic (#8793) ;
+2025-08-07T12:33:38 ;   c0593e497 ; me ; Add device attestation to signup flow (#8757) ;
+2025-08-07T19:30:49 ;   39e775a37 ; mozzius ; add border curve in neater way (#8792) ;
+2025-08-07T18:23:01 ;   d84d54bae ; gosimek ; Fix web scrollable select unwanted overflow (#8786) ;
+2025-08-07T19:15:49 ;   0a2b1fcfb ; mozzius ; add profile hover card to notif items (#8666) ;
+2025-08-07T11:08:31 ;   cb54082ed ; git ; [APP-1310] Button refresh (#8758) ;
+2025-08-07T19:07:43 ;   20ac2e273 ; mozzius ; Only parse notifs with a reason (#8785) ;
+2025-08-07T08:45:35 ;   c103687d6 ; git ; Toast tweaks (#8791) ;
+2025-08-07T02:52:42 ;   dbb9ff691 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-06T14:27:44 ;   909ddc86e ; anastasiyauraleva ; [APP-1365]: Ensure toast text meets a11y guidelines (#8779) ;
+2025-08-06T15:16:08 ;   75094f486 ; git ; [LEG-203] Add onboarding text for policy updates (#8783) ;
+2025-08-06T15:15:52 ;   328aa2be9 ; git ; [APP-1356] Policy update dialog (#8782) ;
 2025-08-05T06:04:32 ;   fd37d92f8 ; 49870466+arturo32 ; Fix quality of first seconds of videos on web (#8761) (#8778) ;
 2025-08-05T02:53:53 ;   53cf0b3b4 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-04T20:24:53 ;   a5437ebbe ; mozzius ; Fix web video ViewportObserver component (#8776) ;
