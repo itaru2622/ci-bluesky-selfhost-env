@@ -1,3 +1,10 @@
+2025-08-08T09:57:17 ;   23a797cfa ; git ; Captcha fixes (#8803) ;
+2025-08-07T17:40:12 ;   22a8b63dc ; git ; Update links (#8800) ; (tag: refs/tags/1.106.0)
+2025-08-07T17:24:55 ;   2ba2d9e5b ; git ; Pull latest translations (#8799) ;
+2025-08-08T01:01:01 ;   93c4719a2 ; mozzius ; Check handle as you type (#8601) ;
+2025-08-07T23:46:35 ;   f708e8841 ; gosimek ; Add cursor pointer to web select trigger (#8787) ;
+2025-08-07T16:44:19 ;   88856b0ff ; git ; Fix disabled primary button text color (#8796) ;
+2025-08-07T15:11:16 ;   08a832429 ; git ; Fix e2e (#8794) ;
 2025-08-07T14:55:19 ;   11c9931fd ; git ; Fix policy overlay logic (#8793) ;
 2025-08-07T12:33:38 ;   c0593e497 ; me ; Add device attestation to signup flow (#8757) ;
 2025-08-07T19:30:49 ;   39e775a37 ; mozzius ; add border curve in neater way (#8792) ;
