@@ -1,2 +1,13 @@
+2025-08-12T18:52:34 ;   338fa4dfb ; mozzius ; remove imports from @atproto/api internals (#8403) ;
+2025-08-12T15:59:03 ;   bf869d918 ; mozzius ; remove unicode ltr chars and replace with css (#8826) ;
+2025-08-11T20:54:31 ;   683d7bf5a ; git ; Translations (#8823) ; (tag: refs/tags/1.106.0)
+2025-08-11T19:01:01 ;   44cdf32c1 ; git ; Update dates (#8822) ;
+2025-08-12T02:57:32 ;   86b53e7bc ; mozzius ; set maxwidth on feed context string (#8817) ;
+2025-08-12T02:56:46 ;   3ce14b0c6 ; mozzius ; filter out muted/blocked convos from share menu (#8802) ;
+2025-08-12T02:54:28 ;   9dfddd3c4 ; mozzius ; add bottom border to feed headers in explore on web (#8801) ;
+2025-08-12T02:04:45 ;   ef171e289 ; mozzius ; Tweak small buttons (#8818) ;
+2025-08-12T02:01:32 ;   17c5cec35 ; mozzius ; make sure admonition text doesn't touch button (#8816) ;
+2025-08-12T00:01:10 ;   f873f3b30 ; 149612116+surfdude29 ; Add context and comments to button text, label and title in email verification dialog (#8810) ;
+2025-08-11T15:51:08 ;   a3bb8cca6 ; git ; Fix policy state (#8821) ;
 2025-08-11T18:37:39 ;   bb949e4f4 ; mozzius ; Fix translations on Android using PROCESS_TEXT intent (#8486) ;
 2025-08-10T02:54:10 ;   2a6172cba ; 1270099+pfrazee ; Nightly source-language update ;

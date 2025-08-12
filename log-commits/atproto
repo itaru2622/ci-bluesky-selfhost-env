@@ -1,1 +1,8 @@
+2025-08-12T17:35:02 ;   860282798 ; matthieusieben ; Prevent cookie from being downgraded when doing "pnpm up" (#4098) ;
+2025-08-12T17:15:23 ;   396ab57ed ; matthieusieben ; Fix warnings during build (#4096) ;
+2025-08-12T17:14:51 ;   c274bd1b3 ; matthieusieben ; Fix permission bug with `transition:email` scope (#4097) ;
+2025-08-12T14:45:00 ;   174f86da5 ; 41898282+github-actions[bot] ; Version packages (#4094) ; (tag: refs/tags/@atproto/pds@0.4.166, tag: refs/tags/@atproto/oauth-scopes@0.0.1, tag: refs/tags/@atproto/oauth-provider@0.10.0, tag: refs/tags/@atproto/oauth-provider-ui@0.2.0, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.11, tag: refs/tags/@atproto/oauth-provider-api@0.2.0, tag: refs/tags/@atproto/dev-env@0.3.161)
+2025-08-12T13:22:51 ;   1dbc7750d ; matthieusieben ; Fix changeset and version numbers (#4095) ;
+2025-08-12T13:13:14 ;   1899b1fc1 ; matthieusieben ; OAuth scopes (#3806) ;
+2025-08-12T09:49:14 ;   43fbeda63 ; matthieusieben ; Update `cookie` dependency (#4092) ;
 2025-08-11T15:47:35 ;   41b205051 ; david ; Make codegen locale-independent (second attempt) (#4087) ;
