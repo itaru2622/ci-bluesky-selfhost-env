@@ -1,3 +1,7 @@
+2025-08-13T15:22:03 ;   d02d43c05 ; 41898282+github-actions[bot] ; Version packages (#4102) ; (tag: refs/tags/@atproto/pds@0.4.168, tag: refs/tags/@atproto/oauth-types@0.4.1, tag: refs/tags/@atproto/oauth-provider@0.10.2, tag: refs/tags/@atproto/oauth-provider-ui@0.2.1, tag: refs/tags/@atproto/oauth-provider-frontend@0.1.12, tag: refs/tags/@atproto/oauth-provider-api@0.2.1, tag: refs/tags/@atproto/oauth-client@0.5.2, tag: refs/tags/@atproto/oauth-client-node@0.3.4, tag: refs/tags/@atproto/oauth-client-browser@0.3.28, tag: refs/tags/@atproto/jwk@0.5.0, tag: refs/tags/@atproto/jwk-webcrypto@0.1.10, tag: refs/tags/@atproto/jwk-jose@0.1.10, tag: refs/tags/@atproto/dev-env@0.3.163)
+2025-08-13T15:15:54 ;   8a88e2c15 ; matthieusieben ; Add support for legacy JWKS validation in OAuth configuration (#4101) ;
+2025-08-13T10:30:51 ;   f8667835d ; 41898282+github-actions[bot] ; Version packages (#4099) ; (tag: refs/tags/@atproto/pds@0.4.167, tag: refs/tags/@atproto/oauth-scopes@0.0.2, tag: refs/tags/@atproto/oauth-provider@0.10.1, tag: refs/tags/@atproto/dev-env@0.3.162)
+2025-08-13T09:45:23 ;   832866c33 ; matthieusieben ; Enforce stronger validation of jwks loaded through their own uri (#4100) ;
 2025-08-12T17:35:02 ;   860282798 ; matthieusieben ; Prevent cookie from being downgraded when doing "pnpm up" (#4098) ;
 2025-08-12T17:15:23 ;   396ab57ed ; matthieusieben ; Fix warnings during build (#4096) ;
 2025-08-12T17:14:51 ;   c274bd1b3 ; matthieusieben ; Fix permission bug with `transition:email` scope (#4097) ;

@@ -1,3 +1,8 @@
+2025-08-13T22:15:08 ;   d5cc19f28 ; mozzius ; run `lint-native:fix` (#8836) ;
+2025-08-13T17:20:23 ;   edd205483 ; mozzius ; Fix chat button placeholder size on profile (#8827) ;
+2025-08-13T01:52:21 ;   485f7ee95 ; elijaharita ; fix: don't open user profile when clicking edit button in user list (#8831) ;
+2025-08-13T05:20:00 ;   bfcdb8353 ; 49870466+arturo32 ; Fix deletion of composed emojis in web composer (#8829) ;
+2025-08-13T02:42:56 ;   6cd7dc0f9 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-12T18:52:34 ;   338fa4dfb ; mozzius ; remove imports from @atproto/api internals (#8403) ;
 2025-08-12T15:59:03 ;   bf869d918 ; mozzius ; remove unicode ltr chars and replace with css (#8826) ;
 2025-08-11T20:54:31 ;   683d7bf5a ; git ; Translations (#8823) ; (tag: refs/tags/1.106.0)
