@@ -1,3 +1,14 @@
+2025-08-14T19:54:27 ;   9440068b6 ; gosimek ; Profile back button tweaks for web (#8795) ;
+2025-08-14T09:51:40 ;   7b2e61bf4 ; git ; Integrate Sonner for toasts (#8839) ;
+2025-08-14T13:14:18 ;   221623f55 ; mozzius ; Improve "replied to a post" component (#8602) ;
+2025-08-14T02:42:45 ;   f4dca5d23 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-13T17:42:11 ;   80ce71283 ; git ; Bump version to 1.107.0 (#8840) ;
+2025-08-14T01:13:51 ;   7a334362a ; mozzius ; [Perf - part 1] Hoist service config query (#8812) ;
+2025-08-14T01:12:31 ;   b2c56cbd6 ; mozzius ; Add displayName to contexts (#8814) ;
+2025-08-14T01:11:44 ;   275fece3e ; mozzius ; [Perf - part 3] Stop every dialog control in the entire app rerendering when opening a dialog (#8815) ;
+2025-08-14T01:00:27 ;   eef639ea5 ; mozzius ; Preconnect to go.bsky.app (#8825) ;
+2025-08-14T00:58:42 ;   36b2a87a0 ; mozzius ; Skip `intl:compile` if not needed (#8837) ;
+2025-08-14T00:39:22 ;   f001af2fe ; mozzius ; stop incorrectly using suffixtext (#8352) ;
 2025-08-13T22:15:08 ;   d5cc19f28 ; mozzius ; run `lint-native:fix` (#8836) ;
 2025-08-13T17:20:23 ;   edd205483 ; mozzius ; Fix chat button placeholder size on profile (#8827) ;
 2025-08-13T01:52:21 ;   485f7ee95 ; elijaharita ; fix: don't open user profile when clicking edit button in user list (#8831) ;
