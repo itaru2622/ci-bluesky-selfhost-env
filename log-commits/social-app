@@ -1,3 +1,8 @@
+2025-08-15T21:41:44 ;   314c380fc ; mozzius ; don't override backspace if alt or meta key (#8855) ;
+2025-08-15T18:33:23 ;   f2892779d ; mozzius ; Use medium font weight in a few places (#8848) ;
+2025-08-15T06:16:13 ;   5ca665467 ; elijaharita ; feat: use OP's language as recommendation when replying (#8832) ;
+2025-08-15T02:43:46 ;   4e0be91cf ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-14T23:21:42 ;   a761a2e26 ; mozzius ; Update Xcode in runner to 16.4 (#8842) ;
 2025-08-14T19:54:27 ;   9440068b6 ; gosimek ; Profile back button tweaks for web (#8795) ;
 2025-08-14T09:51:40 ;   7b2e61bf4 ; git ; Integrate Sonner for toasts (#8839) ;
 2025-08-14T13:14:18 ;   221623f55 ; mozzius ; Improve "replied to a post" component (#8602) ;
