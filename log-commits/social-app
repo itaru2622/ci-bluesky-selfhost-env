@@ -1,3 +1,4 @@
+2025-08-16T02:39:35 ;   cced762a7 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-15T21:41:44 ;   314c380fc ; mozzius ; don't override backspace if alt or meta key (#8855) ;
 2025-08-15T18:33:23 ;   f2892779d ; mozzius ; Use medium font weight in a few places (#8848) ;
 2025-08-15T06:16:13 ;   5ca665467 ; elijaharita ; feat: use OP's language as recommendation when replying (#8832) ;
