@@ -1,0 +1,5 @@
+2025-08-19T11:33:46 ;   ea7f984a4 ; git ; Fix isPartOfLastBranchFromDepth assignment (#8856) ;
+2025-08-19T06:25:42 ;   492378692 ; rcombs ; [Lightbox] prevent browser-default escape key behavior (#8859) ;
+2025-08-19T02:39:11 ;   48baf7277 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-18T19:24:54 ;   92ad887e3 ; git ; Add underage notice to Moderation screen (#8868) ;
+2025-08-18T18:28:01 ;   122a46891 ; git ; [APP-1318] `SelectMediaButton` (#8828) ;
