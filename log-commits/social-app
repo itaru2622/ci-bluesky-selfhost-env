@@ -1,2 +1,10 @@
+2025-08-23T14:45:57 ;   3b7b93a41 ; git ; Debug (#8888) ;
+2025-08-22T19:40:11 ;   99d757081 ; 310223+jimmylee ; Merge pull request #8883 from internet-development/caidanw/app-1408-add-canonical-url ;
+2025-08-23T02:36:29 ;   7b9bc5272 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-22T16:10:53 ;   78e1e26a2 ; 310223+jimmylee ; Merge pull request #8882 from internet-development/binaryfiddler/isnetwork ;
+2025-08-22T14:42:05 ;   d8c904d1d ; caidan ; feat: add canonical URL to profile template for better SEO ;
+2025-08-22T14:40:57 ;   560c503aa ; caidan ; feat: add canonical URL to post template for better SEO ;
+2025-08-22T14:39:56 ;   5120c037d ; caidan ; feat: add canonical URL to home page for SEO optimization ;
+2025-08-22T13:28:32 ;   184df9cbf ; itschenyu ; wrapp failed to send feed interactions inside isNetworkError ;
 2025-08-22T14:55:16 ;   912ab1bd9 ; git ; [LEG-246] Geo overlay (#8881) ;
 2025-08-22T21:00:00 ;   f038ac70d ; 149612116+surfdude29 ; rearrange translation logic (#8880) ;
