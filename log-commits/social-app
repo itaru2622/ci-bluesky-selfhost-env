@@ -1,3 +1,8 @@
+2025-08-24T14:31:42 ;   45825dd00 ; mozzius ; Fix alt text in media preview (#8854) ;
+2025-08-24T14:31:25 ;   5e07b0c77 ; mozzius ; Skip dirty git tree check in prebuild (#8853) ;
+2025-08-24T02:42:01 ;   dddea126f ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-24T01:18:02 ;   ce2604d0e ; mozzius ; Update `@mozzius/expo-dynamic-app-icon` (#8834) ;
+2025-08-23T15:33:31 ;   c28195067 ; git ; Update origin (#8889) ;
 2025-08-23T14:45:57 ;   3b7b93a41 ; git ; Debug (#8888) ;
 2025-08-22T19:40:11 ;   99d757081 ; 310223+jimmylee ; Merge pull request #8883 from internet-development/caidanw/app-1408-add-canonical-url ;
 2025-08-23T02:36:29 ;   7b9bc5272 ; 1270099+pfrazee ; Nightly source-language update ;
