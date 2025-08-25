@@ -1,3 +1,9 @@
+2025-08-25T19:37:12 ;   27c591f03 ; mozzius ; Fix Gif Select dialog search bar scrolling away (#8874) ;
+2025-08-25T19:25:28 ;   7771b56a4 ; mozzius ; fix searching for phrases by replacing smart quotes (#8865) ;
+2025-08-25T19:25:02 ;   3810b29fb ; mozzius ; ALF log screen (#8845) ;
+2025-08-25T19:24:48 ;   9d77b361f ; mozzius ; add content hider padding (#8843) ;
+2025-08-25T19:23:08 ;   54f7af12c ; mozzius ; Update DM header to match new Layout style (#8846) ;
+2025-08-25T02:40:42 ;   ecb77a9b9 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-24T14:31:42 ;   45825dd00 ; mozzius ; Fix alt text in media preview (#8854) ;
 2025-08-24T14:31:25 ;   5e07b0c77 ; mozzius ; Skip dirty git tree check in prebuild (#8853) ;
 2025-08-24T02:42:01 ;   dddea126f ; 1270099+pfrazee ; Nightly source-language update ;
