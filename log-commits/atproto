@@ -1,1 +1,2 @@
+2025-08-26T20:33:34 ;   c0126f4a8 ; matthieusieben ; Improve error handling when destroying pipethrough stream (#4133) ;
 2025-08-22T16:58:59 ;   2104d9033 ; david ; @atproto/lexicon: relax validation of lexicon documents (#4122) ;
