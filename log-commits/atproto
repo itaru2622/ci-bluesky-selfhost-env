@@ -1,2 +1,7 @@
+2025-08-27T15:03:25 ;   0f2944305 ; git ; Expose AppView DID in dev-env (#4145) ;
+2025-08-27T11:55:28 ;   0a6a87891 ; me ; adjust notifications to filter thread hidden tags (#4140) ;
+2025-08-27T13:36:05 ;   768e81b23 ; 41898282+github-actions[bot] ; Version packages (#4126) ; (tag: refs/tags/@atproto/xrpc@0.7.3, tag: refs/tags/@atproto/xrpc-server@0.9.3, tag: refs/tags/@atproto/sync@0.1.32, tag: refs/tags/@atproto/repo@0.8.7, tag: refs/tags/@atproto/pds@0.4.171, tag: refs/tags/@atproto/ozone@0.1.137, tag: refs/tags/@atproto/oauth-client@0.5.4, tag: refs/tags/@atproto/oauth-client-node@0.3.6, tag: refs/tags/@atproto/oauth-client-browser@0.3.30, tag: refs/tags/@atproto/lexicon@0.4.14, tag: refs/tags/@atproto/lexicon-resolver@0.1.1, tag: refs/tags/@atproto/lex-cli@0.9.3, tag: refs/tags/@atproto/dev-env@0.3.166, tag: refs/tags/@atproto/bsky@0.0.179, tag: refs/tags/@atproto/aws@0.2.27, tag: refs/tags/@atproto/api@0.16.4, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.20)
+2025-08-27T10:18:44 ;   e1967c1c2 ; devinivy ; PDS: avoid extra lookup when configured with appview details (#4141) ;
+2025-08-27T14:42:25 ;   6231c8730 ; ThisIsMissEm ; Fix #4136: Support multiple redirect URIs in @atproto/oauth-client (#4139) ;
 2025-08-26T20:33:34 ;   c0126f4a8 ; matthieusieben ; Improve error handling when destroying pipethrough stream (#4133) ;
 2025-08-22T16:58:59 ;   2104d9033 ; david ; @atproto/lexicon: relax validation of lexicon documents (#4122) ;

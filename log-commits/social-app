@@ -1,3 +1,12 @@
+2025-08-27T20:12:09 ;   8a22584a8 ; mozzius ; prevent android exposures to gate (#8916) ;
+2025-08-27T16:08:25 ;   17cbf7574 ; 10959775+mozzius ; Nightly source-language update ;
+2025-08-27T19:01:10 ;   8adebe670 ; mozzius ; starter pack dialog tweaks (#8913) ;
+2025-08-27T19:00:36 ;   39d460db5 ; mozzius ; Language select final tweaks (#8914) ;
+2025-08-27T14:17:45 ;   eac029014 ; mozzius ; Add suggested follows experiment to onboarding (#8847) ;
+2025-08-27T02:36:23 ;   0617fca5e ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-26T17:13:11 ;   a1ed59e0e ; hailey ; use an env var for configurable proxy header (#8863) ;
+2025-08-26T23:09:47 ;   39c6984c6 ; 149612116+surfdude29 ; Mark label for translation in `LoggedOutCTA.tsx` (#8908) ;
+2025-08-26T16:54:43 ;   9f7c92034 ; git ; Fix toast type (#8909) ;
 2025-08-26T21:43:25 ;   0555d3623 ; gosimek ; Fix RightNav elements focus outline on web (#8788) ;
 2025-08-26T21:38:59 ;   8dcf1825e ; gosimek ; Web: fix Edit Profile discard warning when pressing backdrop (#8824) ;
 2025-08-26T20:34:34 ;   c12fd4482 ; 149612116+surfdude29 ; `Discover Feeds` ⮕ `Discover New Feeds` (#8860) ;
