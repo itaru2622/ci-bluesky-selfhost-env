@@ -1,3 +1,11 @@
+2025-08-28T06:20:06 ;   2a54781ce ; git ; Update dev env (#8921) ;
+2025-08-28T02:37:01 ;   dcba5c466 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-27T17:55:18 ;   7469e7306 ; 10610892+BinaryFiddler ; Update birthday setting dialog (#8910) ;
+2025-08-28T00:43:33 ;   58c2e68a2 ; 149612116+surfdude29 ; Update FollowDialog.tsx (#8919) ;
+2025-08-28T00:12:01 ;   01c20958c ; 149612116+surfdude29 ; Add `english-only-resource` context and tweak labels (#8805) ;
+2025-08-27T14:56:40 ;   99722436b ; 310223+jimmylee ; Merge pull request #8885 from internet-development/caidanw/app-1409-add-data-nosnippet-to-discover-feed ;
+2025-08-27T11:56:01 ;   4a1f1efd7 ; caidan ; refactor(feed): simplify isDiscoverFeed logic in FeedPage ;
+2025-08-26T14:07:18 ;   bd730db03 ; caidan ; refactor(feed): remove NoSnippetWrapper from FeedPage in favor of dataSet attribute ;
 2025-08-27T20:12:09 ;   8a22584a8 ; mozzius ; prevent android exposures to gate (#8916) ;
 2025-08-27T16:08:25 ;   17cbf7574 ; 10959775+mozzius ; Nightly source-language update ;
 2025-08-27T19:01:10 ;   8adebe670 ; mozzius ; starter pack dialog tweaks (#8913) ;
@@ -7,6 +15,8 @@
 2025-08-26T17:13:11 ;   a1ed59e0e ; hailey ; use an env var for configurable proxy header (#8863) ;
 2025-08-26T23:09:47 ;   39c6984c6 ; 149612116+surfdude29 ; Mark label for translation in `LoggedOutCTA.tsx` (#8908) ;
 2025-08-26T16:54:43 ;   9f7c92034 ; git ; Fix toast type (#8909) ;
+2025-08-22T18:25:35 ;   6ddc268b9 ; caidan ; feat: prevent search engines from indexing Discover feed content as page descriptions ;
+2025-08-22T17:08:47 ;   0517768cd ; caidan ; feat: add data-nosnippet attribute to Discover feed for SEO control ;
 2025-08-26T21:43:25 ;   0555d3623 ; gosimek ; Fix RightNav elements focus outline on web (#8788) ;
 2025-08-26T21:38:59 ;   8dcf1825e ; gosimek ; Web: fix Edit Profile discard warning when pressing backdrop (#8824) ;
 2025-08-26T20:34:34 ;   c12fd4482 ; 149612116+surfdude29 ; `Discover Feeds` ⮕ `Discover New Feeds` (#8860) ;
