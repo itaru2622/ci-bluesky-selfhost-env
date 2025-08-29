@@ -1,3 +1,11 @@
+2025-08-29T18:24:43 ;   1c78f36a5 ; mozzius ; v1.107.0 release prep (#8938) ; (tag: refs/tags/1.107.0)
+2025-08-29T18:15:05 ;   d6dc52b6e ; mozzius ; Improve e2e tests (#8927) ;
+2025-08-29T17:02:28 ;   541502c7e ; mozzius ; prevent double border (#8937) ;
+2025-08-29T10:36:20 ;   0114cfcfe ; mozzius ; fix hook being marked as async for no reason (#8932) ;
+2025-08-29T02:36:45 ;   617242371 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-08-29T03:03:12 ;   8a4398608 ; mozzius ; Close web mention suggestions popup on `Escape` (#8605) ;
+2025-08-29T01:18:56 ;   27c105856 ; mozzius ; use Link instead of manual navigation (#8930) ;
+2025-08-28T17:14:28 ;   2f2b542e5 ; git ; Bump `expo-image-picker` to `17.0.5` (#8929) ;
 2025-08-28T06:20:06 ;   2a54781ce ; git ; Update dev env (#8921) ;
 2025-08-28T02:37:01 ;   dcba5c466 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-27T17:55:18 ;   7469e7306 ; 10610892+BinaryFiddler ; Update birthday setting dialog (#8910) ;
