@@ -1,4 +1,0 @@
-2025-08-28T13:40:19 ;   9fa07224 ; bnewbold ; prevent HTTP 500 responses for listRepos when one account has no account_repo (#1144) ;
-2025-08-28T15:31:03 ;   3c93cfac ; uniphil ; listRepos: blank Head+Rev instead of erroring out ;
-2025-08-28T11:47:16 ;   f4a83980 ; bnewbold ; fix nil pointer deref for ErrAccountRepoNotFound (#1142) ;
-2025-08-28T13:43:42 ;   d0bbf0af ; uniphil ; fix nil pointer deref for ErrAccountRepoNotFound ;
