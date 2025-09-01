@@ -1,3 +1,4 @@
+2025-09-01T12:23:41 ;   0bda727e8 ; gosimek ; Web: fix Suggested Accounts tabs end of scroll detection (#8939) ;
 2025-08-29T18:24:43 ;   1c78f36a5 ; mozzius ; v1.107.0 release prep (#8938) ; (tag: refs/tags/1.107.0)
 2025-08-29T18:15:05 ;   d6dc52b6e ; mozzius ; Improve e2e tests (#8927) ;
 2025-08-29T17:02:28 ;   541502c7e ; mozzius ; prevent double border (#8937) ;
