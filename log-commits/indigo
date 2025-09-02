@@ -1,2 +1,4 @@
+2025-09-02T10:41:24 ;   a8865584 ; rafael ; Generate lexicons (#1151) ;
+2025-08-21T17:23:58 ;   92509789 ; rafael ; Update lexicons ;
 2025-08-30T16:34:06 ;   214d5c43 ; bnewbold ; oauth: store auth req scopes same way as auth session (array of strings) (#1145) ;
 2025-08-29T17:07:09 ;   c4a13080 ; bnewbold ; oauth: store auth req scopes same way as auth session (array of strings) ;
