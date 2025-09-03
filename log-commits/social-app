@@ -1,6 +1,20 @@
+2025-09-03T08:55:09 ;   6c8e9fd8c ; hailey ; add cursor constraint to safelink (#8966) ;
+2025-09-02T22:21:16 ;   fd7b1292b ; 310223+jimmylee ; Merge pull request #8923 from internet-development/@APiligrim/update-gif-select ;
+2025-09-02T22:19:15 ;   135f37eae ; 310223+jimmylee ; Merge pull request #8962 from internet-development/caidanw/app-1327-remove-pinned-post-from-replies-tab-on-profile ;
+2025-09-02T22:02:12 ;   125191fc2 ; git ; 1.107.0 Prep Take 2 (#8964) ; (tag: refs/tags/1.107.0)
+2025-09-02T21:43:33 ;   566e86980 ; git ; Use Automatic representation for all image pickers (#8963) ;
+2025-09-03T02:33:35 ;   c99500f5d ; 1270099+pfrazee ; Nightly source-language update ;
+2025-09-02T16:31:37 ;   bec032977 ; hailey ; enable link redirection in message (#8961) ;
+2025-09-03T02:27:52 ;   670995a64 ; mozzius ; update bad token error message (#8954) ;
+2025-09-02T15:48:28 ;   b2ecaf9aa ; caidan ; fix(feed): only include pins for author threads filter ;
+2025-09-02T14:07:22 ;   01c466a21 ; hailey ; fix safelink package.json (#8959) ;
+2025-09-03T00:01:36 ;   75f0ee8a1 ; mozzius ; Tweaks to add to starter pack dialog (#8957) ;
+2025-09-02T13:43:44 ;   5ce4aa513 ; hailey ; rm unknown fields (#8958) ;
+2025-09-02T13:36:20 ;   acdc50963 ; hailey ; safelink (#8917) ;
 2025-09-02T03:56:21 ;   b2258fb6c ; mozzius ; Add QR code to github action (#8948) ;
 2025-09-01T12:23:41 ;   0bda727e8 ; gosimek ; Web: fix Suggested Accounts tabs end of scroll detection (#8939) ;
-2025-08-29T18:24:43 ;   1c78f36a5 ; mozzius ; v1.107.0 release prep (#8938) ; (tag: refs/tags/1.107.0)
+2025-08-29T17:40:41 ;   3601933ff ; anastasiya ; move background to the parent and remove unused view ;
+2025-08-29T18:24:43 ;   1c78f36a5 ; mozzius ; v1.107.0 release prep (#8938) ;
 2025-08-29T18:15:05 ;   d6dc52b6e ; mozzius ; Improve e2e tests (#8927) ;
 2025-08-29T17:02:28 ;   541502c7e ; mozzius ; prevent double border (#8937) ;
 2025-08-29T10:36:20 ;   0114cfcfe ; mozzius ; fix hook being marked as async for no reason (#8932) ;
@@ -9,6 +23,8 @@
 2025-08-29T01:18:56 ;   27c105856 ; mozzius ; use Link instead of manual navigation (#8930) ;
 2025-08-28T17:14:28 ;   2f2b542e5 ; git ; Bump `expo-image-picker` to `17.0.5` (#8929) ;
 2025-08-28T06:20:06 ;   2a54781ce ; git ; Update dev env (#8921) ;
+2025-08-27T21:23:32 ;   cc4acae75 ; anastasiya ; Update search on Gif select component to add small padding to match other search experiences ;
+2025-08-01T04:01:01 ;   eeeeda349 ; 28320272+APiligrim ; Nightly source-language update ;
 2025-08-28T02:37:01 ;   dcba5c466 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-27T17:55:18 ;   7469e7306 ; 10610892+BinaryFiddler ; Update birthday setting dialog (#8910) ;
 2025-08-28T00:43:33 ;   58c2e68a2 ; 149612116+surfdude29 ; Update FollowDialog.tsx (#8919) ;
@@ -21,6 +37,8 @@
 2025-08-27T19:01:10 ;   8adebe670 ; mozzius ; starter pack dialog tweaks (#8913) ;
 2025-08-27T19:00:36 ;   39d460db5 ; mozzius ; Language select final tweaks (#8914) ;
 2025-08-27T14:17:45 ;   eac029014 ; mozzius ; Add suggested follows experiment to onboarding (#8847) ;
+2025-08-06T03:50:13 ;   349c70e41 ; 28320272+APiligrim ; Nightly source-language update ;
+2025-08-01T04:01:01 ;   203ccbb1f ; 28320272+APiligrim ; Nightly source-language update ;
 2025-08-27T02:36:23 ;   0617fca5e ; 1270099+pfrazee ; Nightly source-language update ;
 2025-08-26T17:13:11 ;   a1ed59e0e ; hailey ; use an env var for configurable proxy header (#8863) ;
 2025-08-26T23:09:47 ;   39c6984c6 ; 149612116+surfdude29 ; Mark label for translation in `LoggedOutCTA.tsx` (#8908) ;
