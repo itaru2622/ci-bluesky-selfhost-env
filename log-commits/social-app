@@ -1,3 +1,8 @@
+2025-09-04T16:11:27 ;   0dafc2ccd ; 4732330+estrattonbailey ; Nightly source-language update ;
+2025-09-04T11:07:12 ;   f8ae0540a ; git ; Provide geo-gated users optional GPS fallback for precise location data (#8973) ;
+2025-09-04T07:20:46 ;   625b4e61d ; abenzer ; Welcome modal on logged-out homepage (#8944) ;
+2025-09-04T17:16:52 ;   0b02d9d9a ; mozzius ; bump version (#8970) ;
+2025-09-04T02:34:11 ;   07d4ff4e8 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-09-03T08:55:09 ;   6c8e9fd8c ; hailey ; add cursor constraint to safelink (#8966) ;
 2025-09-02T22:21:16 ;   fd7b1292b ; 310223+jimmylee ; Merge pull request #8923 from internet-development/@APiligrim/update-gif-select ;
 2025-09-02T22:19:15 ;   135f37eae ; 310223+jimmylee ; Merge pull request #8962 from internet-development/caidanw/app-1327-remove-pinned-post-from-replies-tab-on-profile ;

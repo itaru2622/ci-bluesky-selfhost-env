@@ -1,3 +1,4 @@
+2025-09-04T11:04:48 ;   6d7bf4bff ; matthieusieben ; Remove old, never resolved, lexicons from the database (#4162) ;
 2025-09-02T14:40:31 ;   a5b20f021 ; git ; Add expanded moderation report reasons (#3881) ;
 2025-09-02T11:00:40 ;   420f31549 ; 41898282+github-actions[bot] ; Version packages (#4165) ; (tag: refs/tags/@atproto/pds@0.4.176, tag: refs/tags/@atproto/ozone@0.1.140, tag: refs/tags/@atproto/dev-env@0.3.172, tag: refs/tags/@atproto/bsky@0.0.182, tag: refs/tags/@atproto/api@0.16.7)
 2025-09-02T10:54:26 ;   09717f29a ; rafael ; Add bookmarks changeset (#4164) ;
