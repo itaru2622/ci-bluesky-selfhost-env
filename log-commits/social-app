@@ -1,3 +1,25 @@
+2025-09-05T13:14:20 ;   5cd4a3362 ; git ; 1.108.0 Release Prep (#8993) ; (tag: refs/tags/1.108.0)
+2025-09-05T16:28:09 ;   834486c97 ; 4732330+estrattonbailey ; Nightly source-language update ;
+2025-09-05T11:07:37 ;   e073bdac6 ; git ; Remove region for AA call, actually not helpful (#8992) ;
+2025-09-05T18:39:55 ;   73d72814c ; mozzius ; patch in unreleased upstream fix for jitter (#8952) ;
+2025-09-05T18:39:28 ;   daed047bb ; mozzius ; [Perf] Drawer gesture perf fix + related cleanup (#8953) ;
+2025-09-05T18:34:00 ;   ee3e08393 ; mozzius ; Restore quick language select (#8981) ;
+2025-09-05T10:25:42 ;   0f089060d ; git ; Make logs more clear (#8991) ;
+2025-09-05T18:11:56 ;   01ba0d0ed ; mozzius ; Revert "use comment instead of context (#8987)" (#8990) ;
+2025-09-05T18:03:29 ;   c7f8da8f9 ; mozzius ; use comment instead of context (#8987) ;
+2025-09-05T10:02:24 ;   76cd645a4 ; git ; Provide more precise data for age assurance (#8989) ;
+2025-09-05T17:49:34 ;   124cfb57c ; mozzius ; only show bookmarks nux to existing users (#8988) ;
+2025-09-05T17:33:27 ;   ac0c4ef2d ; mozzius ; ensure headers are set when chat reporting (#8985) ;
+2025-09-05T17:31:25 ;   917256713 ; mozzius ; require auth for bookmarks (#8983) ;
+2025-09-05T17:29:57 ;   c26906e15 ; mozzius ; add translation context for "saved" (#8982) ;
+2025-09-05T17:29:10 ;   0c4b90802 ; mozzius ; Simplify post number formatting (#8978) ;
+2025-09-05T17:27:18 ;   457cd3d0f ; mozzius ; E2E fixes (#8980) ;
+2025-09-05T00:40:16 ;   bc827dc97 ; 4732330+estrattonbailey ; Nightly source-language update ;
+2025-09-04T19:36:23 ;   c129108b7 ; git ; 108 fixes (#8977) ;
+2025-09-04T22:33:00 ;   0b480bdaf ; 4732330+estrattonbailey ; Nightly source-language update ;
+2025-09-04T17:30:15 ;   535d4d6cf ; git ; 📓 Bookmarks (#8976) ;
+2025-09-04T20:11:21 ;   04b869714 ; 4732330+estrattonbailey ; Nightly source-language update ;
+2025-09-04T21:08:23 ;   9738f4858 ; 149612116+surfdude29 ; Tweak location-related strings and labels (#8975) ;
 2025-09-04T16:11:27 ;   0dafc2ccd ; 4732330+estrattonbailey ; Nightly source-language update ;
 2025-09-04T11:07:12 ;   f8ae0540a ; git ; Provide geo-gated users optional GPS fallback for precise location data (#8973) ;
 2025-09-04T07:20:46 ;   625b4e61d ; abenzer ; Welcome modal on logged-out homepage (#8944) ;
