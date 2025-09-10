@@ -1,3 +1,7 @@
+2025-09-10T18:49:44 ;   20ff3e3ba ; mozzius ; Ensure there is a thumbnail for videos on web (#9019) ;
+2025-09-10T18:49:04 ;   5b8631d18 ; mozzius ; Fix profile lists/feeds/starterpacks tabs position issue (#8935) ;
+2025-09-10T17:44:19 ;   5be753ecd ; mozzius ; add prevent default to thread anchor checkmark (#9020) ;
+2025-09-10T02:33:45 ;   c7591ef05 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-09-09T22:40:25 ;   372e20efa ; mozzius ; ALF saved feeds screen (#8844) ;
 2025-09-09T20:27:16 ;   9e8bceec6 ; mozzius ; reduce checkmark size in thread anchor (#8942) ;
 2025-09-09T20:20:33 ;   6432667f6 ; mozzius ; ALF lists screen (#8941) ;

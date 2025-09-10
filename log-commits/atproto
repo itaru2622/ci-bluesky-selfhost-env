@@ -1,3 +1,4 @@
+2025-09-10T15:15:55 ;   d91988fe7 ; 41898282+github-actions[bot] ; Version packages (#4192) ; (tag: refs/tags/@atproto/pds@0.4.179, tag: refs/tags/@atproto/oauth-provider@0.12.1, tag: refs/tags/@atproto/dev-env@0.3.176)
 2025-09-09T15:56:32 ;   cf4117966 ; matthieusieben ; Fix call to `onDecodeToken` oauth verifier hook (#4191) ;
 2025-09-09T14:48:22 ;   e10a02062 ; 41898282+github-actions[bot] ; Version packages (#4190) ; (tag: refs/tags/@atproto/pds@0.4.178, tag: refs/tags/@atproto/ozone@0.1.143, tag: refs/tags/@atproto/dev-env@0.3.175, tag: refs/tags/@atproto/bsky@0.0.184, tag: refs/tags/@atproto/api@0.16.9)
 2025-09-09T14:36:56 ;   ff30786af ; foysal ; :arrow_up: Add changeset for api and pds package with support for new ozone event type (#4189) ;
