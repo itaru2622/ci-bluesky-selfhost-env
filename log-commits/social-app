@@ -1,6 +1,13 @@
+2025-09-11T20:08:30 ;   b9a41f30a ; 149612116+surfdude29 ; Generate separate strings for join messages in Newskie dialog (#8007) ;
+2025-09-11T21:23:16 ;   6a4c56dfa ; mozzius ; Log cleanup (#9029) ;
+2025-09-11T00:31:17 ;   836d16fec ; hailey ; ensure mod service header present for appeals (#9025) ;
+2025-09-11T02:36:03 ;   58ffe365a ; 1270099+pfrazee ; Nightly source-language update ;
+2025-09-10T14:19:15 ;   426f02594 ; 310223+jimmylee ; Merge pull request #9023 from internet-development/caidanw/app-1040-feed-open-graph-tags ;
 2025-09-10T18:49:44 ;   20ff3e3ba ; mozzius ; Ensure there is a thumbnail for videos on web (#9019) ;
 2025-09-10T18:49:04 ;   5b8631d18 ; mozzius ; Fix profile lists/feeds/starterpacks tabs position issue (#8935) ;
 2025-09-10T17:44:19 ;   5be753ecd ; mozzius ; add prevent default to thread anchor checkmark (#9020) ;
+2025-09-09T20:35:14 ;   d7c180db0 ; caidan ; style: remove trailing spaces ;
+2025-09-09T20:03:50 ;   f5079b815 ; caidan ; feat: add OpenGraph metadata for feed URLs in bskyweb ;
 2025-09-10T02:33:45 ;   c7591ef05 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-09-09T22:40:25 ;   372e20efa ; mozzius ; ALF saved feeds screen (#8844) ;
 2025-09-09T20:27:16 ;   9e8bceec6 ; mozzius ; reduce checkmark size in thread anchor (#8942) ;
