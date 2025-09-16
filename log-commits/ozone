@@ -1,3 +1,4 @@
+2025-09-16T15:18:53 ;   27abd4b ; foysal ; :bug: Fix JSON editor for labeler profile (#374) ; (tag: refs/tags/v0.1.98)
 2025-09-11T12:11:11 ;   d0cfb46 ; foysal ; :sparkles: Add support for account history event revokeCredentials (#373) ;
 2025-09-10T20:18:55 ;   77931e9 ; foysal ; :sparkles: Revoke credentials action (#371) ;
 2025-09-10T11:27:49 ;   5fd141f ; foysal ; ❇️ Label Group Configuration (#372) ;
