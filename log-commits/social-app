@@ -1,1 +1,5 @@
+2025-09-22T11:05:49 ;   cbcce8c96 ; hailey ; improve og profile card (#9051) ;
+2025-09-22T18:49:16 ;   2c6752f24 ; barrymcgee ; Fix notification indicator appearing behind navigation text (#9035) ;
+2025-09-22T18:52:07 ;   5211b2690 ; mozzius ; Expo 54 (#8931) ;
+2025-09-22T18:21:20 ;   6983efee7 ; mozzius ; iOS 26 with design compatibility mode (#9059) ;
 2025-09-17T14:30:10 ;   ac71ea235 ; caidan ; improve: enhance post OpenGraph metadata with engagement data and auth handling (#9046) ;
