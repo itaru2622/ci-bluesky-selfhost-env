@@ -1,5 +1,9 @@
+2025-09-24T14:23:41 ;   b4dd6383 ; david ; oauth client: Add exp ( expiresat ) claim to client assertions (#1147) ;
 2025-09-22T16:44:04 ;   cbaa8d37 ; david ; OAuth client: Surface callback error responses (#1155) ;
 2025-09-10T14:43:22 ;   00197d61 ; david ; address review comments ;
+2025-09-10T06:55:22 ;   6e783479 ; willem.dantuma ; Use jwtExpirationDuration const ;
 2025-09-08T15:01:35 ;   0c707717 ; david ; oauth client: move ErrCallback to types.go ;
 2025-09-08T14:50:40 ;   483e051a ; david ; oauth client: check callback state before checking errors ;
 2025-09-08T14:38:18 ;   3a594bf4 ; david ; oauth client: surface error messages from callback URL ;
+2025-09-07T21:23:33 ;   e0fc14b9 ; willem.dantuma ; Set expiration to 1 minute instead of 5 ;
+2025-08-30T10:23:32 ;   c37cdfb5 ; willem.dantuma ; Add expration claim ;

@@ -1,3 +1,7 @@
+2025-09-24T11:47:08 ;   bd17f0481 ; git ; Migrate to `@bsky.app/alf` package (#9030) ;
+2025-09-24T02:35:40 ;   bdc58045c ; 1270099+pfrazee ; Nightly source-language update ;
+2025-09-23T16:36:22 ;   0482e917b ; 54160+amckinley ; Merge pull request #9069 from bluesky-social/migrate-blink ;
+2025-09-23T15:17:49 ;   0bc235522 ; austin ; Start migrating blink. Also add better shutdown handling for ogcard ;
 2025-09-23T21:45:51 ;   46a97fadc ; mozzius ; Delete unused modals and invite code stuff (#8244) ;
 2025-09-23T20:11:21 ;   e90cfdc84 ; mozzius ; Modernise list create/edit dialog (#8223) ;
 2025-09-23T20:06:11 ;   3bc906b91 ; mozzius ; fix profile feed liked by tablet offset (#9066) ;
