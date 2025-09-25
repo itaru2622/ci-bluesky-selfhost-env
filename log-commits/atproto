@@ -1,3 +1,5 @@
+2025-09-24T17:36:29 ;   7d0ecd8f3 ; 41898282+github-actions[bot] ; Version packages (#4219) ; (tag: refs/tags/@atproto/pds@0.4.181, tag: refs/tags/@atproto/ozone@0.1.144, tag: refs/tags/@atproto/dev-env@0.3.178, tag: refs/tags/@atproto/bsky@0.0.185, tag: refs/tags/@atproto/api@0.16.10)
+2025-09-24T17:30:10 ;   8dc4caf55 ; rafaeleyng ; Expand profile fields (#4224) ;
 2025-09-24T13:43:23 ;   0c20539c7 ; dtholmgren ; Enforce max size on importRepo (#4083) ;
 2025-09-23T10:11:20 ;   86bb25768 ; rafaeleyng ; Use static DID for appview in dev-env (#4181) ;
 2025-09-23T08:30:58 ;   4c4ee7208 ; 41898282+github-actions[bot] ; Version packages (#4218) ; (tag: refs/tags/@atproto/pds@0.4.180, tag: refs/tags/@atproto/oauth-provider@0.13.0, tag: refs/tags/@atproto/dev-env@0.3.177)

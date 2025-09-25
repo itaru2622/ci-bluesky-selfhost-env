@@ -1,3 +1,6 @@
+2025-09-25T17:22:09 ;   0f22fe8b ; bnewbold ; Fix typo in comment (#1149) ;
+2025-09-25T17:21:31 ;   2d608aa6 ; bnewbold ; oauth demo: log if returned scopes don't match (#1146) ;
+2025-09-25T17:14:23 ;   bb147533 ; bnewbold ; update oauth demo permissions requested ;
 2025-09-24T14:23:41 ;   b4dd6383 ; david ; oauth client: Add exp ( expiresat ) claim to client assertions (#1147) ;
 2025-09-22T16:44:04 ;   cbaa8d37 ; david ; OAuth client: Surface callback error responses (#1155) ;
 2025-09-10T14:43:22 ;   00197d61 ; david ; address review comments ;
@@ -6,4 +9,6 @@
 2025-09-08T14:50:40 ;   483e051a ; david ; oauth client: check callback state before checking errors ;
 2025-09-08T14:38:18 ;   3a594bf4 ; david ; oauth client: surface error messages from callback URL ;
 2025-09-07T21:23:33 ;   e0fc14b9 ; willem.dantuma ; Set expiration to 1 minute instead of 5 ;
+2025-09-01T19:29:46 ;   d36766cd ; michael ; Fix typo in comment ;
 2025-08-30T10:23:32 ;   c37cdfb5 ; willem.dantuma ; Add expration claim ;
+2025-08-29T17:19:24 ;   ad9f4da6 ; bnewbold ; oauth demo: log if returned scopes don't match ;
