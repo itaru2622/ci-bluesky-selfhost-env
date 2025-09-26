@@ -1,8 +1,14 @@
+2025-09-26T13:23:18 ;   7bec8976 ; david ; OAuth client SDK: Support token revocation via Logout helper (#1156) ;
+2025-09-26T13:15:27 ;   d71773b1 ; david ; Merge branch 'main' into DavidBuchanan314/oauth-revocation ;
+2025-09-26T13:00:43 ;   00501ca4 ; david ; oauth client: rework RevokeSession error handling, address review comments ;
 2025-09-25T17:22:09 ;   0f22fe8b ; bnewbold ; Fix typo in comment (#1149) ;
 2025-09-25T17:21:31 ;   2d608aa6 ; bnewbold ; oauth demo: log if returned scopes don't match (#1146) ;
 2025-09-25T17:14:23 ;   bb147533 ; bnewbold ; update oauth demo permissions requested ;
 2025-09-24T14:23:41 ;   b4dd6383 ; david ; oauth client: Add exp ( expiresat ) claim to client assertions (#1147) ;
+2025-09-22T17:28:00 ;   a4454f12 ; david ; oauth client: cleanup ;
 2025-09-22T16:44:04 ;   cbaa8d37 ; david ; OAuth client: Surface callback error responses (#1155) ;
+2025-09-22T16:42:24 ;   825c5333 ; david ; oauth client: update RefreshTokens to use postToAuthServer helper ;
+2025-09-12T16:14:17 ;   4c82730c ; david ; oauth client: token revocation ;
 2025-09-10T14:43:22 ;   00197d61 ; david ; address review comments ;
 2025-09-10T06:55:22 ;   6e783479 ; willem.dantuma ; Use jwtExpirationDuration const ;
 2025-09-08T15:01:35 ;   0c707717 ; david ; oauth client: move ErrCallback to types.go ;
