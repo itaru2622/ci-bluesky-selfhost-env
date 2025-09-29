@@ -1,3 +1,4 @@
+2025-09-29T15:53:36 ;   6722018 ; foysal ; :bug: Only show account actions to admins and fix takedown shortcut (#378) ;
 2025-09-23T18:45:28 ;   710e1f8 ; foysal ; :lipstick: Add copy button for handle change history and record info (#377) ;
 2025-09-17T17:23:01 ;   35416bf ; foysal ; :lipstick: Show high profile warning on labelers (#375) ;
 2025-09-16T15:18:53 ;   27abd4b ; foysal ; :bug: Fix JSON editor for labeler profile (#374) ; (tag: refs/tags/v0.1.98)
