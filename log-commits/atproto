@@ -1,0 +1,2 @@
+2025-09-30T11:00:51 ;   d7154a788 ; 41898282+github-actions[bot] ; Version packages (#4233) ; (tag: refs/tags/@atproto/pds@0.4.183, tag: refs/tags/@atproto/ozone@0.1.146, tag: refs/tags/@atproto/dev-env@0.3.180, tag: refs/tags/@atproto/bsky@0.0.187, tag: refs/tags/@atproto/api@0.17.0)
+2025-09-30T16:53:28 ;   dba2d30e2 ; dan.abramov ; Restore session on network error (#4238) ;

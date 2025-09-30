@@ -1,3 +1,9 @@
+2025-09-30T16:46:31 ;   5df6036c2 ; dan.abramov ; [Web] Fix thread jumps (#9111) ;
+2025-09-30T08:40:21 ;   3e55e5285 ; git ; Button tweaks (#9106) ;
+2025-09-30T05:27:19 ;   f82a6188e ; 10610892+BinaryFiddler ; Update admonition component (#9068) ;
+2025-09-30T07:28:50 ;   c7ce827bf ; mozzius ; fix gap on profile (#9081) ;
+2025-09-30T02:34:39 ;   9e0f19254 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-09-29T23:12:50 ;   d3dbb9468 ; mozzius ; Catch errors on geolocation request, reduce Sentry logs (#9098) ;
 2025-09-29T22:31:55 ;   031fa9571 ; mozzius ; remove root sibling library (#9097) ;
 2025-09-29T22:15:38 ;   ae2c9a832 ; mozzius ; don't send some "activity no longer available" errors (#9100) ;
 2025-09-29T22:14:39 ;   02a25d2aa ; mozzius ; Log OTA errors properly (#9101) ;
