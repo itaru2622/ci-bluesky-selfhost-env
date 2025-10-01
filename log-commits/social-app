@@ -1,3 +1,7 @@
+2025-10-01T13:49:06 ;   5fd52b3d3 ; dtholmgren ; add patent pledge link to readme (#9118) ;
+2025-10-01T16:09:12 ;   1e6a44f2e ; mozzius ; Fix feedfeedback metrics not distinguishing which feed it's from (#9099) ;
+2025-10-01T02:40:10 ;   144d61ef7 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-09-30T16:18:36 ;   381feacd2 ; git ; Add StackedButton component (#9086) ;
 2025-09-30T16:46:31 ;   5df6036c2 ; dan.abramov ; [Web] Fix thread jumps (#9111) ;
 2025-09-30T08:40:21 ;   3e55e5285 ; git ; Button tweaks (#9106) ;
 2025-09-30T05:27:19 ;   f82a6188e ; 10610892+BinaryFiddler ; Update admonition component (#9068) ;
