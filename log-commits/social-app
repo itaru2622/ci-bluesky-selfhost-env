@@ -1,3 +1,6 @@
+2025-10-02T20:01:10 ;   1354fd266 ; dan.abramov ; [Fix Logouts] Remove buggy hackfix (#9108) ;
+2025-10-02T19:59:05 ;   77bf49f21 ; mozzius ; Tighten up eslint rule to catch unused `const {_} = useLingui()` (#9122) ;
+2025-10-02T09:18:52 ;   02b189a40 ; git ; Language selection and suggestion UX improvements (#9067) ;
 2025-10-01T13:49:06 ;   5fd52b3d3 ; dtholmgren ; add patent pledge link to readme (#9118) ;
 2025-10-01T16:09:12 ;   1e6a44f2e ; mozzius ; Fix feedfeedback metrics not distinguishing which feed it's from (#9099) ;
 2025-10-01T02:40:10 ;   144d61ef7 ; 1270099+pfrazee ; Nightly source-language update ;
