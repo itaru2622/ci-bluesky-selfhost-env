@@ -1,3 +1,9 @@
+2025-10-03T22:44:43 ;   c8d066269 ; mozzius ; remove gate (#9130) ;
+2025-10-03T22:15:26 ;   cf4cce222 ; mozzius ; Embed testbed with tweaks (#9115) ;
+2025-10-03T22:07:21 ;   0e9e705d9 ; mozzius ; fix android onboarding dev crash (#9132) ;
+2025-10-03T10:17:59 ;   12e09a9bd ; 10610892+BinaryFiddler ; starter pack metrics (#9116) ;
+2025-10-03T17:02:52 ;   885356256 ; dan.abramov ; [Fix Logouts] Persist accounts synchronously (#9109) ;
+2025-10-03T02:34:02 ;   b68f80050 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-10-02T20:01:10 ;   1354fd266 ; dan.abramov ; [Fix Logouts] Remove buggy hackfix (#9108) ;
 2025-10-02T19:59:05 ;   77bf49f21 ; mozzius ; Tighten up eslint rule to catch unused `const {_} = useLingui()` (#9122) ;
 2025-10-02T09:18:52 ;   02b189a40 ; git ; Language selection and suggestion UX improvements (#9067) ;
