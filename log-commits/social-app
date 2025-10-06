@@ -1,0 +1,2 @@
+2025-10-06T17:42:53 ;   5e36992fb ; mozzius ; patch delete audio compression for 16kb compat (#9149) ;
+2025-10-06T09:36:33 ;   42a427cfd ; eduardojra96 ; feat(link-meta): Tweaks `getLinkMeta` to whitelist trusted hostnames (#9139) ;
