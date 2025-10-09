@@ -1,3 +1,4 @@
+2025-10-09T18:11:08 ;   fe74c63 ; foysal ; :bug: Fix permanent duration option in workspace (#388) ;
 2025-10-07T10:09:09 ;   8ee54a9 ; foysal ; :bug: Fix takedown schedule selection in workspace (#387) ;
 2025-10-06T19:16:18 ;   40a11f7 ; devinivy ; bind postgres to localhost (#386) ;
 2025-10-06T23:22:14 ;   1832fe7 ; foysal ; :bug: Fix action duration selector in quick action panel (#384) ;
