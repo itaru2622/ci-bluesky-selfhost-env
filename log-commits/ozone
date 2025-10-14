@@ -1,3 +1,4 @@
+2025-10-14T10:17:53 ;   a14da6a ; foysal ; :lipstick: Add custom renderer for blob divert event (#392) ;
 2025-10-09T18:11:08 ;   fe74c63 ; foysal ; :bug: Fix permanent duration option in workspace (#388) ;
 2025-10-07T10:09:09 ;   8ee54a9 ; foysal ; :bug: Fix takedown schedule selection in workspace (#387) ;
 2025-10-06T19:16:18 ;   40a11f7 ; devinivy ; bind postgres to localhost (#386) ;
