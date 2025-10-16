@@ -1,3 +1,8 @@
+2025-10-16T20:08:15 ;   239d3cc53 ; mozzius ; [Release prep] 1.109.0 translations (#9218) ; (tag: refs/tags/1.109.0)
+2025-10-16T20:08:06 ;   d49d43f6e ; mozzius ; update app icon (#9219) ;
+2025-10-16T17:31:11 ;   a482dae93 ; mozzius ; [Release prep] 1.109.0 E2E fixes (#9216) ;
+2025-10-16T17:26:52 ;   25d44d893 ; mozzius ; update xcode (#9215) ;
+2025-10-16T02:37:46 ;   e7801a0b7 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-10-15T13:56:29 ;   7861cd153 ; git ; Remove notice in create account flow (#9209) ;
 2025-10-15T19:37:24 ;   be53a168b ; mozzius ; Move interests clientside and add `finance` (#9176) ;
 2025-10-15T19:37:07 ;   b56d0c419 ; mozzius ; add sort import suggestions plugin (#8335) ;
