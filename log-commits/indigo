@@ -1,3 +1,0 @@
-2025-10-14T18:23:21 ;   1e8718ae ; jeromyj ; carstore: don't ignore the first record in sqlite (#1103) ;
-2025-08-13T12:24:48 ;   b19ccd82 ; eli ; carstore/sqlite: use cidv1 when retrieving blocks ;
-2025-06-19T18:42:38 ;   ee8829b2 ; eli ; carstore: don't ignore the first record in sqlite ;
