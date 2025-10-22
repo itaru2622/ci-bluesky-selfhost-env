@@ -1,3 +1,13 @@
+2025-10-22T14:08:25 ;   de68915bc ; git ; Disable Sentry sampling for now (#9262) ;
+2025-10-22T20:05:00 ;   ea00663e7 ; mozzius ; Android CI - Clear cache on second build (#9223) ;
+2025-10-22T20:04:36 ;   12e57378e ; mozzius ; fix android testflight ci (#9237) ;
+2025-10-22T11:39:14 ;   24606dbcf ; git ; Don't need to be logging upstream errors (#9260) ;
+2025-10-22T11:36:40 ;   6f31121e5 ; git ; Check for network error before reporting push token issue (#9258) ;
+2025-10-22T11:36:32 ;   1abc96314 ; git ; Don't log network errors (#9257) ;
+2025-10-22T11:36:24 ;   7cc897d09 ; git ; Remove error log for Bluesky feed service issues (#9256) ;
+2025-10-22T11:36:18 ;   6ed30213c ; git ; Add 'Upstream service unreachable' to network errors (#9255) ;
+2025-10-22T09:17:52 ;   d7e842975 ; git ; Get iOS debug files into Sentry (#9242) ;
+2025-10-22T03:53:42 ;   6086bc5d5 ; abenzer ; Add a client event for "See more" link on suggested user interstitials (#9249) ;
 2025-10-20T17:15:01 ;   199821d67 ; mozzius ; make gifs square again (#9236) ;
 2025-10-20T05:05:49 ;   11dff765d ; git ; Hook up post shadow to saved posts (#9225) ;
 2025-10-19T09:20:53 ;   73639aa57 ; hailey ; fix regex (#9234) ;
