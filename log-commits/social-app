@@ -1,3 +1,8 @@
+2025-10-23T11:27:49 ;   2a4b82563 ; git ; Release 1.109.0 i18n take III (#9269) ; (tag: refs/tags/1.109.0)
+2025-10-23T11:18:53 ;   c00b3d105 ; git ; Don't log errors for known app password issues in chat (#9268) ;
+2025-10-23T11:16:55 ;   74cb81b65 ; git ; Add config to disable update overlay, disable it (#9267) ;
+2025-10-23T18:35:37 ;   e28aa7d1a ; mozzius ; Patch out `PerformanceMonitor` component (#9266) ;
+2025-10-22T15:51:19 ;   d4d5d6d8b ; git ; intl:pull and intl:extract:all (#9263) ;
 2025-10-22T14:08:25 ;   de68915bc ; git ; Disable Sentry sampling for now (#9262) ;
 2025-10-22T20:05:00 ;   ea00663e7 ; mozzius ; Android CI - Clear cache on second build (#9223) ;
 2025-10-22T20:04:36 ;   12e57378e ; mozzius ; fix android testflight ci (#9237) ;
