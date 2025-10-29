@@ -1,0 +1,8 @@
+2025-10-28T23:25:21 ;   aa029b5f ; bnewbold ; more (existing) lexgen tweaks (#1180) ;
+2025-10-28T22:52:21 ;   7fefc420 ; bnewbold ; remove deprecated lexgen output ;
+2025-10-28T22:49:20 ;   a52d476e ; bnewbold ; update lexgen output (style only) ;
+2025-10-28T22:47:58 ;   3c19adf6 ; bnewbold ; drop unneeded 'types' pkg suffix ;
+2025-10-28T22:47:44 ;   19808c46 ; bnewbold ; small lexgen whitespace tweaks ;
+2025-10-28T22:47:24 ;   8f53b855 ; bnewbold ; have lexgen output 'lexutil' pkg name ;
+2025-10-29T01:27:02 ;   8c31d8b8 ; david ; More OAuth Doc Tweaks (#1175) ;
+2025-10-10T13:53:26 ;   a0186299 ; david ; document oauth ClientConfig.SetClientSecret ;

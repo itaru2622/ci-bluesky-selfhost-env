@@ -1,3 +1,15 @@
+2025-10-29T21:23:10 ;   cfa2534cc ; mozzius ; remove await on dismissBrowser (#9304) ;
+2025-10-29T18:58:56 ;   2d626f7bb ; mozzius ; Fix android icon file name (#9303) ;
+2025-10-29T18:49:45 ;   5efae600d ; mozzius ; Add dark/tinted icon variants (#9241) ;
+2025-10-29T11:21:19 ;   339f3320c ; git ; [TS-147] Add internal debug field display (#9302) ;
+2025-10-29T18:09:07 ;   3107efb44 ; mozzius ; Get rid of share menu fade edge effect (#9250) ;
+2025-10-29T17:46:21 ;   faa389e06 ; 75982180+M21H ; rm clamp (#9271) ;
+2025-10-29T17:44:52 ;   f15a949ef ; mozzius ; more text elements missing emoji prop (#9301) ;
+2025-10-29T17:44:17 ;   bb908a553 ; mozzius ; fix line height in hover card (#9281) ;
+2025-10-29T17:43:53 ;   a503fe27f ; mozzius ; add emoji prop to image alt text (#9278) ;
+2025-10-29T06:48:23 ;   d58c6c9eb ; 10610892+BinaryFiddler ; use admonition instead of toast for errors when appealing labels (#9272) ;
+2025-10-29T02:43:18 ;   bd5d10282 ; caidan ; fix: prevent profile suggestions animation when no data available (#9277) ;
+2025-10-29T02:41:25 ;   32bf6cf01 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-10-28T18:58:41 ;   e3f596740 ; mozzius ; Android - add fallbacks when saving image to gallery (#9293) ;
 2025-10-28T18:52:31 ;   900e569ef ; mozzius ; Override Reduce Motion on load-bearing animation (#9294) ;
 2025-10-28T17:52:09 ;   1883f3fc7 ; mozzius ; Close IAB when it triggers an intent (#8454) ;
