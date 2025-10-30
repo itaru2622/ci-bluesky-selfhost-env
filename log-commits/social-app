@@ -1,3 +1,7 @@
+2025-10-30T18:44:22 ;   de6d2f191 ; mozzius ; Update web dim `<html>` background color (#9307) ;
+2025-10-30T12:25:42 ;   faa49feec ; jason ; Fixed Apple Music song embeds. (#9220) ;
+2025-10-30T02:39:59 ;   55b3474ad ; 1270099+pfrazee ; Nightly source-language update ;
+2025-10-29T17:24:48 ;   b0eb079ff ; anastasiyauraleva ; [APP-1321]: Update brand embeds more clearly  (#8955) ;
 2025-10-29T21:23:10 ;   cfa2534cc ; mozzius ; remove await on dismissBrowser (#9304) ;
 2025-10-29T18:58:56 ;   2d626f7bb ; mozzius ; Fix android icon file name (#9303) ;
 2025-10-29T18:49:45 ;   5efae600d ; mozzius ; Add dark/tinted icon variants (#9241) ;

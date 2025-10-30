@@ -1,3 +1,6 @@
+2025-10-30T16:08:57 ;   3202dce91 ; matthieusieben ; oauth example app rework (#4319) ;
+2025-10-29T17:46:36 ;   fc9f8e3ea ; 41898282+github-actions[bot] ; Version packages (#4318) ; (tag: refs/tags/@atproto/pds@0.4.191, tag: refs/tags/@atproto/ozone@0.1.153, tag: refs/tags/@atproto/dev-env@0.3.188, tag: refs/tags/@atproto/bsky@0.0.194, tag: refs/tags/@atproto/api@0.17.7)
+2025-10-29T17:16:06 ;   15fe80c39 ; git ; Add optional via property to follow records (#4317) ;
 2025-10-29T10:04:09 ;   632e1ba91 ; 41898282+github-actions[bot] ; Version packages (#4313) ; (tag: refs/tags/@atproto/pds@0.4.190, tag: refs/tags/@atproto/ozone@0.1.152, tag: refs/tags/@atproto/oauth-client-browser-example@0.0.7, tag: refs/tags/@atproto/dev-env@0.3.187, tag: refs/tags/@atproto/bsky@0.0.193, tag: refs/tags/@atproto/api@0.17.6)
 2025-10-28T13:02:14 ;   7c1429fe3 ; git ; Add missed changeset (#4314) ;
 2025-10-28T11:59:50 ;   cdb6b27fc ; git ; [TS-160] Add `debug` field to `PostView` and `ProfileView*`s (#4297) ;
