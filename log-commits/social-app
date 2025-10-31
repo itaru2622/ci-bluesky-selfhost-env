@@ -1,3 +1,4 @@
+2025-10-31T16:07:43 ;   bd3594cee ; mozzius ; use 0.5px media border on high DPI screens on web (#9311) ;
 2025-10-30T18:44:22 ;   de6d2f191 ; mozzius ; Update web dim `<html>` background color (#9307) ;
 2025-10-30T12:25:42 ;   faa49feec ; jason ; Fixed Apple Music song embeds. (#9220) ;
 2025-10-30T02:39:59 ;   55b3474ad ; 1270099+pfrazee ; Nightly source-language update ;
