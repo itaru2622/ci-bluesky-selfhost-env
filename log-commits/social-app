@@ -1,3 +1,11 @@
+2025-11-04T19:21:55 ;   fb3f1c393 ; mozzius ; always send #interactionReply (#9330) ;
+2025-11-04T19:08:43 ;   78e20c420 ; mozzius ; Prevent sparse arrays in snapToOffsets (#9329) ;
+2025-11-04T10:09:17 ;   d8e7e65a9 ; git ; Post skele tweaks (#9328) ;
+2025-11-04T16:57:52 ;   16b14b9d1 ; mozzius ; Restore await to `dismissBrowser` in intent handler (#9326) ;
+2025-11-04T16:57:39 ;   fd5b1b3a5 ; mozzius ;  add even more optional chaining to link thing (#9327) ;
+2025-11-04T16:33:30 ;   c9033dbc3 ; mozzius ; Avoid asking for read access to photo library when saving images on iOS (#9297) ;
+2025-11-04T15:43:08 ;   1b0fbd503 ; mozzius ; Remove use of `flatten` where possible (#9325) ;
+2025-11-04T02:40:47 ;   0bcde9902 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-11-03T09:37:40 ;   5a4e012fd ; abenzer ; Adds client event for empty feed error (#9287) ;
 2025-11-03T19:18:49 ;   6ccedd5e3 ; mozzius ; ship post follow follow suggestions (#9251) ;
 2025-11-03T19:18:26 ;   feab782ba ; mozzius ; Android lightbox minor perf improvement (#9274) ;
