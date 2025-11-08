@@ -1,3 +1,10 @@
+2025-11-07T02:40:28 ;   9583c310b ; 1270099+pfrazee ; Nightly source-language update ;
+2025-11-06T13:40:13 ;   d6ca9e6b4 ; hailey ; [Reporting] Add new reporting categories and reasons (#9079) ;
+2025-11-06T18:15:49 ;   fd14bbfef ; d ; move yt embed script to its own source file (#9337) ;
+2025-11-06T19:40:31 ;   9f98e5354 ; mozzius ; Revert "push in post-post toast (#9252)" (#9344) ;
+2025-11-06T10:42:08 ;   7bf00424c ; git ; Clean up `getPostThreadV2` settings/params in prep for future work (#9179) ;
+2025-11-06T17:58:14 ;   ec2c580aa ; mozzius ; Fix Android crash by try/catch dialog open (#9335) ;
+2025-11-06T02:41:01 ;   215f97bad ; 1270099+pfrazee ; Nightly source-language update ;
 2025-11-05T12:07:01 ;   531ff6c43 ; mozzius ; restore flatten to a place that is needed (#9334) ;
 2025-11-05T02:40:28 ;   2077699a0 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-11-04T19:21:55 ;   fb3f1c393 ; mozzius ; always send #interactionReply (#9330) ;
