@@ -1,3 +1,7 @@
+2025-11-10T16:02:53 ;   ad91029f1 ; mozzius ; Select account redesign (#8905) ;
+2025-11-10T03:18:31 ;   4791486aa ; abenzer ; Fixes a ts error caused by WelcomeModal styles on logged-out homepage (#9362) ;
+2025-11-10T13:16:45 ;   df00ffa53 ; mozzius ; use feed module header bottom border on web (#9363) ;
+2025-11-10T02:42:45 ;   70ccd8274 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-11-09T08:24:12 ;   14604f735 ; caidan ; fix: feed title line heights (#9346) ;
 2025-11-07T02:40:28 ;   9583c310b ; 1270099+pfrazee ; Nightly source-language update ;
 2025-11-06T13:40:13 ;   d6ca9e6b4 ; hailey ; [Reporting] Add new reporting categories and reasons (#9079) ;
