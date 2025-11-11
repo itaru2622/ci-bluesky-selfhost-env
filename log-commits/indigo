@@ -1,2 +1,6 @@
+2025-11-10T13:54:50 ;   919084ff ; bnewbold ; Add warning counter for non-active accounts in event processing (#1187) ;
+2025-11-10T21:17:28 ;   76b25fb5 ; 14198729+erikologic ; Update log message for inactive accounts in commit and sync event processing ;
+2025-11-10T18:39:39 ;   7f10e52f ; 14198729+erikologic ; Rename EventsWarningsCounter to eventsWarningsCounter for consistency and update inactive account warning label ;
 2025-11-10T10:28:49 ;   f4c7b742 ; bnewbold ; chore: minor improvement for docs (#1186) ;
+2025-11-10T16:44:26 ;   f54de4ed ; 14198729+erikologic ; Add warning counter for non-active accounts in event processing ;
 2025-11-04T16:15:43 ;   a69241f2 ; claudecoder ; chore: minor improvement for docs ;

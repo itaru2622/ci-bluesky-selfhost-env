@@ -1,3 +1,13 @@
+2025-11-11T18:26:49 ;   cb2af3cd1 ; mozzius ; only round buttons if size is set (#9377) ;
+2025-11-11T13:18:43 ;   59ffaa8a8 ; mozzius ; fix rounded notifs (#9374) ;
+2025-11-11T13:18:24 ;   a275e8999 ; mozzius ; restore flatten in emoji reaction picker (#9375) ;
+2025-11-11T02:41:06 ;   8d2d45508 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-11-11T02:02:52 ;   ddf82dcc4 ; mozzius ; Delete EmptyStateWithButton.tsx (#9348) ;
+2025-11-11T02:02:13 ;   835a716ea ; mozzius ; Try and guard against play/pause function being called after player is destroyed (#9364) ;
+2025-11-11T02:02:01 ;   bb365856c ; mozzius ; fix react query error (#9365) ;
+2025-11-11T02:01:41 ;   bcd0e4019 ; mozzius ; Make the buttons round again (#9367) ;
+2025-11-11T00:37:01 ;   5208aa4a6 ; mozzius ; rm unused follow button (#9332) ;
+2025-11-10T22:31:08 ;   1cdb105af ; 149612116+surfdude29 ; tweak accessibility labels (#9347) ;
 2025-11-10T16:02:53 ;   ad91029f1 ; mozzius ; Select account redesign (#8905) ;
 2025-11-10T03:18:31 ;   4791486aa ; abenzer ; Fixes a ts error caused by WelcomeModal styles on logged-out homepage (#9362) ;
 2025-11-10T13:16:45 ;   df00ffa53 ; mozzius ; use feed module header bottom border on web (#9363) ;
