@@ -1,3 +1,6 @@
+2025-11-12T14:09:57 ;   68a4d8445 ; mozzius ; tweak settings divider color (#9381) ;
+2025-11-12T02:40:28 ;   9982961b8 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-11-11T14:13:11 ;   171162649 ; git ; Migrate remaining old report reasons, remove old unused file (#9378) ;
 2025-11-11T18:26:49 ;   cb2af3cd1 ; mozzius ; only round buttons if size is set (#9377) ;
 2025-11-11T13:18:43 ;   59ffaa8a8 ; mozzius ; fix rounded notifs (#9374) ;
 2025-11-11T13:18:24 ;   a275e8999 ; mozzius ; restore flatten in emoji reaction picker (#9375) ;
