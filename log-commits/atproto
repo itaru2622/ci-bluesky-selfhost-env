@@ -1,2 +1,3 @@
+2025-11-13T12:00:45 ;   3628cebfb ; hi ; explicit-slurs: remove stray match for unrelated word (#4330) ;
 2025-11-11T17:35:22 ;   f8e56b387 ; ThisIsMissEm ; bsky: improve error messaging for DPoP bound access tokens (#4333) ;
 2025-11-10T17:38:46 ;   82e75bf6c ; matthieusieben ; Remove non-existing `reporter_stats` from materliaziled view to refresh (#4335) ;
