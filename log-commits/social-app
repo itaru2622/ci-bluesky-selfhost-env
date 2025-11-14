@@ -1,3 +1,9 @@
+2025-11-14T21:43:28 ;   92926a241 ; mozzius ; ✨ `SegmentedControl` component (#8606) ;
+2025-11-14T21:05:31 ;   7a8ab551e ; mozzius ; update crop tool to latest, adjust to API changes (#9389) ;
+2025-11-14T20:29:49 ;   1caac024a ; mozzius ; Fix video letterboxing issue (#9339) ;
+2025-11-14T17:46:39 ;   24c96ac88 ; mozzius ; Image saving - fix extension, increase download timeout (#9388) ;
+2025-11-14T17:46:20 ;   c92ac4abc ; mozzius ; flatten may return undefined (#9387) ;
+2025-11-14T16:21:37 ;   b422765ae ; mozzius ; [Threadgate] Tweak threadgate buttons (#9173) ;
 2025-11-13T22:01:49 ;   b56ee74cd ; mozzius ; Tweak bg on follows you pill (#9384) ;
 2025-11-13T19:24:27 ;   554275957 ; mozzius ; update button spacing (#9383) ;
 2025-11-13T02:41:07 ;   488467782 ; 1270099+pfrazee ; Nightly source-language update ;
