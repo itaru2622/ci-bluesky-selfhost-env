@@ -1,0 +1,12 @@
+2025-11-17T21:00:06 ;   c2979ffef ; mozzius ; re-extract languages (#9402) ; (tag: refs/tags/1.110.0)
+2025-11-17T20:51:01 ;   bc62b3da7 ; mozzius ; Add metrics for composer threadgate (#9401) ;
+2025-11-17T18:37:07 ;   53b3bd93a ; mozzius ; [1.110.0 release prep] Translations (#9400) ;
+2025-11-17T18:01:02 ;   7197a064d ; mozzius ; [v1.110] Release prep (#9399) ;
+2025-11-17T16:27:00 ;   ef97a20c2 ; mozzius ; Fix password autofill on iOS (#9397) ;
+2025-11-17T15:23:28 ;   f53d5b6f2 ; mozzius ; add haptics to segmented control (#9398) ;
+2025-11-17T05:04:11 ;   084f60c88 ; abenzer ; Profile follow client events (#9385) ;
+2025-11-17T05:00:26 ;   2f678a3cc ; abenzer ; Adds a "follow back" button to follow notifications (#9359) ;
+2025-11-17T14:59:56 ;   d464cde41 ; mozzius ; add transparency prop to tab bar (#9336) ;
+2025-11-17T11:27:43 ;   a35a81a50 ; 149612116+surfdude29 ; Change text on threadgate button from 'Anybody' to 'Anyone' (#9390) ;
+2025-11-17T11:26:39 ;   414587881 ; 149612116+surfdude29 ; remove `accessibilityHint` and tweak labels (#9391) ;
+2025-11-17T03:23:56 ;   fb058afa5 ; abenzer ; Add client event for clicks on desktop feeds (#9386) ;
