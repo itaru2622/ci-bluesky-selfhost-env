@@ -1,3 +1,14 @@
+2025-11-20T20:23:36 ;   5d220e49a ; mozzius ; [v1.110.1 release prep] Translations (#9426) ; (tag: refs/tags/1.110.1)
+2025-11-20T20:07:38 ;   31fac4a62 ; mozzius ; Use `macos-26-xlarge` runner, update actions to resolve caching issues (#9411) ;
+2025-11-20T18:31:41 ;   13c4ef83f ; mozzius ; Add minimal header to profiles (#8936) ;
+2025-11-20T18:00:14 ;   dfe9f9fa0 ; mozzius ; use slightly more rounded repost icon (#9424) ;
+2025-11-20T17:59:20 ;   2919a7da7 ; mozzius ; Search lists cleanup, pagninate actor search (#9009) ;
+2025-11-20T17:54:02 ;   2792b4cef ; mozzius ; prevent webview from showing during device attest (#9425) ;
+2025-11-20T17:52:33 ;   f5a5eee32 ; mozzius ; handle share intents when app first launches (#9410) ;
+2025-11-20T17:49:58 ;   9823bc98e ; mozzius ; fix android 2fa input not being paste-able (#9407) ;
+2025-11-20T17:48:13 ;   f57268e9b ; mozzius ; Use useConfirmEmail hook in deep link verification flow (#9413) ;
+2025-11-20T07:41:56 ;   002a63b12 ; abenzer ; Post view client event (#9408) ;
+2025-11-19T23:21:56 ;   2faf62c7f ; mozzius ; Update version to v1.110.1 (#9416) ;
 2025-11-17T16:36:03 ;   7b99d8c7c ; git ; Update Android build runner (#9404) ; (tag: refs/tags/1.110.0)
 2025-11-17T21:00:06 ;   c2979ffef ; mozzius ; re-extract languages (#9402) ;
 2025-11-17T20:51:01 ;   bc62b3da7 ; mozzius ; Add metrics for composer threadgate (#9401) ;

@@ -1,3 +1,5 @@
+2025-11-20T16:21:31 ;   1d1d94e80 ; rafaeleyng ; Adds tests for takendown cases in getPosts (#4359) ;
+2025-11-20T12:00:09 ;   351f024e7 ; rafaeleyng ; remove docker compose version (#4358) ;
 2025-11-19T10:39:02 ;   4021b08a5 ; 41898282+github-actions[bot] ; Version packages (#4355) ; (tag: refs/tags/@atproto/xrpc-server@0.9.6, tag: refs/tags/@atproto/ws-client@0.0.2, tag: refs/tags/@atproto/sync@0.1.37, tag: refs/tags/@atproto/pds@0.4.194, tag: refs/tags/@atproto/ozone@0.1.156, tag: refs/tags/@atproto/dev-env@0.3.191, tag: refs/tags/@atproto/bsky@0.0.197, tag: refs/tags/@atproto/api@0.18.1, tag: refs/tags/@atproto-labs/xrpc-utils@0.0.23)
 2025-11-19T10:26:14 ;   032abf6b5 ; foysal ; :sparkles: Update ozone action scheduler to queue emailing (#4340) ;
 2025-11-18T17:34:41 ;   1dd20d3a8 ; dtholmgren ; WebSocket Library (#4348) ;
