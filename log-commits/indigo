@@ -1,3 +1,9 @@
+2025-11-25T10:44:50 ;   35c1e15d ; bnewbold ; atproto/lexicon: more tweaks from spec updates (#1202) ;
+2025-11-24T19:35:13 ;   272ed8f4 ; bnewbold ; lexgen updates for SchemaNull removal ;
+2025-11-24T19:24:29 ;   dd2d3ec6 ; bnewbold ; minor error message improvements ;
+2025-11-24T19:24:12 ;   a0f5587a ; bnewbold ; lexicon: rpc perm aud can't have DID in permission-set ;
+2025-11-24T19:17:41 ;   3c8d4b73 ; bnewbold ; no 'blob' permissions in permission-set ;
+2025-11-24T19:15:42 ;   8e867512 ; bnewbold ; lexicon: remove 'null' def support ;
 2025-11-24T14:06:15 ;   395acbbf ; git ; [AAv2] Add lexicon defs (#1201) ;
 2025-11-24T11:22:06 ;   8e15059b ; git ; Add lexicon defs ;
 2025-11-23T21:39:22 ;   b0ca16f0 ; bnewbold ; lexgen 2025-11-23 (#1200) ;
