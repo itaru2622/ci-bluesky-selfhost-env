@@ -1,3 +1,5 @@
+2025-11-26T12:26:23 ;   092e55b0 ; dtholmgren ; Satisfy sync.listRepos with JOIN (#1204) ;
+2025-11-25T17:36:31 ;   a40ad5ec ; dtholmgren ; satisfy list repos with JOIN ;
 2025-11-25T10:44:50 ;   35c1e15d ; bnewbold ; atproto/lexicon: more tweaks from spec updates (#1202) ;
 2025-11-24T19:35:13 ;   272ed8f4 ; bnewbold ; lexgen updates for SchemaNull removal ;
 2025-11-24T19:24:29 ;   dd2d3ec6 ; bnewbold ; minor error message improvements ;

@@ -1,3 +1,5 @@
+2025-11-25T21:48:26 ;   9f87ff3aa ; matthieusieben ; Type `dict` keys as optional (#4387) ;
+2025-11-25T21:48:10 ;   0adc852c3 ; matthieusieben ; Use arrays for "account" permission `action` attributes (#4353) ;
 2025-11-25T20:49:51 ;   d396de016 ; matthieusieben ; Validate repo signature when fetching lexicon document with `@atproto/lex-resolver` (#4384) ;
 2025-11-25T20:21:26 ;   0f2fc6592 ; matthieusieben ; Properly order lexicons in `--ci` mode (#4385) ;
 2025-11-25T19:51:02 ;   be8e6c1f2 ; matthieusieben ; Permission-sets pre-release changes (#4382) ;
