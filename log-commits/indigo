@@ -1,5 +1,11 @@
+2025-11-26T18:14:57 ;   6f265872 ; bnewbold ; update go to v1.25 (#1203) ;
+2025-11-26T17:39:50 ;   c54c04a9 ; bnewbold ; lexgen: decrease logging verbosity (#1206) ;
+2025-11-26T17:38:49 ;   0ea78ea9 ; bnewbold ; lexgen: decrease logging verbosity ;
 2025-11-26T12:26:23 ;   092e55b0 ; dtholmgren ; Satisfy sync.listRepos with JOIN (#1204) ;
 2025-11-25T17:36:31 ;   a40ad5ec ; dtholmgren ; satisfy list repos with JOIN ;
+2025-11-25T11:31:20 ;   6dfa1f94 ; bnewbold ; update CI to go v1.25 ;
+2025-11-25T11:31:03 ;   d1ff2d18 ; bnewbold ; update dockerfiles for go v1.25 and debian bookworm ;
+2025-11-25T11:30:43 ;   7044dffe ; bnewbold ; bump go to v1.25 ;
 2025-11-25T10:44:50 ;   35c1e15d ; bnewbold ; atproto/lexicon: more tweaks from spec updates (#1202) ;
 2025-11-24T19:35:13 ;   272ed8f4 ; bnewbold ; lexgen updates for SchemaNull removal ;
 2025-11-24T19:24:29 ;   dd2d3ec6 ; bnewbold ; minor error message improvements ;
