@@ -1,3 +1,7 @@
+2025-11-30T20:02:12 ;   688f9d675 ; matthieusieben ; Add changelog to npm packages and `@atproto/lex` readme (#4397) ;
+2025-11-30T20:01:42 ;   6e55972a1 ; matthieusieben ; changeset (#4399) ;
+2025-11-30T19:46:07 ;   bcae2b77b ; matthieusieben ; Increase string format typing strictness (#4389) ;
+2025-11-30T14:35:15 ;   1d445af2a ; matthieusieben ; lex SDK improvements (#4390) ;
 2025-11-25T21:48:26 ;   9f87ff3aa ; matthieusieben ; Type `dict` keys as optional (#4387) ;
 2025-11-25T21:48:10 ;   0adc852c3 ; matthieusieben ; Use arrays for "account" permission `action` attributes (#4353) ;
 2025-11-25T20:49:51 ;   d396de016 ; matthieusieben ; Validate repo signature when fetching lexicon document with `@atproto/lex-resolver` (#4384) ;
