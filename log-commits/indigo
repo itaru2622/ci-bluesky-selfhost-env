@@ -1,3 +1,5 @@
+2025-11-30T12:44:06 ;   393d8bda ; bnewbold ; add lexlint package (#1208) ;
+2025-11-30T12:37:33 ;   83166b63 ; bnewbold ; add lexlint package ;
 2025-11-26T18:14:57 ;   6f265872 ; bnewbold ; update go to v1.25 (#1203) ;
 2025-11-26T17:39:50 ;   c54c04a9 ; bnewbold ; lexgen: decrease logging verbosity (#1206) ;
 2025-11-26T17:38:49 ;   0ea78ea9 ; bnewbold ; lexgen: decrease logging verbosity ;
