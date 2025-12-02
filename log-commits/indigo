@@ -1,3 +1,13 @@
+2025-12-01T21:11:23 ;   81f317e3 ; bnewbold ; Add missing container image labels + fix licenses label (#1193) ;
+2025-12-01T15:29:13 ;   b8d2a78e ; bnewbold ; relay: expose current seq as metrics guage (#1213) ;
+2025-12-01T15:26:51 ;   83760aaa ; bnewbold ; relay: migrate from xrpc pkg to atclient (#1210) ;
+2025-12-01T15:26:35 ;   069ced7d ; bnewbold ; relay: log unexpected message type (#1212) ;
+2025-12-01T15:24:37 ;   a9817307 ; bnewbold ; relay: expose current seq as metrics guage ;
+2025-12-01T14:51:17 ;   8411bc30 ; bnewbold ; relay: log unexpected message type ;
+2025-12-01T14:37:32 ;   726c8510 ; bnewbold ; relay: Fix initial sequence number being lost on restart after initialization (#1185) ;
+2025-12-01T14:09:41 ;   67777cb7 ; bnewbold ; update lexicon resolution to use atclient pkg (#1209) ;
+2025-12-01T13:56:07 ;   258ba195 ; bnewbold ; update lexicon resolution to use atclient pkg ;
+2025-12-01T13:50:13 ;   279e71b7 ; bnewbold ; relay: migrate from xrpc pkg to atclient ;
 2025-11-30T12:44:06 ;   393d8bda ; bnewbold ; add lexlint package (#1208) ;
 2025-11-30T12:37:33 ;   83166b63 ; bnewbold ; add lexlint package ;
 2025-11-26T18:14:57 ;   6f265872 ; bnewbold ; update go to v1.25 (#1203) ;
@@ -26,6 +36,9 @@
 2025-11-23T21:14:27 ;   94c4cd97 ; bnewbold ; add description to permission-set; disallow repo col wildcard in perm set ;
 2025-11-23T21:07:33 ;   b0e22f40 ; bnewbold ; have mimetype tester handle */* ;
 2025-11-23T21:04:07 ;   df1e7868 ; bnewbold ; better error for account/identity resources; and more test coverage ;
+2025-11-18T21:43:27 ;   840456b0 ; ThisIsMissEm ; Update cmd/sonar/Dockerfile ;
+2025-11-18T21:43:06 ;   236a66bb ; ThisIsMissEm ; Update cmd/supercollider/Dockerfile ;
+2025-11-18T21:42:41 ;   46dcaa76 ; ThisIsMissEm ; Update cmd/sonar/Dockerfile ;
 2025-11-18T09:45:38 ;   05d91c9b ; bnewbold ; fix test cases and error msg for no-unknown-params ;
 2025-11-17T06:33:16 ;   163e54be ; bnewbold ; lexicon: don't allow 'unknown' in params ;
 2025-11-16T13:39:08 ;   80614209 ; bnewbold ; fix lexgen for SchemaMessage change ;
@@ -37,3 +50,6 @@
 2025-11-16T09:58:16 ;   e11a3127 ; bnewbold ; lexicon: more type field checks ;
 2025-11-16T09:21:02 ;   3194bb17 ; bnewbold ; lexicon: clearer file naming ;
 2025-11-16T09:16:51 ;   d91e35b0 ; bnewbold ; lexicon: don't try to validate tokens in data ;
+2025-11-13T18:58:54 ;   01cc80ab ; ThisIsMissEm ; Amend Dockerfile labels for licenses to correctly indicate dual licensing under MIT or Apache-2.0 ;
+2025-11-13T18:57:42 ;   c6a86721 ; ThisIsMissEm ; Add missing Dockerfile labels to sonar and supercollider ;
+2025-11-03T23:26:32 ;   813db62d ; damien ; relay: Fix initial sequence number being lost on restart after initialization ;
