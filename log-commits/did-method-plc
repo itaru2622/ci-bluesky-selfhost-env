@@ -1,3 +1,4 @@
+2025-12-09T18:09:47 ;   a06cb7c ; david ; update latest db migration to align with prod (#137) ;
 2025-12-04T20:30:24 ;   f7227fa ; david ; fix logger import (#135) ;
 2025-12-04T20:17:17 ;   9bd2ece ; david ; More entrypoint bugfixes (#134) ;
 2025-12-04T19:59:00 ;   c188052 ; david ; Service entrypoint bugfix (#133) ;

@@ -1,1 +1,7 @@
+2025-12-09T11:38:26 ;   4d50555e5 ; mozzius ; Update package.json (#9507) ;
+2025-12-09T02:41:44 ;   2d8e855e2 ; 1270099+pfrazee ; Nightly source-language update ;
+2025-12-08T19:24:19 ;   4407e59e1 ; git ; Read from mergedGeolocation when setting mod authorities (#9509) ;
+2025-12-08T17:43:38 ;   a0c4a6b30 ; git ; Add handling for birthdate prefs write failure (#9508) ;
+2025-12-08T12:17:53 ;   296d22d62 ; abenzer ; Large composer prompt image picker and camera icons (#9503) ;
+2025-12-08T12:16:07 ;   214615df2 ; abenzer ; Fix issue where empty state message is not centered (#9501) ;
 2025-12-07T11:07:41 ;   960df7bf6 ; 57507616+RetroSunstar ; Fixed an error found in #8969 for the Lists tab (#9502) ;
