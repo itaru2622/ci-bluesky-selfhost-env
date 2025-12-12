@@ -1,2 +1,5 @@
+2025-12-11T23:29:15 ;   7d57445 ; foysal ; :lock: Updated react versions to address CVE (#416) ; (tag: refs/tags/v0.1.102)
+2025-12-11T12:42:22 ;   3d994c9 ; foysal ; :bug: Gracefully handle error in loading block list (#415) ;
+2025-12-10T00:08:08 ;   8c1ec44 ; foysal ; :arrow_up: Upgrade nextjs and react versions everywhere (#412) ; (tag: refs/tags/v0.1.101)
 2025-12-09T18:47:59 ;   c4f11f5 ; foysal ; :bug: Handle error thrown by AtUri parser (#411) ;
 2025-12-08T17:57:57 ;   8a1f333 ; foysal ; :sparkles: Add access property to age assurance events (#410) ;
