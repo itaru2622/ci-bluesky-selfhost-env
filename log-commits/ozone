@@ -1,3 +1,5 @@
+2025-12-12T05:58:37 ;   858b6dc ; gcwill70 ; fix: properly swap add and remove tags when bulk removing tags (#413) ;
+2025-12-12T11:56:44 ;   e53b93b ; foysal ; :bug: Fix handle fetching for email template (#417) ;
 2025-12-11T23:29:15 ;   7d57445 ; foysal ; :lock: Updated react versions to address CVE (#416) ; (tag: refs/tags/v0.1.102)
 2025-12-11T12:42:22 ;   3d994c9 ; foysal ; :bug: Gracefully handle error in loading block list (#415) ;
 2025-12-10T00:08:08 ;   8c1ec44 ; foysal ; :arrow_up: Upgrade nextjs and react versions everywhere (#412) ; (tag: refs/tags/v0.1.101)

@@ -1,3 +1,6 @@
+2025-12-12T10:12:40 ;   d56fb0d1d ; bnewbold ; Initial Permission Sets for `app.bsky.*` and `chat.bsky.*` (#4349) ;
+2025-12-12T11:59:07 ;   4c6d37eac ; 41898282+github-actions[bot] ; Version packages (#4447) ; (tag: refs/tags/@atproto/xrpc-server@0.10.4, tag: refs/tags/@atproto/ws-client@0.0.4, tag: refs/tags/@atproto/tap@0.0.2, tag: refs/tags/@atproto/ozone@0.1.161, tag: refs/tags/@atproto/api@0.18.8)
+2025-12-12T11:53:11 ;   2e5a24cb8 ; rafaeleyng ; lexicon: Remove WARNING from contact lexicons (#4452) ;
 2025-12-11T20:14:11 ;   b4a76bae7 ; dtholmgren ; Sync tool library (#4290) ;
 2025-12-12T01:41:16 ;   5605e4d61 ; foysal ; :bug: Avoid repo_push_event insertion if no rows are created (#4451) ;
 2025-12-11T20:10:55 ;   9917b9f1c ; rafaeleyng ; bsky: Hookup missing endpoint (#4450) ;
