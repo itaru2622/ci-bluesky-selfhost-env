@@ -1,3 +1,5 @@
+2025-12-17T00:06:39 ;   11dd65f3 ; bnewbold ; cmd/tap: Fix typo in README: TAP_FULL_NETWORK_MODE > TAP_FULL_NETWORK (#1230) ;
+2025-12-15T19:51:16 ;   d028de9b ; damien ; cmd/tap: Fix typo in README ;
 2025-12-15T18:23:45 ;   f92cb292 ; bnewbold ; repo: updated MST structural tests (#1223) ;
 2025-12-15T18:10:02 ;   6d9675a5 ; bnewbold ; update 'raw' CIDs to 'dag-cbor' CIDs ;
 2025-12-15T18:00:20 ;   a288a602 ; bnewbold ; update interop commit fixtures with correct CID type ;
