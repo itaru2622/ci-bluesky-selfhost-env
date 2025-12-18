@@ -1,6 +1,13 @@
+2025-12-17T16:46:43 ;   2b943677 ; bnewbold ; lexicon: subscription message field is required (#1219) ;
+2025-12-17T16:44:37 ;   dbd4bbf2 ; bnewbold ; update README (#1235) ;
+2025-12-17T16:43:08 ;   2f32e275 ; bnewbold ; update README ;
+2025-12-17T16:13:49 ;   d83c6a15 ; bnewbold ; oauth docs: replace transitional OAuth scope (#1232) ;
 2025-12-17T00:06:39 ;   11dd65f3 ; bnewbold ; cmd/tap: Fix typo in README: TAP_FULL_NETWORK_MODE > TAP_FULL_NETWORK (#1230) ;
+2025-12-16T15:44:55 ;   104ff325 ; bnewbold ; oauth docs: replace transitional OAuth scope ;
 2025-12-15T19:51:16 ;   d028de9b ; damien ; cmd/tap: Fix typo in README ;
 2025-12-15T18:23:45 ;   f92cb292 ; bnewbold ; repo: updated MST structural tests (#1223) ;
 2025-12-15T18:10:02 ;   6d9675a5 ; bnewbold ; update 'raw' CIDs to 'dag-cbor' CIDs ;
 2025-12-15T18:00:20 ;   a288a602 ; bnewbold ; update interop commit fixtures with correct CID type ;
 2025-12-04T21:59:19 ;   0a9dca75 ; bnewbold ; update MST interop tests fixtures with correct key heights ;
+2025-12-04T09:58:25 ;   e389ec0d ; bnewbold ; implement lex tweak ;
+2025-12-04T09:58:05 ;   2411b6fb ; bnewbold ; lexicon: subscription msg is required ;
