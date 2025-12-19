@@ -1,3 +1,4 @@
+2025-12-19T02:44:03 ;   a14a9be12 ; 1270099+pfrazee ; Nightly source-language update ;
 2025-12-18T12:08:17 ;   998ee78e3 ; git ; Move NUXDialogs into shell (#9573) ;
 2025-12-18T11:05:39 ;   a355eedf8 ; git ; Improve instructions on NoAccessScreen and bday dialog (#9571) ;
 2025-12-18T09:45:51 ;   89cffdf5d ; git ; Ignore new flag SVGs in build output (#9567) ;
