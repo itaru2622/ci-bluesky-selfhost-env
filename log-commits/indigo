@@ -1,0 +1,2 @@
+2025-12-21T07:17:02 ;   3bb016db ; jamesrcalabro ; Catch Panics in EventManager.broadcastEvent (#1240) ;
+2025-12-21T10:11:29 ;   488b12f9 ; jamesrcalabro ; Catch Panics in EventManager.broadcastEvent ;
