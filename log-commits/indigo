@@ -1,2 +1,10 @@
+2025-12-23T13:01:23 ;   598fbf0e ; dtholmgren ; Tap: retry errored repos (#1248) ;
+2025-12-23T12:55:19 ;   ee8e8b01 ; dtholmgren ; retry errored repos ; (tag: refs/tags/tap-v0.1.2)
+2025-12-23T12:34:17 ;   3602a846 ; dtholmgren ; Tap: verify signature on resync (#1246) ;
+2025-12-23T12:33:58 ;   e112ecc3 ; dtholmgren ; Tap: respect backoff in resyncer (#1247) ;
+2025-12-22T18:18:15 ;   c09536a8 ; dtholmgren ; respect backoff in resyncer ;
+2025-12-22T17:55:43 ;   9583ad3b ; dtholmgren ; Add user-agent to all tap requests (#1245) ;
+2025-12-22T17:53:31 ;   d2ef16fb ; dtholmgren ; verify signature on resync ;
+2025-12-22T16:38:19 ;   1204af2b ; dtholmgren ; add user-agent to all tap requests ;
 2025-12-21T07:17:02 ;   3bb016db ; jamesrcalabro ; Catch Panics in EventManager.broadcastEvent (#1240) ;
 2025-12-21T10:11:29 ;   488b12f9 ; jamesrcalabro ; Catch Panics in EventManager.broadcastEvent ;
