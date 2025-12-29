@@ -1,0 +1,6 @@
+2025-12-29T12:21:09 ;   b38013a12 ; git ; Small copy tweaks (#9557) ;
+2025-12-29T20:19:08 ;   aa1395542 ; mozzius ; tweak styles of composer prompt (#9524) ;
+2025-12-29T20:16:49 ;   caa02db87 ; mozzius ; Update react native screens, remove patch (#9210) ;
+2025-12-29T02:00:29 ;   f390167f6 ; abenzer ; Remove unwanted drop shadow on "see more" card on Android (#9584) ;
+2025-12-29T09:38:40 ;   6275d2e0f ; 149612116+surfdude29 ; Temporarily use English for Esperanto `intl-displaynames` polyfill (#9574) ;
+2025-12-29T01:38:04 ;   3e1e1ba00 ; abenzer ; Better copy for "must be signed in" message (#9602) ;
