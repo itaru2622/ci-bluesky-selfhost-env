@@ -1,3 +1,4 @@
+2026-01-02T18:02:26 ;   55806f108 ; shen_nanping ; fix(native): dismiss recommendation bottom sheet on profile navigation (#9608) ;
 2025-12-30T19:56:05 ;   0aaf11aa7 ; mozzius ; fix drawer layout on mobile web (#9618) ;
 2025-12-30T13:40:19 ;   9cfa7d0ba ; mozzius ; Remove RNGH from web bundle (#9528) ;
 2025-12-30T13:39:09 ;   9743149c2 ; mozzius ; Replace `graphemer` with `unicode-segmenter` (#9526) ;

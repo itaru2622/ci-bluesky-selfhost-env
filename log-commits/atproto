@@ -1,3 +1,14 @@
+2026-01-02T17:40:49 ;   e60af0724 ; 41898282+github-actions[bot] ; Version packages (#4499) ; (tag: refs/tags/@atproto/lex-server@0.0.2)
+2026-01-02T17:36:49 ;   e9f065fce ; matthieusieben ; Add AbortSignal to lex-server handler context (#4498) ;
+2026-01-02T14:39:11 ;   43633250f ; matthieu.sieben ; ci ;
+2026-01-02T14:31:29 ;   9a11a674a ; matthieu.sieben ; ci ;
+2026-01-02T14:19:21 ;   cbd7c677b ; matthieu.sieben ; ci ;
+2026-01-02T14:15:44 ;   e1ca2ff2a ; matthieu.sieben ; lint ;
+2026-01-02T14:10:14 ;   627f49e33 ; matthieu.sieben ; ci ;
+2026-01-02T14:07:26 ;   87e335af6 ; matthieu.sieben ; ci ;
+2026-01-02T14:02:08 ;   cffd7e98b ; matthieu.sieben ; ci ;
+2026-01-02T12:53:28 ;   538e3b0d5 ; matthieu.sieben ; npm publish OIDC ;
+2026-01-02T09:48:32 ;   8e759970a ; 41898282+github-actions[bot] ; Version packages (#4497) ;
 2026-01-01T13:28:29 ;   9af7a2d12 ; matthieusieben ; Password based agent implementation (#4443) ;
 2025-12-30T10:26:18 ;   95bd491ec ; 41898282+github-actions[bot] ; Version packages (#4466) ; (tag: refs/tags/@atproto/xrpc-server@0.10.5, tag: refs/tags/@atproto/tap@0.0.3, tag: refs/tags/@atproto/pds@0.4.200, tag: refs/tags/@atproto/oauth-types@0.6.0, tag: refs/tags/@atproto/oauth-provider@0.15.0, tag: refs/tags/@atproto/oauth-provider-ui@0.4.0, tag: refs/tags/@atproto/oauth-provider-frontend@0.2.6, tag: refs/tags/@atproto/oauth-provider-api@0.3.5, tag: refs/tags/@atproto/oauth-client@0.5.12, tag: refs/tags/@atproto/oauth-client-node@0.3.14, tag: refs/tags/@atproto/oauth-client-expo@0.0.6, tag: refs/tags/@atproto/oauth-client-browser@0.3.38, tag: refs/tags/@atproto/oauth-client-browser-example@0.0.9, tag: refs/tags/@atproto/lex@0.0.7, tag: refs/tags/@atproto/lex-schema@0.0.5, tag: refs/tags/@atproto/lex-resolver@0.0.6, tag: refs/tags/@atproto/lex-json@0.0.4, tag: refs/tags/@atproto/lex-installer@0.0.7, tag: refs/tags/@atproto/lex-document@0.0.6, tag: refs/tags/@atproto/lex-data@0.0.4, tag: refs/tags/@atproto/lex-client@0.0.5, tag: refs/tags/@atproto/lex-cbor@0.0.4, tag: refs/tags/@atproto/lex-builder@0.0.7, tag: refs/tags/@atproto/dev-env@0.3.198, tag: refs/tags/@atproto/common@0.5.4, tag: refs/tags/@atproto/common-web@0.4.8, tag: refs/tags/@atproto/bsky@0.0.204, tag: refs/tags/@atproto/api@0.18.9)
 2025-12-30T10:02:41 ;   ce497e854 ; git ; [APP-1653] Update AA config for Virginia (#4426) ;
