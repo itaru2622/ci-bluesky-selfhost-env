@@ -1,2 +1,4 @@
+2026-01-06T12:41:08 ;   0a50b73a ; 4732915+cuducos ; Adds `recId` to `getSuggestUsers` (#1263) ;
+2026-01-06T11:50:13 ;   2c00289a ; 4732915+cuducos ; Adds `recId` to `getSuggestUsers` ;
 2026-01-03T17:30:15 ;   78a1c189 ; bnewbold ; typo in indigo/cmd/sonar/README.md (#1251) ;
 2025-12-24T21:50:32 ;   8dd0ee5c ; guilhermev2huehue ; typo in indigo/cmd/sonar/README.md ;
