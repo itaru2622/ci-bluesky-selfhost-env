@@ -1,3 +1,6 @@
+2026-01-07T12:54:59 ;   80049bbe8 ; mozzius ; exclude images from bundle size workflow (#9647) ;
+2026-01-07T11:14:48 ;   e627d37f4 ; mozzius ; [v1.113 prep] Translations (#9646) ; (tag: refs/tags/1.113.0)
+2026-01-07T02:48:01 ;   24fe45aaa ; 1270099+pfrazee ; Nightly source-language update ;
 2026-01-06T20:37:47 ;   0deb9511a ; mozzius ; Enable lightbox for profile banner (#9643) ;
 2026-01-06T19:31:54 ;   43ebb80a5 ; mozzius ; patch in proguard rules (#9447) ;
 2026-01-06T18:58:46 ;   d91e206e2 ; mozzius ; Fix prefetching starter pack query (#9595) ;
