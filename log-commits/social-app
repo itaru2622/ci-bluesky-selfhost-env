@@ -1,3 +1,7 @@
+2026-01-08T21:36:01 ;   d82592f07 ; mozzius ; Fix full-screen back gesture over PagerView on iOS 26 (#9659) ;
+2026-01-08T21:35:42 ;   dae03312c ; mozzius ; Bump version to v1.114 (#9661) ;
+2026-01-08T17:35:13 ;   c2e5a18e4 ; mozzius ; Unify build concurrency to one build per platform (#9655) ;
+2026-01-07T23:15:55 ;   2efc047f6 ; mozzius ; bump version to v1.113.1 (#9652) ; (tag: refs/tags/1.113.1)
 2026-01-07T12:54:59 ;   80049bbe8 ; mozzius ; exclude images from bundle size workflow (#9647) ;
 2026-01-07T11:14:48 ;   e627d37f4 ; mozzius ; [v1.113 prep] Translations (#9646) ; (tag: refs/tags/1.113.0)
 2026-01-07T02:48:01 ;   24fe45aaa ; 1270099+pfrazee ; Nightly source-language update ;
