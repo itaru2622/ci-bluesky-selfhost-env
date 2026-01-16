@@ -1,3 +1,7 @@
+2026-01-16T18:34:00 ;   acc26c965 ; mozzius ; make live now gate fail-open (#9714) ;
+2026-01-16T18:31:01 ;   fbd1138d9 ; mozzius ; Add fishing minigame (#9713) ;
+2026-01-16T18:18:41 ;   9c563f2a4 ; mozzius ; Fix collapsed button by simplifying, keep container width (#9712) ;
+2026-01-15T16:26:44 ;   1d4263078 ; git ; Refetch live events every 5 min (#9706) ;
 2026-01-15T13:05:11 ;   367eebe60 ; git ; Reset default AA debug for E2E (#9705) ;
 2026-01-15T10:58:01 ;   06a8a7efc ; git ; intl pull and extract:all (#9704) ; (tag: refs/tags/1.114.0)
 2026-01-15T17:12:15 ;   29f8bc998 ; mozzius ; Highlight first feed in sidebar if non selected (#9703) ;
