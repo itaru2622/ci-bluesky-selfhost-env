@@ -1,0 +1,4 @@
+2026-01-19T14:26:54 ;   538d39e19 ; 4732915+cuducos ; Fixes semver bump (#4563) ;
+2026-01-19T17:16:45 ;   3fbec803e ; david ; Changeset for #4560 (#4564) ;
+2026-01-19T17:02:23 ;   6c7160ff7 ; david ; PDS: Stop probing image dimensions on blob upload (#4560) ;
+2026-01-19T10:40:13 ;   d8e53636c ; 4732915+cuducos ; Drops `recId` from user suggestions (#4547) ;
