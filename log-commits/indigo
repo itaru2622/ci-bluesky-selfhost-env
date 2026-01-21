@@ -1,3 +1,4 @@
+2026-01-20T14:59:12 ;   12d69fa4 ; bnewbold ; `syntax.AtIdentifier` as simple string (#1218) ;
 2026-01-20T12:22:41 ;   63f30c3b ; 4732915+cuducos ; Adds `recID` to suggested user response (as string) (#1275) ;
 2026-01-20T12:17:27 ;   af0a3e2e ; 4732915+cuducos ; Adds `recID` to suggested user response (as string) ;
 2026-01-19T21:15:21 ;   6818fd27 ; bnewbold ; relay: hint PG for perf on listRepos (#1237) ;
@@ -13,3 +14,5 @@
 2025-12-23T16:59:57 ;   595e395c ; bnewbold ; respect HTTPS_PROXY for services ;
 2025-12-23T16:59:21 ;   8bfb9296 ; bnewbold ; identity: respect HTTPS_PROXY env var for resolutions ;
 2025-12-18T13:26:35 ;   d14d1b47 ; bnewbold ; relay: hint PG for perf on listRepos ;
+2025-12-02T20:27:43 ;   66bd1a1f ; bnewbold ; code updates for string-like AtIdentifier ;
+2025-12-02T20:23:19 ;   ad6fa93d ; bnewbold ; syntax: switch AtIdentifier to be string like all other types ;

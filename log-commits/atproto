@@ -1,3 +1,8 @@
+2026-01-21T09:40:34 ;   2c4eb7fe2 ; bnewbold ; permission-set for deleting public content (#4453) ;
+2026-01-21T17:36:36 ;   ece2ee853 ; matthieu.sieben ; changeset ;
+2026-01-21T17:26:24 ;   ecf59214d ; matthieusieben ; Update performances of cbor encoding/decoding (#4572) ;
+2026-01-21T16:15:47 ;   99963d002 ; matthieusieben ; lex SDK improvements (#4571) ;
+2026-01-20T17:15:58 ;   9bdd35881 ; bnewbold ; Experiment: wire-through germ chat declaration in bsky appview backend (#4415) ;
 2026-01-20T08:58:19 ;   aa2272888 ; bnewbold ; rename lexicon file to match NSID (authManageFeedDeclaration) (#4568) ;
 2026-01-20T08:55:35 ;   cbd5837f0 ; 4732915+cuducos ; Re-adds `recId` to suggested users (as string) (#4565) ;
 2026-01-20T14:11:24 ;   aaedafc6b ; matthieusieben ; Replace `tap`'s event validation from "zod" to "@atproto/lex" (#4532) ;
