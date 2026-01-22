@@ -1,3 +1,4 @@
+2026-01-22T15:26:20 ;   ce356cde5 ; matthieusieben ; Fix typing mistake in suggestion endpoints (#4576) ;
 2026-01-21T09:40:34 ;   2c4eb7fe2 ; bnewbold ; permission-set for deleting public content (#4453) ;
 2026-01-21T17:36:36 ;   ece2ee853 ; matthieu.sieben ; changeset ;
 2026-01-21T17:26:24 ;   ecf59214d ; matthieusieben ; Update performances of cbor encoding/decoding (#4572) ;
