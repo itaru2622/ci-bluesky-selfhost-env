@@ -1,3 +1,5 @@
+2026-01-22T15:50:01 ;   7f2e6b43 ; bnewbold ; atproto/atclient: password auth refresh should use method post (#1278) ;
+2026-01-22T23:29:10 ;   d03816a6 ; kar ; atproto/atclient: password auth refresh should use method post ;
 2026-01-20T14:59:12 ;   12d69fa4 ; bnewbold ; `syntax.AtIdentifier` as simple string (#1218) ;
 2026-01-20T12:22:41 ;   63f30c3b ; 4732915+cuducos ; Adds `recID` to suggested user response (as string) (#1275) ;
 2026-01-20T12:17:27 ;   af0a3e2e ; 4732915+cuducos ; Adds `recID` to suggested user response (as string) ;
