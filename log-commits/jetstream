@@ -1,7 +1,0 @@
-2026-01-20T16:10:58 ;   f4e39a4 ; bnewbold ; Merge pull request #63 from bluesky-social/bnewbold/bump-indigo ;
-2026-01-20T16:09:56 ;   05c89f0 ; bnewbold ; bump indigo dependency ;
-2026-01-20T16:06:26 ;   8c0b199 ; bnewbold ; Merge pull request #61 from bluesky-social/bnewbold/go-1.25 ;
-2026-01-20T16:05:33 ;   62fbb02 ; bnewbold ; Merge pull request #62 from bluesky-social/bnewbold/bump-license ;
-2026-01-20T16:04:53 ;   e169517 ; bnewbold ; bump license, and add Bluesky Social ;
-2026-01-20T16:01:53 ;   a218800 ; bnewbold ; bump docker build image to go 1.25 ;
-2026-01-20T16:00:42 ;   4a52a51 ; bnewbold ; bump toolchain to go 1.25 ;
