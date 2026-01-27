@@ -1,2 +1,19 @@
+2026-01-26T19:59:49 ;   131be32d ; bnewbold ; make fmt (#1290) ;
+2026-01-26T19:59:18 ;   82b4001e ; bnewbold ; make fmt ;
+2026-01-27T14:08:36 ;   2e596add ; dave ; cmd/tap: move ownership of ^C'able context outside runTap (#1288) ;
+2026-01-26T22:07:03 ;   6692f148 ; jamesrcalabro ; cmd/tap: use LoadOrCompute when delivering event to worker (#1283) ;
+2026-01-27T11:54:53 ;   8f21b63d ; dave ; cmd/tap: move ownership of ^C'able context outside runTap ;
+2026-01-26T22:00:11 ;   4865d2ce ; jamesrcalabro ; .golangci.yaml: warn if go.mod/go.sum is dirty (#1285) ;
+2026-01-26T18:49:04 ;   17005633 ; bnewbold ; workflows: use go.mod as source of truth for the Go version to use (#1286) ;
+2026-01-26T17:48:39 ;   aef07be6 ; dtholmgren ; Tap: fix nil pointer err on prevData (#1287) ; (tag: refs/tags/tap-v0.1.5)
+2026-01-26T16:42:38 ;   5e8fc7a0 ; dtholmgren ; Tap: fix nil pointer err on prevData ;
+2026-01-26T14:48:52 ;   dfb323fe ; axfelix ; add install note to readme (#1284) ;
+2026-01-27T09:28:19 ;   9a7ac184 ; dave ; workflows: use go.mod as source of truth for the Go version to use ;
+2026-01-27T09:22:36 ;   26055d19 ; dave ; .golangci.yaml: warn if go.mod/go.sum is dirty ;
+2026-01-26T14:12:35 ;   eb214e44 ; axfelix ; add install note to readme ;
+2026-01-26T14:18:19 ;   627e53a1 ; dtholmgren ; Tap: fix repo commit metadata tracking (#1280) ; (tag: refs/tags/tap-v0.1.4)
+2026-01-26T12:55:26 ;   4524c0f3 ; dtholmgren ; check prev data when draining the resync buffer ;
+2026-01-26T14:18:02 ;   11544ece ; dave ; cmd/tap: use LoadOrCompute when delivering event to worker ;
 2026-01-25T17:11:29 ;   1e0f4993 ; bnewbold ; atclient: allow pw auth to inactive account (#1281) ;
 2026-01-25T16:43:29 ;   c3fb6150 ; bnewbold ; atclient: allow pw auth to inactive account ;
+2026-01-23T16:13:45 ;   25ad69ad ; dtholmgren ; Tap: fix repo commit metadata tracking ;

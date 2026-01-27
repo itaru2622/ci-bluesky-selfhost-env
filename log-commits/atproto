@@ -1,0 +1,2 @@
+2026-01-27T15:07:13 ;   2830daeaa ; mozzius ; Add `presentation` to video embed as a hint to the client about how to display the video (#4581) ;
+2026-01-27T08:25:13 ;   d54d7077e ; matthieusieben ; DID document validation (#4580) ;
