@@ -1,3 +1,4 @@
+2026-01-30T08:29:13 ;   baa889cd ; dave ; cmd/tap: move component initalisation into constructor fns (#1307) ;
 2026-01-29T11:30:48 ;   ba40827f ; bnewbold ; remove SetupSlog and ipfslog (#1312) ;
 2026-01-29T10:36:34 ;   b1401ec9 ; bnewbold ; go mod tidy ;
 2026-01-29T10:36:24 ;   55cb0191 ; bnewbold ; remove SetupSlog and supporting code ;
@@ -20,6 +21,7 @@
 2026-01-26T19:41:56 ;   01fb07eb ; bnewbold ; remove bgs package ;
 2026-01-26T19:39:04 ;   60e1fd25 ; bnewbold ; remove references to bigsky ;
 2026-01-26T19:38:32 ;   3b8e52bb ; bnewbold ; remove cmd/bigsky ;
+2026-01-29T14:50:11 ;   c739bd8d ; dave ; cmd/tap: move component initalisation into constructor fns ;
 2026-01-29T08:51:58 ;   cf0fe758 ; dave ; all: do not initialise mutex zero value (#1298) ;
 2026-01-28T12:55:51 ;   69037a72 ; bnewbold ; auth: add permission scope string support (#1207) ;
 2026-01-28T12:00:04 ;   27ee31a1 ; bnewbold ; copy indexer.KeyManager to repomgr/keymgr (#1304) ;
