@@ -1,6 +1,0 @@
-2026-01-27T20:47:28 ;   087eb88 ; gcwill70 ; Fix bug where filter sharing tooltip in quick panel is cut off (#438) ;
-2026-01-27T17:14:46 ;   c54254d ; gcwill70 ; Save event macro independent of subject DID (#436) ;
-2026-01-27T22:46:01 ;   e78db17 ; foysal ; :bug: Add next threshold description to automated email content (#440) ;
-2026-01-27T22:18:02 ;   8a26afa ; mozzius ; Dep bump (#439) ; (tag: refs/tags/v0.1.103)
-2026-01-26T08:38:07 ;   f48e31f ; gcwill70 ; Allow moving between subjects from events tab (#435) ;
-2026-01-26T07:15:25 ;   6e744de ; gcwill70 ; Improve UX for removed embedded content (#432) ;
