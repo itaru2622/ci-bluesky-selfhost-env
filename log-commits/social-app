@@ -1,0 +1,4 @@
+2026-02-01T10:24:34 ;   bfd5ed480 ; 10959775+mozzius ; Nightly source-language update ;
+2026-02-01T12:21:15 ;   d9ef02737 ; mozzius ; Rename "lightbox" to "image viewer" in user-facing strings (#9807) ;
+2026-02-01T08:10:57 ;   809b318fe ; 10959775+mozzius ; Nightly source-language update ;
+2026-02-01T10:08:28 ;   864af57fd ; mozzius ; Fix i18n string interpolation for device name (#9806) ;
