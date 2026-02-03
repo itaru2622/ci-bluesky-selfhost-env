@@ -1,3 +1,7 @@
+2026-02-03T03:09:12 ;   cbd48c855 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-02-03T01:35:04 ;   421c18ea7 ; mozzius ; fix image patch version (#9810) ;
+2026-02-03T01:33:55 ;   26c84399d ; mozzius ; Add light haptic feedback to Edit Profile button (#9787) ;
+2026-02-02T19:55:01 ;   4f1d4821c ; mozzius ; Speed up startup by persisting some queries (#9594) ;
 2026-02-01T10:24:34 ;   bfd5ed480 ; 10959775+mozzius ; Nightly source-language update ;
 2026-02-01T12:21:15 ;   d9ef02737 ; mozzius ; Rename "lightbox" to "image viewer" in user-facing strings (#9807) ;
 2026-02-01T08:10:57 ;   809b318fe ; 10959775+mozzius ; Nightly source-language update ;

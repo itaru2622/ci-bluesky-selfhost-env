@@ -1,5 +1,7 @@
+2026-02-02T10:16:58 ;   ea3d39ee ; bnewbold ; lexicon: singular i18n fields on permission-set (#1321) ;
 2026-01-31T18:24:46 ;   e7cba483 ; jeromyj ; Streaming repo parsing (#1000) ;
 2026-01-31T18:05:09 ;   0223d29b ; jeromyj ; swap setRev for setCommit ;
+2026-01-31T18:00:23 ;   7e5f86d1 ; bnewbold ; lexicon: singular i18n fields on permission-set ;
 2026-01-31T11:25:10 ;   2b44b219 ; dave ; cmd/tap: switch checkTimeouts to use runPeriodically (#1317) ;
 2026-01-30T14:55:07 ;   995e1f6c ; bnewbold ; cmd/relay: add missing `AccountCount` field to `getHostStatus` handler (#1316) ;
 2026-01-31T08:29:47 ;   a4c89e78 ; dave ; cmd/tap: switch checkTimeouts to use runPeriodically ;
