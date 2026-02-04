@@ -1,9 +1,18 @@
+2026-02-03T15:53:05 ;   a86f3ae1 ; bnewbold ; identify.NewCacheDirectory, apidir.NewAPIDirectory, identity.NewMockDirectory return ptr values (#1318) ;
+2026-02-03T15:52:07 ;   57c106dd ; bnewbold ; lexicon: have catalog constructors return ptr values (#1326) ;
+2026-02-03T15:51:56 ;   c783c2e5 ; bnewbold ; syntax: have NewTIDClock() return ptr value (#1325) ;
+2026-02-03T12:06:23 ;   f532d34c ; bnewbold ; lexicon: have catalog constructors return ptr values ;
+2026-02-03T10:28:48 ;   571723fd ; bnewbold ; update TIDClock ptr usage ;
+2026-02-03T10:28:27 ;   75399509 ; bnewbold ; syntax: have NewTIDClock() return ptr type ;
 2026-02-02T10:16:58 ;   ea3d39ee ; bnewbold ; lexicon: singular i18n fields on permission-set (#1321) ;
 2026-01-31T18:24:46 ;   e7cba483 ; jeromyj ; Streaming repo parsing (#1000) ;
 2026-01-31T18:05:09 ;   0223d29b ; jeromyj ; swap setRev for setCommit ;
 2026-01-31T18:00:23 ;   7e5f86d1 ; bnewbold ; lexicon: singular i18n fields on permission-set ;
 2026-01-31T11:25:10 ;   2b44b219 ; dave ; cmd/tap: switch checkTimeouts to use runPeriodically (#1317) ;
 2026-01-30T14:55:07 ;   995e1f6c ; bnewbold ; cmd/relay: add missing `AccountCount` field to `getHostStatus` handler (#1316) ;
+2026-01-31T09:37:53 ;   2e1dd157 ; dave ; atproto/identify: return *MockDirectory from NewMockDirectory ;
+2026-01-31T08:52:42 ;   6943e0dc ; dave ; apidir: return *APIDirectory from NewAPIDirectory ;
+2026-01-31T08:48:23 ;   ff32ee12 ; dave ; atproto/identidy: return *CacheDirectory from NewCacheDirectory ;
 2026-01-31T08:29:47 ;   a4c89e78 ; dave ; cmd/tap: switch checkTimeouts to use runPeriodically ;
 2026-01-31T08:00:18 ;   27147152 ; dave ; cmd/tap: introduce runPeriodically helper (#1314) ;
 2026-01-30T16:47:21 ;   07bc6dcb ; martin ; cmd/relay: add missing `AccountCount` field ;
