@@ -1,3 +1,5 @@
+2026-02-11T14:33:11 ;   b98f8983 ; dtholmgren ; Tap: historical event bypass test (#1334) ; (tag: refs/tags/tap-v0.1.7)
+2026-02-11T14:28:03 ;   8b26c9b1 ; dtholmgren ; test for historical event bypass ;
 2026-02-11T13:04:52 ;   a3eba16b ; dtholmgren ; bugfix(cmd/tap): prevent DID worker live-barrier stall (#1330) ;
 2026-02-10T20:48:28 ;   d3e4584d ; jg.byte ; reverted control flow ;
 2026-02-10T20:43:29 ;   e5858b5b ; James-Gilbert- ; Merge branch 'bluesky-social:main' into fix/tap-blocked-live ;
