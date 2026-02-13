@@ -1,3 +1,5 @@
+2026-02-12T18:30:59 ;   85cdd0d6 ; dtholmgren ; Tap: bugfix for desynchronized repos (#1336) ; (tag: refs/tags/tap-v0.1.8)
+2026-02-12T18:19:24 ;   78520082 ; dtholmgren ; dont use r.Commit() ;
 2026-02-11T14:33:11 ;   b98f8983 ; dtholmgren ; Tap: historical event bypass test (#1334) ; (tag: refs/tags/tap-v0.1.7)
 2026-02-11T14:28:03 ;   8b26c9b1 ; dtholmgren ; test for historical event bypass ;
 2026-02-11T13:04:52 ;   a3eba16b ; dtholmgren ; bugfix(cmd/tap): prevent DID worker live-barrier stall (#1330) ;
