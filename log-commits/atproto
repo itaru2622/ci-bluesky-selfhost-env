@@ -1,0 +1,2 @@
+2026-02-13T15:11:24 ;   6ae3cf613 ; 41898282+github-actions[bot] ; Version packages (#4637) ; (tag: refs/tags/@atproto/tap@0.2.4, tag: refs/tags/@atproto/lex@0.0.16, tag: refs/tags/@atproto/lex-installer@0.0.16, tag: refs/tags/@atproto/lex-builder@0.0.15)
+2026-02-13T14:07:10 ;   619068fb8 ; dan.abramov ; Expose LexDefBuilder and allow passing moduleSpecifier (#4610) ;
