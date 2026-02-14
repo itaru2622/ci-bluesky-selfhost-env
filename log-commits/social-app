@@ -1,2 +1,5 @@
+2026-02-14T03:05:51 ;   bc001168f ; 1270099+pfrazee ; Nightly source-language update ;
+2026-02-13T16:24:06 ;   b4cb4c4d1 ; spencerfpope ; Revert "Add --what-to-test to iOS submissions (#9856)" (#9873) ;
+2026-02-13T20:15:36 ;   2e34f965f ; mozzius ; [Auth rework] Add a header to login flow (#9368) ;
 2026-02-13T13:03:36 ;   9cdfb40ce ; spencerfpope ; dedupe trending topics (#9870) ;
 2026-02-13T13:30:10 ;   c83dddce5 ; mozzius ; Bandcamp embed (#9445) ;
