@@ -1,3 +1,6 @@
+2026-02-15T19:02:01 ;   06fcea988 ; 149612116+surfdude29 ; 'Log in' to 'Sign in' (#9875) ;
+2026-02-15T03:11:50 ;   b166d395d ; 1270099+pfrazee ; Nightly source-language update ;
+2026-02-14T22:29:59 ;   122830630 ; mozzius ; Fix quote embed clickability in composer on web (#9876) ;
 2026-02-14T03:05:51 ;   bc001168f ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-13T16:24:06 ;   b4cb4c4d1 ; spencerfpope ; Revert "Add --what-to-test to iOS submissions (#9856)" (#9873) ;
 2026-02-13T20:15:36 ;   2e34f965f ; mozzius ; [Auth rework] Add a header to login flow (#9368) ;
