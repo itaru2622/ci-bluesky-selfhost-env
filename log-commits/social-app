@@ -1,3 +1,13 @@
+2026-02-16T12:00:46 ;   49253dbd8 ; 260543580+ds-boyce ; Refactor delete account dialog using ALF (#9863) ;
+2026-02-16T11:44:22 ;   cc2255cc4 ; git ; [APP-1776] Refactor Live Now config, reorg files (#9871) ;
+2026-02-16T11:03:59 ;   8ee9709fb ; git ; [APP-1764] Improve Age Assurance copy (#9885) ;
+2026-02-16T15:35:29 ;   90d650def ; mozzius ; Use video thumbnail as og:image for posts with video embeds (#9877) ;
+2026-02-16T13:41:35 ;   79e27e303 ; mozzius ; Fix missing pixel row in text rendering on iOS (#9882) ;
+2026-02-16T08:39:53 ;   6be775176 ; spencerfpope ; have back button dismiss lightbox on web (#9874) ;
+2026-02-16T13:39:29 ;   9b830fd42 ; mozzius ; Use scroll position to gate post-created feed refresh (#9881) ;
+2026-02-16T13:30:07 ;   4ebeb94b4 ; mozzius ; Add Renew menu for expired mute words (#9883) ;
+2026-02-16T13:29:59 ;   b6b364700 ; mozzius ; Make profile description text selectable (#9884) ;
+2026-02-16T03:11:39 ;   95f9cc1ed ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-15T19:02:01 ;   06fcea988 ; 149612116+surfdude29 ; 'Log in' to 'Sign in' (#9875) ;
 2026-02-15T03:11:50 ;   b166d395d ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-14T22:29:59 ;   122830630 ; mozzius ; Fix quote embed clickability in composer on web (#9876) ;
