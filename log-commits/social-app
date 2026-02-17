@@ -1,3 +1,10 @@
+2026-02-17T10:39:34 ;   197c06941 ; spencerfpope ; Clear link and gif caches to avoid pointing at missing files (#9898) ;
+2026-02-17T03:09:32 ;   e67d81f26 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-02-16T16:23:27 ;   7c08bba6c ; 260543580+ds-boyce ; Use Prompt.Action for delete account buttons (#9889) ;
+2026-02-16T13:29:25 ;   29bc0f137 ; 260543580+ds-boyce ; Add optional props to Prompt.Action (#9887) ;
+2026-02-16T21:12:26 ;   82f42e734 ; 149612116+surfdude29 ; Wrap interaction counts with `Trans` to add translation flexibility (#9036) ;
+2026-02-16T21:10:57 ;   3b9f0b0a6 ; 149612116+surfdude29 ; Add plural formatting for several strings (#9576) ;
+2026-02-16T21:09:49 ;   a6ba0810b ; mozzius ; Be more descriptive with video errors, log less (#9886) ;
 2026-02-16T12:00:46 ;   49253dbd8 ; 260543580+ds-boyce ; Refactor delete account dialog using ALF (#9863) ;
 2026-02-16T11:44:22 ;   cc2255cc4 ; git ; [APP-1776] Refactor Live Now config, reorg files (#9871) ;
 2026-02-16T11:03:59 ;   8ee9709fb ; git ; [APP-1764] Improve Age Assurance copy (#9885) ;
