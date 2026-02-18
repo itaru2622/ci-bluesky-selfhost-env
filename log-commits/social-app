@@ -1,3 +1,16 @@
+2026-02-18T19:03:23 ;   c906fea77 ; mozzius ; Fix webpack dev server freezing after repeated refreshes (#9865) ;
+2026-02-18T19:01:58 ;   775a041b7 ; mozzius ; Add chat data export to Export My Data dialog (#9900) ;
+2026-02-18T17:46:45 ;   98d17fd95 ; mozzius ; Fix native-only function being called on web (#9904) ;
+2026-02-18T17:30:32 ;   41b374236 ; mozzius ; Dynamically load `date-fns` locale data (#9535) ;
+2026-02-18T16:57:32 ;   512ce3d5d ; mozzius ; ALF content language dialog (#9471) ;
+2026-02-18T16:20:39 ;   bdf143ce7 ; mozzius ; Restructure notification/linking handling to use synchronous APIs (#9497) ;
+2026-02-18T16:20:05 ;   adc079e09 ; mozzius ; Get rid of Sentry Replay from web bundle (#9534) ;
+2026-02-18T07:57:31 ;   74330500d ; 260543580+ds-boyce ; Improve error handling on Explore page (#9890) ;
+2026-02-18T07:35:00 ;   ac939dc84 ; 260543580+ds-boyce ; Update onboarding user suggestions with new endpoint (#9872) ;
+2026-02-18T14:35:38 ;   b12d70335 ; mozzius ; Enable profile hover card on quoted post authors (#9896) ;
+2026-02-18T00:18:22 ;   c188fd4f0 ; 260543580+ds-boyce ; Log onboarding errors for suggested accounts (#9892) ;
+2026-02-18T08:16:12 ;   a1cda126e ; mozzius ; ALF feed error screen (#9895) ;
+2026-02-18T03:10:48 ;   ae115ca17 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-17T10:39:34 ;   197c06941 ; spencerfpope ; Clear link and gif caches to avoid pointing at missing files (#9898) ;
 2026-02-17T03:09:32 ;   e67d81f26 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-16T16:23:27 ;   7c08bba6c ; 260543580+ds-boyce ; Use Prompt.Action for delete account buttons (#9889) ;
