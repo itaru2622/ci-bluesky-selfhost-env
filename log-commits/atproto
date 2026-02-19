@@ -1,3 +1,7 @@
+2026-02-19T15:21:00 ;   a23d13268 ; matthieusieben ; OAuth client improvements (#4642) ;
+2026-02-19T13:52:24 ;   ea5df64db ; matthieusieben ; Various Lex SDK improvements (#4660) ;
+2026-02-19T13:17:54 ;   39dea03c4 ; matthieusieben ; Lex SDK fixes and improvements (#4654) ;
+2026-02-19T13:04:40 ;   cd9deb6f2 ; matthieusieben ; Fix conflicting identifier for generated type utilities (#4659) ;
 2026-02-18T17:43:38 ;   0e8d4bb62 ; matthieusieben ; Skip puppeteer download in build and verify steps (#4652) ;
 2026-02-18T13:05:59 ;   009c4afd3 ; matthieusieben ; Add test cases for `knownValues` strings (#4639) ;
 2026-02-17T19:59:29 ;   39cf199df ; rafaeleyng ; move feature gates to analytics folder (#4640) ;

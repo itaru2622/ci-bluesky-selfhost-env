@@ -1,3 +1,5 @@
+2026-02-18T19:12:19 ;   90fae328 ; jamesrcalabro ; Remove Querycheck (#1341) ;
+2026-02-18T19:08:09 ;   3ba93127 ; jamesrcalabro ; Remove Querycheck ;
 2026-02-13T17:24:05 ;   1286ca7a ; dtholmgren ; add arm64 to tap docker build (#1324) ; (tag: refs/tags/tap-v0.1.9)
 2026-02-13T17:22:29 ;   d98a4fc9 ; dtholmgren ; only build on tag ;
 2026-02-03T10:06:19 ;   13cfea42 ; axfelix ; pretty sure this can run on every push now ;

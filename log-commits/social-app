@@ -1,3 +1,4 @@
+2026-02-19T03:10:25 ;   1565e071c ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-18T19:03:23 ;   c906fea77 ; mozzius ; Fix webpack dev server freezing after repeated refreshes (#9865) ;
 2026-02-18T19:01:58 ;   775a041b7 ; mozzius ; Add chat data export to Export My Data dialog (#9900) ;
 2026-02-18T17:46:45 ;   98d17fd95 ; mozzius ; Fix native-only function being called on web (#9904) ;
