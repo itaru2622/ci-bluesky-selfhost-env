@@ -1,3 +1,8 @@
+2026-02-19T21:55:44 ;   bf41e2ee ; bnewbold ; :hocho: remove deprecated top-level 'did' and 'plc' packages (#1342) ;
+2026-02-18T19:47:56 ;   5b715eb7 ; bnewbold ; remove deprecated top-level 'did' and 'plc' packages ;
+2026-02-18T19:47:14 ;   73da25b9 ; bnewbold ; remove stale use of did and plc packages ;
+2026-02-18T19:44:02 ;   48a08495 ; bnewbold ; gosky: remove DID PLC generation; update cliutil usage ;
+2026-02-18T19:40:20 ;   cea8a616 ; bnewbold ; cliutil: rewrite private key JWK helpers ;
 2026-02-18T19:12:19 ;   90fae328 ; jamesrcalabro ; Remove Querycheck (#1341) ;
 2026-02-18T19:08:09 ;   3ba93127 ; jamesrcalabro ; Remove Querycheck ;
 2026-02-13T17:24:05 ;   1286ca7a ; dtholmgren ; add arm64 to tap docker build (#1324) ; (tag: refs/tags/tap-v0.1.9)
