@@ -1,3 +1,0 @@
-2026-02-20T08:33:56 ;   a57d1ed ; gcwill70 ; fix bug where applying some filter sets resulted in erroneously setting some fields to undefined (#448) ;
-2026-02-17T16:51:53 ;   0a0a355 ; foysal ; :bug: Use record type name instead of hardcoded 'post' text in email (#449) ;
-2026-02-16T09:39:33 ;   13c5946 ; gcwill70 ; High Profile Account Improvements (#446) ;
