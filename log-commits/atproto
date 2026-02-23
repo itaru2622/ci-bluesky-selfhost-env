@@ -1,0 +1,4 @@
+2026-02-23T10:31:09 ;   1b83d841c ; rafaeleyng ; Fix README typo ;
+2026-02-23T10:22:14 ;   d69c81e33 ; rafaeleyng ; Fix invalid handle showing verification (#4634) ;
+2026-02-23T09:37:01 ;   cb5f9bfc0 ; 41898282+github-actions[bot] ; Version packages (#4674) ; (tag: refs/tags/@atproto/tap@0.2.7, tag: refs/tags/@atproto/pds@0.4.212, tag: refs/tags/@atproto/ozone@0.1.164, tag: refs/tags/@atproto/oauth-provider@0.15.11, tag: refs/tags/@atproto/lex@0.0.19, tag: refs/tags/@atproto/lex-resolver@0.0.16, tag: refs/tags/@atproto/lex-password-session@0.0.7, tag: refs/tags/@atproto/lex-installer@0.0.19, tag: refs/tags/@atproto/lex-client@0.0.14, tag: refs/tags/@atproto/dev-env@0.3.211, tag: refs/tags/@atproto/bsky@0.0.217, tag: refs/tags/@atproto/api@0.19.0)
+2026-02-23T09:30:05 ;   450f08566 ; 49253492+LotharieSlayer ; docs: Updating app password based session example (#4631) ;
