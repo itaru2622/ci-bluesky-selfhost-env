@@ -1,3 +1,7 @@
+2026-02-26T15:00:12 ;   65c4b7833 ; mozzius ; Blur effect on home screen (iOS 26) (#9935) ;
+2026-02-26T05:06:30 ;   9b24d75c9 ; spencerfpope ; [APP-1876] Fix pull-to-refresh getting stuck on tab switch (#9951) ;
+2026-02-26T05:06:16 ;   398df1a4b ; spencerfpope ; ensure app session state refreshes on reactivation (#9954) ;
+2026-02-26T03:07:29 ;   db9c2a159 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-25T11:52:10 ;   00816b70d ; abenzer ; [APP-1859] pinned feed drag n drop (#9893) ;
 2026-02-25T19:43:46 ;   49272be36 ; mozzius ; Fix up polyfills, remove unused deps (#9946) ;
 2026-02-25T09:18:20 ;   85ffc7798 ; 149612116+surfdude29 ; Show hashtag symbol for Mute option in menu (#9942) ;
