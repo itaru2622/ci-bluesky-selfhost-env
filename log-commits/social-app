@@ -1,3 +1,6 @@
+2026-02-27T11:31:35 ;   576761a64 ; spencerfpope ; [APP-1819] fix progress guide flash and extra gap (#9960) ;
+2026-02-27T03:42:31 ;   8a1f8997f ; 260543580+ds-boyce ; Fix infinite loading spinner when changing search terms (#9950) ;
+2026-02-27T03:06:31 ;   6cb88ce1f ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-26T15:00:12 ;   65c4b7833 ; mozzius ; Blur effect on home screen (iOS 26) (#9935) ;
 2026-02-26T05:06:30 ;   9b24d75c9 ; spencerfpope ; [APP-1876] Fix pull-to-refresh getting stuck on tab switch (#9951) ;
 2026-02-26T05:06:16 ;   398df1a4b ; spencerfpope ; ensure app session state refreshes on reactivation (#9954) ;
