@@ -21,6 +21,3 @@
 2026-02-24T06:34:52 ;   73b096e44 ; mozzius ; iOS 26 (#9047) ;
 2026-02-24T03:09:35 ;   9b0f0a8d2 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-23T20:28:03 ;   9ec06971a ; mozzius ; Upgrade Lingui to v5 (#9905) ;
-2026-02-23T20:04:58 ;   75242b9b1 ; mozzius ; Bump version to v1.118.0 (#9931) ;
-2026-02-22T03:10:59 ;   21e53b226 ; 1270099+pfrazee ; Nightly source-language update ;
-2026-02-21T16:53:44 ;   02c2a9ea7 ; 149612116+surfdude29 ; Mark admonition text for translation in `CreateListFromStarterPackDialog` (#9922) ;
