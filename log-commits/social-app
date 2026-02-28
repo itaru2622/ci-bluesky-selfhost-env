@@ -1,3 +1,7 @@
+2026-02-28T02:56:49 ;   6cdc1fe2b ; 1270099+pfrazee ; Nightly source-language update ;
+2026-02-27T16:59:19 ;   9bbcb472e ; 260543580+ds-boyce ; Use on-device translation on mobile when available (#9930) ;
+2026-02-27T22:19:04 ;   7c9f05a2a ; mozzius ; ContextMenu - return item to the right location if keyboard hides (#9963) ;
+2026-02-27T21:59:24 ;   d4357b2cb ; mozzius ; Fix iOS sheet keyboard handling using native scrollview features (#9959) ;
 2026-02-27T11:31:35 ;   576761a64 ; spencerfpope ; [APP-1819] fix progress guide flash and extra gap (#9960) ;
 2026-02-27T03:42:31 ;   8a1f8997f ; 260543580+ds-boyce ; Fix infinite loading spinner when changing search terms (#9950) ;
 2026-02-27T03:06:31 ;   6cb88ce1f ; 1270099+pfrazee ; Nightly source-language update ;
