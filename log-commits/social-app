@@ -1,3 +1,4 @@
+2026-02-28T15:53:42 ;   8e2a5abff ; 260543580+ds-boyce ; Fix crash with translate link on web (#9972) ;
 2026-02-28T02:56:49 ;   6cdc1fe2b ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-27T16:59:19 ;   9bbcb472e ; 260543580+ds-boyce ; Use on-device translation on mobile when available (#9930) ;
 2026-02-27T22:19:04 ;   7c9f05a2a ; mozzius ; ContextMenu - return item to the right location if keyboard hides (#9963) ;
