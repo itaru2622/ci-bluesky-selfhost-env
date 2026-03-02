@@ -1,3 +1,9 @@
+2026-03-02T19:39:50 ;   d247a6568 ; mozzius ; Add `Trans` to string (#9981) ;
+2026-03-02T14:20:16 ;   a95b877ea ; spencerfpope ; [APP-1917] fix header measurement for android content disappearing on switch (#9964) ;
+2026-03-02T19:01:09 ;   f614bf650 ; mozzius ; Translation followups (#9980) ;
+2026-03-02T18:50:00 ;   5ee667f30 ; mozzius ; Force relayout to fix stuck header blur (#9979) ;
+2026-03-02T09:09:21 ;   9c29b2867 ; spencerfpope ; [APP-1882] fix email not updating in session state after email change (#9953) ;
+2026-03-02T14:14:07 ;   9746dd8e4 ; szijartoleventepal ; Make ALT labels translatable (#9976) ;
 2026-02-28T15:53:42 ;   8e2a5abff ; 260543580+ds-boyce ; Fix crash with translate link on web (#9972) ;
 2026-02-28T02:56:49 ;   6cdc1fe2b ; 1270099+pfrazee ; Nightly source-language update ;
 2026-02-27T16:59:19 ;   9bbcb472e ; 260543580+ds-boyce ; Use on-device translation on mobile when available (#9930) ;
