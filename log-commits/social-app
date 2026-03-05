@@ -1,0 +1,7 @@
+2026-03-05T14:11:57 ;   7a08b8281 ; git ; Fix deps (#10010) ;
+2026-03-05T20:07:34 ;   20bf2cd11 ; mozzius ; Prevent over-eager translate button (#10007) ;
+2026-03-05T10:53:25 ;   fe8e8ce7d ; 260543580+ds-boyce ; Add README.md for lib/translation (#10005) ;
+2026-03-05T12:31:55 ;   8b8acb7bd ; git ; Add docs on directory structures and naming conventions (#10002) ;
+2026-03-05T10:16:20 ;   1a487d094 ; 260543580+ds-boyce ; Remove duplicate punctuation (#10004) ;
+2026-03-05T15:22:13 ;   1ae77aa99 ; mozzius ; Fix `findNodeHandle` usage on web (#10001) ;
+2026-03-05T15:04:59 ;   7cec490ce ; mozzius ; Use a different icon for testflight builds (#10000) ;
