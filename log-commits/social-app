@@ -1,3 +1,13 @@
+2026-03-04T18:27:12 ;   7fd218c97 ; git ; Update API package to fix stale session issues (#9998) ;
+2026-03-04T12:38:24 ;   8446efb73 ; 260543580+ds-boyce ; Pass feed URI to sendInteractions endpoint (#9989) ;
+2026-03-04T03:05:02 ;   b84f28f88 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-03-03T12:49:38 ;   7dc3b4fa8 ; 260543580+ds-boyce ; Add search event analytics (#9949) ;
+2026-03-03T19:50:22 ;   37a82761f ; mozzius ; Cache profile view before opening AfterReportDialog (#9962) ;
+2026-03-03T19:35:09 ;   612a77836 ; mozzius ; Set mute word dialog text input return key type to "done" (#9967) ;
+2026-03-03T14:06:13 ;   162a78e1a ; mozzius ; Add 🪿 (#9983) ;
+2026-03-03T03:09:48 ;   c42502fdc ; 1270099+pfrazee ; Nightly source-language update ;
+2026-03-02T22:28:16 ;   8b1c47a49 ; mozzius ; bskyweb: use avatar thumbnail for post og:image fallback (#9923) ;
+2026-03-02T20:23:07 ;   c2fd87bd8 ; mozzius ; Remove JPG hardcoding from image processing systems (#9955) ;
 2026-03-02T19:39:50 ;   d247a6568 ; mozzius ; Add `Trans` to string (#9981) ;
 2026-03-02T14:20:16 ;   a95b877ea ; spencerfpope ; [APP-1917] fix header measurement for android content disappearing on switch (#9964) ;
 2026-03-02T19:01:09 ;   f614bf650 ; mozzius ; Translation followups (#9980) ;
