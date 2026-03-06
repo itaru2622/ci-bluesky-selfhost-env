@@ -1,3 +1,9 @@
+2026-03-06T17:45:49 ;   e2c54a858 ; mozzius ; Move `dev-env` to subdirectory (#10009) ;
+2026-03-06T11:43:14 ;   60a0edbbe ; git ; [APP-1960] Fix current session refresh bug (#10019) ;
+2026-03-06T03:06:49 ;   562bf3be2 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-03-05T15:01:29 ;   290e0f2b5 ; 260543580+ds-boyce ; Disable animations for translation events on Android (#10013) ;
+2026-03-05T12:52:39 ;   ece6dc251 ; 260543580+ds-boyce ; Link to profile via handle vs did (#10012) ;
+2026-03-05T14:43:18 ;   8c705864a ; git ; Prep 1.118.1 patch relase (#10011) ; (tag: refs/tags/1.118.1)
 2026-03-05T14:11:57 ;   7a08b8281 ; git ; Fix deps (#10010) ;
 2026-03-05T20:07:34 ;   20bf2cd11 ; mozzius ; Prevent over-eager translate button (#10007) ;
 2026-03-05T10:53:25 ;   fe8e8ce7d ; 260543580+ds-boyce ; Add README.md for lib/translation (#10005) ;
