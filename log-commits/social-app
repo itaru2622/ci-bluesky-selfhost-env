@@ -1,3 +1,7 @@
+2026-03-07T04:11:57 ;   18d7e775f ; devinivy ; ogcard: ensure we use jpeg images for satori compat (#10023) ;
+2026-03-07T02:59:25 ;   b8aae166d ; 1270099+pfrazee ; Nightly source-language update ;
+2026-03-06T13:36:58 ;   f8886fbfe ; 260543580+ds-boyce ; Refine presentation of translation results (#10015) ;
+2026-03-06T21:34:03 ;   041e34858 ; mozzius ; Bump version to 1.119.0 (#10020) ;
 2026-03-06T17:45:49 ;   e2c54a858 ; mozzius ; Move `dev-env` to subdirectory (#10009) ;
 2026-03-06T11:43:14 ;   60a0edbbe ; git ; [APP-1960] Fix current session refresh bug (#10019) ;
 2026-03-06T03:06:49 ;   562bf3be2 ; 1270099+pfrazee ; Nightly source-language update ;
