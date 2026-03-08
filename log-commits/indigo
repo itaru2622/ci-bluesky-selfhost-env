@@ -1,5 +1,2 @@
-2026-03-06T09:57:34 ;   0a022283 ; axfelix ; add link to go-didplc (for discoverability) (#1351) ;
-2026-03-05T19:03:18 ;   e0d2197b ; bnewbold ; README: add link to go-didplc (for discoverability) ;
-2026-03-05T08:12:47 ;   19e21a3c ; jamesrcalabro ; Fix Backfill HTTP Usage (#1350) ;
-2026-03-05T08:08:35 ;   9d9b40e0 ; jamesrcalabro ; rename ;
-2026-03-05T08:07:24 ;   f4ed50a1 ; jamesrcalabro ; Fix Backfill HTTP Usage ;
+2026-03-07T19:42:30 ;   c55a189a ; jamesrcalabro ; Fix nil pointer derefs in sonar (#1352) ;
+2026-03-08T00:34:11 ;   541b8f38 ; 1617325+jazware ; Fix nil pointer derefs in sonar ;
