@@ -1,3 +1,10 @@
+2026-03-11T11:07:37 ;   4f47add4 ; dtholmgren ; Tap: no firehose replay mode (#1355) ; (tag: refs/tags/tap-v0.1.10)
+2026-03-10T17:05:27 ;   4ec0737d ; dtholmgren ; small fix ;
+2026-03-10T17:02:23 ;   cd9fb88c ; dtholmgren ; swithc from limit to on/off ;
+2026-03-10T16:21:10 ;   6d2569a6 ; dtholmgren ; README notes ;
+2026-03-10T16:11:48 ;   b793fbef ; dtholmgren ; tests ;
+2026-03-10T16:06:28 ;   adb812c4 ; dtholmgren ; clean up ;
+2026-03-10T15:56:48 ;   08ac13ed ; dtholmgren ; first pass ;
 2026-03-09T10:41:33 ;   7e1240ec ; jamesrcalabro ; Add --skip-dids to Hepa (#1353) ;
 2026-03-09T10:38:00 ;   14c2c14f ; jamesrcalabro ; add comment back ;
 2026-03-09T10:34:04 ;   37090842 ; jamesrcalabro ; Add --skip-dids to Hepa ;

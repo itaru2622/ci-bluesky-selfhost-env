@@ -1,3 +1,9 @@
+2026-03-11T15:50:35 ;   0c7b2d535 ; 41552394+heikadog ; Update issue templates to take uploads, and fix typo (#10036) ;
+2026-03-11T11:30:33 ;   850e6e6f5 ; 260543580+ds-boyce ; Add new metrics for post menu interactions (#10022) ;
+2026-03-11T11:46:27 ;   0937f522a ; git ; Serve og:video tags on post URLs (#10039) ;
+2026-03-11T03:04:18 ;   f5994af62 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-03-10T23:39:02 ;   8b67a3ec2 ; mozzius ; First pass at fixing large type by adding `maxFontSizeMultiplier`  (#10037) ;
+2026-03-10T22:32:41 ;   6187e79b0 ; mozzius ; Update React Native Screens and React Navigation to latest (#9993) ;
 2026-03-10T14:28:49 ;   2bd981165 ; spencerfpope ; [APP-1928] add bot/automated account badge and self-labeling settings (#10008) ;
 2026-03-10T03:05:11 ;   8bdb1c30c ; 1270099+pfrazee ; Nightly source-language update ;
 2026-03-09T22:53:32 ;   aa897f55a ; mozzius ; The Great Unjanking of the Sheets (#9973) ;
