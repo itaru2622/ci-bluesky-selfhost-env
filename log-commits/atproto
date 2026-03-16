@@ -1,0 +1,2 @@
+2026-03-16T11:06:55 ;   67eb0c19a ; matthieu.sieben ; Improve efficiency of `AtUri` `did` getter and typing of `hostname` property ;
+2026-03-16T08:45:33 ;   112b159ec ; matthieu.sieben ; Export more string format type assertion utilities from `@atproto/lex` ;
