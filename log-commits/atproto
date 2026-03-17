@@ -1,2 +1,6 @@
+2026-03-17T14:23:51 ;   bc69b03f5 ; rafaeleyng ; improve checking for zero dates and test (#4762) ;
+2026-03-17T12:15:21 ;   ff42a3afc ; rafaeleyng ; Avoid Go zero dates (year 0001) in bsky views (#4753) ;
+2026-03-16T22:17:34 ;   266b5631d ; bnewbold ; add 'app.bsky.actor.getPreferences' to authViewAll (#4749) ;
+2026-03-16T16:46:20 ;   139b2941d ; devinivy ; bsky: remove feature gate for including format in image URLs (#4755) ;
 2026-03-16T11:06:55 ;   67eb0c19a ; matthieu.sieben ; Improve efficiency of `AtUri` `did` getter and typing of `hostname` property ;
 2026-03-16T08:45:33 ;   112b159ec ; matthieu.sieben ; Export more string format type assertion utilities from `@atproto/lex` ;

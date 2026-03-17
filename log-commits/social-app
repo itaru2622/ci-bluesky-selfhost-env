@@ -1,1 +1,7 @@
+2026-03-17T13:59:28 ;   45df50ec1 ; git ; Rename translation properties for clarity (#10061) ;
+2026-03-17T18:43:37 ;   b9a3256e5 ; 149612116+surfdude29 ; Don't strip query parameters on in-app navigation (#9948) ;
+2026-03-17T10:31:23 ;   1386a559b ; 260543580+ds-boyce ; Log languages a post is tagged with after translating (#10014) ;
+2026-03-17T17:04:27 ;   be0d00de1 ; 57507616+RetroSunstar ; Set displayName and description to undefined if no values are provided during a profile edit (#10016) ;
+2026-03-17T17:04:04 ;   dbba97f28 ; 57507616+RetroSunstar ; Use proper constants.ts exports for Edit Profile Dialog limits (#10054) ;
+2026-03-17T09:05:58 ;   5e8ef6aa9 ; mozzius ; Adjust VTT cue line to avoid occlusion by video controls (#10017) ;
 2026-03-16T18:18:23 ;   177bdcd2b ; 149612116+surfdude29 ; [bskylink] URL-encode apostrophes before HTML escaping (#9559) ;
