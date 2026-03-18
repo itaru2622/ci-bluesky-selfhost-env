@@ -1,3 +1,5 @@
+2026-03-18T08:50:48 ;   530afe87c ; mozzius ; web: LRU screen cache to bound memory in long sessions (#10063) ;
+2026-03-17T16:16:01 ;   317ce2b3d ; git ; Prep 1.119.0 (#10062) ; (tag: refs/tags/1.119.0)
 2026-03-17T13:59:28 ;   45df50ec1 ; git ; Rename translation properties for clarity (#10061) ;
 2026-03-17T18:43:37 ;   b9a3256e5 ; 149612116+surfdude29 ; Don't strip query parameters on in-app navigation (#9948) ;
 2026-03-17T10:31:23 ;   1386a559b ; 260543580+ds-boyce ; Log languages a post is tagged with after translating (#10014) ;
