@@ -1,0 +1,15 @@
+2026-03-18T14:24:31 ;   cbaa83ae ; jeromyj ; per PDS backfill ratelimiting (#1322) ;
+2026-03-18T09:00:50 ;   a9149d31 ; jeromyj ; Merge branch 'main' into feat/rate-limit-backfill ;
+2026-03-05T16:57:31 ;   2995e5b2 ; jeromyj ; shuffle backfill task queue periodically to ensure even work distribution ;
+2026-03-04T18:22:14 ;   55f72ea0 ; jeromyj ; reuse http transport for backfiller connections ;
+2026-03-04T17:00:17 ;   64387e8c ; jeromyj ; randomize order of repos loaded for backfill queue to improve round robining ;
+2026-03-04T16:17:54 ;   67684bd7 ; jeromyj ; better logging and metrics ;
+2026-03-04T15:14:54 ;   ed02fc8c ; jeromyj ; metrics, batch size adjustments ;
+2026-03-04T14:59:52 ;   2a2ba1ed ; jeromyj ; rework limiter ordering ;
+2026-03-04T10:48:36 ;   fc66af6f ; jeromyj ; allow full rate limit burst ;
+2026-03-03T20:10:18 ;   22f85b66 ; jeromyj ; turn those back on ;
+2026-03-03T12:17:16 ;   a95e58a6 ; jeromyj ; wire through repo did for logs ;
+2026-03-03T10:48:57 ;   543d2085 ; jeromyj ; redo some timeouts, maybe dont use http2 ;
+2026-03-03T10:13:26 ;   19c31cbc ; jeromyj ; add some metrics for rate limiters ;
+2026-02-28T18:43:45 ;   1abbffe7 ; jeromyj ; address PR feedback ;
+2026-01-31T18:50:32 ;   a07504b1 ; jeromyj ; per PDS backfill ratelimiting ;
