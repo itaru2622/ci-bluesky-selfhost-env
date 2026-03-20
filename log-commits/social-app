@@ -1,3 +1,12 @@
+2026-03-20T12:04:12 ;   cc4a436e4 ; git ; Bump version to 1.119.1 (#10088) ; (tag: refs/tags/1.119.1)
+2026-03-20T11:52:46 ;   0532e120b ; git ; Prep 1.119.1 (#10087) ;
+2026-03-20T09:41:39 ;   288fad67f ; mozzius ; Fix bottom sheet crash on API <30 (#10084) ;
+2026-03-20T09:39:51 ;   0e1e790c3 ; 260543580+ds-boyce ; Include recId with log event for suggested profiles (#10075) ;
+2026-03-20T11:38:52 ;   74d8ca8fa ; git ; Increase parent batch size to reduce onStartReached calls (#10086) ;
+2026-03-20T11:22:36 ;   34d8c6fe5 ; git ; [APP-1968] Increase image upload resolution (#10073) ;
+2026-03-20T09:21:16 ;   5bcb90908 ; mozzius ; Remove hardcoded yellows (#10083) ;
+2026-03-20T09:20:27 ;   e28f6d2f3 ; mozzius ; Add bookmarks to thread placeholder candidates (#10080) ;
+2026-03-19T15:50:25 ;   3e7d7ce5f ; 260543580+ds-boyce ; Fix issue with site loading on older versions of Safari (#10077) ;
 2026-03-19T06:18:48 ;   876e20166 ; 260543580+ds-boyce ; Ensure mute state stays in sync after mutation (#10067) ;
 2026-03-19T03:12:12 ;   2a87f6f6b ; 1270099+pfrazee ; Nightly source-language update ;
 2026-03-18T18:29:22 ;   bfd2d2019 ; git ; Add back starter packs button in ProfileMenu (#10069) ;
