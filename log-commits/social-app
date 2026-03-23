@@ -1,0 +1,5 @@
+2026-03-23T13:05:43 ;   7fd6f8f04 ; mozzius ; Update version to v1.120.0 (#10110) ;
+2026-03-23T09:56:35 ;   21d8b07bf ; 260543580+ds-boyce ; Use isTranslationSupported from expo-translate-text (#10108) ;
+2026-03-23T09:19:57 ;   f08bf5fef ; mozzius ; Fix report dialog flashing error state on open (#10099) ;
+2026-03-23T09:19:33 ;   3e7e859c9 ; mozzius ; [Web] Fix Wordle score rendering  - prevent Inter from overriding emoji presentation (#10104) ;
+2026-03-23T09:17:49 ;   854ae60e7 ; mozzius ; [Web] Fix clipped text when using `numberOfLines={1}` (#10105) ;
