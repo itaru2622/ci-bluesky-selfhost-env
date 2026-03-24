@@ -1,3 +1,13 @@
+2026-03-24T15:56:18 ;   c224e1fae ; matthieusieben ; add missing paramsParseLoose (#4803) ;
+2026-03-24T15:49:37 ;   6116d56d3 ; matthieusieben ; Allow `[]` query params syntax with `app.bsky.feed.getPostThread` end… (#4802) ;
+2026-03-24T13:38:11 ;   ac6bd18f1 ; matthieusieben ; Disable strict mode parsing of records (#4796) ;
+2026-03-24T13:36:57 ;   c5c6c7dac ; matthieusieben ; Allow any encoding to match payload with no encoding specified in schema (#4799) ;
+2026-03-24T13:30:48 ;   fac213dfd ; matthieusieben ; Fix error stating that the lex build folder could not be cleared (#4800) ;
+2026-03-24T13:01:49 ;   1479c87c6 ; matthieusieben ; Allow use of `foo[]=bar` syntax in query params (#4793) ;
+2026-03-24T13:00:35 ;   960a02b8d ; matthieusieben ; Skip read-after-write for invalid records (#4798) ;
+2026-03-24T11:50:30 ;   36e301971 ; matthieusieben ; Disable AppView response validation (#4797) ;
+2026-03-24T11:33:39 ;   a99dd58b5 ; matthieusieben ; Allow payload from XRPC endpoints with no `output` in their schema (#4788) ;
+2026-03-24T11:33:06 ;   0dbea15da ; matthieusieben ; Make AT-uri validation faster (#4792) ;
 2026-03-23T13:09:50 ;   3aa18f84e ; git ; Add some missing codegen files (#4791) ;
 2026-03-23T12:41:21 ;   ae22362c5 ; git ; Add A/A test to thread endpoint (#4790) ;
 2026-03-23T12:10:21 ;   37b2f492b ; git ; Ensure scoped checkGates merges outer user context (#4780) ;
