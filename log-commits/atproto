@@ -1,3 +1,4 @@
+2026-03-25T21:07:03 ;   4f11fc341 ; matthieusieben ; Add support for indexed query params syntax (#4804) ;
 2026-03-24T15:56:18 ;   c224e1fae ; matthieusieben ; add missing paramsParseLoose (#4803) ;
 2026-03-24T15:49:37 ;   6116d56d3 ; matthieusieben ; Allow `[]` query params syntax with `app.bsky.feed.getPostThread` end… (#4802) ;
 2026-03-24T13:38:11 ;   ac6bd18f1 ; matthieusieben ; Disable strict mode parsing of records (#4796) ;

@@ -1,3 +1,7 @@
+2026-03-25T12:59:04 ;   2c828b575 ; 260543580+ds-boyce ; Fix text overflow in post meta on web (#10122) ;
+2026-03-25T12:44:36 ;   c06312f09 ; mozzius ; PostThread perf: reduce time wasted on rendering skeletons (#10092) ;
+2026-03-25T00:50:26 ;   cc5580848 ; mozzius ; Upgrade TypeScript to 6.0 (#10113) ;
+2026-03-24T13:31:19 ;   fa84c451d ; mozzius ; Fix draft restore to calculate shortened grapheme length for links (#10103) ;
 2026-03-24T20:59:01 ;   894e2b89d ; 85541429+pFornagiel ; fix: too many re-renders when toggling experimental feed sampling option (#10114) ;
 2026-03-24T14:34:51 ;   3e37696d8 ; git ; Add resolution downsizing to image compression (#10117) ;
 2026-03-24T10:10:35 ;   6a15ca88b ; git ; Update redirect service (#10116) ;
