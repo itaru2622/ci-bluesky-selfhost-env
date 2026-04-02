@@ -1,3 +1,11 @@
+2026-04-02T11:51:54 ;   9fe808f8a ; mozzius ; Fix bottom bar badge text padding (#10162) ;
+2026-04-02T11:51:38 ;   b9f3d04d6 ; mozzius ; Scale profile badge icons with font size (#10161) ;
+2026-04-02T08:34:12 ;   68a4d73d6 ; mozzius ; Add `no-extraneous-dependencies` and `no-nodejs-modules` eslint rules (#10151) ;
+2026-04-02T06:39:40 ;   eb566c5fc ; mozzius ; Fix `useResolveUriQuery` (#10163) ;
+2026-04-02T03:13:26 ;   512e550c2 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-04-01T15:39:26 ;   500fc1c93 ; mozzius ; Update React Query to latest (#10126) ;
+2026-04-02T02:55:16 ;   b196ddef7 ; arunabhverma01 ; Replace react-native-paste-input with expo-paste-input (#10158) ;
+2026-04-01T13:39:05 ;   5a2135733 ; 260543580+ds-boyce ; Handle more translation errors (#10160) ;
 2026-04-01T11:07:02 ;   69164c640 ; mozzius ; Keep screen awake when videos are playing (#10155) ;
 2026-04-01T11:00:11 ;   f30acadc7 ; mozzius ; Hide alt text note after alt text is added (#10132) ;
 2026-04-01T09:12:11 ;   9b20023c8 ; 260543580+ds-boyce ; Fix Safari layout shift issue with SubtleHover (#10135) ;
