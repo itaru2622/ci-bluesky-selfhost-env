@@ -1,3 +1,6 @@
+2026-04-03T11:31:55 ;   be56066ee ; mozzius ; Fix OOM crash - disable tanstack extension integration (#10169) ;
+2026-04-03T10:06:51 ;   cca3326b2 ; 260543580+ds-boyce ; Create global keyboard shortcut handler (#10145) ;
+2026-04-02T15:47:56 ;   e0ea778e5 ; 260543580+ds-boyce ; Warn when useState get/set names mismatch (#10166) ;
 2026-04-02T11:51:54 ;   9fe808f8a ; mozzius ; Fix bottom bar badge text padding (#10162) ;
 2026-04-02T11:51:38 ;   b9f3d04d6 ; mozzius ; Scale profile badge icons with font size (#10161) ;
 2026-04-02T08:34:12 ;   68a4d73d6 ; mozzius ; Add `no-extraneous-dependencies` and `no-nodejs-modules` eslint rules (#10151) ;
