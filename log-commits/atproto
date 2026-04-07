@@ -1,0 +1,5 @@
+2026-04-07T20:11:46 ;   c62651dd6 ; matthieusieben ; Fix support for legacy blobs in lex SDK (#4828) ;
+2026-04-07T12:01:29 ;   284e6fbca ; matthieusieben ; Revert #4824 (#4834) ;
+2026-04-07T03:24:51 ;   9def38a5f ; git ; Fix legacy profile validation by using safeParse instead of ifMatches validation (#4824) ;
+2026-04-06T19:27:01 ;   158daf65f ; 41898282+github-actions[bot] ; Version packages (#4831) ; (tag: refs/tags/@atproto/dev-env@0.4.2, tag: refs/tags/@atproto/bsky@0.0.224)
+2026-04-06T18:56:30 ;   42232c7f3 ; git ; Register new suggested user endpoints with the router (#4830) ;

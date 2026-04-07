@@ -1,2 +1,12 @@
+2026-04-07T13:10:23 ;   a049a6538 ; 260543580+ds-boyce ; Use new endpoints for suggested users (#10185) ;
+2026-04-07T11:55:03 ;   3c21fee6c ; 260543580+ds-boyce ; Don't call getProfiles if there are no actors (#10196) ;
+2026-04-07T11:43:58 ;   e74b57ab7 ; 260543580+ds-boyce ; Update browserslist (#10195) ;
+2026-04-07T09:48:11 ;   a169bd862 ; mozzius ; Fix layout shift when liking a post on Android (#10190) ;
+2026-04-07T10:58:47 ;   8bd6d9d13 ; git ; Revert PostThread parent chunk size for native (#10193) ;
+2026-04-07T03:13:28 ;   5868804d3 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-04-06T18:50:28 ;   bdce8e8ec ; git ; Bump expo-paste-input (#10187) ;
+2026-04-06T18:45:40 ;   99257f281 ; git ; Add some more clarity to the RQ docs (#10120) ;
+2026-04-06T18:34:01 ;   011d8d2f7 ; spencerfpope ; [APP-2038] fix feeds not refreshing (#10167) ;
+2026-04-06T17:46:31 ;   c0d3010f3 ; spencerfpope ; [APP-1999] Fix ReportDialog Android hang by narrowing dependency arrays (#10171) ;
 2026-04-06T07:48:45 ;   3685439ff ; mozzius ; Minor hotkeys nit (#10184) ;
 2026-04-06T14:50:14 ;   165dd5a77 ; 57507616+RetroSunstar ; Fixes Hotkeys causing native to crash immediately on start (#10180) ;
