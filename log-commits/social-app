@@ -1,3 +1,11 @@
+2026-04-08T13:58:16 ;   e4b4e48ac ; git ; Prep 1.120.0 release (#10207) ; (tag: refs/tags/1.120.0)
+2026-04-08T19:50:12 ;   925ae29b5 ; 57507616+RetroSunstar ; Bump expo-paste-input to ^0.1.15 (#10203) ;
+2026-04-07T21:37:05 ;   f6b8854a9 ; git ; Bump xcode in workflows (#10201) ;
+2026-04-07T21:06:19 ;   3d0fbc503 ; git ; Prep 1.120.0 release (#10200) ;
+2026-04-07T20:37:50 ;   0a5ae1773 ; git ; New rich text composer + autocomplete (#10159) ;
+2026-04-07T14:13:24 ;   02b849996 ; mozzius ; Double the framerate (#8446) ;
+2026-04-07T13:25:22 ;   f231b67b7 ; mozzius ; Tweak missing feed copy (#10133) ;
+2026-04-07T13:21:03 ;   d2519a4f6 ; mozzius ; RM unneeded config plugin, update primary color (#10153) ;
 2026-04-07T13:10:23 ;   a049a6538 ; 260543580+ds-boyce ; Use new endpoints for suggested users (#10185) ;
 2026-04-07T11:55:03 ;   3c21fee6c ; 260543580+ds-boyce ; Don't call getProfiles if there are no actors (#10196) ;
 2026-04-07T11:43:58 ;   e74b57ab7 ; 260543580+ds-boyce ; Update browserslist (#10195) ;
