@@ -1,3 +1,11 @@
+2026-04-09T12:34:27 ;   d01362a01 ; mozzius ; Bump version to v1.121.0 (#10215) ;
+2026-04-09T12:07:09 ;   3ff40e960 ; 260543580+ds-boyce ; Update / hotkey to support all keyboard layouts (#10212) ;
+2026-04-09T14:06:25 ;   cfeac097e ; git ; [APP-2044] Gate image blob size increase (#10178) ;
+2026-04-09T13:47:29 ;   c42940b0a ; git ; DM composer fixes (#10213) ;
+2026-04-09T06:12:20 ;   a0d4af5c5 ; mozzius ; Add font smoothing stuff to embed (#10204) ;
+2026-04-09T06:12:06 ;   5ad3597fd ; mozzius ; Add simple video player to embed (#10205) ;
+2026-04-09T03:13:30 ;   987a65690 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-04-08T15:54:43 ;   d0d00ba9f ; 260543580+ds-boyce ; Address lint warnings (#10188) ;
 2026-04-08T13:58:16 ;   e4b4e48ac ; git ; Prep 1.120.0 release (#10207) ; (tag: refs/tags/1.120.0)
 2026-04-08T19:50:12 ;   925ae29b5 ; 57507616+RetroSunstar ; Bump expo-paste-input to ^0.1.15 (#10203) ;
 2026-04-07T21:37:05 ;   f6b8854a9 ; git ; Bump xcode in workflows (#10201) ;
