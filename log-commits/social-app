@@ -1,0 +1,2 @@
+2026-04-12T11:14:21 ;   5d0b90071 ; mozzius ; Fix server state query returning undefined (#10232) ;
+2026-04-12T04:48:58 ;   9b31bb847 ; spencerfpope ; handle single-line text truncation (#10227) ;
