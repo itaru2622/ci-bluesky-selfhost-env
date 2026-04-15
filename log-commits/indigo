@@ -1,4 +1,8 @@
+2026-04-15T10:36:38 ;   b5f5bed0 ; bnewbold ; automod: limit blob processing concurrency per record (#1367) ;
+2026-04-14T18:30:29 ;   8c7953d1 ; bnewbold ; lex/util: fix dropped test error (#1370) ;
+2026-04-14T00:03:11 ;   02d9d99c ; lars.lehtonen ; lex/util: fix dropped test error ;
 2026-04-13T20:13:49 ;   1b509cbd ; bnewbold ; auth: iterate on purge codepath error handling (#1369) ;
 2026-04-13T19:38:44 ;   bdc1f5f0 ; bnewbold ; auth: iterate on purge codepath error handling ;
 2026-04-13T19:34:53 ;   28c8f83c ; bnewbold ; atproto/auth: fix dropped errors (#1339) ;
+2026-04-13T12:26:38 ;   2df9e53a ; bnewbold ; automod: limit blob processing concurrency per record ;
 2026-02-17T16:45:10 ;   da563508 ; lars.lehtonen ; atproto/auth: pick up dropped errors ;
