@@ -1,3 +1,18 @@
+2026-04-16T13:06:09 ;   524cbc514 ; 260543580+ds-boyce ; Don't toggle the date divider when tapping a reaction (#10274) ;
+2026-04-16T12:24:11 ;   3358e1947 ; mozzius ; Lazily measure lightbox thumbnails (#10270) ;
+2026-04-16T11:55:19 ;   6e3c9c3a9 ; 260543580+ds-boyce ; Add flow for adding people to a group clip clop (#10255) ;
+2026-04-16T11:16:43 ;   ac68cfe98 ; 260543580+ds-boyce ; Remove own reaction from reactions dialog on tap (#10231) ;
+2026-04-16T10:57:48 ;   36c95d7dc ; 260543580+ds-boyce ; Remove console log (#10273) ;
+2026-04-16T10:48:30 ;   9f3c21e29 ; 260543580+ds-boyce ; Add header to group clip clops (#10254) ;
+2026-04-16T10:17:01 ;   e10c05d73 ; 260543580+ds-boyce ; Reveal chat timestamp on tap (#10262) ;
+2026-04-16T10:15:59 ;   a9e170b6d ; 260543580+ds-boyce ; Integrate more group chat settings (#10253) ;
+2026-04-16T09:55:30 ;   f51602b3f ; mozzius ; Support group chats across other surfaces (#10266) ;
+2026-04-16T11:37:03 ;   cc8f22887 ; git ; [APP-2031] DM composer fast-follows (#10269) ;
+2026-04-16T08:31:38 ;   cc861093c ; mozzius ; Make padding equal in the bottom bar (#10265) ;
+2026-04-16T10:06:47 ;   8c5899fc9 ; git ; Add warning log to gates init (#10268) ;
+2026-04-16T03:15:06 ;   6d8b4a207 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-04-15T20:43:01 ;   5fb3af71c ; git ; Add gate debug code (#10264) ;
+2026-04-15T18:53:01 ;   e80454680 ; spencerfpope ; [APP-1934] replace image grid layout with carousel (#10157) ;
 2026-04-15T12:15:45 ;   d3f509381 ; mozzius ; Groupchats feature branch (#10181) ;
 2026-04-15T11:00:34 ;   75c9e2c18 ; 260543580+ds-boyce ; Upgrade eslint-plugin-simple-import-sort to latest (#10260) ;
 2026-04-15T10:11:09 ;   b9561f78e ; 260543580+ds-boyce ; Enforce using named imports from 'react' (#10259) ;
