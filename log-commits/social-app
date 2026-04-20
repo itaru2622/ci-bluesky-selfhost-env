@@ -1,2 +1,10 @@
+2026-04-20T11:34:25 ;   014ffac90 ; mozzius ; Delete "non-standard" styles from `pal` (#10279) ;
+2026-04-20T11:09:35 ;   ae0c2e869 ; mozzius ; [Web] Scale animation when clicking on images (#10305) ;
+2026-04-20T09:33:38 ;   b8cabfaae ; mozzius ; Skip empty posts when publishing threads (#10307) ;
+2026-04-20T10:21:25 ;   444c5787c ; spencerfpope ; [APP-2037] add bsky video (#10281) ;
+2026-04-20T15:06:18 ;   2798e98c9 ; 149612116+surfdude29 ; Add context for translators and tweak strings (#10280) ;
+2026-04-20T06:54:25 ;   9778a3da1 ; mozzius ; Remove decelerationRate from embed gallery FlatList (#10298) ;
+2026-04-20T06:53:04 ;   52b8201d2 ; mozzius ; Add READMEs to modules (#10306) ;
+2026-04-20T15:15:05 ;   dddc02274 ; wamwoowam ; nit: fix perf regression in hotkeys (#10302) ;
 2026-04-19T03:14:38 ;   5df51bdea ; 1270099+pfrazee ; Nightly source-language update ;
 2026-04-18T12:58:16 ;   bc3672cee ; mozzius ; [Chat] Remove convoState dependency from header (#10293) ;
