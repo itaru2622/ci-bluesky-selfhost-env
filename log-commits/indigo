@@ -1,0 +1,4 @@
+2026-04-22T15:21:21 ;   9bad73ca ; 4732915+cuducos ; Adds custom logger to `backfill` (#1375) ;
+2026-04-22T15:11:20 ;   61bf5b63 ; 4732915+cuducos ; Assures we have a logger ;
+2026-04-22T15:07:48 ;   7a0628ea ; 4732915+cuducos ; Uses custom logger on `Stop` too ;
+2026-04-21T16:57:38 ;   62c53950 ; 4732915+cuducos ; Adds custom logger to `backfill` ;
