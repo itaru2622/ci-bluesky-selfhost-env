@@ -1,3 +1,4 @@
+2026-04-23T17:58:22 ;   5d3e248c2 ; matthieusieben ; Fix `/.well-known/change-password` page (#4880) ;
 2026-04-22T17:55:30 ;   646720891 ; ThisIsMissEm ; Add documentation for requestLock throwing errors (#4879) ;
 2026-04-22T10:19:29 ;   17c394d9b ; 41898282+github-actions[bot] ; Version packages (#4878) ; (tag: refs/tags/@atproto/api@0.19.11)
 2026-04-22T10:14:29 ;   03445eef4 ; rafaeleyng ; update group chat lexicons (#4876) ;
