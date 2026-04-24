@@ -1,3 +1,9 @@
+2026-04-24T22:45:22 ;   7eec65ac7 ; mozzius ; [Chat] Temporarily turn off gate (#10368) ;
+2026-04-24T13:38:50 ;   cdb8d4bfb ; git ; Group Clops Feature Branch (#10360) ;
+2026-04-24T16:48:57 ;   e83279136 ; mozzius ; [Chat] Improve gate (#10359) ;
+2026-04-24T13:50:08 ;   deb3f26d3 ; mozzius ; Fix send button disabled when sharing post via DM without text (#10355) ;
+2026-04-24T03:15:36 ;   a90bb66d6 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-04-23T17:02:17 ;   9762a6eef ; git ; See if we can harden the build extraction steps (#10348) ;
 2026-04-23T20:42:05 ;   7b490d8bc ; mozzius ; Only lock viewport zoom while text inputs are focused (#10340) ;
 2026-04-23T09:30:50 ;   6fc31eeb4 ; 260543580+ds-boyce ; Clean up minor issues in MessgeItem (#10338) ;
 2026-04-23T03:15:31 ;   bf371d7ec ; 1270099+pfrazee ; Nightly source-language update ;
