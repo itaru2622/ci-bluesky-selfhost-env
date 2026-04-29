@@ -1,0 +1,2 @@
+2026-04-29T15:23:54 ;   5af5deff5 ; 41898282+github-actions[bot] ; Version packages (#4881) ; (tag: refs/tags/@atproto/pds@0.4.221, tag: refs/tags/@atproto/oauth-provider@0.16.3, tag: refs/tags/@atproto/oauth-provider-ui@0.5.2, tag: refs/tags/@atproto/oauth-client@0.6.1, tag: refs/tags/@atproto/oauth-client-browser@0.3.42)
+2026-04-29T15:19:25 ;   087515e6a ; matthieusieben ; Improve oauth client sign-in options (#4896) ;
