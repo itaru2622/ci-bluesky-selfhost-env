@@ -1,0 +1,2 @@
+2026-05-04T18:24:25 ;   dc9b9a887 ; mozzius ; [Chat] Reenable the gc gate (#10406) ;
+2026-05-04T14:39:26 ;   2c5d7f20b ; ave ; Remove unnecessary 90ms latency from tap events on android (#10392) ;
