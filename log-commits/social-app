@@ -1,2 +1,15 @@
+2026-05-05T14:34:55 ;   9bf06a80a ; git ; Add push noty script and docs (#10380) ;
+2026-05-05T11:51:42 ;   6f4ae14f3 ; 260543580+ds-boyce ; Update to Node.js v24 (#10419) ;
+2026-05-05T13:28:06 ;   cc5b21586 ; git ; Bump mod SDK and add more details to mod info dialog (#10420) ;
+2026-05-05T09:51:40 ;   a24d30ab4 ; 260543580+ds-boyce ; Add ability to follow from chat settings (#10415) ;
+2026-05-05T17:29:52 ;   c21138ba6 ; 260543580+ds-boyce ; Differentiate reactions that include the viewer (#10416) ;
+2026-05-05T12:25:29 ;   a7fabd9e0 ; spencerfpope ; Refresh lightbox designs (#10330) ;
+2026-05-05T11:06:18 ;   48ea9e0b9 ; spencerfpope ; [APP-2067] Rebuild GIF Dialog (#10261) ;
+2026-05-05T03:17:16 ;   3a997031e ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-04T23:44:27 ;   482fb77e3 ; 260543580+ds-boyce ; Re-enable group invite link management (#10407) ;
+2026-05-04T22:44:31 ;   e34080c4a ; 260543580+ds-boyce ; Fix some minor issues with the invite link dialog (#10408) ;
+2026-05-04T22:44:08 ;   923d06229 ; 260543580+ds-boyce ; Don't sqaure corners around emoji-only messages (#10411) ;
+2026-05-04T16:10:41 ;   098ffcad3 ; git ; Bump tapper/sift (#10412) ;
+2026-05-04T22:05:15 ;   1b3b8e493 ; mozzius ; [Chat] Defer message send until after textinput resizes (#10405) ;
 2026-05-04T18:24:25 ;   dc9b9a887 ; mozzius ; [Chat] Reenable the gc gate (#10406) ;
 2026-05-04T14:39:26 ;   2c5d7f20b ; ave ; Remove unnecessary 90ms latency from tap events on android (#10392) ;
