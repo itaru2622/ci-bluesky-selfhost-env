@@ -1,3 +1,12 @@
+2026-05-06T10:42:54 ;   c91eae372 ; 260543580+ds-boyce ; Show message when chat is locked or ended (#10413) ;
+2026-05-06T10:06:42 ;   945d8b229 ; 260543580+ds-boyce ; Reduce intensity of drop shadow on chat reactions (#10414) ;
+2026-05-06T17:39:11 ;   7c22abcb6 ; mozzius ; [Chat] Add emoji prop to message displayname (#10431) ;
+2026-05-06T09:36:57 ;   26ca0a671 ; 260543580+ds-boyce ; Improve localization and accessibility for the reactions dialog (#10409) ;
+2026-05-06T09:35:48 ;   276143c92 ; 260543580+ds-boyce ; Display chat message underneath embed, not above (#10423) ;
+2026-05-06T14:40:22 ;   0b6ae1cc2 ; mozzius ; Fix picking offloaded videos for IOS 26 (#10428) ;
+2026-05-06T14:11:07 ;   a7ed3ee3c ; mozzius ; [Chat] Fix assumption that every chat has an owner (#10373) ;
+2026-05-06T03:17:44 ;   2aa544fad ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-05T17:21:42 ;   8e06c9fbb ; git ; Add ability for users to send error reports (#10427) ;
 2026-05-05T14:34:55 ;   9bf06a80a ; git ; Add push noty script and docs (#10380) ;
 2026-05-05T11:51:42 ;   6f4ae14f3 ; 260543580+ds-boyce ; Update to Node.js v24 (#10419) ;
 2026-05-05T13:28:06 ;   cc5b21586 ; git ; Bump mod SDK and add more details to mod info dialog (#10420) ;
