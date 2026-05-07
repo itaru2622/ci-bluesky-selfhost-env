@@ -1,3 +1,9 @@
+2026-05-07T13:24:55 ;   9a2cabf64 ; 260543580+ds-boyce ; Update context menu presentation (#10426) ;
+2026-05-07T12:00:42 ;   10cb0dbf2 ; 260543580+ds-boyce ; Improve initial loading state for chat settings (#10424) ;
+2026-05-07T12:00:21 ;   eddbf6ba9 ; 260543580+ds-boyce ; Update presentation of settings menus (#10425) ;
+2026-05-07T10:07:08 ;   2907ff0cd ; 260543580+ds-boyce ; Fix issue where last `RecentProfileItem` can't be removed (#10441) ;
+2026-05-07T03:18:24 ;   1aeda2497 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-06T18:16:06 ;   445aef8fe ; spencerfpope ; update locale in klipy api (#10432) ;
 2026-05-06T10:42:54 ;   c91eae372 ; 260543580+ds-boyce ; Show message when chat is locked or ended (#10413) ;
 2026-05-06T10:06:42 ;   945d8b229 ; 260543580+ds-boyce ; Reduce intensity of drop shadow on chat reactions (#10414) ;
 2026-05-06T17:39:11 ;   7c22abcb6 ; mozzius ; [Chat] Add emoji prop to message displayname (#10431) ;
