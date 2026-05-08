@@ -1,3 +1,11 @@
+2026-05-08T15:34:07 ;   8b9361016 ; spencerfpope ; [APP-2146] Update GIF content filtering and [APP-2152] harden web GIFs (#10443) ;
+2026-05-08T12:05:05 ;   a889a1b08 ; 260543580+ds-boyce ; Update presentation of chat requests (#10417) ;
+2026-05-08T11:53:02 ;   c8e481583 ; 260543580+ds-boyce ; Update chat requests header (#10446) ;
+2026-05-08T10:54:08 ;   5640aed7e ; 260543580+ds-boyce ; Preserve memoization of message list (#10434) ;
+2026-05-08T18:37:07 ;   92fdb6630 ; mozzius ; Align composer video preview with in-feed embed (#10447) ;
+2026-05-08T18:29:56 ;   92199774d ; mozzius ; [Chat] Set the default listConvos limit to 10 (#10448) ;
+2026-05-08T03:15:18 ;   e4f35fae0 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-07T19:08:29 ;   fa8c2224b ; git ; Add `associatedRecord` to external embeds, if available (#10445) ;
 2026-05-07T13:24:55 ;   9a2cabf64 ; 260543580+ds-boyce ; Update context menu presentation (#10426) ;
 2026-05-07T12:00:42 ;   10cb0dbf2 ; 260543580+ds-boyce ; Improve initial loading state for chat settings (#10424) ;
 2026-05-07T12:00:21 ;   eddbf6ba9 ; 260543580+ds-boyce ; Update presentation of settings menus (#10425) ;
