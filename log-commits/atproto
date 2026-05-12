@@ -1,3 +1,9 @@
+2026-05-12T16:06:34 ;   5d9f96c93 ; 41898282+github-actions[bot] ; Version packages (#4934) ;
+2026-05-12T15:59:39 ;   0533a5f60 ; rafaeleyng ; trigger actions (#4933) ;
+2026-05-12T15:28:00 ;   18d311494 ; rafaeleyng ; update chat lexicons (#4932) ;
+2026-05-11T14:15:00 ;   7b8c5d60a ; 260543580+ds-boyce ; Add devEngines config for node and pnpm (#4905) ;
+2026-05-11T14:13:27 ;   15b5a8f77 ; essentialrandomn3ss ; Remove path prefix for XRPC router in README and nodejs files (#4891) ;
+2026-05-11T13:43:15 ;   2440d55dd ; 41898282+github-actions[bot] ; Version packages (#4920) ; (tag: refs/tags/@atproto/xrpc-server@0.10.21, tag: refs/tags/@atproto/tap@0.2.14, tag: refs/tags/@atproto/sync@0.2.3, tag: refs/tags/@atproto/pds@0.4.222, tag: refs/tags/@atproto/oauth-provider@0.16.4, tag: refs/tags/@atproto/lexicon-resolver@0.3.6, tag: refs/tags/@atproto/lex@0.0.26, tag: refs/tags/@atproto/lex-server@0.0.18, tag: refs/tags/@atproto/lex-schema@0.0.20, tag: refs/tags/@atproto/lex-resolver@0.0.23, tag: refs/tags/@atproto/lex-password-session@0.0.14, tag: refs/tags/@atproto/lex-installer@0.0.26, tag: refs/tags/@atproto/lex-document@0.0.21, tag: refs/tags/@atproto/lex-client@0.0.21, tag: refs/tags/@atproto/lex-builder@0.0.23, tag: refs/tags/@atproto/dev-env@0.4.8, tag: refs/tags/@atproto/bsky@0.0.229, tag: refs/tags/@atproto/api@0.19.17)
 2026-05-11T17:36:04 ;   4502df140 ; rafaeleyng ; update chat lexicons (#4926) ;
 2026-05-11T14:56:58 ;   2fd8d6270 ; rafaeleyng ; increase string preview in validation error (#4925) ;
 2026-05-11T13:31:58 ;   8ffae1732 ; rafaeleyng ; update chat lexicons (#4924) ;
