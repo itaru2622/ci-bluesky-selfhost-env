@@ -1,3 +1,10 @@
+2026-05-14T10:36:59 ;   0b63ee40c ; 260543580+ds-boyce ; Don't show Follow link if user is blocked (#10491) ;
+2026-05-14T10:28:53 ;   e18b76d89 ; 260543580+ds-boyce ; Display icon on chat list for system messages (#10493) ;
+2026-05-14T05:30:07 ;   c81174e4f ; 260543580+ds-boyce ; Fix labels in invite link dialog (#10472) ;
+2026-05-14T03:17:55 ;   da44df912 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-13T15:09:10 ;   a07e364a8 ; 260543580+ds-boyce ; Use i18n.date for date dividers (#10486) ;
+2026-05-13T13:52:59 ;   b41d0ad97 ; 260543580+ds-boyce ; Improve birthdate handling (#10477) ;
+2026-05-13T15:52:43 ;   d20df78f7 ; git ; Stop writing associatedRecord to embeds, may need to adjust schema (#10489) ;
 2026-05-13T12:30:00 ;   9e55bb71e ; 260543580+ds-boyce ; Add export data dialog to chat settings (#10478) ;
 2026-05-13T16:51:53 ;   34b3c5272 ; mozzius ; Keep screen awake when playing youtube video (#10479) ;
 2026-05-13T12:28:20 ;   e9ad74bb0 ; rafaeleyng ; fix did query string arg in ogcard (#10484) ;
