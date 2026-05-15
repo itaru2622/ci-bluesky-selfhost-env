@@ -1,3 +1,4 @@
+2026-05-15T15:03:12 ;   cb1387899 ; rafaeleyng ; update chat lexicons (#4945) ;
 2026-05-13T21:32:44 ;   04d727c69 ; matthieusieben ; add tests for account manager (#4844) ;
 2026-05-13T00:07:48 ;   dda619433 ; devinivy ; Fix CI publish devEngines conflict with changeset publish (#4938) ; (tag: refs/tags/@atproto/api@0.19.18)
 2026-05-12T16:57:13 ;   7cfff18fc ; devinivy ; Use pnpm publish in CI to avoid devEngines conflict with npm (#4928) ;

@@ -1,3 +1,14 @@
+2026-05-15T13:28:40 ;   5da73c2d6 ; 260543580+ds-boyce ; Add per-file codemod for updating useLingui to v5 (#10505) ;
+2026-05-15T13:25:47 ;   2bf6bdb6b ; 260543580+ds-boyce ; Update chat presentation (#10444) ;
+2026-05-15T20:46:53 ;   0eb382da0 ; mozzius ; [Chat] Split view layout for web (#10258) ;
+2026-05-15T12:42:32 ;   5b7bc56a1 ; 260543580+ds-boyce ; Address any types in List component (#10504) ;
+2026-05-15T11:56:19 ;   cc7d8296f ; 260543580+ds-boyce ; Fix unnecessary scrollbars on web (#10502) ;
+2026-05-15T19:43:07 ;   9d98890fd ; mozzius ; Fix reply failures caused by fetching posts from PDS (#9925) ;
+2026-05-15T09:29:09 ;   e0cb1c341 ; 260543580+ds-boyce ; Remove unused code for unsupported 'invited' status (#10492) ;
+2026-05-15T09:28:48 ;   f963c90eb ; 260543580+ds-boyce ; Update appearance of chat disabled message (#10488) ;
+2026-05-15T09:28:26 ;   8756c6c0a ; 260543580+ds-boyce ; Update message context menu styles (#10487) ;
+2026-05-15T10:54:42 ;   b41dbec48 ; git ; Remove KLIPY from external media settings (#10496) ;
+2026-05-15T03:19:40 ;   e52b7df39 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-05-14T10:36:59 ;   0b63ee40c ; 260543580+ds-boyce ; Don't show Follow link if user is blocked (#10491) ;
 2026-05-14T10:28:53 ;   e18b76d89 ; 260543580+ds-boyce ; Display icon on chat list for system messages (#10493) ;
 2026-05-14T05:30:07 ;   c81174e4f ; 260543580+ds-boyce ; Fix labels in invite link dialog (#10472) ;
