@@ -1,6 +1,0 @@
-2026-05-11T13:59:59 ;   298e1fa ; gcwill70 ; add report category (#478) ;
-2026-05-11T18:35:09 ;   4be1018 ; foysal ; :sparkles: Report based ticketing system (#461) ;
-2026-05-11T08:40:15 ;   4d3e3e9 ; gcwill70 ; Fix bsky url (#473) ;
-2026-05-11T14:39:59 ;   8646de2 ; foysal ; :sparkles: Add expiring tags (#471) ;
-2026-05-11T08:39:48 ;   01ded64 ; gcwill70 ; Update @atproto depenencies (May 2026) (#474) ;
-2026-05-11T14:38:53 ;   a93468a ; foysal ; :lipstick: Show target services for sev-level config (#477) ;
