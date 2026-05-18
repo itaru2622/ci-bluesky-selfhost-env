@@ -1,0 +1,8 @@
+2026-05-18T23:33:54 ;   79872b8be ; mozzius ; [pnpm] Fix CI attempt 2 (#10533) ;
+2026-05-18T23:22:26 ;   5b622079b ; mozzius ; [pnpm] Fix CI (#10531) ;
+2026-05-18T18:53:12 ;   0dc062294 ; mozzius ; Move headerMode out of global shell state (#10527) ;
+2026-05-18T18:47:41 ;   e40c9bcf9 ; mozzius ; [Chat] Persist left column scroll in splitview (#10513) ;
+2026-05-18T18:00:20 ;   b1ce51936 ; mozzius ; [Chat] adjust list insets on web (#10524) ;
+2026-05-18T17:51:04 ;   ff731849b ; mozzius ; Migrate from Yarn 1 to pnpm (#10465) ;
+2026-05-18T17:35:11 ;   b7c2c2f18 ; 149612116+surfdude29 ; Add missing space to string (#10511) ;
+2026-05-18T12:57:06 ;   e58a09e0c ; mozzius ; Fix automatic footer compensation in `Layout.Content` (#10526) ;
