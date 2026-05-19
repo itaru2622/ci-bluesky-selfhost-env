@@ -1,0 +1,3 @@
+2026-05-18T16:36:54 ;   26e3a651 ; michael.black ; Add standard site lexicons (#1389) ;
+2026-05-17T12:26:29 ;   354dc7a7 ; git ; Add placeholder def to work around lexgen bug, cbor-gen ;
+2026-05-15T11:33:11 ;   d8478c47 ; git ; Add standard site lexicons, new api-ext path ;
