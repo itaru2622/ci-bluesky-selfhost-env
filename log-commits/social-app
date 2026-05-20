@@ -1,3 +1,17 @@
+2026-05-20T21:30:53 ;   7fe2f892f ; mozzius ; Revert "Skip installing expo cli in CI (#10566)" (#10568) ;
+2026-05-20T19:50:44 ;   b73f9110e ; mozzius ; Skip installing expo cli in CI (#10566) ;
+2026-05-20T19:50:34 ;   c4ecb007f ; mozzius ; [Chat] New post attachment style in composer (#10563) ;
+2026-05-20T19:33:02 ;   3d4ba946b ; mozzius ; [pnpm] Fix CI attempt 5 (#10567) ;
+2026-05-20T19:30:04 ;   a2417e043 ; mozzius ; [Chat] Add embeds to the optimistic message (#10564) ;
+2026-05-20T19:26:24 ;   21446b43a ; mozzius ; [Chat] `MessageItem` tweaks (#10562) ;
+2026-05-20T18:58:55 ;   490881625 ; mozzius ; [pnpm] Fix CI attempt 4 (#10565) ;
+2026-05-20T18:20:35 ;   c1817d342 ; mozzius ; [Chat] Handle new chat notification reasons (#10530) ;
+2026-05-20T07:17:25 ;   9cad883ab ; 260543580+ds-boyce ; Update appearance of chat list item states (#10556) ;
+2026-05-20T14:47:59 ;   46a4f6cbe ; mozzius ; Run prettier (#10559) ;
+2026-05-20T13:53:19 ;   5088f00c3 ; mozzius ; Fix up prettier config, apply to more files (#10542) ;
+2026-05-20T03:52:35 ;   70a1a665e ; 260543580+ds-boyce ; Fix eas invocation for GitHub Actions (#10555) ;
+2026-05-20T02:03:37 ;   2f80d983d ; 260543580+ds-boyce ; Update Dockerfile.embedr to work with pnpm (#10554) ;
+2026-05-20T03:19:04 ;   20f1c6078 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-05-19T13:06:21 ;   34ae819aa ; 260543580+ds-boyce ; Fix some issues with message spacing (#10553) ;
 2026-05-19T22:22:27 ;   7b6a81ac2 ; mozzius ; Remove unread state from locked chats (#10552) ;
 2026-05-19T21:51:10 ;   8cea36f3c ; mozzius ; [pnpm] Migrate `bskyembed` (#10482) ;

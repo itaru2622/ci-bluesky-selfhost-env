@@ -1,3 +1,15 @@
+2026-05-20T15:03:36 ;   56259070c ; 41898282+github-actions[bot] ; Version packages (#4976) ; (tag: refs/tags/@atproto/api@0.20.2)
+2026-05-20T16:34:12 ;   5b43753aa ; rafaeleyng ; Update chat lexicons (#4975) ;
+2026-05-20T14:19:11 ;   2c958f882 ; git ; Integrate `site.standard` lexicons and record hydration + new `getEmbedExternalView` (#4915) ;
+2026-05-20T15:51:58 ;   18b2aafcb ; 41898282+github-actions[bot] ; Version packages (#4957) ; (tag: refs/tags/@atproto/sync@0.3.1, tag: refs/tags/@atproto/pds@0.4.225, tag: refs/tags/@atproto/ozone@0.1.176, tag: refs/tags/@atproto/oauth-client@0.7.1, tag: refs/tags/@atproto/lexicon-resolver@0.4.1, tag: refs/tags/@atproto/lex@0.1.1, tag: refs/tags/@atproto/lex-data@0.1.1, tag: refs/tags/@atproto/lex-client@0.1.1, tag: refs/tags/@atproto/lex-builder@0.1.1, tag: refs/tags/@atproto/dev-env@0.5.1, tag: refs/tags/@atproto/common@0.6.1, tag: refs/tags/@atproto/bsync@0.0.27, tag: refs/tags/@atproto/bsky@0.0.232, tag: refs/tags/@atproto/api@0.20.1)
+2026-05-20T13:47:13 ;   480160051 ; dtholmgren ; Sync: getCursor bugfix (#4973) ;
+2026-05-20T16:55:42 ;   fb1b40350 ; matthieusieben ; Fix lex SDK files being non tree-shakable (#4972) ;
+2026-05-20T15:20:55 ;   8eb0662ac ; matthieusieben ; Remove lex-cli generated files from git (#4968) ;
+2026-05-20T15:08:09 ;   53818bb1b ; matthieusieben ; Fix test flackyness due to seeding the database talking a long time (#4971) ;
+2026-05-20T14:31:41 ;   3ea8e1f37 ; matthieusieben ; Un-track codegen code from "lexicon-resolver" (#4965) ;
+2026-05-20T14:22:27 ;   571582ea9 ; matthieusieben ; Remove proto buf generated code from version control (#4964) ;
+2026-05-20T14:20:50 ;   008158bc0 ; matthieusieben ; Fix concurrency issue in `@atproto/sync` tests (#4970) ;
+2026-05-19T20:05:51 ;   37c6fe6ca ; rafaeleyng ; Update chat lexicons (#4963) ;
 2026-05-19T14:42:49 ;   7f7bb09f1 ; devinivy ; Add bsync protos to pds, bsky, ozone service dockerfiles to fix build (#4962) ;
 2026-05-19T13:00:37 ;   efcc13d2a ; devinivy ; Migrate services to dd-trace v5 for ESM tracing (#4961) ;
 2026-05-19T18:42:48 ;   53b1e0731 ; matthieusieben ; Fix compilation of protobuf files (#4960) ;

@@ -1,3 +1,9 @@
+2026-05-20T11:10:40 ;   0eb7e0ea ; git ; Add getEmbedExternalView and updated external embed lexicon (#1390) ;
+2026-05-20T10:59:20 ;   bdbeb172 ; git ; Update lex ;
+2026-05-18T20:22:36 ;   fba7d6f0 ; git ; Update lexicons ;
+2026-05-18T19:24:36 ;   efe4d834 ; git ; Update lexicons ;
+2026-05-18T16:37:13 ;   8dbd1b8e ; michael.black ; Merge branch 'main' into external-view-lex ;
 2026-05-18T16:36:54 ;   26e3a651 ; michael.black ; Add standard site lexicons (#1389) ;
+2026-05-18T15:36:58 ;   eba774a8 ; git ; Add getEmbedExternalView and updated external embed lexicon ;
 2026-05-17T12:26:29 ;   354dc7a7 ; git ; Add placeholder def to work around lexgen bug, cbor-gen ;
 2026-05-15T11:33:11 ;   d8478c47 ; git ; Add standard site lexicons, new api-ext path ;
