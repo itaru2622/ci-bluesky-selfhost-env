@@ -1,3 +1,15 @@
+2026-05-21T12:39:07 ;   0c057be02 ; axfelix ; steering readmes toward lex client (#4977) ;
+2026-05-21T16:02:09 ;   7fecf1385 ; rafaeleyng ; Update chat lexicons (#4987) ;
+2026-05-21T11:21:54 ;   37bff2b52 ; dtholmgren ; PDS: bump request JSON size limit on record methods (#4989) ;
+2026-05-21T10:50:43 ;   734ecd46b ; 41898282+github-actions[bot] ; Version packages (#4982) ; (tag: refs/tags/@atproto/xrpc-server@0.11.1, tag: refs/tags/@atproto/oauth-client-browser-example@0.1.1, tag: refs/tags/@atproto/lex@0.1.2, tag: refs/tags/@atproto/lex-client@0.1.2, tag: refs/tags/@atproto/lex-builder@0.1.2, tag: refs/tags/@atproto/dev-env@0.5.2, tag: refs/tags/@atproto/bsky@0.0.233, tag: refs/tags/@atproto/api@0.20.3)
+2026-05-21T09:26:51 ;   604e16dda ; git ; Ensure fields are always present on viewExternalSource (#4985) ;
+2026-05-21T14:02:40 ;   ef69a53e1 ; matthieusieben ; Remove un-necessary lines from .gitignore file (#4966) ;
+2026-05-21T12:48:53 ;   5bdb4addd ; matthieusieben ; Add `default` export of "main" schema in the namespace file (#4984) ;
+2026-05-21T11:22:07 ;   125964673 ; matthieusieben ; Make the generation of the `$defs` namespace optional by default (#4983) ;
+2026-05-21T10:55:06 ;   3aae4fe43 ; matthieusieben ; Remove need for inference when computing XRPC method derived types (#4981) ;
+2026-05-21T10:38:44 ;   57ecbdac3 ; matthieusieben ; Log rate limiter error in the context of the HTTP `req` (#4969) ;
+2026-05-21T10:22:55 ;   314df6253 ; matthieusieben ; Always add `#__PURE__` annotations to function calls (#4979) ;
+2026-05-21T10:22:37 ;   482767c4b ; matthieusieben ; Improve bundling size of lex-client (#4980) ;
 2026-05-20T15:03:36 ;   56259070c ; 41898282+github-actions[bot] ; Version packages (#4976) ; (tag: refs/tags/@atproto/api@0.20.2)
 2026-05-20T16:34:12 ;   5b43753aa ; rafaeleyng ; Update chat lexicons (#4975) ;
 2026-05-20T14:19:11 ;   2c958f882 ; git ; Integrate `site.standard` lexicons and record hydration + new `getEmbedExternalView` (#4915) ;

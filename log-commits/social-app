@@ -1,3 +1,10 @@
+2026-05-21T12:54:37 ;   e1e5f28e9 ; 260543580+ds-boyce ; Display badges next to chat inviter's display name (#10451) ;
+2026-05-21T10:32:35 ;   f653faab9 ; 260543580+ds-boyce ; Fix word wrapping in image menu on Android (#10577) ;
+2026-05-21T19:49:58 ;   7da3f385a ; mozzius ; Fix stuck tooltip bubble on Safari (#10560) ;
+2026-05-21T17:32:29 ;   0858010a5 ; 57507616+RetroSunstar ; Fix Image Options not opening on web (#10544) ;
+2026-05-21T19:25:05 ;   901b1a3a9 ; mozzius ; [Chat] Remove `ChatEmptyPill` (#10575) ;
+2026-05-21T19:21:06 ;   c0f7ffa72 ; mozzius ; [Chat] Make group header a link, fix behaviour with long text (#10572) ;
+2026-05-21T03:19:49 ;   1b546c54d ; 1270099+pfrazee ; Nightly source-language update ;
 2026-05-20T21:30:53 ;   7fe2f892f ; mozzius ; Revert "Skip installing expo cli in CI (#10566)" (#10568) ;
 2026-05-20T19:50:44 ;   b73f9110e ; mozzius ; Skip installing expo cli in CI (#10566) ;
 2026-05-20T19:50:34 ;   c4ecb007f ; mozzius ; [Chat] New post attachment style in composer (#10563) ;
