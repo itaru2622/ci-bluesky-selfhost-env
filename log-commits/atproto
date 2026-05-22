@@ -1,3 +1,10 @@
+2026-05-22T15:20:09 ;   c78782247 ; 41898282+github-actions[bot] ; Version packages (#4994) ; (tag: refs/tags/@atproto/pds@0.5.0, tag: refs/tags/@atproto/oauth-provider@0.18.0, tag: refs/tags/@atproto/oauth-provider-ui@0.7.0, tag: refs/tags/@atproto/oauth-provider-api@0.6.0, tag: refs/tags/@atproto/dev-env@0.5.3, tag: refs/tags/@atproto/bsky@0.0.234, tag: refs/tags/@atproto/api@0.20.5)
+2026-05-22T17:17:20 ;   4984994f7 ; rafaeleyng ; Update chat lexicons (#4998) ;
+2026-05-22T13:52:37 ;   9378a8274 ; michael.black ; Add associatedProfiles to app.bsky.embed.getEmbedExternalView (#4993) ;
+2026-05-22T10:37:56 ;   753ac51fd ; git ; Improve Standard Site validation  (#4995) ;
+2026-05-22T10:38:54 ;   64f5148ad ; matthieusieben ; Add email verification and update capability to account manager (#4883) ;
+2026-05-21T23:52:35 ;   eaf1a5195 ; 41898282+github-actions[bot] ; Version packages (#4990) ; (tag: refs/tags/@atproto/pds@0.4.226, tag: refs/tags/@atproto/api@0.20.4)
+2026-05-21T18:33:40 ;   86bb63ef9 ; rafaeleyng ; Update chat lexicons (#4991) ;
 2026-05-21T12:39:07 ;   0c057be02 ; axfelix ; steering readmes toward lex client (#4977) ;
 2026-05-21T16:02:09 ;   7fecf1385 ; rafaeleyng ; Update chat lexicons (#4987) ;
 2026-05-21T11:21:54 ;   37bff2b52 ; dtholmgren ; PDS: bump request JSON size limit on record methods (#4989) ;

@@ -1,3 +1,16 @@
+2026-05-22T23:07:47 ;   66d37f55b ; mozzius ; Fix autofocusing Emoji reaction picker search (#10599) ;
+2026-05-22T11:08:03 ;   96ae32b78 ; 260543580+ds-boyce ; Fix chat message spacing and alignment (#10579) ;
+2026-05-22T10:34:21 ;   4bdedc55b ; 260543580+ds-boyce ; Add Info Panel to direct chats (#10576) ;
+2026-05-22T09:46:57 ;   f2e702870 ; 260543580+ds-boyce ; Update appearance of chat when blocked (#10582) ;
+2026-05-22T19:30:20 ;   2a546bfd5 ; mozzius ; [Chat] Disable convo avatar in NSE (#10594) ;
+2026-05-22T19:17:12 ;   c21c031e7 ; mozzius ; [pnpm] Attempt to remove `eas-cli` from devDeps (#10589) ;
+2026-05-22T17:51:43 ;   42d993a78 ; mozzius ; [Chat] Fix iOS group chat notifications rendering as direct messages (#10590) ;
+2026-05-22T01:54:54 ;   7c5a9ab40 ; 260543580+ds-boyce ; Fix issue where suggested language prompt could not be dismissed (#10581) ;
+2026-05-22T10:25:25 ;   2f4049e6e ; mozzius ; Bump atproto to latest (#10586) ;
+2026-05-21T23:47:41 ;   53df5e62b ; 260543580+ds-boyce ; Wrap group chat names when appropriate (#10583) ;
+2026-05-21T23:39:11 ;   4c73b171d ; 260543580+ds-boyce ; Reduce the number of join requests per page to 20 (#10578) ;
+2026-05-22T03:19:03 ;   6f0912346 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-22T00:41:04 ;   6fd81fe5d ; mozzius ; ESM atproto packages (#10543) ;
 2026-05-21T12:54:37 ;   e1e5f28e9 ; 260543580+ds-boyce ; Display badges next to chat inviter's display name (#10451) ;
 2026-05-21T10:32:35 ;   f653faab9 ; 260543580+ds-boyce ; Fix word wrapping in image menu on Android (#10577) ;
 2026-05-21T19:49:58 ;   7da3f385a ; mozzius ; Fix stuck tooltip bubble on Safari (#10560) ;
