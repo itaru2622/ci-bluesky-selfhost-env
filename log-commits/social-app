@@ -1,0 +1,8 @@
+2026-05-25T14:34:35 ;   709589fa3 ; mozzius ; Reduce lightbox button size on native (#10500) ;
+2026-05-25T14:23:21 ;   ebed23657 ; mozzius ; Detect missing H.264/AAC codec support on web video (#10499) ;
+2026-05-25T14:22:39 ;   c1f42ef87 ; mozzius ; Fix image cropping not saving on iOS (#10404) ;
+2026-05-25T14:12:40 ;   5281c48de ; mozzius ; [Chat] Restore back button to settings screens (#10602) ;
+2026-05-25T14:09:28 ;   bf7633b79 ; mozzius ; Fix status bars not showing (#10605) ;
+2026-05-25T13:47:22 ;   d40436309 ; mozzius ; Fix left nav badge overlap (#10604) ;
+2026-05-25T13:46:11 ;   c4861cd07 ; mozzius ; [Chat] Fix unusably small emoji picker (#10591) ;
+2026-05-25T01:58:46 ;   537a1f712 ; 260543580+ds-boyce ; Update loading state for chats (#10596) ;
