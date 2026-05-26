@@ -1,3 +1,18 @@
+2026-05-26T20:22:18 ;   5bad7d3ce ; mozzius ; [Chat] Add message item blocked state (#10616) ;
+2026-05-26T20:15:51 ;   8720ef72c ; mozzius ; Bump RNKC (#10617) ;
+2026-05-26T20:01:10 ;   afa6a9834 ; mozzius ; [Chat] Empty state for native (#10603) ;
+2026-05-26T19:55:30 ;   1113686e3 ; mozzius ; [Chat] Prevent reactions when unavailable (#10615) ;
+2026-05-26T19:55:22 ;   308b2e05f ; mozzius ; [Chat] Moderation stuff (#10610) ;
+2026-05-26T11:55:42 ;   3f4cd1c68 ; spencerfpope ; Don't cache trending GIFs (#10612) ;
+2026-05-26T16:51:58 ;   a5a629346 ; 149612116+surfdude29 ; Tweak location strings (#10518) ;
+2026-05-26T16:51:48 ;   dc62ce2fb ; 149612116+surfdude29 ; Fix "under 18" admonition being incorrectly shown on Moderation screen (#10521) ;
+2026-05-26T16:45:07 ;   68431182e ; 149612116+surfdude29 ; Improve logic to show most relevant error message in AA restricted regions (#10522) ;
+2026-05-26T07:28:40 ;   4e2949c93 ; abenzer ; Add nav:click event to all main nav items (#10540) ;
+2026-05-26T17:23:43 ;   1790fddc7 ; mozzius ; Enable 300mb video uploads (#10497) ;
+2026-05-26T03:19:30 ;   4eb692cf8 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-05-26T00:31:30 ;   3552c2644 ; mozzius ; [pnpm] Set `trustPolicy` to `no-downgrade` (#10570) ;
+2026-05-26T00:29:46 ;   98cdeef5b ; mozzius ; Remove FontAwesome (#10528) ;
+2026-05-25T15:49:30 ;   f5dcce171 ; git ; Standard Site link card improvements (#10608) ;
 2026-05-25T14:34:35 ;   709589fa3 ; mozzius ; Reduce lightbox button size on native (#10500) ;
 2026-05-25T14:23:21 ;   ebed23657 ; mozzius ; Detect missing H.264/AAC codec support on web video (#10499) ;
 2026-05-25T14:22:39 ;   c1f42ef87 ; mozzius ; Fix image cropping not saving on iOS (#10404) ;
