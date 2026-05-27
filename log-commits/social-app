@@ -1,3 +1,13 @@
+2026-05-27T15:29:06 ;   7f5dd4006 ; git ; Release prep 1.122.0 (#10634) ; (tag: refs/tags/1.122.0)
+2026-05-27T14:42:01 ;   13f494502 ; git ; Expand allowed "live now" platforms (#10633) ;
+2026-05-27T22:39:36 ;   e8f61ac3d ; mozzius ; [pnpm] Migrate `devenv` (#10480) ;
+2026-05-27T20:00:45 ;   addfdd192 ; mozzius ; [Chat] Tweak messageitem blocked state (#10631) ;
+2026-05-27T11:53:26 ;   3d8875374 ; git ; Standard Site cards tweaks (#10614) ;
+2026-05-27T09:32:06 ;   721a08ffe ; 260543580+ds-boyce ; Handle new group chat log events (#10624) ;
+2026-05-27T09:30:33 ;   4e4e1e119 ; 260543580+ds-boyce ; Add ability to report a group chat (#10485) ;
+2026-05-27T08:05:51 ;   731f32abd ; 260543580+ds-boyce ; Add XRPC error handling for creating new chats (#10622) ;
+2026-05-27T00:50:19 ;   a892b3dcc ; 260543580+ds-boyce ; Remove hard-coded chat member limit (#10625) ;
+2026-05-27T03:20:32 ;   7ac288de1 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-05-26T20:22:18 ;   5bad7d3ce ; mozzius ; [Chat] Add message item blocked state (#10616) ;
 2026-05-26T20:15:51 ;   8720ef72c ; mozzius ; Bump RNKC (#10617) ;
 2026-05-26T20:01:10 ;   afa6a9834 ; mozzius ; [Chat] Empty state for native (#10603) ;
