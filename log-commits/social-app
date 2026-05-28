@@ -1,3 +1,9 @@
+2026-05-28T12:51:40 ;   3e46ca391 ; 260543580+ds-boyce ; Colocate all chat log event handlers (#10632) ;
+2026-05-28T11:14:08 ;   672cebef6 ; 260543580+ds-boyce ; Disable other chat settings when a chat is locked (#10623) ;
+2026-05-28T11:32:03 ;   af04e8b49 ; git ; Moar Standard Site Tweaks (#10641) ;
+2026-05-28T09:31:52 ;   5e27d8c85 ; 260543580+ds-boyce ; Update presentation of DM header (#10619) ;
+2026-05-28T11:26:25 ;   60917d112 ; michael.black ; Refactor and improve seo schema.org data (#10613) ;
+2026-05-28T16:22:49 ;   6432c925c ; mozzius ; [Chat] Add OpenGraph card for chat invite links (#10629) ;
 2026-05-27T15:29:06 ;   7f5dd4006 ; git ; Release prep 1.122.0 (#10634) ; (tag: refs/tags/1.122.0)
 2026-05-27T14:42:01 ;   13f494502 ; git ; Expand allowed "live now" platforms (#10633) ;
 2026-05-27T22:39:36 ;   e8f61ac3d ; mozzius ; [pnpm] Migrate `devenv` (#10480) ;

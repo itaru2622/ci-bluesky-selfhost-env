@@ -1,3 +1,5 @@
+2026-05-28T12:34:13 ;   3cb2a4115 ; git ; Allow subpath URL matches for known SS hosts (#5020) ;
+2026-05-28T08:48:13 ;   cf6a8a50a ; michael.black ; Fix app.bsky.actor.getProfile verifier data (#5016) ;
 2026-05-27T13:37:26 ;   0ac21bbf6 ; michael.black ; bsky: add displayName, handle to VerificationView (#5015) ;
 2026-05-27T09:16:39 ;   682e325b2 ; gcwill70 ; ozone: add conversation reporting (#4941) ;
 2026-05-26T14:14:49 ;   47c71fcc1 ; rafaeleyng ; Update chat lexicons (#5011) ;
