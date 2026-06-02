@@ -1,1 +1,5 @@
+2026-06-02T14:21:21 ;   ef4e67760 ; 41898282+github-actions[bot] ; Version packages (#5033) ; (tag: refs/tags/@atproto/dev-env@0.5.6, tag: refs/tags/@atproto/bsky@0.0.237)
+2026-06-02T14:16:41 ;   df5726894 ; git ; Prefer opengraph image, fall back to Standard Site document.coverImage (#5031) ;
+2026-06-01T17:12:01 ;   7f5c4ceb0 ; 41898282+github-actions[bot] ; Version packages (#5024) ; (tag: refs/tags/@atproto/ozone@0.2.1, tag: refs/tags/@atproto/api@0.20.8)
+2026-06-01T17:04:53 ;   b4aa93083 ; git ; Revert "Blur media on account level adult labels (#4769)" (#5028) ;
 2026-06-01T16:41:24 ;   07014df29 ; rafaeleyng ; Update chat lexicons (#5027) ;
