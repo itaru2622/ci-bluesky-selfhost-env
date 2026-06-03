@@ -1,3 +1,4 @@
+2026-06-03T18:23:04 ;   ebe9ccc ; foysal ; :bug: Build convo subject correctly when actioning (#510) ;
 2026-05-30T11:22:28 ;   59b0f38 ; foysal ; :bug: Show convo subject in quick action (#506) ;
 2026-05-30T10:50:32 ;   8d1f5bd ; foysal ; :sparkles: Add support for group dm review (#501) ;
 2026-05-28T22:09:05 ;   f4855c6 ; foysal ; :bug: Show event author instead of user's did for account history event (#500) ;

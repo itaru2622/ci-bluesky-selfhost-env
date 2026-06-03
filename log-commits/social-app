@@ -1,3 +1,18 @@
+2026-06-03T23:57:45 ;   57ae26fca ; mozzius ; Make extra sure the drawer gesture doesn't accidentally trigger on Android (#10713) ;
+2026-06-03T16:38:36 ;   0a5a99417 ; spencerfpope ; Fix image peek in carousels for quote posts (#10688) ;
+2026-06-03T13:21:13 ;   f99837040 ; 260543580+ds-boyce ; Compile i18n before running lint (#10711) ;
+2026-06-03T23:01:54 ;   4367b9d04 ; mozzius ; [Android] Fix horizontal swipes being cancelled when leaving bounds (#10712) ;
+2026-06-03T11:27:44 ;   84d1785e1 ; 260543580+ds-boyce ; Enable ESLint errors and suppress existing violations (#10490) ;
+2026-06-03T10:23:13 ;   cdad723ea ; 260543580+ds-boyce ; Hide accept button for locked chats (#10696) ;
+2026-06-03T09:28:11 ;   1b4c72f51 ; 260543580+ds-boyce ; Mount message dialogs once at the list level (#10435) ;
+2026-06-03T10:58:43 ;   b6650d8d5 ; spencerfpope ; Fix alt text selection in lightbox on Android (and iOS) (#10698) ;
+2026-06-03T17:39:31 ;   21679b66d ; mozzius ; Mention default `<Text>` style in CLAUDE.md (#10705) ;
+2026-06-03T11:47:35 ;   a046d8d96 ; 57507616+RetroSunstar ; Use square icons for labellers in Automation Label preview card (#10701) ;
+2026-06-03T09:05:46 ;   00497964c ; mozzius ; [ALF] Set text to `leading_snug` by default (#10627) ;
+2026-06-03T03:21:33 ;   f4f66af31 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-02T19:13:34 ;   3c06ecfa1 ; 260543580+ds-boyce ; Transpile `@atproto/api` package for older browser support (#10700) ;
+2026-06-03T05:03:55 ;   711334b34 ; mozzius ; Add iOS peek long-press context menu for image embeds (#10300) ;
+2026-06-02T16:28:48 ;   c88218ab8 ; git ; Revert "[ALG-96] Don't fall back to search for onboarding user suggestions (#10680)" (#10699) ;
 2026-06-02T17:01:16 ;   0a7c08707 ; spencerfpope ; fix blur on image alt text background (#10658) ;
 2026-06-02T13:28:06 ;   73dae02df ; 260543580+ds-boyce ; Create screen for managing chat requests (#10635) ;
 2026-06-02T13:27:43 ;   75490c3cd ; 260543580+ds-boyce ; Don't show Suggested heading if there are no suggestions (#10695) ;
