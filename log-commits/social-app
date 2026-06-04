@@ -1,3 +1,18 @@
+2026-06-04T23:11:03 ;   ded2ca374 ; mozzius ; [Chat] Add chat invite as message embed type (#10728) ;
+2026-06-04T13:08:51 ;   09fa93553 ; 260543580+ds-boyce ; Fix useJoinRequestMutation (#10730) ;
+2026-06-04T12:57:22 ;   b9637c030 ; 260543580+ds-boyce ; Improve error message for group chat join link (#10729) ;
+2026-06-04T14:25:35 ;   6677ae977 ; spencerfpope ; Show image count badge on in-feed carousel (#10719) ;
+2026-06-04T12:24:50 ;   58783ca5a ; spencerfpope ; ensure alt text is scrollable (#10671) ;
+2026-06-04T12:23:16 ;   d3c9ed027 ; spencerfpope ; Fix web carousel horizontal swipe triggering browser back/forward (#10718) ;
+2026-06-04T11:23:04 ;   795d493de ; git ; Apply per-use-case image size configs (#10690) ;
+2026-06-04T18:46:49 ;   66db349ef ; mozzius ; Switch dynamic app icon library to `@bsky.app`, fix build flakiness (#10724) ;
+2026-06-04T08:11:50 ;   08cd4e58b ; 260543580+ds-boyce ; Add group chat join links to supported embed types (#10454) ;
+2026-06-04T09:29:36 ;   c79b5bfa0 ; git ; Disable overscroll on Android to fix settle discrepancy (#10717) ;
+2026-06-04T06:28:40 ;   49f8e5031 ; 41552394+heikadog ; Fix labeller highlight when selected on bottom bar (#10716) ;
+2026-06-04T08:51:51 ;   9f200aab0 ; 149612116+surfdude29 ; Use correct `Plural` macro in InviteLinkDialog (#10723) ;
+2026-06-04T07:50:56 ;   a19d652a3 ; 149612116+surfdude29 ; Fix invalid `zero` plural category and add plural formatting (#10722) ;
+2026-06-04T03:21:17 ;   ad4591eb2 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-04T01:03:11 ;   153772b76 ; mozzius ; `expo-image` tweaks (#10710) ;
 2026-06-03T23:57:45 ;   57ae26fca ; mozzius ; Make extra sure the drawer gesture doesn't accidentally trigger on Android (#10713) ;
 2026-06-03T16:38:36 ;   0a5a99417 ; spencerfpope ; Fix image peek in carousels for quote posts (#10688) ;
 2026-06-03T13:21:13 ;   f99837040 ; 260543580+ds-boyce ; Compile i18n before running lint (#10711) ;
