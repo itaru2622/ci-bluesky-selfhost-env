@@ -1,3 +1,7 @@
+2026-06-05T15:19:29 ;   cf4843c33 ; dtholmgren ; Bugfix: flaky handle-invalidation test (#5049) ;
+2026-06-05T15:28:27 ;   77a386156 ; rafaeleyng ; update chat lexicons and add skill (#5046) ;
+2026-06-05T20:02:45 ;   4b0c8730d ; matthieusieben ; Fix build of docker images (#5045) ;
+2026-06-05T16:23:25 ;   5d047e5fb ; matthieusieben ; DX improvements: Improved Agents skills & Zed config (#5041) ;
 2026-06-04T12:53:26 ;   16c8a948b ; rafaeleyng ; add a timeout of 10s when getting a feed skeleton (#5039) ;
 2026-06-04T08:15:10 ;   0d62d5b4c ; 15894818+treethought ; bsky: enable search v2 behind feature gate (#5035) ;
 2026-06-03T15:53:47 ;   3f3201be8 ; 41898282+github-actions[bot] ; Version packages (#5036) ; (tag: refs/tags/@atproto/pds@0.5.2, tag: refs/tags/@atproto/oauth-provider@0.18.2, tag: refs/tags/@atproto/oauth-provider-ui@0.7.2, tag: refs/tags/@atproto/oauth-provider-api@0.6.1, tag: refs/tags/@atproto/lex-schema@0.1.3, tag: refs/tags/@atproto/dev-env@0.5.7, tag: refs/tags/@atproto/bsky@0.0.238, tag: refs/tags/@atproto/api@0.20.9)
