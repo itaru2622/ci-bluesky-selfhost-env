@@ -1,3 +1,15 @@
+2026-06-06T10:26:44 ;   0ce2ada9b ; git ; Release 1.123.0 (#10766) ; (tag: refs/tags/1.123.0)
+2026-06-06T09:55:39 ;   757793337 ; git ; Fix draft image pres with 4+ images (#10765) ;
+2026-06-05T22:59:53 ;   b9cd7e992 ; 4732330+estrattonbailey ; Nightly source-language update ;
+2026-06-05T23:57:57 ;   a253e877f ; 149612116+surfdude29 ; Add plural formatting for error toast (#10756) ;
+2026-06-05T17:56:08 ;   11dd25971 ; git ; [Drafts] Always write embedGallery for image embeds (#10761) ;
+2026-06-05T17:35:21 ;   0cc6d4938 ; git ; Android share intent: logging + temp file cleanup (#10762) ;
+2026-06-06T01:03:29 ;   5eeb80fe9 ; mozzius ; Fix Android crash when sharing unreadable media into the app (#10674) ;
+2026-06-05T14:26:30 ;   a675cbacb ; 260543580+ds-boyce ; Link to owner's profile from link embed (#10759) ;
+2026-06-05T14:19:48 ;   1d5fb89c8 ; 260543580+ds-boyce ; Improve error messages for LeaveConvoPrompt (#10760) ;
+2026-06-06T00:17:05 ;   ac63ee773 ; mozzius ; Remove useWindowDimensions from ProfileBadges (#10738) ;
+2026-06-06T00:13:26 ;   a5338090c ; mozzius ; Let specified facets take priority in feed descriptions (#10740) ;
+2026-06-06T00:04:21 ;   fb8316fd8 ; mozzius ; Fix external card long press on web (#10739) ;
 2026-06-05T23:17:29 ;   b236f274c ; mozzius ; [Chat] Enforce limits for group size (#10753) ;
 2026-06-05T23:09:55 ;   2e9bfd363 ; mozzius ; [Chat] Put `pointer_events_none` on chat bubbles in ChatListItem (#10752) ;
 2026-06-05T23:08:39 ;   32c0c0ec8 ; mozzius ; "Follows You" string dedupe (#10751) ;
