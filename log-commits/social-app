@@ -1,3 +1,23 @@
+2026-06-08T13:53:09 ;   bfbd1cef3 ; 260543580+ds-boyce ; Upgrade to pnpm 11.5.2 (#10793) ;
+2026-06-08T15:34:51 ;   690b8184a ; git ; Refactor age assurance flags and contexts (#10794) ;
+2026-06-08T23:14:43 ;   46e54d237 ; mozzius ; [Chat] Try and resolve loading bug once and for all (#10791) ;
+2026-06-08T23:14:29 ;   38ee14d51 ; mozzius ; Remove social proof from group invites (#10787) ;
+2026-06-08T12:15:13 ;   1c5b3dd3a ; 260543580+ds-boyce ; Only show Message option if chat member can be messaged (#10788) ;
+2026-06-08T12:14:51 ;   0c89198de ; 260543580+ds-boyce ; Remove TODO for uninviting group chat members (#10789) ;
+2026-06-08T12:14:24 ;   fe9dabbc4 ; 260543580+ds-boyce ; Open edit chat name dialog via tap (#10790) ;
+2026-06-08T12:13:43 ;   4142eb483 ; 260543580+ds-boyce ; Add fade-in animation to chat footer/composer (#10786) ;
+2026-06-08T20:07:35 ;   9b5fc1961 ; mozzius ; [Chat] Centralize conversation report-subject resolution (#10754) ;
+2026-06-08T12:44:59 ;   0090285fc ; spencerfpope ; Refactor photo embed analytics to post:photoEmbed:* namespace (#10784) ;
+2026-06-08T19:26:23 ;   c4f3a2cb8 ; mozzius ; [Chat] Rename invite route to /chat/ (#10782) ;
+2026-06-08T19:20:37 ;   d9345cb1c ; mozzius ; [Chat] Fix footer logic (#10785) ;
+2026-06-08T05:28:24 ;   5c0429a3f ; 260543580+ds-boyce ; Block posting of invalid chat invites (#10757) ;
+2026-06-08T15:27:58 ;   16046cd85 ; mozzius ; [Chat] Invite link dialog tweaks (#10750) ;
+2026-06-08T15:10:41 ;   eb79c4d53 ; mozzius ; Show accept/reject footer for empty request convos (#10781) ;
+2026-06-08T04:57:08 ;   6997d220a ; 260543580+ds-boyce ; Add Leave chat button to settings for chat owners (#10764) ;
+2026-06-08T04:36:34 ;   e60e31733 ; 260543580+ds-boyce ; Use new listConvoRequests endpoint (#10755) ;
+2026-06-08T03:51:11 ;   c02f2a1ed ; 260543580+ds-boyce ; Fix alignment of error screen (#10763) ;
+2026-06-08T13:50:44 ;   35258f1a1 ; mozzius ; [Chat] Fix overflowing chat names (#10780) ;
+2026-06-08T10:42:50 ;   753015b59 ; 149612116+surfdude29 ; Add plural formatting to "Group name is too long" strings (#10769) ;
 2026-06-06T10:26:44 ;   0ce2ada9b ; git ; Release 1.123.0 (#10766) ; (tag: refs/tags/1.123.0)
 2026-06-06T09:55:39 ;   757793337 ; git ; Fix draft image pres with 4+ images (#10765) ;
 2026-06-05T22:59:53 ;   b9cd7e992 ; 4732330+estrattonbailey ; Nightly source-language update ;

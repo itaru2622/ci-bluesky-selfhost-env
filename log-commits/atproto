@@ -1,3 +1,8 @@
+2026-06-08T12:29:42 ;   6f22fb0ae ; 41898282+github-actions[bot] ; Version packages (#5055) ; (tag: refs/tags/@atproto/ozone@0.2.2, tag: refs/tags/@atproto/api@0.20.11)
+2026-06-08T16:26:15 ;   da8818f13 ; rafaeleyng ; update chat lexicons (#5056) ;
+2026-06-08T12:21:02 ;   dfce9dfe3 ; gcwill70 ; add chat.bsky.moderation.getConvos proxy endpoint to ozone (#5054) ;
+2026-06-08T06:59:31 ;   06e2c6578 ; 41898282+github-actions[bot] ; Version packages (#5042) ; (tag: refs/tags/@atproto/dev-env@0.5.8, tag: refs/tags/@atproto/bsky@0.0.239, tag: refs/tags/@atproto/api@0.20.10)
+2026-06-08T10:54:30 ;   4280e585b ; rafaeleyng ; update chat lexicons (#5052) ;
 2026-06-05T15:19:29 ;   cf4843c33 ; dtholmgren ; Bugfix: flaky handle-invalidation test (#5049) ;
 2026-06-05T15:28:27 ;   77a386156 ; rafaeleyng ; update chat lexicons and add skill (#5046) ;
 2026-06-05T20:02:45 ;   4b0c8730d ; matthieusieben ; Fix build of docker images (#5045) ;
