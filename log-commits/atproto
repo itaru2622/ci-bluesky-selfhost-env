@@ -1,3 +1,9 @@
+2026-06-09T17:20:05 ;   24c731142 ; rafaeleyng ; update chat lexicons (#5066) ;
+2026-06-09T20:48:10 ;   5dd80eac7 ; foysal ; :bug: Fix missing dep COPY in docker builds (#5065) ;
+2026-06-09T15:13:05 ;   1f89abb90 ; rafaeleyng ; update chat lexicons (#5064) ;
+2026-06-09T19:51:29 ;   708b56ccf ; foysal ; :bug: Fix docker build to allow for ozone package import (#5063) ;
+2026-06-09T11:04:51 ;   67a0ee88d ; gcwill70 ; register getConvos handler (#5061) ;
+2026-06-09T08:52:58 ;   5140be267 ; michael.black ; Add gallery embed images to og data-plane and dev-env (#5048) ;
 2026-06-08T12:29:42 ;   6f22fb0ae ; 41898282+github-actions[bot] ; Version packages (#5055) ; (tag: refs/tags/@atproto/ozone@0.2.2, tag: refs/tags/@atproto/api@0.20.11)
 2026-06-08T16:26:15 ;   da8818f13 ; rafaeleyng ; update chat lexicons (#5056) ;
 2026-06-08T12:21:02 ;   dfce9dfe3 ; gcwill70 ; add chat.bsky.moderation.getConvos proxy endpoint to ozone (#5054) ;
