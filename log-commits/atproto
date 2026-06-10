@@ -1,3 +1,7 @@
+2026-06-10T12:29:28 ;   3e977fe0a ; 41898282+github-actions[bot] ; Version packages (#5071) ; (tag: refs/tags/@atproto/dev-env@0.5.10, tag: refs/tags/@atproto/bsky@0.0.241, tag: refs/tags/@atproto/api@0.20.13)
+2026-06-10T16:20:35 ;   c4bcb12a2 ; rafaeleyng ; update chat lexicons (#5075) ;
+2026-06-10T11:31:08 ;   b9ef5576b ; rafaeleyng ; bsky: add optimized profiles endpoint for service-to-service (#5069) ;
+2026-06-09T23:29:20 ;   8064ca7f9 ; 41898282+github-actions[bot] ; Version packages (#5060) ; (tag: refs/tags/@atproto/ozone@0.2.3, tag: refs/tags/@atproto/dev-env@0.5.9, tag: refs/tags/@atproto/bsky@0.0.240, tag: refs/tags/@atproto/api@0.20.12)
 2026-06-09T17:20:05 ;   24c731142 ; rafaeleyng ; update chat lexicons (#5066) ;
 2026-06-09T20:48:10 ;   5dd80eac7 ; foysal ; :bug: Fix missing dep COPY in docker builds (#5065) ;
 2026-06-09T15:13:05 ;   1f89abb90 ; rafaeleyng ; update chat lexicons (#5064) ;
