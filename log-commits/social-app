@@ -1,3 +1,22 @@
+2026-06-11T23:49:09 ;   f0e20d4c5 ; mozzius ; Make `StandardSiteEmbed` peekable (#10866) ;
+2026-06-11T22:29:18 ;   b281e23f1 ; mozzius ; Bump version to v1.125.0 (#10876) ;
+2026-06-11T21:12:11 ;   bd775070e ; mozzius ; [Chat] Use relatedprofiles for reactions/new message logs (#10875) ;
+2026-06-11T11:06:39 ;   3d3d7ba67 ; 260543580+ds-boyce ; Fix cursor position when editing a group chat name (#10872) ;
+2026-06-11T11:06:23 ;   f96e6ab98 ; 260543580+ds-boyce ; Bump font size for disabled invite link dialog text (#10874) ;
+2026-06-11T11:05:07 ;   d57eeb986 ; 260543580+ds-boyce ; Fix followed by chat invites (#10873) ;
+2026-06-11T09:48:23 ;   91053e3f7 ; 260543580+ds-boyce ; Optimistically update chat invite button status (#10870) ;
+2026-06-11T09:45:08 ;   b0eaecb01 ; 260543580+ds-boyce ; Fix Rescind request button (#10869) ;
+2026-06-11T19:34:18 ;   c96d63fa5 ; mozzius ; [Chat] Update bskyogcard lexicon version (#10871) ;
+2026-06-11T19:08:28 ;   bd034ac1a ; mozzius ; [Chat] Update single-convo cache on firehose mute/unmute events (#10865) ;
+2026-06-11T12:04:46 ;   ba72110a1 ; spencerfpope ; Fix overlapping touch targets for profile header buttons (#10868) ;
+2026-06-11T12:02:20 ;   302026d68 ; spencerfpope ; [bskyembed] Add gallery embed support (#10818) ;
+2026-06-11T08:46:01 ;   c8634105c ; 260543580+ds-boyce ; Run codemod for replacing BskyAgent with AtpAgent (#10862) ;
+2026-06-11T08:45:37 ;   e3e7db235 ; 260543580+ds-boyce ; Redirect to messages after leaving a chat (#10861) ;
+2026-06-11T08:45:16 ;   fbd81ad02 ; 260543580+ds-boyce ; Change Users I follow to People I follow (#10860) ;
+2026-06-11T08:52:12 ;   5c04a41a1 ; 8205547+jcalabro ; Add a Metrics Server to bskyweb (#10863) ;
+2026-06-10T17:00:41 ;   0187a4953 ; git ; Release Prep 1.124.0 (#10859) ; (tag: refs/tags/1.124.0)
+2026-06-10T14:44:36 ;   d3f8e740d ; 260543580+ds-boyce ; Log when a chat invite is posted or messaged (#10858) ;
+2026-06-10T16:06:09 ;   b4dff0f4b ; git ; Let text wrap in invite dialog (#10855) ;
 2026-06-10T13:56:39 ;   871e9506d ; 260543580+ds-boyce ; Add new analytics events for group chats (#10830) ;
 2026-06-10T16:46:35 ;   974d2b15d ; spencerfpope ; Fix stale push notification replay after account switch (#10792) ;
 2026-06-10T16:39:40 ;   b667cafca ; spencerfpope ; Use add-only photo permission when saving QR codes (#10854) ;
