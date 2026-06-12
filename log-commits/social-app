@@ -1,3 +1,9 @@
+2026-06-12T21:19:22 ;   7310426ea ; mozzius ; [Chat] Hide blocked accounts' reactions in chats (#10889) ;
+2026-06-12T11:18:53 ;   581d2b296 ; abenzer ; Fixes follow buttons inside notification bundles not changing state on follow (#10882) ;
+2026-06-12T00:01:41 ;   ec695a42c ; 260543580+ds-boyce ; Upgrade to pnpm 11.5.3 (#10879) ;
+2026-06-11T21:36:10 ;   6c0417073 ; 54160+amckinley ; Replace broken @claude workflow with Bedrock-based claude-review/mention (#10880) ;
+2026-06-12T03:20:29 ;   bce0b51c2 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-11T16:58:11 ;   0a9f7423e ; spencerfpope ; Keep lightbox image index on device rotation (#10867) ;
 2026-06-11T23:49:09 ;   f0e20d4c5 ; mozzius ; Make `StandardSiteEmbed` peekable (#10866) ;
 2026-06-11T22:29:18 ;   b281e23f1 ; mozzius ; Bump version to v1.125.0 (#10876) ;
 2026-06-11T21:12:11 ;   bd775070e ; mozzius ; [Chat] Use relatedprofiles for reactions/new message logs (#10875) ;

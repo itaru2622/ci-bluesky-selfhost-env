@@ -1,3 +1,9 @@
+2026-06-12T11:47:49 ;   6b4f57f49 ; 41898282+github-actions[bot] ; Version packages (#5088) ; (tag: refs/tags/@atproto/pds@0.5.4, tag: refs/tags/@atproto/oauth-provider@0.18.3, tag: refs/tags/@atproto/oauth-provider-ui@0.7.3, tag: refs/tags/@atproto/dev-env@0.5.11)
+2026-06-12T17:24:05 ;   85b4eb84a ; matthieusieben ; Fix stuck OAuth redirection (#5089) ;
+2026-06-12T08:40:31 ;   7b8a240bc ; 8205547+jcalabro ; Increase PDS com.atproto.sync.getRepo Rate Limits (#5082) ;
+2026-06-12T08:38:43 ;   324727933 ; matthieusieben ; Make account creation and deletion more resilient (#5070) ;
+2026-06-12T01:22:09 ;   6847fc0d9 ; ThisIsMissEm ; Rename service from plc-service to pds-service (#5087) ;
+2026-06-11T16:56:05 ;   e613eba82 ; devinivy ; Upgrade pnpm v8 to v11 and drop corepack (#5067) ;
 2026-06-11T13:02:53 ;   72219820d ; 41898282+github-actions[bot] ; Version packages (#5081) ; (tag: refs/tags/@atproto/pds@0.5.3, tag: refs/tags/@atproto/common@0.6.2, tag: refs/tags/@atproto/api@0.20.14)
 2026-06-11T16:47:58 ;   385c7be0f ; rafaeleyng ; update chat lexicons (#5084) ;
 2026-06-11T06:51:28 ;   cc329bf55 ; 8205547+jcalabro ; Improve PDS getRepo Compression (#5078) ;
