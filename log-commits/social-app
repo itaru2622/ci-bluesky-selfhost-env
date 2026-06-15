@@ -1,3 +1,9 @@
+2026-06-15T13:38:59 ;   d7e285aa2 ; git ; Fix over-eager URL faceting in DMs composer (#10877) ;
+2026-06-15T20:16:20 ;   fdd08330f ; mozzius ; [Chat] Hide unread state for selected chat list item (#10910) ;
+2026-06-15T20:16:07 ;   042fdf659 ; mozzius ; Use pnpm 11.7.0 (#10900) ;
+2026-06-15T13:46:43 ;   6dcb4c9a1 ; 6619839+wingerter ; fix: truncate long display names in group chat member picker (#10899) (#10901) ;
+2026-06-15T12:47:43 ;   d20d02117 ; mozzius ; [Chat] Fix member count in SearchablePeopleList (#10909) ;
+2026-06-15T12:47:14 ;   0204848cc ; mozzius ; [Chat] fix: enforce convo-present invariant for active convo states (#10906) ;
 2026-06-14T17:07:33 ;   02a47fb4a ; mozzius ; Fix scroll edge effects on iOS 27 (#10907) ;
 2026-06-14T03:20:57 ;   575b76a71 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-06-13T15:23:28 ;   feff61a03 ; mozzius ; Add long-press menu to Chat tab for marking all as read (#10890) ;
