@@ -1,3 +1,16 @@
+2026-06-16T13:45:07 ;   e057d3bd5 ; 260543580+ds-boyce ; Get unread counts vs counting convos (#10878) ;
+2026-06-16T23:39:08 ;   b90d3108e ; mozzius ; Fix quote causing chat message to overflow on web (#10926) ;
+2026-06-16T14:44:28 ;   255af8542 ; git ; Ensure text composed via IME is visible (#10925) ;
+2026-06-16T22:35:19 ;   b8a6a8c8c ; mozzius ; Pin every action to latest SHA (#10779) ;
+2026-06-16T21:44:27 ;   4c3414910 ; mozzius ; Delete gallery fallback (#10922) ;
+2026-06-16T21:44:00 ;   2257e834d ; mozzius ; Run `eslint --fix` (#10923) ;
+2026-06-16T21:43:49 ;   8d4f59a14 ; mozzius ; Fix DM embeds being dropped when sending (#10924) ;
+2026-06-16T21:38:36 ;   721965e67 ; mozzius ; Swipe to reply in chat (#10920) ;
+2026-06-16T20:41:05 ;   bb6847f39 ; mozzius ; Replace Add User to Lists Modal with modern Dialog (#9677) ;
+2026-06-16T20:26:48 ;   b8fdce647 ; mozzius ; Message replies in chat (#10903) ;
+2026-06-16T09:25:34 ;   f075187e5 ; 260543580+ds-boyce ; Reset textarea height after clear (#10911) ;
+2026-06-16T07:36:59 ;   9dc73d2ec ; 49699333+dependabot[bot] ; Bump vite from 8.0.12 to 8.0.16 in /bskyembed (#10912) ;
+2026-06-16T03:20:12 ;   1c2fd5b28 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-06-15T13:38:59 ;   d7e285aa2 ; git ; Fix over-eager URL faceting in DMs composer (#10877) ;
 2026-06-15T20:16:20 ;   fdd08330f ; mozzius ; [Chat] Hide unread state for selected chat list item (#10910) ;
 2026-06-15T20:16:07 ;   042fdf659 ; mozzius ; Use pnpm 11.7.0 (#10900) ;
