@@ -1,3 +1,12 @@
+2026-06-17T15:28:47 ;   2347d4f07 ; mozzius ; v1.125 release prep (#10936) ; (tag: refs/tags/1.125.0)
+2026-06-17T03:13:57 ;   b368cea55 ; abenzer ; Style follow buttons in expanded bundles, add client event on expand (#10915) ;
+2026-06-17T03:11:56 ;   728ee15e2 ; 260543580+ds-boyce ; Flash message bubble when tapping a reply (#10929) ;
+2026-06-17T12:51:59 ;   6af477bcc ; mozzius ; Replace setup-cocoapods action with inline version assert (#10932) ;
+2026-06-17T12:45:01 ;   1b5242c1d ; mozzius ; Rip out `Modal` system completely (#9903) ;
+2026-06-17T02:29:05 ;   6bf1572ff ; 260543580+ds-boyce ; Increase chat bubble max width to 85% (was 80%) (#10930) ;
+2026-06-17T03:20:23 ;   c3a110a93 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-16T20:07:50 ;   f92712f34 ; spencerfpope ; Persist selected QR code color theme in invite friends dialog (#10892) ;
+2026-06-16T16:16:27 ;   9825057be ; git ; Fix for `AutosizedTextarea` not resetting height after clear on Android  (#10927) ;
 2026-06-16T13:45:07 ;   e057d3bd5 ; 260543580+ds-boyce ; Get unread counts vs counting convos (#10878) ;
 2026-06-16T23:39:08 ;   b90d3108e ; mozzius ; Fix quote causing chat message to overflow on web (#10926) ;
 2026-06-16T14:44:28 ;   255af8542 ; git ; Ensure text composed via IME is visible (#10925) ;
