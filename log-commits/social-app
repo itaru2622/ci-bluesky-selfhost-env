@@ -1,3 +1,7 @@
+2026-06-18T10:13:41 ;   dd452a433 ; git ; Fix nightly build workflow (#10943) ;
+2026-06-17T17:56:51 ;   1a8ca710e ; git ; Bump version to 1.126.0 (#10942) ;
+2026-06-17T17:53:08 ;   6f916902e ; git ; Add nightly iOS/Android build workflow (#10940) ;
+2026-06-18T00:42:55 ;   d10137fd7 ; mozzius ; Simplify Android build: bundletool + eas submit (#9855) ;
 2026-06-17T15:28:47 ;   2347d4f07 ; mozzius ; v1.125 release prep (#10936) ; (tag: refs/tags/1.125.0)
 2026-06-17T03:13:57 ;   b368cea55 ; abenzer ; Style follow buttons in expanded bundles, add client event on expand (#10915) ;
 2026-06-17T03:11:56 ;   728ee15e2 ; 260543580+ds-boyce ; Flash message bubble when tapping a reply (#10929) ;

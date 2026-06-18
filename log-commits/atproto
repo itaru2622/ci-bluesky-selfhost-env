@@ -1,3 +1,4 @@
+2026-06-18T18:19:02 ;   7011bdb19 ; foysal ; :sparkles: Add queryActivities endpoint for polling report activities (#5030) ;
 2026-06-17T15:03:57 ;   518d160bb ; 41898282+github-actions[bot] ; Version packages (#5107) ; (tag: refs/tags/@atproto/pds@0.5.6, tag: refs/tags/@atproto/ozone@0.2.5, tag: refs/tags/@atproto/oauth-provider@0.19.0, tag: refs/tags/@atproto/oauth-provider-ui@0.8.0, tag: refs/tags/@atproto/oauth-provider-api@0.7.0, tag: refs/tags/@atproto/oauth-client@0.7.4, tag: refs/tags/@atproto/dev-env@0.5.13, tag: refs/tags/@atproto/bsync@0.0.29, tag: refs/tags/@atproto/bsky@0.0.243)
 2026-06-17T14:45:54 ;   45ddebac1 ; git ; Add temporary search v2 override header (#5109) ;
 2026-06-17T14:28:24 ;   0f8051314 ; devinivy ; Fix docker build, remove patches (#5108) ;
