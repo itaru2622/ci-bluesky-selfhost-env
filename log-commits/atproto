@@ -1,3 +1,6 @@
+2026-06-19T21:14:41 ;   39f5c0187 ; matthieusieben ; Update undici to 8.5.0 (#5116) ;
+2026-06-19T14:41:20 ;   abab1ca4c ; 9767434+nilaallj ; Add Swedish translation 🇸🇪 (#5111) ;
+2026-06-18T14:21:25 ;   3002e9f19 ; 15894818+treethought ; searchv2: typeahead params envelope, arabic hint, detected langs (#5112) ;
 2026-06-18T18:19:02 ;   7011bdb19 ; foysal ; :sparkles: Add queryActivities endpoint for polling report activities (#5030) ;
 2026-06-17T15:03:57 ;   518d160bb ; 41898282+github-actions[bot] ; Version packages (#5107) ; (tag: refs/tags/@atproto/pds@0.5.6, tag: refs/tags/@atproto/ozone@0.2.5, tag: refs/tags/@atproto/oauth-provider@0.19.0, tag: refs/tags/@atproto/oauth-provider-ui@0.8.0, tag: refs/tags/@atproto/oauth-provider-api@0.7.0, tag: refs/tags/@atproto/oauth-client@0.7.4, tag: refs/tags/@atproto/dev-env@0.5.13, tag: refs/tags/@atproto/bsync@0.0.29, tag: refs/tags/@atproto/bsky@0.0.243)
 2026-06-17T14:45:54 ;   45ddebac1 ; git ; Add temporary search v2 override header (#5109) ;
