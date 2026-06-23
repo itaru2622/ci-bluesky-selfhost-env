@@ -1,3 +1,17 @@
+2026-06-23T16:27:09 ;   5b8ae95 ; jamesrcalabro ; latest atmos, fix sync events ;
+2026-06-23T16:10:51 ;   0f452e8 ; 8205547+jcalabro ; Merge pull request #140 from bluesky-social/get-latest-commit ;
+2026-06-23T16:00:03 ;   afaee82 ; jamesrcalabro ; status: verify repo roots without getRepo ;
+2026-06-23T15:29:17 ;   87462d5 ; 8205547+jcalabro ; Merge pull request #138 from bluesky-social/handle-lookup ;
+2026-06-23T15:21:18 ;   9e4df7d ; jamesrcalabro ; status: resolve account handles on demand ;
+2026-06-23T15:05:49 ;   db8645e ; 8205547+jcalabro ; Merge pull request #136 from bluesky-social/handle-lookup-fix ;
+2026-06-23T14:54:28 ;   941b6c0 ; jamesrcalabro ; backfill: index selected repo declared handles ;
+2026-06-23T14:30:38 ;   6107178 ; 8205547+jcalabro ; Merge pull request #134 from bluesky-social/repo-retries ;
+2026-06-23T08:27:02 ;   13d2242 ; jamesrcalabro ; backfill: bound retry park delay and fix host-move aggregate double-count ;
+2026-06-23T07:58:55 ;   124b52b ; jamesrcalabro ; ingest: wire steady-state failed repo retry ;
+2026-06-23T07:58:45 ;   1282f5a ; jamesrcalabro ; backfill: retry failed repos in steady state ;
+2026-06-23T07:58:31 ;   49ff5d6 ; jamesrcalabro ; docs: correct failed repo retry design ;
+2026-06-22T22:05:18 ;   e236c56 ; 8205547+jcalabro ; Merge pull request #133 from bluesky-social/file-size ;
+2026-06-22T21:49:49 ;   9a54911 ; jamesrcalabro ; ingest: fix async segment-rotation starvation (segments grew unbounded) ;
 2026-06-22T15:23:24 ;   1142d25 ; 8205547+jcalabro ; Merge pull request #131 from bluesky-social/backfill-perf ;
 2026-06-22T13:47:18 ;   2e88f36 ; jamesrcalabro ; backfill: drop per-DID identity resolution; route via relay 302, honor 429 ;
 2026-06-22T07:46:51 ;   36a63e7 ; jamesrcalabro ; latest atmos ;

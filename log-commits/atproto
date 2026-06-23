@@ -1,3 +1,8 @@
+2026-06-23T21:09:52 ;   3fd11680d ; matthieusieben ; Type `handle` in `CreateAccountData` as `HandleString` (#5129) ;
+2026-06-23T10:25:57 ;   a9a13d2a6 ; 41898282+github-actions[bot] ; Version packages (#5128) ; (tag: refs/tags/@atproto/dev-env@0.5.16, tag: refs/tags/@atproto/bsky@0.0.246, tag: refs/tags/@atproto/api@0.20.19)
+2026-06-23T09:58:03 ;   a67858df5 ; git ; Update required props on searchPostsV2 (#5127) ;
+2026-06-22T19:37:51 ;   bf892c539 ; 41898282+github-actions[bot] ; Version packages (#5125) ; (tag: refs/tags/@atproto/dev-env@0.5.15, tag: refs/tags/@atproto/bsky@0.0.245, tag: refs/tags/@atproto/api@0.20.18)
+2026-06-22T19:25:08 ;   5206b3aae ; git ; Add `searchPostsV2` (#5114) ;
 2026-06-22T17:36:28 ;   ef3adfaa0 ; rafaeleyng ; update chat lexicons (#5124) ;
 2026-06-22T12:15:19 ;   8dcc32f13 ; 41898282+github-actions[bot] ; Version packages (#5113) ; (tag: refs/tags/@atproto/ws-client@0.1.2, tag: refs/tags/@atproto/tap@0.3.2, tag: refs/tags/@atproto/sync@0.3.3, tag: refs/tags/@atproto/pds@0.5.7, tag: refs/tags/@atproto/ozone@0.2.6, tag: refs/tags/@atproto/oauth-provider@0.19.1, tag: refs/tags/@atproto/oauth-provider-ui@0.8.1, tag: refs/tags/@atproto/dev-env@0.5.14, tag: refs/tags/@atproto/bsync@0.0.30, tag: refs/tags/@atproto/bsky@0.0.244, tag: refs/tags/@atproto/api@0.20.17, tag: refs/tags/@atproto-labs/fetch-node@0.3.2)
 2026-06-22T15:39:31 ;   cab3ac321 ; rafaeleyng ; update chat lexicons and deprecate chat notif pref (#5123) ;
