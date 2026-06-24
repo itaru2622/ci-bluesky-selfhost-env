@@ -1,3 +1,15 @@
+2026-06-24T13:27:12 ;   f64b1258b ; spencerfpope ; [APP-2429] Add Sunlight and Twilight color options to the Invite Friends QR code (#10921) ;
+2026-06-24T12:26:25 ;   c909fef3f ; lynx ; signup: align "Contact support" to the right on larger displays (#10978) ;
+2026-06-24T09:51:16 ;   5b6601563 ; 260543580+ds-boyce ; Set a min height on native Menus (#10956) ;
+2026-06-24T17:39:12 ;   90c010e98 ; 149612116+surfdude29 ; Tweak strings and context (#10928) ;
+2026-06-24T19:38:44 ;   f3978d1a1 ; mozzius ; Fix internal repo sync broken by actions/checkout v6 bump (#10933) ;
+2026-06-24T19:37:57 ;   2843374ef ; mozzius ; Fix setState-in-render warning from convo cache subscription (#10934) ;
+2026-06-24T17:33:49 ;   0674626f3 ; 57507616+RetroSunstar ; Add light haptics to Edit Profile Button for labellers (#10948) ;
+2026-06-24T09:27:10 ;   cd4d62c75 ; 260543580+ds-boyce ; Remove old message composer (#10951) ;
+2026-06-24T09:14:23 ;   c3626c80d ; 260543580+ds-boyce ; Fix embeds overlapping each other in chat (#10949) ;
+2026-06-24T08:23:57 ;   e371d1db4 ; 260543580+ds-boyce ; Add mark all as read to chat settings (#10973) ;
+2026-06-24T10:52:58 ;   4308d75e4 ; spencerfpope ; Add TestFlight group selection to iOS build workflow (#10979) ;
+2026-06-24T03:18:32 ;   ea0ef2334 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-06-23T12:07:00 ;   692d8e5d1 ; michael.black ; bskyweb: add isPartOf jsonld post attr (#10945) ;
 2026-06-23T11:33:23 ;   c753c9496 ; spencerfpope ; Process videos on web with WebCodecs (#10955) ;
 2026-06-23T03:17:56 ;   cc0e1f88e ; 1270099+pfrazee ; Nightly source-language update ;
