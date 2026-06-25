@@ -1,3 +1,14 @@
+2026-06-25T14:18:27 ;   9e278c8 ; jamesrcalabro ; a bit of ./cmd/client/typed.go code cleanup to make it easier to understand ;
+2026-06-25T11:24:21 ;   b53d4bc ; 8205547+jcalabro ; Merge pull request #155 from bluesky-social/fix-plan-max-entries-zero-disables ;
+2026-06-25T11:15:45 ;   8e2f8ae ; jamesrcalabro ; fix: --plan-max-entries=0 disables the planBackfill cap ;
+2026-06-25T08:10:38 ;   8110183 ; jamesrcalabro ; more status page touchups (account page) ;
+2026-06-25T07:53:50 ;   27cd716 ; jamesrcalabro ; a bit more /status page cleanup ;
+2026-06-24T21:36:09 ;   946e61f ; 8205547+jcalabro ; Merge pull request #153 from bluesky-social/status-page ;
+2026-06-24T19:08:02 ;   3e2be26 ; jamesrcalabro ; status: nest host failure samples ;
+2026-06-24T18:51:25 ;   79f4432 ; jamesrcalabro ; status: move cursor lookback to summary ;
+2026-06-24T18:46:32 ;   f13c998 ; jamesrcalabro ; status: remove metadata store from summary ;
+2026-06-24T18:40:06 ;   38ca268 ; jamesrcalabro ; status: clean up status page views ;
+2026-06-24T17:55:47 ;   d8c6809 ; jamesrcalabro ; latest atmos (better backfill download timeouts) ;
 2026-06-24T14:52:57 ;   1ec387d ; 8205547+jcalabro ; Merge pull request #150 from bluesky-social/compression-streaming ;
 2026-06-24T14:50:27 ;   155673b ; jamesrcalabro ; latest atmos ;
 2026-06-24T13:58:11 ;   7946525 ; 8205547+jcalabro ; Merge pull request #148 from bluesky-social/typed-client ;

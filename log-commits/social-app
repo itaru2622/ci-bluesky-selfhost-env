@@ -1,3 +1,9 @@
+2026-06-25T13:03:42 ;   46f5437fa ; 260543580+ds-boyce ; Display more information in chat replies (#10950) ;
+2026-06-25T12:01:33 ;   3b2e60976 ; 260543580+ds-boyce ; Add new chat notification preferences (#10972) ;
+2026-06-25T11:43:33 ;   1ff27bfd3 ; 260543580+ds-boyce ; Upgrade pnpm to 11.9.0 (#10952) ;
+2026-06-25T03:18:16 ;   f72aae3ba ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-24T16:06:02 ;   51e25435a ; 260543580+ds-boyce ; Focus composer input when editable (#10982) ;
+2026-06-24T13:51:06 ;   da1f63716 ; 260543580+ds-boyce ; Fix issue with stale unread message counts (#10953) ;
 2026-06-24T13:27:12 ;   f64b1258b ; spencerfpope ; [APP-2429] Add Sunlight and Twilight color options to the Invite Friends QR code (#10921) ;
 2026-06-24T12:26:25 ;   c909fef3f ; lynx ; signup: align "Contact support" to the right on larger displays (#10978) ;
 2026-06-24T09:51:16 ;   5b6601563 ; 260543580+ds-boyce ; Set a min height on native Menus (#10956) ;
