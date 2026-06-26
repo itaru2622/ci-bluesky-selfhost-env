@@ -1,3 +1,12 @@
+2026-06-26T03:18:48 ;   717406f16 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-25T19:23:06 ;   ea35d930e ; gsully32 ; Change dialog label and header from 'Invite Friends' to 'Share Profile' (#10987) ;
+2026-06-25T18:04:54 ;   308693762 ; git ; Add placeholder, empty-value, and onConfirm support to DateField (#10993) ;
+2026-06-25T18:14:05 ;   fcf17a482 ; spencerfpope ; Add video upload telemetry events (#10991) ;
+2026-06-25T14:59:50 ;   6b342f61b ; 260543580+ds-boyce ; Hide autocomplete suggestions when input loses focus (#10989) ;
+2026-06-25T14:57:03 ;   eae15aca3 ; 260543580+ds-boyce ; Increase unread cap to 99+ (#10985) ;
+2026-06-25T16:54:31 ;   29a0d16b6 ; lynx ; Add icon to AppLanguageDropdown (#10977) ;
+2026-06-25T14:53:49 ;   c33a35851 ; abenzer ; Show shorter text for account label badge (#10983) ;
+2026-06-25T16:52:09 ;   b1b0ad09c ; git ; Video alt text (#10990) ;
 2026-06-25T13:03:42 ;   46f5437fa ; 260543580+ds-boyce ; Display more information in chat replies (#10950) ;
 2026-06-25T12:01:33 ;   3b2e60976 ; 260543580+ds-boyce ; Add new chat notification preferences (#10972) ;
 2026-06-25T11:43:33 ;   1ff27bfd3 ; 260543580+ds-boyce ; Upgrade pnpm to 11.9.0 (#10952) ;
