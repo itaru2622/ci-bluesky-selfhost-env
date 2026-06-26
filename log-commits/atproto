@@ -1,3 +1,4 @@
+2026-06-26T13:54:41 ;   f2a0efe11 ; matthieusieben ; Add more details to the xrpc-server log errors (#5156) ;
 2026-06-25T23:35:24 ;   fdc8ca8ba ; mozzius ; Align chat group editGroup name limit with createGroup (50 graphemes) (#5155) ;
 2026-06-25T11:44:16 ;   85c25efde ; rafaeleyng ; Hook up bsync service in dev-env (#4179) ;
 2026-06-25T15:13:21 ;   83674f546 ; 41898282+github-actions[bot] ; Version packages (#5152) ; (tag: refs/tags/@atproto/pds@0.5.10, tag: refs/tags/@atproto/oauth-provider@0.19.6, tag: refs/tags/@atproto/dev-env@0.5.21)
