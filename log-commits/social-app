@@ -1,3 +1,8 @@
+2026-06-27T03:17:11 ;   e0ddd8d50 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-26T19:04:40 ;   90f3f954e ; git ; Fix GrowthBook exposure did mis-attribution across account switches (#11000) ;
+2026-06-26T16:16:48 ;   248290e0b ; 260543580+ds-boyce ; Add advanced search UI (#10992) ;
+2026-06-26T18:39:15 ;   c5b381022 ; spencerfpope ; Fail video duration check before compression (#10999) ;
+2026-06-26T22:04:48 ;   1756740c6 ; 149612116+surfdude29 ; Add app language: Czech (`cs`) (#10994) ;
 2026-06-26T17:41:09 ;   66250e45c ; mozzius ; Clean up type/lint errors in `modules` (#10996) ;
 2026-06-26T07:40:12 ;   fcbd23e7d ; 49699333+dependabot[bot] ; Bump actions/download-artifact from 7.0.0 to 8.0.1 (#10971) ;
 2026-06-26T03:18:48 ;   717406f16 ; 1270099+pfrazee ; Nightly source-language update ;
