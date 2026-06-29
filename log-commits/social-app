@@ -1,0 +1,5 @@
+2026-06-29T12:42:23 ;   bd2849d92 ; git ; Release Prep 1.126.0 (#11015) ; (tag: refs/tags/1.126.0)
+2026-06-29T18:18:53 ;   2971c3520 ; mozzius ; Fix chat input positioning on mobile android (#11013) ;
+2026-06-29T18:18:32 ;   69058e1ec ; mozzius ; Disable selectable profile description on Android (#11002) ;
+2026-06-29T16:30:01 ;   a5ed41fa0 ; mozzius ; Fix CI - grant workflows permission for internal sync push (#11010) ;
+2026-06-29T11:59:00 ;   257a11d49 ; mozzius ; Set apple team id via environment variable (#11008) ;
