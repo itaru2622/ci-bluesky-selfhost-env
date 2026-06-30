@@ -1,3 +1,23 @@
+2026-06-30T21:27:13 ;   251605919 ; 149612116+surfdude29 ; Fix hashtag author filter failing for DIDs (#10772) ;
+2026-06-30T23:22:37 ;   9df4add43 ; mozzius ; Only request notification permission once per session (#11004) ;
+2026-07-01T00:21:16 ;   281f49976 ; 77801431+Zaven477 ; adding focus to the editing block (#10593) ;
+2026-06-30T23:19:24 ;   57dc53fbf ; mozzius ; Add "fingerprint changed" label to PRs with native changes (#10742) ;
+2026-07-01T01:37:43 ;   feaca048b ; ashishkhankari0922 ; Fix UI overlap issue where text was rendering over icons (#10774) ;
+2026-06-30T14:28:05 ;   8a6a90320 ; git ; Remove actions-up script in favor of Dependabot (#11034) ;
+2026-06-30T22:25:16 ;   5331c6821 ; mozzius ; Rename root file from `js` to `ts`, improve platform splitting (#11012) ;
+2026-06-30T22:23:52 ;   52aaba405 ; mozzius ; Route iOS notification settings intent into the app (#11003) ;
+2026-06-30T14:20:43 ;   de51ceb57 ; 49699333+dependabot[bot] ; Bump actions/checkout from 6.0.3 to 7.0.0 (#11022) ;
+2026-06-30T13:51:58 ;   eb755bc31 ; 49699333+dependabot[bot] ; Bump the actions group with 3 updates (#11021) ;
+2026-06-30T11:40:37 ;   44f6a98f5 ; 260543580+ds-boyce ; Use latest fingerprint-native action (#11016) ;
+2026-06-30T10:35:12 ;   28c44a11e ; 260543580+ds-boyce ; Avoid leaking previous messages via replies (#11017) ;
+2026-06-30T10:34:40 ;   cc893028e ; 260543580+ds-boyce ; Always set `allTime` to `true` for search v2 (#11033) ;
+2026-06-30T10:34:17 ;   298c83bcb ; 260543580+ds-boyce ; Update search input with `useAutocomplete` (#11023) ;
+2026-06-30T19:42:44 ;   660711872 ; mozzius ; Remove `react-native-dotenv` (#10706) ;
+2026-06-30T19:41:35 ;   ade5d2b78 ; mozzius ; Cull unused files (#11029) ;
+2026-06-30T09:38:06 ;   bb20f234f ; 260543580+ds-boyce ; Always scroll to bottom of chat after sending a message (#10913) ;
+2026-06-30T11:59:59 ;   95726c6c6 ; spencerfpope ; Replace react-native-compressor video path with native expo-bluesky-video-compress module [APP-2428] (#10954) ;
+2026-06-30T10:26:20 ;   43d2f939c ; github ; WSOD when trying to create account from starter pack on non-default provider (#10970) ;
+2026-06-30T00:56:44 ;   75e2c40ba ; 260543580+ds-boyce ; Use correct param name for setup-bundletool action (#11020) ;
 2026-06-29T12:42:23 ;   bd2849d92 ; git ; Release Prep 1.126.0 (#11015) ; (tag: refs/tags/1.126.0)
 2026-06-29T18:18:53 ;   2971c3520 ; mozzius ; Fix chat input positioning on mobile android (#11013) ;
 2026-06-29T18:18:32 ;   69058e1ec ; mozzius ; Disable selectable profile description on Android (#11002) ;

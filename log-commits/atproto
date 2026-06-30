@@ -1,1 +1,5 @@
+2026-06-30T17:47:39 ;   8bcba69cf ; matthieusieben ; Add "listAll" method on lex-sdk Client (#5157) ;
+2026-06-30T10:48:46 ;   8ffe18ba1 ; lonk ; Propagate skeletonReasonPin from custom feed generators (#5163) ;
+2026-06-29T19:18:33 ;   79f29409c ; 41898282+github-actions[bot] ; Version packages (#5154) ; (tag: refs/tags/@atproto/xrpc-server@0.11.4, tag: refs/tags/@atproto/sync@0.3.5, tag: refs/tags/@atproto/pds@0.5.11, tag: refs/tags/@atproto/ozone@0.2.8, tag: refs/tags/@atproto/dev-env@0.5.22, tag: refs/tags/@atproto/bsync@0.0.32, tag: refs/tags/@atproto/bsky@0.0.250, tag: refs/tags/@atproto/api@0.20.23, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.3)
+2026-06-29T19:10:32 ;   45278fd36 ; git ; Appview device verification, config for Texas (#5166) ;
 2026-06-29T13:54:07 ;   7f88ef3a3 ; git ; [APP-2463] Ensure support for new KWS timestamp field (#5164) ;
