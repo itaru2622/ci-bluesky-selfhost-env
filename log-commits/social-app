@@ -1,3 +1,13 @@
+2026-07-01T11:26:07 ;   b27ef2b6d ; git ; Bump app version to 1.127.0 (#11040) ;
+2026-07-01T10:43:01 ;   c4ce3ce0f ; spencerfpope ; Reduce Sentry noise from logger transport and expected-failure call sites (#10893) ;
+2026-07-01T03:20:02 ;   e86067986 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-06-30T14:26:50 ;   133476e0c ; 260543580+ds-boyce ; Update advanced search suggestions (#11036) ;
+2026-07-01T00:15:50 ;   0adf500ed ; mozzius ; Use RNKC for composer keyboard avoiding view (#10997) ;
+2026-06-30T14:15:28 ;   5e7343b0d ; 260543580+ds-boyce ; Fix yaml syntax in pull-request-commit.yml (#11037) ;
+2026-06-30T22:10:53 ;   052682050 ; 57507616+RetroSunstar ; Fix stale display names for lists/feeds in top bar across restarts/devices (#10651) ;
+2026-06-30T21:59:17 ;   13ee5df72 ; 5049950+LooneyH ; Restore link in Go Live prompt if status record present (#10636) ;
+2026-06-30T21:58:48 ;   f648977de ; 57507616+RetroSunstar ; Added Automation label to labeller display names (#11027) ;
+2026-06-30T15:47:12 ;   22391bcd6 ; git ; Fix lint (#11038) ;
 2026-06-30T21:27:13 ;   251605919 ; 149612116+surfdude29 ; Fix hashtag author filter failing for DIDs (#10772) ;
 2026-06-30T23:22:37 ;   9df4add43 ; mozzius ; Only request notification permission once per session (#11004) ;
 2026-07-01T00:21:16 ;   281f49976 ; 77801431+Zaven477 ; adding focus to the editing block (#10593) ;
