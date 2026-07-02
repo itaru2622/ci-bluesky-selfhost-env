@@ -1,3 +1,6 @@
+2026-07-02T15:15:30 ;   954268a4b ; git ; [AAv2] Integrate on-device APIs (#9564) ;
+2026-07-02T09:35:57 ;   b0a40145e ; 260543580+ds-boyce ; Special-case 'me' values in search queries (#11043) ;
+2026-07-02T09:35:04 ;   40df0d773 ; 260543580+ds-boyce ; Fix blank message list after submit on Android (#11042) ;
 2026-07-01T11:26:07 ;   b27ef2b6d ; git ; Bump app version to 1.127.0 (#11040) ;
 2026-07-01T10:43:01 ;   c4ce3ce0f ; spencerfpope ; Reduce Sentry noise from logger transport and expected-failure call sites (#10893) ;
 2026-07-01T03:20:02 ;   e86067986 ; 1270099+pfrazee ; Nightly source-language update ;
