@@ -1,3 +1,6 @@
+2026-07-03T03:13:24 ;   79a16094f ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-02T13:42:12 ;   2eddbf8eb ; 260543580+ds-boyce ; Fix back button behavior on login/create account screen (#11052) ;
+2026-07-02T15:32:37 ;   8613bb103 ; git ; Remove potentially intent violating chat settings restriction (#11056) ;
 2026-07-02T15:15:30 ;   954268a4b ; git ; [AAv2] Integrate on-device APIs (#9564) ;
 2026-07-02T09:35:57 ;   b0a40145e ; 260543580+ds-boyce ; Special-case 'me' values in search queries (#11043) ;
 2026-07-02T09:35:04 ;   40df0d773 ; 260543580+ds-boyce ; Fix blank message list after submit on Android (#11042) ;

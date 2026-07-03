@@ -1,3 +1,4 @@
+2026-07-03T18:54:24 ;   6b493b77f ; nabeyang ; Fixed length check for hashtags (#2657) ;
 2026-07-02T15:21:16 ;   d79f6d59a ; matthieusieben ; Test language syntax against atproto interop test files (#5183) ;
 2026-07-02T21:39:37 ;   d1be0cead ; nabeyang ; Reject duplicate BCP 47 variant subtags and extension singletons (#5162) ;
 2026-07-02T21:13:01 ;   54a836416 ; 3786294+dolciss ; Fix(oauth-provider-ui): Add missing links for Japanese (#5177) ;
