@@ -1,3 +1,20 @@
+2026-07-07T20:23:03 ;   ea3d6827c ; mozzius ; v1.127.0 release (#11087) ; (tag: refs/tags/1.127.0)
+2026-07-07T16:51:06 ;   102905b96 ; mozzius ; Fix back swipe opening the drawer after a cold-start deep link (#11065) ;
+2026-07-07T06:47:34 ;   5e24a0b48 ; 49699333+dependabot[bot] ; Bump github.com/jackc/pgx/v5 from 5.5.0 to 5.9.2 in /bskyweb (#10463) ;
+2026-07-07T05:37:49 ;   bbdfe05ad ; 260543580+ds-boyce ; Use Sift for username suggestions during signup (#11051) ;
+2026-07-07T08:34:46 ;   f9b120040 ; spencerfpope ; fix web video preview error aborting upload (#11079) ;
+2026-07-07T13:31:54 ;   17697cd5c ; 149612116+surfdude29 ; Use 'hyphens' instead of 'dashes' in error string (#11050) ;
+2026-07-07T15:31:37 ;   03ccd9666 ; mozzius ; Force native builds when package.json version changes in OTA deploy (#11061) ;
+2026-07-07T05:24:45 ;   976dd6505 ; 49699333+dependabot[bot] ; Bump golang.org/x/net from 0.47.0 to 0.55.0 in /bskyweb (#11055) ;
+2026-07-07T16:55:56 ;   7251a0ee7 ; pintujha286 ; fix(search): Update advanced search label text (#11049) (#11064) ;
+2026-07-07T04:22:42 ;   882a5573a ; abenzer ; Clean up feature gate for follow buttons in expanded notifications (#11068) ;
+2026-07-07T14:21:58 ;   9ff248528 ; mozzius ; Automatically resolve hosting provider from handle (#11053) ;
+2026-07-07T14:20:50 ;   640662d57 ; mozzius ; Fix zizmor findings in build workflows (#11046) ;
+2026-07-07T04:19:38 ;   52e8051fa ; 49699333+dependabot[bot] ; Bump the actions group with 5 updates (#11076) ;
+2026-07-07T04:18:26 ;   86c1cbbc9 ; 49699333+dependabot[bot] ; Bump actions/cache from 5.0.5 to 6.1.0 (#11078) ;
+2026-07-07T04:17:43 ;   545fec82f ; 49699333+dependabot[bot] ; Bump dcarbone/install-jq-action from 3.2.0 to 4.0.1 (#11077) ;
+2026-07-07T03:14:21 ;   f9071a967 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-06T17:53:37 ;   4f5119fac ; spencerfpope ; fix camera roll gif selection hanging on ios (#11074) ;
 2026-07-06T13:08:47 ;   651a3f8af ; 260543580+ds-boyce ; Upgrade pnpm to 11.10.0 (#11075) ;
 2026-07-06T20:51:33 ;   1817cc2ae ; szijartoleventepal ; Add missing l18n wrapper to ‘⚠Invalid Handle’ in handles.ts (#11071) ;
 2026-07-06T21:17:24 ;   ff78d3228 ; pintujha286 ; fix: restore Android native stretchy overscroll on image carousel (#11072) ;
