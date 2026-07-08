@@ -1,3 +1,13 @@
+2026-07-08T12:32:15 ;   0a4f5e132 ; 260543580+ds-boyce ; Update mergeRefs util for React 19 (#11108) ;
+2026-07-08T15:07:52 ;   6dce96881 ; spencerfpope ; use source file for web video compression (#11090) ;
+2026-07-08T10:14:39 ;   510dc51d7 ; 260543580+ds-boyce ; Update advanced search UI (#11088) ;
+2026-07-08T11:40:33 ;   decac43c3 ; git ; Adjust AA device signals copy (#11106) ;
+2026-07-08T18:38:50 ;   efcc15fc5 ; mozzius ; Bump version to v1.128.0 (#11105) ;
+2026-07-08T07:25:41 ;   53d9db174 ; 260543580+ds-boyce ; Revert "Add more search placeholders (#11089)" (#11101) ;
+2026-07-08T07:10:12 ;   a689322f4 ; 260543580+ds-boyce ; Add more search placeholders (#11089) ;
+2026-07-08T06:44:33 ;   aaf45129a ; 49699333+dependabot[bot] ; Bump golang.org/x/crypto from 0.51.0 to 0.52.0 in /bskyweb (#11100) ;
+2026-07-08T16:21:32 ;   48e1502bd ; mozzius ; Fix Android crash in chat keyboard scroll (part 2) (#11096) ;
+2026-07-08T16:21:16 ;   b41624ede ; mozzius ; Lazy-load mediabunny on web (#11094) ;
 2026-07-07T20:23:03 ;   ea3d6827c ; mozzius ; v1.127.0 release (#11087) ; (tag: refs/tags/1.127.0)
 2026-07-07T16:51:06 ;   102905b96 ; mozzius ; Fix back swipe opening the drawer after a cold-start deep link (#11065) ;
 2026-07-07T06:47:34 ;   5e24a0b48 ; 49699333+dependabot[bot] ; Bump github.com/jackc/pgx/v5 from 5.5.0 to 5.9.2 in /bskyweb (#10463) ;
