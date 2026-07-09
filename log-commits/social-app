@@ -1,3 +1,11 @@
+2026-07-09T19:24:20 ;   1d1b2f748 ; 149612116+surfdude29 ; Update KWS supported languages and mapping (#11085) ;
+2026-07-09T19:19:41 ;   b075753d0 ; 149612116+surfdude29 ; Fix KWS language picker silently resetting Arabic, Chinese, Filipino & Portuguese to English (#11082) ;
+2026-07-09T21:17:16 ;   c9251f85c ; mozzius ; Update lint-staged (#11084) ;
+2026-07-09T21:06:40 ;   2b5e43760 ; mozzius ; Remove unused video extension extraction in Share extension (#11081) ;
+2026-07-09T14:06:32 ;   49ca9a2e7 ; mozzius ; v1.127.1 Release prep (#11116) ; (tag: refs/tags/1.127.1)
+2026-07-09T12:36:37 ;   83da55c32 ; mozzius ; Fix search typeahead performance with absolute overlay (#11103) ;
+2026-07-09T12:17:05 ;   40b802ba1 ; mozzius ; Revert "Remove `react-native-dotenv` (#10706)" (#11110) ;
+2026-07-09T03:14:03 ;   f06f2cbc2 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-07-08T12:32:15 ;   0a4f5e132 ; 260543580+ds-boyce ; Update mergeRefs util for React 19 (#11108) ;
 2026-07-08T15:07:52 ;   6dce96881 ; spencerfpope ; use source file for web video compression (#11090) ;
 2026-07-08T10:14:39 ;   510dc51d7 ; 260543580+ds-boyce ; Update advanced search UI (#11088) ;
