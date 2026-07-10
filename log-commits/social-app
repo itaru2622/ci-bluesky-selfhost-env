@@ -1,3 +1,13 @@
+2026-07-10T22:27:00 ;   fa27d446d ; mozzius ; Migrate to Oxlint (#10384) ;
+2026-07-10T18:12:02 ;   6be6f14ae ; mozzius ; pnpm 11.11.0 (#11130) ;
+2026-07-10T12:43:04 ;   9b34d357d ; mozzius ; Lazy load @ipld/dag-cbor in computeCid (#11099) ;
+2026-07-10T02:40:54 ;   f1b2bcd63 ; 260543580+ds-boyce ; Potentially fix disappearing chat emoji on some devices (#11113) ;
+2026-07-10T12:39:02 ;   5e6b69329 ; mozzius ; Fix crash when maxHeight is nil at sheet presentation (#11104) ;
+2026-07-10T12:33:28 ;   1c88299ee ; mozzius ; restore v1.128.0 (#11131) ;
+2026-07-10T03:13:47 ;   fe5d531af ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-09T15:08:20 ;   3499d3646 ; 260543580+ds-boyce ; Migrate all search to v2 and remove v1 (#11125) ;
+2026-07-10T00:37:48 ;   65e10f13f ; mozzius ; Slim down CLAUDE.md (#11102) ;
+2026-07-10T00:37:05 ;   ffd4172a6 ; mozzius ; Replace @tiptap/html generateJSON with native DOMParser equivalent (#11098) ;
 2026-07-09T19:24:20 ;   1d1b2f748 ; 149612116+surfdude29 ; Update KWS supported languages and mapping (#11085) ;
 2026-07-09T19:19:41 ;   b075753d0 ; 149612116+surfdude29 ; Fix KWS language picker silently resetting Arabic, Chinese, Filipino & Portuguese to English (#11082) ;
 2026-07-09T21:17:16 ;   c9251f85c ; mozzius ; Update lint-staged (#11084) ;
