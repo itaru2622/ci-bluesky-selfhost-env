@@ -1,3 +1,5 @@
+2026-07-11T03:10:36 ;   398935631 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-10T16:26:10 ;   b4dfa3cc2 ; 54160+amckinley ; Collapse label appeal flow into ModerationDetailsDialog (#11091) ;
 2026-07-10T22:27:00 ;   fa27d446d ; mozzius ; Migrate to Oxlint (#10384) ;
 2026-07-10T18:12:02 ;   6be6f14ae ; mozzius ; pnpm 11.11.0 (#11130) ;
 2026-07-10T12:43:04 ;   9b34d357d ; mozzius ; Lazy load @ipld/dag-cbor in computeCid (#11099) ;
