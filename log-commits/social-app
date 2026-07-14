@@ -1,3 +1,12 @@
+2026-07-14T13:15:28 ;   f42a325f4 ; spencerfpope ; fix web feed footer clearing the bottom bar (#11151) ;
+2026-07-14T20:15:10 ;   4c111eb45 ; mozzius ; Stub out react-native-svg fetchData on web to drop buffer polyfill (#11097) ;
+2026-07-14T18:50:06 ;   9fa5f15ba ; mozzius ; Revert "Typescript 7" (#11152) ;
+2026-07-14T10:38:39 ;   a5adb0e97 ; spencerfpope ; Add video playback observability to Sentry (#11111) ;
+2026-07-14T16:14:11 ;   30e862bc2 ; mozzius ; Allow up to 10 images in share intent (#11132) ;
+2026-07-14T05:57:11 ;   4778142ee ; 260543580+ds-boyce ; Create primary tooltip variant (#11140) ;
+2026-07-14T15:52:56 ;   ac0a24972 ; mozzius ; Typescript 7 (#11109) ;
+2026-07-14T15:39:05 ;   4b5138fdc ; mozzius ; Update Sentry to 8.x (#11147) ;
+2026-07-14T03:10:07 ;   6f69ded49 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-07-13T23:48:14 ;   19872124b ; 49699333+dependabot[bot] ; Bump the actions group with 6 updates (#11148) ;
 2026-07-13T12:55:15 ;   04ebd02ce ; abenzer ; Prototype: Show known likers on post thread page (#11080) ;
 2026-07-13T07:23:08 ;   0701a08a6 ; 260543580+ds-boyce ; Ensure long trending topic titles can wrap (#11141) ;
