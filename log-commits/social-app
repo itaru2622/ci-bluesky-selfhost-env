@@ -1,3 +1,15 @@
+2026-07-16T22:47:53 ;   007c21fa8 ; mozzius ; Add moduleSuffixes to tsconfig (#11146) ;
+2026-07-16T22:47:31 ;   a8b963b35 ; mozzius ; Bump version to v1.129.0 (#11175) ;
+2026-07-16T19:33:07 ;   f9384e44c ; mozzius ; Bump expected cocoapods version to match latest `macos-26` runner image (#11171) ; (tag: refs/tags/1.128.0)
+2026-07-16T16:33:49 ;   54a1d8193 ; 57507616+RetroSunstar ; Remove success toast from Bookmark Button (#11054) ;
+2026-07-16T17:23:37 ;   b91f5e16b ; mozzius ; use pnpm 11.13.1 (#11168) ;
+2026-07-16T17:10:39 ;   4134e062c ; mozzius ; v1.128.0 release prep (#11167) ;
+2026-07-16T14:26:05 ;   406fb5425 ; mozzius ; Add Japan-gated custom logo (#11161) ;
+2026-07-16T14:21:31 ;   403739210 ; mozzius ; Update SVGO (#11083) ;
+2026-07-16T03:10:26 ;   4983fee7a ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-15T16:12:02 ;   2a4642f32 ; 260543580+ds-boyce ; Add mark requests as read to chat settings menu (#11107) ;
+2026-07-16T01:56:34 ;   83a791d7c ; 49205789+a-y-ibrahim ; Fix invisible bidi characters copied with handles on web (#11066) ;
+2026-07-15T23:32:18 ;   4705b7f40 ; 57507616+RetroSunstar ; Add DM button to labeller profiles (#11149) ;
 2026-07-15T12:52:53 ;   48fecae67 ; 260543580+ds-boyce ; Log additional context for post:* events (#11035) ;
 2026-07-15T11:27:19 ;   a0c75944a ; 260543580+ds-boyce ; Don't suggest retrying an unretryable error (#11159) ;
 2026-07-15T11:21:07 ;   700941703 ; 260543580+ds-boyce ; Remove IS_INTERNAL check for beta feedback button (#11162) ;
