@@ -1,6 +1,0 @@
-2026-07-17T10:02:58 ;   d09fe55 ; gcwill70 ; Make workspace Batch ID editable (#533) ;
-2026-07-17T10:02:42 ;   05b5991 ; gcwill70 ; :bug: various UI fixes (#532) ;
-2026-07-16T21:19:14 ;   473a780 ; andrew ; :bug: Fix workspace items not scrollable when account has many tags (#531) ;
-2026-07-15T15:29:49 ;   dc37fd9 ; gcwill70 ; Custom queues (#514) ;
-2026-07-15T14:48:36 ;   c3daa90 ; gcwill70 ; Image search (#527) ;
-2026-07-15T14:20:10 ;   0adf586 ; gcwill70 ; Add conversation subject type to queue config and report filters (#513) ;
