@@ -1,3 +1,6 @@
+2026-07-21T10:18:12 ;   2f2cd3fda ; 41898282+github-actions[bot] ; Version packages (#5256) ; (tag: refs/tags/@atproto/xrpc-server@0.11.11, tag: refs/tags/@atproto/sync@0.3.13, tag: refs/tags/@atproto/pds@0.5.21, tag: refs/tags/@atproto/ozone@0.2.18, tag: refs/tags/@atproto/dev-env@0.5.36, tag: refs/tags/@atproto/bsky@0.0.264, tag: refs/tags/@atproto/api@0.20.31, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.10)
+2026-07-21T09:44:14 ;   7fab73c93 ; 260543580+ds-boyce ; Add description field to trending topics (#5254) ;
+2026-07-21T04:50:57 ;   3358df61c ; baileytownsend2323 ; feature: Adds rate limit headers to Access-Control-Expose-Headers on xrpc servers (PDS) (#5231) ;
 2026-07-20T12:34:32 ;   c46b182f6 ; 41898282+github-actions[bot] ; Version packages (#5248) ; (tag: refs/tags/@atproto/pds@0.5.20, tag: refs/tags/@atproto/dev-env@0.5.35, tag: refs/tags/@atproto/bsky@0.0.263, tag: refs/tags/@atproto/aws@0.3.8)
 2026-07-20T10:29:24 ;   5baa87496 ; 260543580+ds-boyce ; Add recIdStr field to getTrends endpoint (#5250) ;
 2026-07-20T08:35:23 ;   ac691c7df ; 260543580+ds-boyce ; Return `hitsTotal: 0` when there are no results (#5251) ;

@@ -1,3 +1,16 @@
+2026-07-21T13:40:30 ;   44b1ab08b ; abenzer ; Move known likers below stats row; restore original order in stats row (#11192) ;
+2026-07-21T21:25:15 ;   c70baff70 ; 57507616+RetroSunstar ; Squish separate imports from the same source in ActivityNotificationSettings (#11225) ;
+2026-07-21T13:25:01 ;   cbf0d8912 ; 260543580+ds-boyce ; Remove console.log, address lint (#11228) ;
+2026-07-21T13:18:12 ;   86f0bedfb ; 260543580+ds-boyce ; Add new search results tab for starter packs (#11226) ;
+2026-07-21T11:32:53 ;   26143c1a4 ; spencerfpope ; add client event for failed video playback (#11170) ;
+2026-07-21T15:21:51 ;   6fea12480 ; mozzius ; TypeScript 7 (attempt 2) (#11169) ;
+2026-07-21T05:16:22 ;   92ec563f9 ; 260543580+ds-boyce ; Restore activity notification subscriptions screen (#11201) ;
+2026-07-21T05:09:01 ;   7d4b91dd3 ; 49699333+dependabot[bot] ; Bump the actions group with 4 updates (#11202) ;
+2026-07-21T05:08:41 ;   3eab767e8 ; 49699333+dependabot[bot] ; Bump actions/setup-node from 6.4.0 to 7.0.0 (#11203) ;
+2026-07-21T08:07:43 ;   0ba78623d ; spencerfpope ; Fix image menu in landscape orientation (#11188) ;
+2026-07-21T03:10:47 ;   daa11b63e ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-20T17:06:14 ;   baaf2bdc2 ; git ; Don't roll up account labels into additional post alerts (#11204) ;
+2026-07-20T16:47:05 ;   d3e7d99fa ; git ; Fix image crop in quote posts, remove `PostEmbedViewContext.FeedEmbedRecordWithMedia` (#11205) ;
 2026-07-20T10:01:31 ;   0f27fdda6 ; 260543580+ds-boyce ; Add height constraint to full-height bottom sheets (#11178) ;
 2026-07-20T19:44:17 ;   92ef1528b ; mozzius ; Stop closing search suggestions on input blur (#11199) ;
 2026-07-20T09:29:58 ;   1803de03a ; 260543580+ds-boyce ; Lighten blue (link) text for dim and dark themes (#11164) ;
