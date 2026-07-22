@@ -1,3 +1,9 @@
+2026-07-22T13:58:26 ;   b2de086c3 ; 260543580+ds-boyce ; Update presentation of trending topics in Explore (#11227) ;
+2026-07-22T13:22:56 ;   933ba1c37 ; 260543580+ds-boyce ; Add feature gate for starter pack search (#11234) ;
+2026-07-22T12:51:49 ;   0bd6a9961 ; 260543580+ds-boyce ; Pass recId with trending topic click metrics (#11232) ;
+2026-07-22T17:39:11 ;   f62e54ec8 ; mozzius ; Use stable tsgolint (#11229) ;
+2026-07-22T03:10:59 ;   676f3f9e1 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-21T17:39:51 ;   26ce5f093 ; spencerfpope ; Hide video pillarboxing on web when the card fits (#11118) ;
 2026-07-21T13:40:30 ;   44b1ab08b ; abenzer ; Move known likers below stats row; restore original order in stats row (#11192) ;
 2026-07-21T21:25:15 ;   c70baff70 ; 57507616+RetroSunstar ; Squish separate imports from the same source in ActivityNotificationSettings (#11225) ;
 2026-07-21T13:25:01 ;   cbf0d8912 ; 260543580+ds-boyce ; Remove console.log, address lint (#11228) ;
