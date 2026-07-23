@@ -1,3 +1,6 @@
+2026-07-23T12:42:53 ;   08efdf90b ; 41898282+github-actions[bot] ; Version packages (#5262) ; (tag: refs/tags/@atproto/ozone@0.2.20, tag: refs/tags/@atproto/dev-env@0.5.38, tag: refs/tags/@atproto/bsky@0.0.266, tag: refs/tags/@atproto/api@0.20.33)
+2026-07-23T12:41:06 ;   5d6dae261 ; git ; Support platform-specific Age Assurance config (#5261) ;
+2026-07-22T16:01:29 ;   a667bc204 ; 41898282+github-actions[bot] ; Version packages (#5258) ; (tag: refs/tags/@atproto/ozone@0.2.19, tag: refs/tags/@atproto/dev-env@0.5.37, tag: refs/tags/@atproto/bsky@0.0.265, tag: refs/tags/@atproto/api@0.20.32)
 2026-07-22T04:12:10 ;   e133a65cb ; rafaeleyng ; Add sort order to follows endpoints (#5257) ;
 2026-07-21T10:18:12 ;   2f2cd3fda ; 41898282+github-actions[bot] ; Version packages (#5256) ; (tag: refs/tags/@atproto/xrpc-server@0.11.11, tag: refs/tags/@atproto/sync@0.3.13, tag: refs/tags/@atproto/pds@0.5.21, tag: refs/tags/@atproto/ozone@0.2.18, tag: refs/tags/@atproto/dev-env@0.5.36, tag: refs/tags/@atproto/bsky@0.0.264, tag: refs/tags/@atproto/api@0.20.31, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.10)
 2026-07-21T09:44:14 ;   7fab73c93 ; 260543580+ds-boyce ; Add description field to trending topics (#5254) ;
