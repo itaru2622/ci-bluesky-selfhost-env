@@ -1,3 +1,5 @@
+2026-07-24T11:03:41 ;   102503c07 ; 260543580+ds-boyce ; Hydrate starter pack info for follow notifications (#5263) ;
+2026-07-24T12:51:19 ;   5c5df26bd ; rafaeleyng ; add test (#5264) ;
 2026-07-23T12:42:53 ;   08efdf90b ; 41898282+github-actions[bot] ; Version packages (#5262) ; (tag: refs/tags/@atproto/ozone@0.2.20, tag: refs/tags/@atproto/dev-env@0.5.38, tag: refs/tags/@atproto/bsky@0.0.266, tag: refs/tags/@atproto/api@0.20.33)
 2026-07-23T12:41:06 ;   5d6dae261 ; git ; Support platform-specific Age Assurance config (#5261) ;
 2026-07-22T16:01:29 ;   a667bc204 ; 41898282+github-actions[bot] ; Version packages (#5258) ; (tag: refs/tags/@atproto/ozone@0.2.19, tag: refs/tags/@atproto/dev-env@0.5.37, tag: refs/tags/@atproto/bsky@0.0.265, tag: refs/tags/@atproto/api@0.20.32)

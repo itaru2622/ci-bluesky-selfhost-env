@@ -1,3 +1,17 @@
+2026-07-24T17:57:36 ;   afd267bd2 ; 4732330+estrattonbailey ; Nightly source-language update ;
+2026-07-24T10:40:37 ;   93cb42b9f ; 260543580+ds-boyce ; Tweak advanced search UI for better localization (#11266) ;
+2026-07-24T10:40:16 ;   549e3d7a7 ; 260543580+ds-boyce ; Fix issue where form controls appear above sticky headers (#11254) ;
+2026-07-24T19:43:38 ;   74a89832a ; mozzius ; v1.129.0 release prep (#11265) ; (tag: refs/tags/1.129.0)
+2026-07-24T17:40:46 ;   19b0d8931 ; mozzius ; Update `react-native-uitextview` (#11264) ;
+2026-07-24T08:46:59 ;   98e135f48 ; spencerfpope ; Fix native signup captcha interactions (#11263) ;
+2026-07-24T15:44:45 ;   fbb0ee38c ; mozzius ; Add hitslop to switch account ... menu (#11262) ;
+2026-07-24T05:48:55 ;   7bd27e418 ; git ; Add intl note on OTA flow (#11241) ;
+2026-07-24T03:48:39 ;   07a810945 ; 49699333+dependabot[bot] ; Bump github.com/hashicorp/go-retryablehttp from 0.7.5 to 0.7.7 in /bskyweb (#11257) ;
+2026-07-24T13:48:03 ;   63b284030 ; mozzius ; Fix Maestro E2E regressions on iOS and Android (#11258) ;
+2026-07-24T13:30:10 ;   3b6fbf315 ; mozzius ; Fix Maestro E2E runtime environment (#11247) ;
+2026-07-24T03:29:55 ;   97169dbc3 ; 260543580+ds-boyce ; Tweak appearance of trending topics (#11253) ;
+2026-07-24T06:09:01 ;   22a495832 ; tomekzawadzki98 ; Migrate `useScrollViewOffset` to `useScrollOffset` (#11250) ;
+2026-07-24T03:10:54 ;   a9df815bd ; 1270099+pfrazee ; Nightly source-language update ;
 2026-07-23T14:15:09 ;   a53df16e8 ; git ; Update API package and filter AA configs by platform (#11244) ;
 2026-07-23T21:17:36 ;   4e3d1704a ; mozzius ; Fix scroll forwarder web entrypoint (#11245) ;
 2026-07-23T10:26:47 ;   723a60e97 ; 260543580+ds-boyce ; Display post counts greater than 1,000 (#11242) ;
