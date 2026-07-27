@@ -1,0 +1,6 @@
+2026-07-27T17:04:26 ;   87e6a95c3 ; matthieusieben ; Fix list of oauth session not being accurate (#5273) ;
+2026-07-27T06:36:40 ;   602f4a819 ; chadtmiller15 ; Restore OAuth authorize flow step from URL on refresh (#5268) ;
+2026-07-27T04:58:58 ;   5d2943ea2 ; 89741438+AG0708 ; oauth: show connected app permission details (#5220) ;
+2026-07-27T13:51:16 ;   f13638096 ; matthieusieben ; oauth: propagate store errors in CachedGetter and SessionGetter (#5266) ;
+2026-07-27T04:35:28 ;   df275998a ; chadtmiller15 ; Use sign-in terminology consistently in OAuth UI (#5269) ;
+2026-07-27T04:25:22 ;   37989bb43 ; chadtmiller15 ; Resolve DID login_hint to the account handle on the authorization page (#5270) ;

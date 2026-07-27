@@ -1,3 +1,17 @@
+2026-07-27T21:31:58 ;   bbf760325 ; mozzius ; Fix Android pager crash during screen transitions (#11301) ;
+2026-07-27T19:20:10 ;   0e63434bb ; mozzius ; Reenable wake-from-background Android OTA (#11298) ;
+2026-07-27T19:19:33 ;   eb8f5fc4b ; mozzius ; Update sonner-native, remove patch (#11300) ;
+2026-07-27T19:09:48 ;   2ad84e540 ; mozzius ; Update react-native-uitextview (#11299) ;
+2026-07-27T17:52:10 ;   97c2c516b ; mozzius ; Downbump version to v1.129.1 (#11297) ;
+2026-07-27T17:51:55 ;   34827ef64 ; mozzius ; ci: only publish the per-PR OTA when the fingerprint is clean (#11287) ;
+2026-07-27T17:50:40 ;   691619f29 ; mozzius ; fix: stop grouping all signup failures into one sentry issue (#11278) ;
+2026-07-27T17:28:28 ;   c2e5a9093 ; mozzius ; Update play store assetlinks (#11294) ;
+2026-07-27T13:57:46 ;   9b89a9adb ; mozzius ; Remove unused ScrollForwarder React Native patches (#11295) ;
+2026-07-27T12:38:03 ;   22d657986 ; tomekzawadzki98 ; Fix IllegalStateException: Required value was null. (#11293) ;
+2026-07-27T13:16:31 ;   abde10b7b ; mozzius ; Fix tooltip layout measurement loop (#11284) ;
+2026-07-26T16:58:20 ;   51bcacb20 ; 54160+amckinley ; Publish one bundle version to both OTA origins, not two (#11291) ;
+2026-07-26T14:42:38 ;   b662cd43b ; 54160+amckinley ; Fix legacy ota1 OTA upload broken by the denis cutover (#11290) ;
+2026-07-27T00:03:45 ;   66ec855ef ; mozzius ; Add emoji to GitHub Actions step names for consistency (#11286) ;
 2026-07-26T23:07:41 ;   d9e76c395 ; mozzius ; Restore PR OTA QR comment (#11285) ;
 2026-07-26T23:07:20 ;   be70a31f4 ; mozzius ; Fix silently-frozen OTA fingerprint baseline with artifacts (#11231) ;
 2026-07-26T21:00:35 ;   2b9deeeb6 ; tomekzawadzki98 ; Migrate `runOnUI`/`runOnJS` to `scheduleOnUI`/`scheduleOnRN` (#11249) ;
