@@ -1,3 +1,15 @@
+2026-07-28T19:47:56 ;   0751420a2 ; mozzius ; Drop `react-native-progress` fork (#11312) ;
+2026-07-28T17:17:29 ;   8263175a0 ; 63914185+abulenok ; Fix caret misplaced upon pressing Return when using Japanese symbols … (#11316) ;
+2026-07-28T07:05:42 ;   2f36a6de5 ; 49699333+dependabot[bot] ; Bump slackapi/slack-github-action from 3.0.5 to 4.0.0 (#11307) ;
+2026-07-28T16:59:17 ;   de348db11 ; mozzius ; Show a non-standard OTA channel notice in the drawer (#11288) ;
+2026-07-28T16:58:51 ;   8a6347ad7 ; mozzius ; Restore version to v1.130.0 (#11314) ;
+2026-07-28T09:43:11 ;   82c505f28 ; mozzius ; v1.129.1 Release Prep (#11303) ; (tag: refs/tags/1.129.1)
+2026-07-27T23:36:29 ;   ffdfb3c0e ; 49699333+dependabot[bot] ; Bump actions/setup-go from 6.5.0 to 7.0.0 (#11306) ;
+2026-07-27T23:36:01 ;   aa06d68ca ; 49699333+dependabot[bot] ; Bump the actions group with 6 updates (#11305) ;
+2026-07-28T03:10:21 ;   3ddb4a419 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-07-27T17:06:10 ;   e4ba1b437 ; 260543580+ds-boyce ; Add trendingTopic:seen metric (#11309) ;
+2026-07-27T16:34:15 ;   a5f0e8839 ; 260543580+ds-boyce ; Update trending topics UI (#11304) ;
+2026-07-27T15:18:43 ;   d9eacc3d9 ; 260543580+ds-boyce ; Fix keyboard activation for signin button (#11308) ;
 2026-07-27T21:31:58 ;   bbf760325 ; mozzius ; Fix Android pager crash during screen transitions (#11301) ;
 2026-07-27T19:20:10 ;   0e63434bb ; mozzius ; Reenable wake-from-background Android OTA (#11298) ;
 2026-07-27T19:19:33 ;   eb8f5fc4b ; mozzius ; Update sonner-native, remove patch (#11300) ;

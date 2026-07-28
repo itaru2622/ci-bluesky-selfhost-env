@@ -1,3 +1,9 @@
+2026-07-28T04:14:12 ;   d3bbeb5fe ; 80794197+arjxnt ; Fix lexiconDoc safeParse errors (#5204) ;
+2026-07-28T04:12:44 ;   ccb57ef6f ; 80794197+arjxnt ; Mark createDraft id as TID (#5203) ;
+2026-07-28T04:07:30 ;   2de1da2ff ; 80794197+arjxnt ; Find nested lex-cli input files (#5205) ;
+2026-07-28T01:08:39 ;   d6921289c ; chadtmiller15 ; Remove the ↗ marker appended to external links in the OAuth UI (#5275) ;
+2026-07-28T01:08:14 ;   0e773f334 ; chadtmiller15 ; Fix missing list bullets on the OAuth account About page at mobile widths (#5274) ;
+2026-07-28T10:01:19 ;   28caa70dd ; matthieusieben ; Use Suspense boundaries to show loading status in example app (#5188) ;
 2026-07-27T17:04:26 ;   87e6a95c3 ; matthieusieben ; Fix list of oauth session not being accurate (#5273) ;
 2026-07-27T06:36:40 ;   602f4a819 ; chadtmiller15 ; Restore OAuth authorize flow step from URL on refresh (#5268) ;
 2026-07-27T04:58:58 ;   5d2943ea2 ; 89741438+AG0708 ; oauth: show connected app permission details (#5220) ;
