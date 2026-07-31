@@ -1,3 +1,7 @@
+2026-07-31T10:01:14 ;   f99a17bb6 ; 260543580+ds-boyce ; Add additional tests for groupNotifications (#11332) ;
+2026-07-31T19:39:26 ;   ce2812967 ; mozzius ; Add nicer loading screen while OTA is loading (#9499) ;
+2026-07-31T17:55:08 ;   87a177bbe ; 63914185+abulenok ; Fix profile badge sometimes displayed below on Android (#11337) ;
+2026-07-31T03:11:52 ;   03f8020ee ; 1270099+pfrazee ; Nightly source-language update ;
 2026-07-30T23:30:42 ;   07c34a654 ; mozzius ; Fix PR OTA deployments reverting after apply (#11338) ;
 2026-07-30T20:44:45 ;   1c02724ac ; 149612116+surfdude29 ; Use Spanish for Aragonese `intl-displaynames` (#11327) ;
 2026-07-30T17:40:49 ;   17c1ee486 ; mozzius ; Handle PR OTA version mismatches and failures (#11330) ;
