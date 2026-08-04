@@ -1,3 +1,6 @@
+2026-08-04T19:47:31 ;   ec49988fa ; szijartoleventepal ; Add unique context to ‘People I follow’ in FromDropdown.tsx (#11275) ;
+2026-08-04T10:45:44 ;   f1cfa37ba ; spencerfpope ; APP-2764: Remove unnecessary top padding on GIF posts (#11321) ;
+2026-08-04T03:10:42 ;   a1f094534 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-08-03T23:33:04 ;   863fdcd8c ; 49699333+dependabot[bot] ; Bump the actions group with 6 updates (#11370) ;
 2026-08-03T18:00:25 ;   1cc942a86 ; mozzius ; Classify report dialog errors (#11354) ;
 2026-08-03T16:26:06 ;   e99e04a45 ; mozzius ; Simplify inline badge presentation, fix alignment (#11352) ;
