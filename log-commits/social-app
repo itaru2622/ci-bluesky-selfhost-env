@@ -1,3 +1,10 @@
+2026-08-05T12:20:43 ;   b79908ece ; git ; Add canonical OP thread numbering (#11184) ;
+2026-08-05T12:12:03 ;   8cb6c7bab ; spencerfpope ; display backend-driven upload failure messages (#11329) ;
+2026-08-05T10:15:26 ;   32ec5330b ; spencerfpope ; Enrich fatal HLS errors in Sentry (#11359) ;
+2026-08-05T10:15:16 ;   17a8fe87c ; spencerfpope ; APP-2793: harden multipart video uploads (#11366) ;
+2026-08-05T10:15:06 ;   0ccc02971 ; spencerfpope ; Allow feature-gated 10-minute video uploads (#11388) ;
+2026-08-05T03:10:14 ;   5db6b4e2f ; 1270099+pfrazee ; Nightly source-language update ;
+2026-08-04T14:57:43 ;   5494f7deb ; abenzer ; Test requiring at least one interest in onboarding (#11391) ;
 2026-08-04T19:47:31 ;   ec49988fa ; szijartoleventepal ; Add unique context to ‘People I follow’ in FromDropdown.tsx (#11275) ;
 2026-08-04T10:45:44 ;   f1cfa37ba ; spencerfpope ; APP-2764: Remove unnecessary top padding on GIF posts (#11321) ;
 2026-08-04T03:10:42 ;   a1f094534 ; 1270099+pfrazee ; Nightly source-language update ;

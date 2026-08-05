@@ -1,3 +1,5 @@
+2026-08-05T20:51:59 ;   b767720b9 ; 198982749+Copilot ; feat(lex-password-session): export `extractPdsEndpoint` as public API (#5320) ;
+2026-08-05T20:39:16 ;   3290623c3 ; matthieusieben ; Use a single project as import-x/resolver-next eslint setting (#5326) ;
 2026-08-04T10:27:41 ;   5043c7a1c ; devinivy ; Adopt TypeScript 7 stable and tune editor/lint config (#5306) ;
 2026-08-04T14:13:06 ;   2021690f2 ; 9767434+nilaallj ; Update Swedish translations (#5310) ;
 2026-08-04T10:02:06 ;   aad541bb0 ; 9767434+nilaallj ; i18n: Add plural formatting to relevant strings + fix string concatenation issues (#5296) ;
