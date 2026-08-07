@@ -1,3 +1,15 @@
+2026-08-06T17:36:08 ;   b66870d5a ; matthieusieben ; Replace DataDog with OTEL in the PDS (#4805) ;
+2026-08-06T15:46:11 ;   07f4e3eab ; 41898282+github-actions[bot] ; Version packages (#5307) ; (tag: refs/tags/@atproto/xrpc@0.8.10, tag: refs/tags/@atproto/xrpc-server@0.12.1, tag: refs/tags/@atproto/tap@0.4.1, tag: refs/tags/@atproto/syntax@0.7.4, tag: refs/tags/@atproto/sync@0.4.1, tag: refs/tags/@atproto/repo@0.10.9, tag: refs/tags/@atproto/pds@0.5.25, tag: refs/tags/@atproto/ozone@0.2.25, tag: refs/tags/@atproto/oauth-scopes@0.5.9, tag: refs/tags/@atproto/oauth-provider@0.21.3, tag: refs/tags/@atproto/oauth-provider-ui@0.8.11, tag: refs/tags/@atproto/oauth-provider-api@0.7.9, tag: refs/tags/@atproto/oauth-client@0.8.3, tag: refs/tags/@atproto/oauth-client-node@0.5.3, tag: refs/tags/@atproto/oauth-client-expo@0.1.12, tag: refs/tags/@atproto/oauth-client-browser@0.5.3, tag: refs/tags/@atproto/lexicon@0.7.11, tag: refs/tags/@atproto/lexicon-resolver@0.4.14, tag: refs/tags/@atproto/lex@0.3.4, tag: refs/tags/@atproto/lex-server@0.1.13, tag: refs/tags/@atproto/lex-schema@0.2.5, tag: refs/tags/@atproto/lex-resolver@0.2.6, tag: refs/tags/@atproto/lex-password-session@0.2.0, tag: refs/tags/@atproto/lex-installer@0.1.13, tag: refs/tags/@atproto/lex-document@0.1.9, tag: refs/tags/@atproto/lex-client@0.3.3, tag: refs/tags/@atproto/lex-cli@0.10.10, tag: refs/tags/@atproto/lex-builder@0.1.11, tag: refs/tags/@atproto/identity@0.5.9, tag: refs/tags/@atproto/dev-env@0.5.43, tag: refs/tags/@atproto/common@0.7.5, tag: refs/tags/@atproto/common-web@0.5.9, tag: refs/tags/@atproto/bsync@0.0.39, tag: refs/tags/@atproto/bsky@0.0.271, tag: refs/tags/@atproto/aws@0.3.11, tag: refs/tags/@atproto/api@0.20.38, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.14)
+2026-08-06T13:05:13 ;   8145a999e ; 43081j ; chore: remove typed-emitter (#5340) ;
+2026-08-06T10:55:46 ;   d8bc22f40 ; matthieusieben ; Dependabot flow fine tuning v2 (#5339) ;
+2026-08-06T10:51:32 ;   675953e8c ; foysal ; :sparkles: Add recommended policy config in queue (#5293) ;
+2026-08-06T09:57:18 ;   021eeaec4 ; matthieusieben ; Dependabot flow fine tuning (#5331) ;
+2026-08-06T09:32:36 ;   29b46b591 ; matthieusieben ; configure debendabot (#5308) ;
+2026-08-06T09:27:44 ;   825dd9bef ; matthieusieben ; Start adopting isolatedDeclarations TypeScript option (#5309) ;
+2026-08-06T09:13:31 ;   920a27ec2 ; matthieusieben ; lex-sdk skill rework (#5312) ;
+2026-08-06T09:13:11 ;   8bf8f6b1f ; matthieusieben ; Remove unused `@atproto/xrpc` PDS dependency (#5315) ;
+2026-08-06T09:12:48 ;   8b55a4ab6 ; matthieusieben ; Allow moderators to call `app.bsky.actor.getPreferences` PDS endpoint (#5318) ;
+2026-08-05T18:54:38 ;   c677bf393 ; rafaeleyng ; fix bsync service image (#5327) ;
 2026-08-05T20:51:59 ;   b767720b9 ; 198982749+Copilot ; feat(lex-password-session): export `extractPdsEndpoint` as public API (#5320) ;
 2026-08-05T20:39:16 ;   3290623c3 ; matthieusieben ; Use a single project as import-x/resolver-next eslint setting (#5326) ;
 2026-08-04T10:27:41 ;   5043c7a1c ; devinivy ; Adopt TypeScript 7 stable and tune editor/lint config (#5306) ;

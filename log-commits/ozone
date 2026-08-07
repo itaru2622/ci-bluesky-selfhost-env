@@ -1,1 +1,5 @@
+2026-08-06T18:03:47 ;   d96fe1e ; foysal ; :sparkles: Add recommended policy config in queue (#549) ;
+2026-08-06T10:03:49 ;   cf81b82 ; gcwill70 ; reports: reset action UI on action click (#556) ;
+2026-08-06T10:43:33 ;   9bb9ca5 ; foysal ; :bug: Fix assignee display in report view (#548) ;
+2026-08-06T10:42:07 ;   469dafc ; foysal ; :sparkles: Add support for video timestamp in report (#546) ;
 2026-08-05T19:03:56 ;   8e4b52d ; foysal ; :lipstick: Show action row warning based on assignment status (#552) ;
