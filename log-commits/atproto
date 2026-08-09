@@ -1,0 +1,2 @@
+2026-08-09T12:59:42 ;   252a28843 ; 54160+amckinley ; Disable AppView blob retries for HTTP 429 (#5353) ;
+2026-08-09T12:42:31 ;   063dba438 ; 54160+amckinley ; Limit AppView blob retries for HTTP 429 (#5351) ;
