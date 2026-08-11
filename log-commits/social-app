@@ -1,2 +1,8 @@
+2026-08-11T14:30:59 ;   9d5e63478 ; michael.black ; Disallow robots crawling compose intent paths (#11443) ;
+2026-08-11T12:21:05 ;   8c54f01b3 ; 260543580+ds-boyce ; Fix appearance of post numbers on image posts (#11446) ;
+2026-08-11T16:53:57 ;   17d5dcebf ; mozzius ; Update pnpm to 11.21.0 (#11427) ;
+2026-08-11T06:30:41 ;   87548a657 ; 49699333+dependabot[bot] ; Bump the actions group with 4 updates (#11435) ;
+2026-08-11T15:26:52 ;   2a4378c40 ; tomekzawadzki98 ; perf: skip minute-tick subscription for actors without a live status (#11441) ;
+2026-08-10T16:34:13 ;   89cb08e93 ; 54160+amckinley ; claude: use Opus 4.8 for GitHub workflows (#11436) ;
 2026-08-10T19:21:37 ;   44a44e86b ; mozzius ; Bump version to v1.131.0 (#11429) ;
 2026-08-10T08:16:53 ;   892dcf65c ; 54160+amckinley ; Route Claude workflows through Agent Gateway (#11428) ;

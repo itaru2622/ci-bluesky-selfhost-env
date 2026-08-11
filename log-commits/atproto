@@ -1,3 +1,14 @@
+2026-08-11T09:20:05 ;   b47f3799a ; chadtmiller15 ; Center the redirect message on the post-authorization OAuth screen (#5361) ;
+2026-08-11T11:02:53 ;   d4400d869 ; 41898282+github-actions[bot] ; Version packages (#5352) ; (tag: refs/tags/@atproto/xrpc-server@0.12.3, tag: refs/tags/@atproto/ws-client@0.2.1, tag: refs/tags/@atproto/tap@0.4.3, tag: refs/tags/@atproto/sync@0.4.3, tag: refs/tags/@atproto/pds@0.5.27, tag: refs/tags/@atproto/ozone@0.2.27, tag: refs/tags/@atproto/oauth-provider@0.22.1, tag: refs/tags/@atproto/oauth-provider-ui@0.9.1, tag: refs/tags/@atproto/lex-server@0.1.14, tag: refs/tags/@atproto/dev-env@0.6.0, tag: refs/tags/@atproto/bsky@0.0.273, tag: refs/tags/@atproto/api@0.20.39, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.16)
+2026-08-11T10:21:21 ;   b2de0ee1c ; michael.black ; Increase video embed size limit to 300mb (#5373) ;
+2026-08-11T09:47:53 ;   098cdd7dc ; michael.black ; Fix PDS uploadBlob request stream stalls (#5360) ;
+2026-08-11T10:06:40 ;   aadb10349 ; rafaeleyng ; Fix flaky tests (#5359) ;
+2026-08-11T14:45:34 ;   b4d71fc24 ; 49699333+dependabot[bot] ; Bump react-error-boundary from 5.0.0 to 6.1.2 (#5334) ;
+2026-08-10T19:28:12 ;   bd32a32d7 ; 54160+amckinley ; Serialize stale test port cleanup (#5369) ;
+2026-08-10T19:21:02 ;   ed2317e2c ; 54160+amckinley ; ozone: fix stats advisory lock lifecycle (#5368) ;
+2026-08-10T17:58:33 ;   63826b9d6 ; 54160+amckinley ; Stabilize cross-process test infrastructure (#5367) ;
+2026-08-10T17:56:30 ;   9821c3a9f ; 54160+amckinley ; claude: use Opus 4.8 for GitHub workflows (#5363) ;
+2026-08-10T17:38:50 ;   5c31425e7 ; 54160+amckinley ; ozone: stabilize materialized view refresh tests (#5364) ;
 2026-08-10T18:31:40 ;   55c5a5d9c ; 49699333+dependabot[bot] ; Bump the actions group across 1 directory with 10 updates (#5329) ;
 2026-08-10T08:55:02 ;   3ec2ac4fd ; 54160+amckinley ; Route Claude reviews through Agent Gateway (#5358) ;
 2026-08-10T11:38:33 ;   aa720259c ; rafaeleyng ; Refill filtered follower pages (#5356) ;
