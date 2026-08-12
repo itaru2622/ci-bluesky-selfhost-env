@@ -1,3 +1,14 @@
+2026-08-12T14:48:23 ;   3d736c76b ; michael.black ; APP-2829 Update video lexicon and beta features for 10-minute uploads (#11445) ;
+2026-08-12T19:03:54 ;   9b0adcb55 ; mozzius ; Fix starter pack icon in profile menu (#11452) ;
+2026-08-12T08:59:21 ;   bd5e56ce2 ; 260543580+ds-boyce ; Include user's handle in beta features feedback (#11432) ;
+2026-08-12T08:54:29 ;   34a7bc72a ; abenzer ; Client events for beta features settings page (#11439) ;
+2026-08-12T08:54:01 ;   4ed34cb24 ; 260543580+ds-boyce ; Fix frozen unknown device ID for new accounts (#11449) ;
+2026-08-12T16:47:03 ;   34274647f ; mozzius ; Separate landing illustrations from splash assets (#11453) ;
+2026-08-12T15:49:31 ;   1f3c619dd ; mozzius ; Add asset licensing notices (#11397) ;
+2026-08-12T07:30:14 ;   98fa8eafd ; jeffrey.gleason.3 ; algo team reply feedback (#11444) ;
+2026-08-12T02:58:39 ;   e7d82063a ; 1270099+pfrazee ; Nightly source-language update ;
+2026-08-11T13:57:48 ;   b801a24ef ; 260543580+ds-boyce ; Fix layout jog when rendering post numbers (#11447) ;
+2026-08-11T13:57:18 ;   82db01fc6 ; 260543580+ds-boyce ; Prevent last line of post text from being clipped on Android (#11433) ;
 2026-08-11T14:30:59 ;   9d5e63478 ; michael.black ; Disallow robots crawling compose intent paths (#11443) ;
 2026-08-11T12:21:05 ;   8c54f01b3 ; 260543580+ds-boyce ; Fix appearance of post numbers on image posts (#11446) ;
 2026-08-11T16:53:57 ;   17d5dcebf ; mozzius ; Update pnpm to 11.21.0 (#11427) ;
