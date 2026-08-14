@@ -1,3 +1,8 @@
+2026-08-14T12:58:55 ;   221c4d9c5 ; 260543580+ds-boyce ; Fix size of post numbers with emoji-only posts (#11471) ;
+2026-08-14T20:34:25 ;   bd920d80e ; mozzius ; Fix `lab_*` preferences (#11470) ;
+2026-08-14T14:37:11 ;   2d9327395 ; 63914185+abulenok ; Fix metro failing to resolve @ipld/dag-cbor in dev mode (#11467) ;
+2026-08-14T10:21:52 ;   70195d705 ; mozzius ; Drop accidental eslint dependency (#11460) ;
+2026-08-14T03:00:15 ;   afb3cdc26 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-08-13T22:26:23 ;   bb33eb91c ; mozzius ; [SDK] Use finalised package (#11398) ;
 2026-08-13T22:26:23 ;   b89167f07 ; mozzius ; [SDK] Address stack review feedback (#11389) ;
 2026-08-13T22:26:22 ;   3677c9887 ; mozzius ; [SDK] Validate and brand the persisted account did (#11387) ;

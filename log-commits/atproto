@@ -1,3 +1,17 @@
+2026-08-14T12:30:43 ;   a1fa25e17 ; 260543580+ds-boyce ; Pass beta user state to GrowthBook (#5409) ;
+2026-08-14T09:07:57 ;   1307a874f ; 260543580+ds-boyce ; Fix DID-targeted feature gates on feed endpoints (#5402) ;
+2026-08-14T12:36:23 ;   0564468e3 ; matthieusieben ; fix dockerfiles (#5404) ;
+2026-08-14T12:31:32 ;   24abd96cc ; 41898282+github-actions[bot] ; Version packages (#5392) ; (tag: refs/tags/@atproto/xrpc-server@0.12.5, tag: refs/tags/@atproto/sync@0.4.5, tag: refs/tags/@atproto/pds@0.5.29, tag: refs/tags/@atproto/ozone@0.2.29, tag: refs/tags/@atproto/oauth-provider@0.22.3, tag: refs/tags/@atproto/oauth-provider-ui@0.10.0, tag: refs/tags/@atproto/dev-env@0.6.2, tag: refs/tags/@atproto/bsky@0.0.275, tag: refs/tags/@atproto/aws@0.3.14, tag: refs/tags/@atproto/api@0.20.41, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.18, tag: refs/tags/@atproto-labs/opentelemetry-node@0.1.0)
+2026-08-14T03:18:18 ;   cded70638 ; 31628630+IdkGoodName ; fix(pds): receiving `InvalidRequest` instead of `HandleNotFound` (#5314) ;
+2026-08-14T03:17:03 ;   6631add61 ; chadtmiller15 ; Update oauth provider ui routing (#5347) ;
+2026-08-14T12:15:24 ;   b2d9a7715 ; matthieusieben ; Add OLTP guidelines (#5399) ;
+2026-08-14T12:15:01 ;   aff31c815 ; matthieusieben ; Factorize OTEL setup into `@atproto/opentelemetry-node` package (#5397) ;
+2026-08-14T04:58:57 ;   5c3b7c9c8 ; 85648028+dreyfus92 ; chore: replace key-encoder with native JWK import and `@noble/curves` (#5348) ;
+2026-08-14T16:33:12 ;   1f3f67c4b ; 148872143+mary-ext ; Remove character limits from video alt text (#5350) ;
+2026-08-14T11:26:08 ;   674e4e832 ; 9767434+nilaallj ; Update Swedish locale (#5401) ;
+2026-08-14T12:25:54 ;   7d83e7d27 ; laszlotamas108yahoo.com ; Add Romanian (ro) localization (#5394) ;
+2026-08-14T02:25:14 ;   5db35fc18 ; chadtmiller15 ; Stop the reset-password screen repeating itself (#5400) ;
+2026-08-14T11:11:15 ;   066e1b4d6 ; matthieusieben ; Add default OTEL resource attributes (name, namespace, version, env n… (#5396) ;
 2026-08-13T06:13:45 ;   f5a0af446 ; chadtmiller15 ; Simplify the sign-up username step (#5366) ;
 2026-08-13T06:13:19 ;   795f2c1f5 ; chadtmiller15 ; Show current account values on narrow viewports (#5377) ;
 2026-08-13T15:12:44 ;   924bb410e ; matthieusieben ; Fix `rebuild-repo` PDS script. Type check services ts files. (#5390) ;
