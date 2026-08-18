@@ -1,3 +1,10 @@
+2026-08-18T22:11:09 ;   929af7d8b ; 63914185+abulenok ; Add statsOptions to Webpack configuration (#11495) ;
+2026-08-18T09:50:15 ;   cc3622b58 ; 260543580+ds-boyce ; Send beta user state with AppView requests (#11474) ;
+2026-08-18T16:46:11 ;   45aa1a67b ; 63914185+abulenok ; Expo 57 (#11334) ; (tag: refs/tags/1.131.0)
+2026-08-18T09:26:50 ;   7f59d8fcf ; spencerfpope ; APP-2859 Add web list performance telemetry (#11486) ;
+2026-08-18T09:26:26 ;   df3cea1c7 ; spencerfpope ; APP-2884: Avoid base64 reads for web videos (#11493) ;
+2026-08-18T11:29:23 ;   e87ec032c ; 63914185+abulenok ; Truncate gif alt text to 2000 symbols (#11488) ;
+2026-08-18T02:29:23 ;   3b7284a86 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-08-17T09:55:45 ;   01486d27e ; 260543580+ds-boyce ; Add pagination to feed search (#11475) ;
 2026-08-17T19:26:16 ;   fd86a7d3d ; mozzius ; Fix asset licensing notices (#11468) ;
 2026-08-17T02:32:20 ;   4562ca8e3 ; 1270099+pfrazee ; Nightly source-language update ;
