@@ -1,3 +1,15 @@
+2026-08-19T12:38:48 ;   cc26e5a09 ; 54160+amckinley ; Log slow Blink database operations (#11505) ;
+2026-08-19T20:53:35 ;   a32989955 ; mozzius ; Fix HLS playback in Chrome embeds (#11506) ;
+2026-08-19T19:37:41 ;   9d363e983 ; mozzius ; Fix MMKV persistence in Metro builds (#11504) ;
+2026-08-19T17:37:01 ;   c19fec3f4 ; mozzius ; Invert password reveal eye icon (#11365) ;
+2026-08-19T17:34:45 ;   11c80a1fb ; mozzius ; Fix profile handle resolution errors (#11503) ;
+2026-08-19T16:53:17 ;   e113da50d ; mozzius ; Bump version to v1.132.0 (#11502) ;
+2026-08-19T15:31:29 ;   14f8ee10f ; tomekzawadzki98 ; Bump React Compiler to stable 1.0.0 (#11450) ;
+2026-08-19T15:28:53 ;   0e0415933 ; tomekzawadzki98 ; Unblock React Compiler for PostFeed (#11451) ;
+2026-08-19T16:27:41 ;   04ca3f982 ; mozzius ; Only persist successful queries (#11484) ;
+2026-08-19T06:27:26 ;   c328b9b6a ; 49699333+dependabot[bot] ; Bump anthropics/claude-code-action from 1.0.189 to 1.0.190 in the actions group (#11489) ;
+2026-08-19T16:26:58 ;   51381d41b ; mozzius ; Clear the cached initial URL after handling a deep link (#11500) ;
+2026-08-19T02:30:40 ;   c4172cef9 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-08-18T22:11:09 ;   929af7d8b ; 63914185+abulenok ; Add statsOptions to Webpack configuration (#11495) ;
 2026-08-18T09:50:15 ;   cc3622b58 ; 260543580+ds-boyce ; Send beta user state with AppView requests (#11474) ;
 2026-08-18T16:46:11 ;   45aa1a67b ; 63914185+abulenok ; Expo 57 (#11334) ; (tag: refs/tags/1.131.0)
