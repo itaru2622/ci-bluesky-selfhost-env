@@ -1,3 +1,10 @@
+2026-08-20T13:16:31 ;   21a2c3d6f ; 54160+amckinley ; Add graceful shutdown to Blink (#11523) ;
+2026-08-20T17:56:50 ;   a892057e2 ; tomekzawadzki98 ; Fix "Tried to synchronously call a Remote Function" crash (#11517) ;
+2026-08-20T08:50:12 ;   56e16fcdf ; 54160+amckinley ; Add Blink Prometheus listener (#11509) ;
+2026-08-20T08:46:03 ;   3f7cf5b59 ; spencerfpope ; Drop package.json version (#11516) ; (tag: refs/tags/1.131.1)
+2026-08-20T15:40:34 ;   11631c2f4 ; mozzius ; Revert "Bump React Compiler to stable 1.0.0" (#11512) ;
+2026-08-19T20:15:18 ;   674f73b81 ; michael.black ; Omit non-positive SEO comment counts (#11508) ;
+2026-08-19T19:55:50 ;   6406a2ef4 ; spencerfpope ; translations (#11511) ;
 2026-08-19T12:38:48 ;   cc26e5a09 ; 54160+amckinley ; Log slow Blink database operations (#11505) ;
 2026-08-19T20:53:35 ;   a32989955 ; mozzius ; Fix HLS playback in Chrome embeds (#11506) ;
 2026-08-19T19:37:41 ;   9d363e983 ; mozzius ; Fix MMKV persistence in Metro builds (#11504) ;
