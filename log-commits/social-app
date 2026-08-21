@@ -1,3 +1,9 @@
+2026-08-21T21:12:14 ;   f48fab872 ; 57507616+RetroSunstar ; Adds a small padding for labeller avatars in group chat 'Add people' selector (#11422) ;
+2026-08-21T20:32:15 ;   06cb80a4c ; mozzius ; [AA] Set `maxAge: Infinity` on age assurance cache (#11526) ;
+2026-08-21T18:21:40 ;   44affaa6d ; tomekzawadzki98 ; Reland "Bump React Compiler to stable 1.0.0" (#11525) ;
+2026-08-21T11:57:21 ;   63f0d4d31 ; 63914185+abulenok ; Fix hairline divider not visible (#11518) ;
+2026-08-21T10:17:04 ;   e0dd8eaed ; mozzius ; Back to v1.132.0 (#11522) ;
+2026-08-20T13:38:00 ;   34f38c827 ; 54160+amckinley ; Make Safelink event replay idempotent (#11524) ;
 2026-08-20T13:16:31 ;   21a2c3d6f ; 54160+amckinley ; Add graceful shutdown to Blink (#11523) ;
 2026-08-20T17:56:50 ;   a892057e2 ; tomekzawadzki98 ; Fix "Tried to synchronously call a Remote Function" crash (#11517) ;
 2026-08-20T08:50:12 ;   56e16fcdf ; 54160+amckinley ; Add Blink Prometheus listener (#11509) ;
