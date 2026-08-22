@@ -1,4 +1,0 @@
-2026-08-14T22:11:36 ;   3a31f57 ; austin ; Fix Dependabot Node major hold ;
-2026-08-14T22:05:36 ;   36cb2a3 ; austin ; Hold Node 26 until LTS ;
-2026-08-14T21:58:45 ;   8f579a3 ; austin ; Update container runtime to Node 22 ;
-2026-08-14T21:06:03 ;   cd634ae ; austin ; Enable Docker base image updates ;
