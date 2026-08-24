@@ -1,0 +1,3 @@
+2026-08-24T19:18:24 ;   45a1480 ; matthieusieben ; Merge pull request #153 from jcalabro/jc/reject-non-did-plc ;
+2026-08-21T17:46:18 ;   937f9f6 ; jamesrcalabro ; code review feedback ;
+2026-08-21T13:34:44 ;   205fb01 ; jamesrcalabro ; fix: reject invalid DID reads before database lookup ;

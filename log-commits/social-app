@@ -1,0 +1,5 @@
+2026-08-24T11:40:15 ;   6b35d3de1 ; 260543580+ds-boyce ; Revert "Send beta user state with AppView requests (#11474)" (#11510) ;
+2026-08-24T11:39:46 ;   6f46927c2 ; 260543580+ds-boyce ; Overfetch trending topics before filtering (#11477) ;
+2026-08-24T09:34:45 ;   6009e61ae ; spencerfpope ; [APP-2922] Fix cached starter pack navigation (#11531) ;
+2026-08-24T02:34:37 ;   97a85bb73 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-08-23T20:23:38 ;   5e01a6c7e ; spencerfpope ; Explain trending topics in options menu (#11521) ;
