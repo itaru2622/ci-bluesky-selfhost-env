@@ -1,1 +1,3 @@
+2026-08-25T11:50:43 ;   79d911fc2 ; matthieusieben ; Generate "token" as string values (in addition to the type) (#5439) ;
+2026-08-25T11:50:07 ;   6af9f141d ; matthieusieben ; Allow using `string` value as `toDatetimeString` input (#5441) ;
 2026-08-24T13:40:11 ;   54ea1c627 ; 49699333+dependabot[bot] ; Bump @changesets/changelog-github from 0.7.0 to 1.0.0 (#5418) ;

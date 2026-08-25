@@ -1,3 +1,11 @@
+2026-08-25T11:48:27 ;   f968c9e72 ; 260543580+ds-boyce ; Add OP thread numbering to feed posts (#11472) ;
+2026-08-25T10:59:48 ;   7750882fd ; spencerfpope ; [APP-2864] Use hydrated known likers (#11541) ;
+2026-08-25T09:40:14 ;   f87fdd2ea ; mozzius ; Enable React Native strict TypeScript API (#11459) ;
+2026-08-25T02:30:39 ;   5f3d24efa ; 1270099+pfrazee ; Nightly source-language update ;
+2026-08-24T17:40:18 ;   56bff4554 ; 49699333+dependabot[bot] ; Bump the actions group with 2 updates (#11537) ;
+2026-08-25T01:34:30 ;   f1190ce68 ; 149612116+surfdude29 ; Update tech stack versions and fix markdown in CLAUDE.md  (#11530) ;
+2026-08-25T03:34:16 ;   cf2684b0d ; mozzius ; Send an integer exp for video upload service auth tokens (#11529) ;
+2026-08-25T03:28:56 ;   95f536001 ; mozzius ; Fix iOS message input height after sending (#11533) ;
 2026-08-24T11:40:15 ;   6b35d3de1 ; 260543580+ds-boyce ; Revert "Send beta user state with AppView requests (#11474)" (#11510) ;
 2026-08-24T11:39:46 ;   6f46927c2 ; 260543580+ds-boyce ; Overfetch trending topics before filtering (#11477) ;
 2026-08-24T09:34:45 ;   6009e61ae ; spencerfpope ; [APP-2922] Fix cached starter pack navigation (#11531) ;
