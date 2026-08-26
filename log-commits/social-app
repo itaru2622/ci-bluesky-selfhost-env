@@ -1,3 +1,14 @@
+2026-08-26T21:46:32 ;   206a932c5 ; mozzius ; Fix auto handle resolution during sign in (#11567) ;
+2026-08-26T20:13:51 ;   a0ed2da00 ; mozzius ; Fix starter pack navigation from search and explore (#11563) ;
+2026-08-26T15:48:46 ;   ed4126f5a ; 10959775+mozzius ; Nightly source-language update ;
+2026-08-26T11:45:28 ;   59082016e ; spencerfpope ; Update algorithmic recommendations helper text (#11546) ;
+2026-08-26T10:03:43 ;   c44f329b5 ; michael.black ; Update video embed lexicon (#11559) ;
+2026-08-26T16:57:58 ;   057f97ce1 ; mozzius ; Fix `URL.canParse` in older browsers (#11557) ;
+2026-08-26T06:35:35 ;   8df64fcac ; 260543580+ds-boyce ; Fix site initialization in older versions of Safari (#11553) ;
+2026-08-26T02:35:19 ;   5b88335bb ; 1270099+pfrazee ; Nightly source-language update ;
+2026-08-25T18:46:25 ;   196f41b52 ; 54160+amckinley ; Remove legacy ota1 publisher (#11554) ;
+2026-08-26T00:38:33 ;   a9c502c8c ; mozzius ; Remove multipart upload and 10-minute video feature gates (#11528) ;
+2026-08-25T13:31:13 ;   5118748cb ; 260543580+ds-boyce ; Create moderation inbox menu item and feature gate (#11552) ;
 2026-08-25T11:48:27 ;   f968c9e72 ; 260543580+ds-boyce ; Add OP thread numbering to feed posts (#11472) ;
 2026-08-25T10:59:48 ;   7750882fd ; spencerfpope ; [APP-2864] Use hydrated known likers (#11541) ;
 2026-08-25T09:40:14 ;   f87fdd2ea ; mozzius ; Enable React Native strict TypeScript API (#11459) ;
