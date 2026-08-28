@@ -1,3 +1,11 @@
+2026-08-27T17:19:40 ;   5eb5ac480 ; 149612116+surfdude29 ; Fix support link cutoff in signup footer on mobile (#11059) ;
+2026-08-27T19:14:18 ;   9d76e4260 ; mozzius ; APP-2971: Fix onboarding avatar compression after Expo 57 (#11580) ;
+2026-08-27T19:06:58 ;   41f2d203c ; mozzius ; Handle AppView errors after quote posts (#11579) ;
+2026-08-27T12:35:38 ;   cfd6d1e07 ; rafaeleyng ; Fix pagination (#11448) ;
+2026-08-27T17:10:10 ;   f298a4ef5 ; tomekzawadzki98 ; Unblock React Compiler for 6 components by removing render-phase ref access (#11544) ;
+2026-08-27T17:07:34 ;   b9bff931a ; tomekzawadzki98 ; Unblock React Compiler for 4 components with deferred ref access (#11549) ;
+2026-08-27T17:06:01 ;   296b74d78 ; tomekzawadzki98 ; Unblock React Compiler for 13 components by hoisting finally blocks (#11540) ;
+2026-08-26T23:37:52 ;   c4c999ff4 ; 4732330+estrattonbailey ; Nightly source-language update ;
 2026-08-26T21:46:32 ;   206a932c5 ; mozzius ; Fix auto handle resolution during sign in (#11567) ;
 2026-08-26T20:13:51 ;   a0ed2da00 ; mozzius ; Fix starter pack navigation from search and explore (#11563) ;
 2026-08-26T15:48:46 ;   ed4126f5a ; 10959775+mozzius ; Nightly source-language update ;
