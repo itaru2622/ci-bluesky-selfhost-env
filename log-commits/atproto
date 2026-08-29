@@ -1,3 +1,6 @@
+2026-08-28T18:29:41 ;   328a4a86a ; rafaeleyng ; bsky: configure dispatcher for iris/topics/blobber (#5465) ;
+2026-08-28T17:47:50 ;   a0585579f ; rafaeleyng ; bsky: count fail-open hydration failures (#5464) ;
+2026-08-28T13:20:21 ;   ffcb7c54e ; 15894818+treethought ; bsky: cancel outgoing requests when caller disconnects (#5457) ;
 2026-08-27T19:47:29 ;   db6e2e70d ; rafaeleyng ; Reduce dataplane calls when refilling pages (#5456) ;
 2026-08-27T19:36:52 ;   9a72c515b ; rafaeleyng ; bsky: use a connection timeout for iris and topics requests (#5455) ;
 2026-08-27T17:44:46 ;   f7fe8237f ; rafaeleyng ; bsky: add timeout to iris requests (#5454) ;
