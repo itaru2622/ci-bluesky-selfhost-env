@@ -1,0 +1,15 @@
+2026-08-31T17:48:38 ;   c28b85803 ; git ; Update `useAutoPagination` max attempts value (#11623) ;
+2026-08-31T23:03:13 ;   bfde8e60c ; tomekzawadzki98 ; Unblock React Compiler for 5 components by removing render-phase mutation (#11543) ;
+2026-08-31T11:52:56 ;   0a00392b6 ; 260543580+ds-boyce ; Swap order of Keep editing and Discard buttons (#11606) ;
+2026-08-31T09:37:55 ;   0f121427f ; 260543580+ds-boyce ; Preserve composer focus when adding thread posts (#11605) ;
+2026-08-31T18:14:59 ;   f32ebdec7 ; mozzius ; APP-2996: clean up Expo fetch network errors (#11611) ;
+2026-08-31T10:56:30 ;   4495462f8 ; spencerfpope ; Add known likers to feed posts (#11595) ;
+2026-08-31T16:11:43 ;   89c8e1cb7 ; 63914185+abulenok ; Fix hairline borders not visible (#11527) ;
+2026-08-31T15:52:17 ;   a086a2ebe ; tomekzawadzki98 ; Unblock React Compiler for 5 components with early exits inside try (#11547) ;
+2026-08-31T15:49:57 ;   f9cf58ea4 ; tomekzawadzki98 ; Unblock React Compiler for 23 components across ten small causes (#11542) ;
+2026-08-31T15:47:42 ;   8bf5696d3 ; tomekzawadzki98 ; Unblock React Compiler for 18 components with value blocks inside try (#11548) ;
+2026-08-31T16:45:03 ;   80d09a242 ; mozzius ; APP-2975: Fix Fabric focus navigation use-after-free (#11583) ;
+2026-08-31T15:44:43 ;   5fabad1b5 ; tomekzawadzki98 ; Stop re-parsing dates in isStatusStillActive (#11574) ;
+2026-08-31T16:09:30 ;   89509073f ; mozzius ; Remove Live Now new-feature nudge (#11604) ;
+2026-08-31T14:26:13 ;   67375fe2c ; tomekzawadzki98 ; Patch formatjs BigDecimal to stop dividing by 1 on every number format (#11610) ;
+2026-08-31T05:19:37 ;   4b4f5f9c9 ; 260543580+ds-boyce ; Tweak alignment of thread numbering (#11566) ;

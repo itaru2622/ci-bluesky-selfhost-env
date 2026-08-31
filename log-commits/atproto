@@ -1,0 +1,3 @@
+2026-08-31T17:38:58 ;   60c439595 ; michael.black ; APP-2933: implement reference-list opt-outs in AppView (#5461) ;
+2026-08-31T14:10:53 ;   715caf130 ; rafaeleyng ; bsky, bsync: instrument bsync RPC calls (#5470) ;
+2026-08-31T13:44:03 ;   8a4631a47 ; foysal ; 📊 Add prometheus to ozone (#5074) ;
