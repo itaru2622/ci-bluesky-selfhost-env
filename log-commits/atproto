@@ -1,3 +1,8 @@
+2026-09-02T10:57:40 ;   ed0b7d388 ; chadtmiller15 ; Migrate ozone off @atproto/api onto @atproto/lex (#5426) ;
+2026-09-01T17:57:26 ;   7068a6563 ; gcwill70 ; Fix ascending report pagination tie-breaker (#5393) ;
+2026-09-01T22:54:28 ;   0f3ea4b86 ; foysal ; Harden Ozone PDS requests against SSRF (#5468) ;
+2026-09-01T14:04:40 ;   cae15d9fd ; rafaeleyng ; bsky: make the feedgen skeleton timeout configurable (#5473) ;
+2026-09-01T11:35:07 ;   222f4bc60 ; rafaeleyng ; telemetry: share RPC conventions instead of importing bsync from bsky (#5472) ;
 2026-08-31T17:38:58 ;   60c439595 ; michael.black ; APP-2933: implement reference-list opt-outs in AppView (#5461) ;
 2026-08-31T14:10:53 ;   715caf130 ; rafaeleyng ; bsky, bsync: instrument bsync RPC calls (#5470) ;
 2026-08-31T13:44:03 ;   8a4631a47 ; foysal ; 📊 Add prometheus to ozone (#5074) ;

@@ -1,1 +1,5 @@
+2026-09-01T14:01:09 ;   996e23b ; devinivy ; Fix 500s on malformed request bodies, close sockets on failed websocket upgrades (#159) ;
+2026-09-01T14:01:08 ;   8bdb7b7 ; devinivy ; Fix event replay on /export/stream and the two flaky test suites (#158) ;
+2026-09-01T14:01:07 ;   72f042f ; devinivy ; Convert to ESM and upgrade multiformats and the @atproto packages (#157) ;
+2026-09-01T14:01:06 ;   5c80493 ; devinivy ; Switch to pnpm, vitest, and TypeScript 7 (#156) ;
 2026-08-31T12:19:54 ;   aab49e5 ; devinivy ; Upgrade to node 24, stop formatting stacks for expected 4xx (#155) ;
