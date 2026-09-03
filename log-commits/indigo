@@ -1,3 +1,14 @@
+2026-09-03T16:14:45 ;   41278964 ; git ; Add `updatedAt` to interests preference (#1470) ;
+2026-09-03T13:21:59 ;   02162a6b ; git ; Add updatedAt to interests preference ;
+2026-09-03T10:05:13 ;   00822490 ; me ; mst: reword recent comments and error message (#1469) ;
+2026-09-03T00:27:41 ;   32011169 ; bnewbold ; mst: reword recent comments and error message ;
+2026-09-03T00:17:38 ;   838c39be ; bnewbold ; mst: validate PrefixLen range when decoding node data (#1462) ;
+2026-09-03T00:10:46 ;   e6cff893 ; bnewbold ; build(deps): bump google.golang.org/grpc from 1.83.0 to 1.83.1 (#1463) ;
+2026-09-02T08:39:51 ;   65cfbc19 ; 49699333+dependabot[bot] ; build(deps): bump google.golang.org/grpc from 1.83.0 to 1.83.1 ;
+2026-09-02T07:15:09 ;   1c5e4d59 ; me ; comments ;
+2026-09-02T00:12:57 ;   de1784e5 ; me ; Remove comments on PrefixLen validation ;
+2026-09-02T00:12:20 ;   0afd8741 ; me ; Remove obsolete comments from encoding_test.go ;
+2026-09-02T07:00:26 ;   2994bd12 ; me ; mst: validate PrefixLen range when decoding untrusted node data ;
 2026-09-01T15:35:22 ;   800c1124 ; bnewbold ; harden more untrusted network fetches (#1456) ;
 2026-09-01T12:59:12 ;   b7cd5ad8 ; bnewbold ; harden identity package (#1452) ;
 2026-09-01T12:44:51 ;   27233f02 ; bnewbold ; identity: document quirks with SSRF and HTTP proxies ;

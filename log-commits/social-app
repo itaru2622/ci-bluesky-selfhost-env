@@ -1,3 +1,9 @@
+2026-09-03T12:26:51 ;   edcd363fc ; 260543580+ds-boyce ; Use title case for Starter Pack (#11653) ;
+2026-09-03T10:20:46 ;   23d8fcf5e ; 260543580+ds-boyce ; Create mod inbox report details screen (#11641) ;
+2026-09-03T09:30:21 ;   3e8a48989 ; 260543580+ds-boyce ; Create Mod Inbox settings screen (#11640) ;
+2026-09-03T13:49:50 ;   8af501de6 ; mozzius ; v1.132.0 release prep (#11644) ; (tag: refs/tags/1.132.0)
+2026-09-03T03:08:48 ;   68e56eaea ; spencerfpope ; Add starter pack reference-list opt-out UI (#11578) ;
+2026-09-03T03:05:07 ;   bb747c5f2 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-03T01:00:56 ;   58ca22792 ; mozzius ; APP-2977: Handle AppView polling errors (#11590) ;
 2026-09-02T23:50:13 ;   af3fbcc94 ; mozzius ; APP-3015: Fix link metadata type detection (#11637) ;
 2026-09-02T13:12:27 ;   7b8e50aeb ; 260543580+ds-boyce ; Create Mod Inbox account status banner (#11636) ;
