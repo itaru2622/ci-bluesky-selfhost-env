@@ -1,3 +1,7 @@
+2026-09-04T23:23:54 ;   ee32926ed ; spencerfpope ; Restore expanded post styles (#11668) ;
+2026-09-04T20:09:42 ;   5091e4e25 ; 260543580+ds-boyce ; Fix Android thread number alignment across font scales (#11667) ;
+2026-09-05T02:24:07 ;   c9a96859d ; 1270099+pfrazee ; Nightly source-language update ;
+2026-09-04T16:11:20 ;   e595243b1 ; 260543580+ds-boyce ; Add more data to trending metrics (#11565) ;
 2026-09-04T21:58:53 ;   1556804f7 ; mozzius ; Bump version from 1.132.0 to 1.133.0 (#11663) ;
 2026-09-04T09:21:40 ;   2950ecf2b ; 260543580+ds-boyce ; Create Mod Inbox action details screen (#11657) ;
 2026-09-04T17:20:26 ;   4296e4aaf ; mozzius ; Add carousel Slack alerts for nightly Maestro failures (#11645) ;
