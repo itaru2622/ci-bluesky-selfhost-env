@@ -1,2 +1,8 @@
+2026-09-07T15:23:54 ;   08069e287 ; rizvi4600779 ; Back off metrics uploads when the tracking endpoint is unreachable (#11683) ;
+2026-09-07T12:18:08 ;   52345ad3c ; tomekzawadzki98 ; Use useEffectEvent for effects with deliberately narrow deps (#11550) ;
+2026-09-07T11:41:49 ;   8e52eba58 ; mozzius ; Remove native Reanimated dependency array (#11678) ;
+2026-09-07T10:22:09 ;   3d39ca0c0 ; mozzius ; Remove content visibility + SP search feature flags (#11675) ;
+2026-09-07T09:20:24 ;   c17309943 ; 63914185+abulenok ; Fix hidden adult content takes time to appear (#11469) ;
+2026-09-07T02:26:54 ;   014b88946 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-06T22:24:10 ;   b979d7db2 ; mozzius ; Move repository instructions to AGENTS.md (#11669) ;
 2026-09-06T02:25:11 ;   86db8cdff ; 1270099+pfrazee ; Nightly source-language update ;
