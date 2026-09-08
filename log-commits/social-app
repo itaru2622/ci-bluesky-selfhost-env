@@ -1,3 +1,5 @@
+2026-09-08T19:30:03 ;   007c893de ; mozzius ; APP-3049: Fix scrolling in oversized Android sheets (#11693) ;
+2026-09-08T02:24:49 ;   277f4637d ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-07T15:23:54 ;   08069e287 ; rizvi4600779 ; Back off metrics uploads when the tracking endpoint is unreachable (#11683) ;
 2026-09-07T12:18:08 ;   52345ad3c ; tomekzawadzki98 ; Use useEffectEvent for effects with deliberately narrow deps (#11550) ;
 2026-09-07T11:41:49 ;   8e52eba58 ; mozzius ; Remove native Reanimated dependency array (#11678) ;

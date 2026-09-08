@@ -1,2 +1,3 @@
+2026-09-08T16:45:17 ;   fe4087ecb ; 49699333+dependabot[bot] ; Bump the dev-dependencies group across 1 directory with 30 updates (#5488) ;
 2026-09-07T17:03:49 ;   7a23156ef ; mozzius ; Add URL.canParse fallback to lex-resolver (#5447) ;
 2026-09-07T15:03:11 ;   9c35046f1 ; chadtmiller15 ; oauth-provider-ui: restore live normalization of the OTP code field (#5463) ;
