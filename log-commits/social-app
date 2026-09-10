@@ -1,3 +1,6 @@
+2026-09-10T23:38:47 ;   c0b328c5c ; 65759+tkusano ; Fix localization of the "Discover" feed on the "My Feeds" screen (#11704) ;
+2026-09-10T17:16:58 ;   e4092457e ; mozzius ; APP-3021: use static AppView DID for E2E (#11646) ;
+2026-09-10T02:25:23 ;   8619a9089 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-09T15:18:24 ;   365574e65 ; 260543580+ds-boyce ; Fix multi-language composer selection indicator (#11702) ;
 2026-09-09T10:04:04 ;   8f1eafa3f ; 260543580+ds-boyce ; Improve logging and error handling for CAPTCHA (#11697) ;
 2026-09-09T14:04:05 ;   0ffb205d6 ; 63914185+abulenok ; Bump rn-worklets to 0.12.2 (#11698) ;
