@@ -1,3 +1,0 @@
-2026-09-11T23:18:41 ;   0294bbb ; foysal ; Upgrade Ozone backend to 0.4.2 (#580) ; (tag: refs/tags/v0.1.105)
-2026-09-10T17:28:26 ;   573b5f4 ; foysal ; Merge pull request #576 from bluesky-social/port-plugin-auth ;
-2026-09-09T06:47:40 ;   b1e2f09 ; gcwill70 ; Add server-side auth for plugin endpoints ;
