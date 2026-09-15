@@ -1,1 +1,5 @@
+2026-09-15T22:21:46 ;   a75324b37 ; mozzius ; Fix zizmor self-repository findings (#11725) ;
+2026-09-15T10:43:42 ;   16bfe2fbd ; xan ; fix profile hover popup disappearing near the top of screens (#11712) ;
+2026-09-15T20:36:47 ;   565dfcd64 ; mozzius ; Respect device 24-hour clock preference (#11709) ;
+2026-09-15T19:34:17 ;   14533d3a7 ; 63914185+abulenok ; Fix no scroll when the new line is entered (#11715) ;
 2026-09-14T19:01:41 ;   2bfb94d4c ; mozzius ; Upgrade pnpm to 11.23.0 (#11707) ;
