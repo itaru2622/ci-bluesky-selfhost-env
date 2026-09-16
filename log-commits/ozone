@@ -1,2 +1,3 @@
+2026-09-16T19:12:57 ;   de20379 ; foysal ; fix: Avoid querying for strike events without an account did (#586) ;
 2026-09-15T20:09:06 ;   29f498f ; foysal ; Improve historical analytics controls (#585) ;
 2026-09-15T14:08:13 ;   c6fc569 ; gcwill70 ; Fix report queue default ordering (#561) ;
