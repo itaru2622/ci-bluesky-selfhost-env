@@ -1,3 +1,4 @@
+2026-09-18T18:54:32 ;   421111e98 ; rafaeleyng ; APP-3082: map legacy notification preferences to v2 (#5529) ;
 2026-09-16T15:10:02 ;   3e58d0baf ; matthieusieben ; Cleanup signal event listeners when the request processing is complete. (#5524) ;
 2026-09-16T15:04:14 ;   30f8149e6 ; matthieusieben ; Remove `dotenv` dependency (#5391) ;
 2026-09-16T19:55:46 ;   4dba11136 ; foysal ; feat: purge video content on blob takedown from ozone (#5517) ;
