@@ -1,9 +1,0 @@
-2026-09-18T18:54:32 ;   421111e98 ; rafaeleyng ; APP-3082: map legacy notification preferences to v2 (#5529) ;
-2026-09-16T15:10:02 ;   3e58d0baf ; matthieusieben ; Cleanup signal event listeners when the request processing is complete. (#5524) ;
-2026-09-16T15:04:14 ;   30f8149e6 ; matthieusieben ; Remove `dotenv` dependency (#5391) ;
-2026-09-16T19:55:46 ;   4dba11136 ; foysal ; feat: purge video content on blob takedown from ozone (#5517) ;
-2026-09-16T00:34:06 ;   d3ceb6bbc ; rafaeleyng ; APP-2941: release sampled known followers (#5523) ;
-2026-09-15T23:06:04 ;   d442d037d ; rafaeleyng ; APP-2941: fix known followers rollout evaluation (#5522) ;
-2026-09-15T20:09:16 ;   1eafad71c ; rafaeleyng ; fix getKnownFollowers cursor coercion, and refactor (#5521) ;
-2026-09-15T17:52:17 ;   e801c39fe ; rafaeleyng ; APP-2941: migrate known followers to rankedfollows behind flags (#5518) ;
-2026-09-15T17:31:48 ;   88f32dac1 ; rafaeleyng ; pds: fix SSRF test DID setup (#5519) ;

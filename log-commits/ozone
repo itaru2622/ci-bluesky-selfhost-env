@@ -1,4 +1,0 @@
-2026-09-18T14:11:24 ;   9f86d96 ; 49699333+dependabot[bot] ; :arrow_up: Bump next from 15.5.18 to 15.5.24 (#578) ;
-2026-09-16T19:12:57 ;   de20379 ; foysal ; fix: Avoid querying for strike events without an account did (#586) ;
-2026-09-15T20:09:06 ;   29f498f ; foysal ; Improve historical analytics controls (#585) ;
-2026-09-15T14:08:13 ;   c6fc569 ; gcwill70 ; Fix report queue default ordering (#561) ;
