@@ -1,1 +1,8 @@
+2026-09-21T13:36:38 ;   9c76c3422 ; rafaeleyng ; APP-3082: deprecate notification seenAt parameter (#5538) ;
+2026-09-21T10:56:35 ;   be7301e55 ; rafaeleyng ; APP-3082: deprecate notification priority fields (#5537) ;
+2026-09-21T15:41:19 ;   7f6785bd4 ; matthieusieben ; Remove unused dev-dependency @types/send (#5536) ;
+2026-09-21T14:36:21 ;   78b0162cf ; daniel ; fix(dev-env): write port lock owner file atomically (#5510) ;
+2026-09-21T15:31:46 ;   44fa33c65 ; matthieusieben ; deps: override form-data, fast-xml-parser and protobufjs past their critical advisories (#5532) ;
+2026-09-21T08:27:40 ;   210907c80 ; baileytownsend ; bugfix: resolves lexicon permission schemas on local PDS (#5499) ;
+2026-09-21T01:15:44 ;   3ec694069 ; matthieusieben ; Bump @changesets/cli from 2.31.0 to 3.0.2 (#5525) ;
 2026-09-19T15:49:36 ;   7870a59c0 ; devinivy ; PDS: optimize listRecords pagination using the URI index (#5527) ;

@@ -1,0 +1,7 @@
+2026-09-21T17:40:58 ;   c0fc3b546 ; git ; Read device ID directly in analytics context (#11742) ;
+2026-09-21T15:25:32 ;   5a39c2f09 ; git ; Migrate to new header for topics passthrough (#11571) ;
+2026-09-21T19:45:02 ;   fde7a52b8 ; 63914185+abulenok ; Bump Expo 57 patch versions (#11724) ;
+2026-09-21T07:42:49 ;   1fc5f4dd0 ; git ; Defer Explore feed previews and reuse fresh feed queries (#11719) ;
+2026-09-21T15:13:10 ;   4a486c750 ; mozzius ; Replace nightly build with a nightly changelog post; add OTA fallback iOS build to QA Team (#11673) ;
+2026-09-21T12:07:10 ;   37faac71e ; 63914185+abulenok ; Fix jumpy text in alt text edit screen (#11716) ;
+2026-09-21T06:53:42 ;   557250e70 ; rafaeleyng ; APP-3082: remove legacy notification priority state (#11734) ;
