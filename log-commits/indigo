@@ -1,0 +1,4 @@
+2026-09-22T18:55:22 ;   dbcca561 ; bnewbold ; build(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp from 1.21.0 to 1.45.0 (#1475) ;
+2026-09-22T18:54:18 ;   72d7814c ; bnewbold ; build(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 (#1472) ;
+2026-09-17T21:16:26 ;   0bbb5fa6 ; 49699333+dependabot[bot] ; build(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp ;
+2026-09-09T01:09:16 ;   5e3362d6 ; 49699333+dependabot[bot] ; build(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 ;
