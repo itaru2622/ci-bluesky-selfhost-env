@@ -1,3 +1,6 @@
+2026-09-24T16:47:42 ;   2e583a4ed ; baileytownsend ; feature: adds the ability to disable accounts via oauth sessions on com.atproto.server.deactivateAccount (#5545) ;
+2026-09-24T20:38:40 ;   80bcda748 ; matthieusieben ; Make oauth-provider CSP stricter and support `http:` in dev (#5547) ;
+2026-09-24T14:27:57 ;   1884e1589 ; gcwill70 ; ozone/outbox: check buffer limits (#5544) ;
 2026-09-21T13:36:38 ;   9c76c3422 ; rafaeleyng ; APP-3082: deprecate notification seenAt parameter (#5538) ;
 2026-09-21T10:56:35 ;   be7301e55 ; rafaeleyng ; APP-3082: deprecate notification priority fields (#5537) ;
 2026-09-21T15:41:19 ;   7f6785bd4 ; matthieusieben ; Remove unused dev-dependency @types/send (#5536) ;

@@ -1,3 +1,9 @@
+2026-09-24T20:43:38 ;   e29fd910f ; 63914185+abulenok ; Fix bsky logo appearing during screen back transition (#11575) ;
+2026-09-24T10:33:40 ;   1432b4c0f ; brittanyellich ; feat: add Attie link cards (#11756) ;
+2026-09-24T15:11:55 ;   81bd02db5 ; mozzius ; APP-3108: Strip Sentry debug code from production bundles (#11763) ;
+2026-09-24T14:11:28 ;   10261ff3e ; tomekzawadzki98 ; Fix iOS startup crash when app is built with Xcode 27 (#11765) ;
+2026-09-23T19:54:34 ;   f80c43eab ; spencerfpope ; Fix Android Gradle plugin ordering for Sentry and Bitdrift (#11767) ;
+2026-09-23T19:07:38 ;   2cd7a1125 ; spencerfpope ; 1.133 release prep (#11766) ; (tag: refs/tags/1.133.0)
 2026-09-23T22:09:22 ;   b4b8b5451 ; mozzius ; Surface GrowthBook flags in Sentry issues (#11676) ;
 2026-09-23T22:09:21 ;   8c9322b62 ; mozzius ; Upgrade Sentry React Native to 8.26.0 (#11674) ;
 2026-09-23T22:08:52 ;   3d5defe0b ; mozzius ; Remove iOS 15 compatibility code (#11751) ;
