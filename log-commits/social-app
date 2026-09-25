@@ -1,3 +1,14 @@
+2026-09-25T21:48:20 ;   31613cdd1 ; mozzius ; APP-3129: proxy links in profile descriptions (#11789) ;
+2026-09-25T20:51:15 ;   6316c2f5e ; mozzius ; APP-3122: cap tall GIFs in alt-text dialog (#11778) ;
+2026-09-25T20:50:56 ;   76b438ae6 ; mozzius ; APP-3120: Restore avatars in iOS chat notifications (#11779) ;
+2026-09-25T20:50:40 ;   f09457cb5 ; mozzius ; APP-3118: Fix Reanimated pager warning (#11774) ;
+2026-09-25T17:05:56 ;   676ef8ce1 ; mozzius ; Show gzip bundle size diff in CI (#11764) ;
+2026-09-25T16:17:20 ;   4668703cf ; mozzius ; Fix Oxlint violation in OTA update test (#11782) ;
+2026-09-25T16:06:44 ;   d83e5956f ; mozzius ; Improve OTA channel notice in drawer (#11344) ;
+2026-09-25T15:44:22 ;   c1312f6b1 ; mozzius ; Bump version from 1.133.0 to 1.134.0 (#11780) ;
+2026-09-25T14:15:58 ;   15e24fd0a ; 63914185+abulenok ; Migrate to expo/ui DatePicker (#11492) ;
+2026-09-25T13:43:55 ;   5d11828f4 ; 63914185+abulenok ; Fix missing blur when default avatar displayed in the DM screen (#11730) ;
+2026-09-25T02:24:36 ;   260c2165d ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-24T20:43:38 ;   e29fd910f ; 63914185+abulenok ; Fix bsky logo appearing during screen back transition (#11575) ;
 2026-09-24T10:33:40 ;   1432b4c0f ; brittanyellich ; feat: add Attie link cards (#11756) ;
 2026-09-24T15:11:55 ;   81bd02db5 ; mozzius ; APP-3108: Strip Sentry debug code from production bundles (#11763) ;
