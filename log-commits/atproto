@@ -1,0 +1,5 @@
+2026-09-28T14:33:57 ;   b3d7c3391 ; me ; Add sort parameter to app.bsky.feed.getQuotes (#5552) ;
+2026-09-28T14:53:19 ;   136e2145b ; gcwill70 ; ozone/mod-inbox: New endpoint for appeals that integrates with queues (#5459) ;
+2026-09-28T18:54:51 ;   3988a49b4 ; 9767434+nilaallj ; Update Swedish translations (#5559) ;
+2026-09-28T18:54:21 ;   5019f5537 ; 49699333+dependabot[bot] ; build(deps-dev): bump the dev-dependencies group across 1 directory with 25 updates (#5556) ;
+2026-09-28T15:48:30 ;   f5f0aab4c ; ThisIsMissEm ; Add email-based authentication factor to reference PDS (#5207) ;
