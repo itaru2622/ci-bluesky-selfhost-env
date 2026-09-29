@@ -1,3 +1,10 @@
+2026-09-29T13:13:27 ;   86abee890 ; git ; Disable device session headers for appview and chat clients (#11833) ;
+2026-09-29T13:04:15 ;   15d7f7823 ; git ; Respect labels on embed `viewExternal` (#11825) ;
+2026-09-29T20:27:02 ;   4edd0afe5 ; mozzius ; fix ios composer getting stuck when undo typing appears while posting (#11700) ;
+2026-09-29T20:03:55 ;   3d67a3144 ; mozzius ; Remove deprecated Android status bar config (#11499) ;
+2026-09-29T09:39:09 ;   c7d5f7e16 ; 260543580+ds-boyce ; Adopt canonical OP thread feed fields (#11822) ;
+2026-09-29T18:03:44 ;   44965f14e ; mozzius ; APP-3188: restore Sentry user attribution on web and native (#11831) ;
+2026-09-29T00:22:13 ;   f3b7f9f38 ; 4732330+estrattonbailey ; Nightly source-language update ;
 2026-09-29T01:03:39 ;   bbc07f6e8 ; mozzius ; APP-3139: update installed lexicons (#11815) ;
 2026-09-28T15:54:28 ;   a802e14d4 ; git ; Add placeholder to account creation date field, require field for completion (#11820) ;
 2026-09-28T15:21:43 ;   38522649a ; git ; Rename Expo background notification handler module (#11816) ;
