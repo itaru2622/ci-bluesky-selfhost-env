@@ -1,3 +1,10 @@
+2026-09-30T23:01:23 ;   8d933213f ; mozzius ; Fix App Clip capability sync during credential setup (#11838) ;
+2026-09-30T22:54:26 ;   ca6e6e25c ; mozzius ; Bump GitHub Actions build tooling (#11837) ;
+2026-09-30T13:24:27 ;   259b93453 ; git ; Set date of birth in account creation E2E flow (#11836) ;
+2026-09-30T10:03:30 ;   8fa435cb6 ; 260543580+ds-boyce ; Update and correct session reporting (#11747) ;
+2026-09-30T09:19:45 ;   31ab4463a ; 260543580+ds-boyce ; Create appeal form for mod inbox (#11695) ;
+2026-09-30T14:21:54 ;   ada1bb896 ; foysal ; Send appeals through Ozone inbox endpoint (#11770) ;
+2026-09-30T02:29:56 ;   1456ae3ba ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-29T13:13:27 ;   86abee890 ; git ; Disable device session headers for appview and chat clients (#11833) ;
 2026-09-29T13:04:15 ;   15d7f7823 ; git ; Respect labels on embed `viewExternal` (#11825) ;
 2026-09-29T20:27:02 ;   4edd0afe5 ; mozzius ; fix ios composer getting stuck when undo typing appears while posting (#11700) ;
