@@ -1,3 +1,8 @@
+2026-10-01T18:57:26 ;   e4f8ea71a ; mozzius ; Detect returns after time away from the app (#11809) ;
+2026-10-01T15:12:30 ;   4a1c76bf7 ; 63914185+abulenok ; Migrate to RN GH v3 (#11682) ;
+2026-10-01T05:30:18 ;   1dba11a63 ; hailey ; Quotes: Top / Latest tabs (#11771) ;
+2026-10-01T14:13:04 ;   9184df377 ; mozzius ; Keep Load Latest on tablet and desktop web with Following v2 (#11808) ;
+2026-10-01T02:35:35 ;   135b4f4a4 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-09-30T23:01:23 ;   8d933213f ; mozzius ; Fix App Clip capability sync during credential setup (#11838) ;
 2026-09-30T22:54:26 ;   ca6e6e25c ; mozzius ; Bump GitHub Actions build tooling (#11837) ;
 2026-09-30T13:24:27 ;   259b93453 ; git ; Set date of birth in account creation E2E flow (#11836) ;
