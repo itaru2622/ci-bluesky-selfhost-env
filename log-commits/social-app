@@ -1,3 +1,13 @@
+2026-10-02T22:32:45 ;   1ef6d1ffb ; mozzius ; Remove expired custom Japan logo (#11496) ;
+2026-10-02T22:32:44 ;   629a1fd2b ; mozzius ; Add SVG-driven icon codegen (#11473) ;
+2026-10-02T21:08:25 ;   db2352838 ; mozzius ; Reset feeds instead of refetching every page after the automation label changes (#11847) ;
+2026-10-02T17:38:17 ;   2d8e349af ; mozzius ; Check for new posts from the active feed view (#11848) ;
+2026-10-02T17:38:17 ;   35a3b6972 ; mozzius ; Refresh the forked Home's feeds with one fetch and one write (#11842) ;
+2026-10-02T17:38:17 ;   304ac8ab0 ; mozzius ; Mix saved-feed samples into Following at render time (#11844) ;
+2026-10-02T17:38:16 ;   39ced659f ; mozzius ; Make the forked Home's feed APIs stateless and keep its post-feed data as plain JSON (#11841) ;
+2026-10-02T17:38:16 ;   fe4549ade ; mozzius ; Fork Home behind the Following v2 flag (#11843) ;
+2026-10-02T13:59:37 ;   1a0db34dc ; mozzius ; [bskyembed] Migrate to `@atproto/lex`+`@bsky/sdk` (#10483) ;
+2026-10-02T02:27:58 ;   827d13469 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-10-01T18:57:26 ;   e4f8ea71a ; mozzius ; Detect returns after time away from the app (#11809) ;
 2026-10-01T15:12:30 ;   4a1c76bf7 ; 63914185+abulenok ; Migrate to RN GH v3 (#11682) ;
 2026-10-01T05:30:18 ;   1dba11a63 ; hailey ; Quotes: Top / Latest tabs (#11771) ;
