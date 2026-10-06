@@ -1,3 +1,8 @@
+2026-10-06T12:05:45 ;   eb8ba6bd3 ; 260543580+ds-boyce ; Add gated Atmosphere tab to side nav (#11877) ;
+2026-10-06T21:55:49 ;   b84568fc7 ; mozzius ; Skip the default OTA check once a deployment is requested (#11885) ;
+2026-10-06T13:27:45 ;   336e533ee ; mozzius ; Bump version from 1.134.0 to 1.135.0 (#11880) ;
+2026-10-06T10:40:53 ;   37b3505cb ; mozzius ; Upgrade drawer layout to v5 alpha (#11871) ;
+2026-10-06T02:29:01 ;   b0bb7d34d ; 1270099+pfrazee ; Nightly source-language update ;
 2026-10-05T17:03:33 ;   ef6c61ab0 ; 260543580+ds-boyce ; Guard starter-pack follow-all failure path (#11876) ;
 2026-10-05T23:45:11 ;   fe28f869c ; mozzius ; Drop the controlled-input warning and adopt controlled inputs (#11642) ;
 2026-10-05T21:28:51 ;   2ccea9711 ; mozzius ; Fix copying image alt text on iOS (#11870) ;
