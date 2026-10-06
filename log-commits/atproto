@@ -1,0 +1,5 @@
+2026-10-05T19:33:54 ;   db3e7adc4 ; git ; Restrict feed header passthrough to allowlisted generators (#5595) ;
+2026-10-05T13:40:07 ;   a3bf283c1 ; 260543580+ds-boyce ; bsky: read x-atproto device and session headers (#5549) ;
+2026-10-05T14:49:43 ;   dd3ed3e10 ; 41898282+github-actions[bot] ; Version packages (#5592) ; (tag: refs/tags/@atproto/ozone@0.5.2, tag: refs/tags/@atproto/dev-env@0.6.11, tag: refs/tags/@atproto/bsky@0.1.1, tag: refs/tags/@atproto/api@0.23.1)
+2026-10-05T19:30:59 ;   a25799716 ; foysal ; Store reporter DID on Ozone report rows (#5585) ;
+2026-10-05T10:54:22 ;   38e2dc8ee ; gcwill70 ; ozone: add report activity on unassign (#5558) ;
