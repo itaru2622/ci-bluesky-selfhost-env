@@ -1,3 +1,7 @@
+2026-10-07T10:39:41 ;   d29d7abc4 ; 41898282+github-actions[bot] ; Version packages (#5609) ; (tag: refs/tags/@atproto/pds@0.5.38, tag: refs/tags/@atproto/ozone@0.6.0, tag: refs/tags/@atproto/dev-env@0.6.14, tag: refs/tags/@atproto/bsync@0.1.3, tag: refs/tags/@atproto/bsky@0.1.4, tag: refs/tags/@atproto/api@0.24.0, tag: refs/tags/@atproto-labs/opentelemetry-node@0.3.1)
+2026-10-07T09:27:51 ;   a044af7bd ; michael.black ; telemetry: make xrpcMethods truly opt-in for the http metric route (#5608) ;
+2026-10-07T10:47:07 ;   38b10d1b8 ; foysal ; Add moderation inbox notification endpoints (#5551) ;
+2026-10-07T10:33:25 ;   3013430ed ; foysal ; ozone/mod-inbox: viewer read endpoints (#5550) ;
 2026-10-06T16:57:18 ;   2902aa224 ; 41898282+github-actions[bot] ; Version packages (#5606) ; (tag: refs/tags/@atproto/dev-env@0.6.13, tag: refs/tags/@atproto/bsky@0.1.3, tag: refs/tags/@atproto/api@0.23.2)
 2026-10-06T16:50:31 ;   030e81f98 ; 41898282+github-actions[bot] ; Version packages (#5594) ;
 2026-10-06T16:50:29 ;   6570e7507 ; michael.black ; bsky: hydrate site.standard records via generic record RPCs (#5598) ;

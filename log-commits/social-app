@@ -1,3 +1,13 @@
+2026-10-07T23:33:30 ;   df8c0170f ; mozzius ; Add an end-to-end test for restoring Following with newer posts (#11903) ;
+2026-10-07T23:33:30 ;   d9921cd50 ; mozzius ; Offer restored Following posts with the new posts pill on Home (#11857) ;
+2026-10-07T23:33:30 ;   71d3cc6b9 ; mozzius ; Settle Following when the reader reaches the true top (#11856) ;
+2026-10-07T23:26:06 ;   2d0538073 ; mozzius ; Show more posts at a Following gap (#11855) ;
+2026-10-07T23:26:06 ;   f3b48a684 ; mozzius ; Prepend newer Following posts on restore (#11851) ;
+2026-10-07T23:26:05 ;   799b7e0ff ; mozzius ; Persist Following v2 Home Following snapshots (restore still off) (#11849) ;
+2026-10-07T11:23:40 ;   ce7bd05d5 ; git ; Support actor-qualified FreeMix track embeds (#11899) ;
+2026-10-07T12:34:10 ;   d4fcf2036 ; tomekzawadzki98 ; Enable Bundle Mode (#11776) ;
+2026-10-07T09:36:12 ;   26385bf3a ; tomekzawadzki98 ; Bump Reanimated 4.7.1 and Worklets 0.13.0 (#11773) ;
+2026-10-07T02:33:47 ;   83a3d7396 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-10-06T12:05:45 ;   eb8ba6bd3 ; 260543580+ds-boyce ; Add gated Atmosphere tab to side nav (#11877) ;
 2026-10-06T21:55:49 ;   b84568fc7 ; mozzius ; Skip the default OTA check once a deployment is requested (#11885) ;
 2026-10-06T13:27:45 ;   336e533ee ; mozzius ; Bump version from 1.134.0 to 1.135.0 (#11880) ;
