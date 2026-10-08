@@ -1,3 +1,6 @@
+2026-10-08T11:15:06 ;   8476b20e5 ; 260543580+ds-boyce ; Add Ozone inbox lexicons to social app (#11839) ;
+2026-10-08T20:08:07 ;   36246fba6 ; mozzius ; Replace conductor.json with paseo.json (#11909) ;
+2026-10-08T02:32:04 ;   35fd4fbad ; 1270099+pfrazee ; Nightly source-language update ;
 2026-10-07T23:33:30 ;   df8c0170f ; mozzius ; Add an end-to-end test for restoring Following with newer posts (#11903) ;
 2026-10-07T23:33:30 ;   d9921cd50 ; mozzius ; Offer restored Following posts with the new posts pill on Home (#11857) ;
 2026-10-07T23:33:30 ;   71d3cc6b9 ; mozzius ; Settle Following when the reader reaches the true top (#11856) ;
