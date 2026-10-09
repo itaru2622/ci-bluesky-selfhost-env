@@ -1,3 +1,11 @@
+2026-10-09T13:56:58 ;   a6f5a3c7f ; spencerfpope ; Hydrate profile link records into profile views (#5615) ;
+2026-10-09T13:56:57 ;   d70b673be ; spencerfpope ; Add profile link record lexicons (#5610) ;
+2026-10-09T18:21:57 ;   976ebfb1f ; foysal ; bsky: honor moderation block bypass in author feeds (#5614) ;
+2026-10-08T19:13:54 ;   f3236418e ; 41898282+github-actions[bot] ; Version packages (#5625) ; (tag: refs/tags/@atproto/dev-env@0.6.17, tag: refs/tags/@atproto/bsky@0.1.7, tag: refs/tags/@atproto/api@0.24.3)
+2026-10-08T15:31:37 ;   94e3838ea ; git ; 🌎 Add Atmosphere Explore tab endpoint (#5617) ;
+2026-10-08T15:31:37 ;   6831a2bc6 ; git ; 🌎 Add external record views (#5607) ;
+2026-10-08T15:31:36 ;   fd62be571 ; git ; 🌎 Install initially supported Atmosphere lexicons (#5603) ;
+2026-10-08T15:31:36 ;   648f7c9eb ; git ; 🌎 Add canonical external embed modality view schemas (#5599) ;
 2026-10-08T15:37:37 ;   aff4fafc0 ; 41898282+github-actions[bot] ; Version packages (#5623) ; (tag: refs/tags/@atproto/ozone@0.6.2, tag: refs/tags/@atproto/dev-env@0.6.16, tag: refs/tags/@atproto/bsky@0.1.6, tag: refs/tags/@atproto/api@0.24.2)
 2026-10-08T15:25:29 ;   0afccb242 ; gcwill70 ; Include API client in report closure-target release (#5624) ;
 2026-10-08T13:56:39 ;   f06932715 ; gcwill70 ; ozone: report closure target (#5581) ;

@@ -1,6 +1,12 @@
+2026-10-08T14:01:53 ;   5568a379 ; bnewbold ; automod: improve account metadata fetch logic (#1468) ;
+2026-10-08T13:28:05 ;   08f913e1 ; bnewbold ; relay tests: fix flakey integration test caused by sloppy setup (#1500) ;
+2026-10-08T13:21:24 ;   63eef878 ; bnewbold ; remove cmd/gosky (#1498) ;
 2026-10-08T10:26:15 ;   402ebae3 ; 260543580+ds-boyce ; Add OP thread metadata to embedded records (#1503) ;
 2026-10-08T10:00:20 ;   e234e585 ; bnewbold ; bump several deps (2026-10-07) (#1497) ;
 2026-10-08T09:52:04 ;   dacfc4a1 ; 260543580+ds-boyce ; Add OP thread metadata to embedded records ;
+2026-10-07T22:04:01 ;   ae9baa01 ; bnewbold ; relay tests: fix flakey integration test caused by sloppy setup ;
+2026-10-07T19:21:51 ;   3ad1da77 ; bnewbold ; remove references to cmd/gosky ;
+2026-10-07T19:19:02 ;   970ad5c5 ; bnewbold ; remove cmd/gosky ;
 2026-10-07T19:08:26 ;   8db702fa ; bnewbold ; go mod tidy (wants full go version in go.mod) ;
 2026-10-07T19:07:20 ;   8390198c ; bnewbold ; update echo dep ;
 2026-10-07T19:05:08 ;   58c20bec ; bnewbold ; update gorm deps ;
@@ -65,3 +71,4 @@
 2026-10-03T14:44:57 ;   5cdb3939 ; bnewbold ; update app.bsky.* lexicon JSON files ;
 2026-10-03T14:42:23 ;   2fe0ebd1 ; bnewbold ; update com.atproto.* lexicon JSON files ;
 2026-09-29T11:59:47 ;   4c2406b7 ; bnewbold ; lexlint: warn on reserved keywords ;
+2026-09-02T14:55:20 ;   150b056e ; bnewbold ; automod: improve account metadata fetch logic ;
