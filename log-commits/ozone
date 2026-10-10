@@ -1,7 +1,0 @@
-2026-10-07T18:47:37 ;   b274eb0 ; gcwill70 ; fix: subject age warning config format (#612) ;
-2026-10-07T15:27:16 ;   8807686 ; gcwill70 ; ozone/subject-age-warning: add included policies and remove account warning (#611) ;
-2026-10-06T17:23:07 ;   69445c5 ; gcwill70 ; Add account and record subject age thresholds (#601) ;
-2026-10-06T16:57:02 ;   256a732 ; gcwill70 ; Show unassign activity (#600) ;
-2026-10-06T12:02:22 ;   d8d5cd4 ; foysal ; Handle unavailable appeal records and email (#603) ;
-2026-10-06T11:57:19 ;   805b3d6 ; foysal ; fix: sanitize image digest artifact filenames (#602) ;
-2026-10-05T23:17:02 ;   a494242 ; foysal ; Handle appeal reports and queue label recommendations (#587) ;
