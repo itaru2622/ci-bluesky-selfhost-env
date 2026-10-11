@@ -1,0 +1,3 @@
+2026-10-11T13:16:31 ;   ba08e05d8 ; git ; 🌎 Move `site.standard` hydration to new paths for `getEmbedExternalView` (#5638) ;
+2026-10-11T13:16:30 ;   5e0e11db6 ; git ; 🌎 Update `getEmbedExternalView` to use new hydration methods (#5636) ;
+2026-10-11T13:16:30 ;   cffb239f4 ; git ; 🌎 Refine external record hydration handling (#5635) ;
