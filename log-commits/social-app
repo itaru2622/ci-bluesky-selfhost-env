@@ -1,1 +1,14 @@
+2026-10-12T22:59:56 ;   fa5a01116 ; mozzius ; [APP-3245] Fix the nightly Maestro E2E run (#11954) ;
+2026-10-12T22:49:08 ;   2733783e5 ; mozzius ; APP-3348: iOS Photos-style lightbox swipe-to-dismiss (#11938) ;
+2026-10-12T13:36:16 ;   d14f3cd5e ; git ; Attach ID headers to requests (#11961) ;
+2026-10-12T20:49:36 ;   a8c7c43af ; mozzius ; APP-3324: Bring Notifications v2 up to the new design sizes and badge icons (#11952) ;
+2026-10-12T20:49:36 ;   9f316bdd6 ; mozzius ; APP-3355: Polish the Notifications v2 header and timestamps on web (#11951) ;
+2026-10-12T20:49:35 ;   b1ae07ced ; mozzius ; APP-3354: Peek at Notifications v2 on a quick return to the app, refresh on a significant one (#11944) ;
+2026-10-12T20:49:35 ;   3c26a0c8f ; mozzius ; APP-3345: Measure expandable content in flow and fix follow group accessibility (#11936) ;
+2026-10-12T12:49:34 ;   afe4f9d51 ; git ; Just use window scroll + remove animations on web that aren't working (#11934) ;
+2026-10-12T12:49:34 ;   91592bfc2 ; git ; Notifications V2 (#11933) ;
+2026-10-12T19:48:41 ;   9a295fe62 ; tomekzawadzki98 ; Patch react-native-reanimated to fix Android crash during React host teardown (#11956) ;
+2026-10-12T20:02:19 ;   1610ca19b ; mozzius ; APP-3349: Only build native bundles in the OTA export (#11939) ;
+2026-10-12T14:35:11 ;   96cc5d999 ; mozzius ; Fix Storybook crashing on web (#11949) ;
+2026-10-12T11:37:13 ;   960865bd0 ; tomekzawadzki98 ; Bump react-native-keyboard-controller to 1.22.7 and remove patch (#11947) ;
 2026-10-10T13:13:47 ;   46d98dd45 ; mozzius ; Update eas-cli to 24.12.0 and drop the eas-cli patch (#11916) ;
