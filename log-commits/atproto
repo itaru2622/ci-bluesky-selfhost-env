@@ -1,3 +1,4 @@
+2026-10-13T09:54:40 ;   0bac60a9c ; rafaeleyng ; Instrument grouped notifications and make limits configurable (#5643) ;
 2026-10-12T08:16:03 ;   5643a78ec ; 41898282+github-actions[bot] ; Version packages (#5630) ; (tag: refs/tags/@atproto/ozone@0.7.0, tag: refs/tags/@atproto/dev-env@0.6.18, tag: refs/tags/@atproto/bsky@0.2.0, tag: refs/tags/@atproto/api@0.25.0)
 2026-10-11T13:16:31 ;   ba08e05d8 ; git ; 🌎 Move `site.standard` hydration to new paths for `getEmbedExternalView` (#5638) ;
 2026-10-11T13:16:30 ;   5e0e11db6 ; git ; 🌎 Update `getEmbedExternalView` to use new hydration methods (#5636) ;

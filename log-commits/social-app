@@ -1,3 +1,8 @@
+2026-10-13T14:40:43 ;   2695fca10 ; spencerfpope ; [APP-3410] Remove manual Ozone session refresh from Safelink sync (#11986) ;
+2026-10-13T19:49:18 ;   82eb50bb0 ; mozzius ; [APP-3400] Clear persisted query cache when removing an account (#11982) ;
+2026-10-13T09:46:41 ;   d04f2b125 ; spencerfpope ; Add support provider logos (#11865) ;
+2026-10-13T02:38:19 ;   eac1e138a ; 1270099+pfrazee ; Nightly source-language update ;
+2026-10-12T20:15:59 ;   8790f2ec7 ; git ; App 3392 fix infinite layout bug (#11974) ;
 2026-10-12T22:59:56 ;   fa5a01116 ; mozzius ; [APP-3245] Fix the nightly Maestro E2E run (#11954) ;
 2026-10-12T22:49:08 ;   2733783e5 ; mozzius ; APP-3348: iOS Photos-style lightbox swipe-to-dismiss (#11938) ;
 2026-10-12T13:36:16 ;   d14f3cd5e ; git ; Attach ID headers to requests (#11961) ;
