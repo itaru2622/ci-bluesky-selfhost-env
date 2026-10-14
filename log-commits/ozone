@@ -1,0 +1,6 @@
+2026-10-14T21:14:37 ;   f1e8d26 ; foysal ; Show account counts in navigation and compact profile header (#622) ;
+2026-10-14T18:38:00 ;   87e7d6d ; foysal ; Add moderator previews for account inbox reports, actions, and notifications (#589) ;
+2026-10-14T16:12:52 ;   5758dfa ; foysal ; Render Standard.site documents in moderation previews (#618) ;
+2026-10-14T16:06:50 ;   719fd09 ; foysal ; Link appeal report email events to the report (#608) ;
+2026-10-14T16:06:22 ;   13fb9f7 ; foysal ; fix: avoid duplicate appeal close after targeted takedown reversal (#616) ;
+2026-10-14T09:55:59 ;   8d59565 ; gcwill70 ; Report priority levels (#617) ;
