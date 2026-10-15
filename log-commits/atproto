@@ -1,3 +1,7 @@
+2026-10-15T15:38:08 ;   ae2a52998 ; foysal ; Fix missing PDS and AppView Docker build inputs (#5661) ;
+2026-10-15T15:01:17 ;   6e2dee6ea ; foysal ; Fix missing Ozone Docker build inputs (#5660) ;
+2026-10-15T14:17:28 ;   9eeaa86a2 ; foysal ; Fix Ozone severity expiry property validation (#5658) ;
+2026-10-15T13:11:10 ;   f98b78adb ; matthieusieben ; Allow installing local files (based on file:// uris) using lex-install (#5591) ;
 2026-10-14T22:58:20 ;   388dac9f7 ; mozzius ; Name the parent of a subscribed reply in grouped notifications (APP-3450) (#5656) ;
 2026-10-14T13:51:47 ;   127575ec5 ; rafaeleyng ; APP-3436: Support BFF auth on AppView (#5652) ;
 2026-10-14T18:21:31 ;   7c90f0216 ; foysal ; Use recent reports and linked actions for Ozone reporter stats (#5651) ;
