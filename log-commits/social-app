@@ -1,3 +1,15 @@
+2026-10-16T13:02:07 ;   cfc4312cb ; spencerfpope ; [APP-3406] Check profile links against Safelink when they're saved (#12027) ;
+2026-10-16T12:50:58 ;   9c595a274 ; spencerfpope ; [APP-3457] Log opening Edit Profile and add subjectType to sent reports (#12046) ;
+2026-10-16T19:48:38 ;   d03e792ea ; mozzius ; APP-3447: Keep alt text drafts inside the dialog (#12042) ;
+2026-10-16T18:48:13 ;   1bfe894ae ; tomekzawadzki98 ; Keep Home mounted when opening a link while the app is running (#12025) ;
+2026-10-16T15:09:26 ;   a8e788382 ; mozzius ; Remove composer layout animations (#12034) ;
+2026-10-16T13:55:54 ;   a83a3b592 ; mozzius ; Bump version to v1.136.0 (#12039) ;
+2026-10-16T13:55:35 ;   b041f60d0 ; mozzius ; APP-3467: Use design’s unread tints for Notifications v2 in the dark themes (#12032) ;
+2026-10-16T02:23:56 ;   477e04b67 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-10-15T16:39:09 ;   c50fc7e1e ; spencerfpope ; [APP-3405] Match Safelink domain rules on subdomains (#12001) ;
+2026-10-15T16:35:06 ;   a341148ca ; spencerfpope ; Hide profile link editing for age-restricted accounts (#12008) ;
+2026-10-15T16:35:06 ;   611dd0ea5 ; spencerfpope ; Report profile links as link records (#11988) ;
+2026-10-15T16:35:05 ;   5bb4a7ec1 ; spencerfpope ; Add profile links (#11867) ;
 2026-10-15T09:41:46 ;   f00ec0f65 ; 260543580+ds-boyce ; Add moderation inbox beta feature description (#12016) ;
 2026-10-15T09:41:45 ;   22b79a133 ; 260543580+ds-boyce ; Add unread count to Moderation and content filters (#11991) ;
 2026-10-15T09:41:45 ;   30afe1133 ; 260543580+ds-boyce ; Wire up Moderation Inbox analytics (#11971) ;
