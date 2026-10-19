@@ -1,0 +1,9 @@
+2026-10-19T11:55:26 ;   7a4173632 ; 260543580+ds-boyce ; Add Account prefix to getReportSubjectLabel output (#12080) ;
+2026-10-19T11:04:37 ;   a258e7075 ; 260543580+ds-boyce ; Revert "Use same count for trending topics in sidebar and Explore (#1… (#12030) ;
+2026-10-19T20:20:48 ;   007b9a63f ; mozzius ; [APP-3546] Bump @bsky.app/video to 0.4.1 to stop iOS video/GIFs interrupting other audio (#12072) ;
+2026-10-19T19:54:26 ;   4ba2e7a41 ; mozzius ; [APP-3550] Don't fail reports when a labeler returns a large report id (#12073) ;
+2026-10-19T18:15:49 ;   62b95002b ; mozzius ; APP-3514: Stop clipping emoji in the reply-to line of Notifications v2 (#12074) ;
+2026-10-19T17:05:37 ;   ef96fa9cb ; tomekzawadzki98 ; Skip enumerating every system font at iOS launch (#12054) ;
+2026-10-19T17:05:36 ;   be147ae3f ; tomekzawadzki98 ; Load Inter as TTF on iOS instead of WOFF2 (#12053) ;
+2026-10-19T16:01:48 ;   1ba033a02 ; mozzius ; APP-3498: Rename and reorder the Notifications v2 tabs (#12043) ;
+2026-10-19T12:34:27 ;   24e0ebbcd ; mozzius ; [APP-3525] Document that debug-only strings should not be translatable (#12070) ;

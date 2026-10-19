@@ -1,3 +1,5 @@
+2026-10-19T10:34:55 ;   4e72b2d5 ; bnewbold ; rainbow: pass through upstream error name for requestCrawl (#1516) ;
+2026-10-18T20:00:31 ;   d366ddc0 ; 153192858+RaphaelFakhri ; rainbow: pass through upstream error name for requestCrawl ;
 2026-10-17T11:05:21 ;   e076b63f ; bnewbold ; atcrypto: fix zero-prefixed P-256 key serialization to JWK (#1508) ;
 2026-10-12T19:39:37 ;   0910b128 ; bnewbold ; add regression test example w/ zero-prefixed X coordinate ;
 2026-10-12T18:43:11 ;   ffd84485 ; bnewbold ; improve JWK test coverage ;

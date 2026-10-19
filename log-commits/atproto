@@ -1,2 +1,5 @@
+2026-10-19T15:18:55 ;   ccd16f24b ; 41898282+github-actions[bot] ; Version packages (#5682) ; (tag: refs/tags/@atproto/pds@0.5.41, tag: refs/tags/@atproto/ozone@0.10.0, tag: refs/tags/@atproto/dev-env@0.6.24, tag: refs/tags/@atproto/bsky@0.3.2, tag: refs/tags/@atproto/api@0.28.1)
+2026-10-19T14:10:37 ;   8f324e229 ; rafaeleyng ; Use validated starter-pack attribution in follow notifications (#5688) ;
+2026-10-19T10:46:17 ;   58f14d602 ; gcwill70 ; ozone: support multiple safelink sources (#5686) ;
 2026-10-17T07:15:04 ;   9f66a7e54 ; git ; Relax Grain photo alt validation for AppView reads (#5680) ;
 2026-10-17T07:15:04 ;   3380a6c2f ; git ; Gate Atmosphere Explore endpoint behind a feature flag (#5679) ;
