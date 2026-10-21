@@ -1,2 +1,8 @@
+2026-10-21T21:41:04 ;   823bb0e ; foysal ; fix: add healthcheck for Ozone Compose daemon dependency (#635) ; (tag: refs/tags/v0.1.108)
+2026-10-21T21:08:02 ;   a3e1611 ; foysal ; fix: patch Next.js, sharp, and Node security in public Ozone images (#633) ; (tag: refs/tags/v0.1.107)
+2026-10-21T13:27:00 ;   56b29b4 ; foysal ; fix: block compromised eMudhra keys in public Ozone image (#632) ; (tag: refs/tags/v0.1.106)
+2026-10-21T13:25:52 ;   1ff5e6b ; 49699333+dependabot[bot] ; :arrow_up: Bump cypress-io/github-action from 5 to 7 (#550) ;
+2026-10-21T12:55:01 ;   effef45 ; foysal ; fix: restore safe image digest artifact filenames (#630) ;
+2026-10-20T23:03:11 ;   d974fed ; foysal ; Show profile links in details and add record reports tab (#628) ;
 2026-10-20T14:17:42 ;   ec8734b ; foysal ; Persist frontend strike expiry and use saved deadlines for recommendations (#623) ;
 2026-10-19T16:15:47 ;   3ea3b93 ; gcwill70 ; Support multiple sources in safelink (#626) ;

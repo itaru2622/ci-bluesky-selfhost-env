@@ -1,3 +1,15 @@
+2026-10-21T16:56:57 ;   de3db87b0 ; rafaeleyng ; Require patched Node.js versions for development and CI (#5704) ;
+2026-10-21T13:02:15 ;   586088267 ; devinivy ; Update Node.js Docker images to 24.22 (#5703) ;
+2026-10-21T15:11:45 ;   400777b95 ; foysal ; bsky: support needs-review tags (#5698) ;
+2026-10-20T21:01:52 ;   3b6c48d3f ; 41898282+github-actions[bot] ; Version packages (#5699) ; (tag: refs/tags/@atproto/pds@0.5.44, tag: refs/tags/@atproto/ozone@0.10.3, tag: refs/tags/@atproto/dev-env@0.6.27, tag: refs/tags/@atproto/bsky@0.3.5, tag: refs/tags/@atproto/api@0.29.1)
+2026-10-20T20:50:06 ;   33a5ccc99 ; gcwill70 ; ozone/fix: ignore muted reports in inbound count (#5701) ;
+2026-10-20T20:33:45 ;   53d307b61 ; gcwill70 ; ozone: add strict access flag to report queues (#5700) ;
+2026-10-21T01:43:55 ;   bb7a1c7c1 ; foysal ; fix(ozone): bound historical label replay (#5669) ;
+2026-10-20T19:05:44 ;   fc6ba4006 ; rafaeleyng ; Skip changeset check for release PRs (#5696) ;
+2026-10-20T17:38:58 ;   72436c0e8 ; 41898282+github-actions[bot] ; Version packages (#5695) ; (tag: refs/tags/@atproto/tap@0.4.14, tag: refs/tags/@atproto/sync@0.4.15, tag: refs/tags/@atproto/pds@0.5.43, tag: refs/tags/@atproto/ozone@0.10.2, tag: refs/tags/@atproto/oauth-provider@0.24.2, tag: refs/tags/@atproto/oauth-client-node@0.5.11, tag: refs/tags/@atproto/lexicon-resolver@0.4.26, tag: refs/tags/@atproto/lex@0.4.1, tag: refs/tags/@atproto/lex-installer@0.2.1, tag: refs/tags/@atproto/identity@0.5.18, tag: refs/tags/@atproto/dev-env@0.6.26, tag: refs/tags/@atproto/bsky@0.3.4, tag: refs/tags/@atproto-labs/handle-resolver-node@0.2.13, tag: refs/tags/@atproto-labs/fetch-node@0.4.2)
+2026-10-20T17:23:09 ;   fc6087694 ; devinivy ; Block compromised eMudhra intermediate keys in Node.js services (#5694) ;
+2026-10-20T16:48:16 ;   3ce35ef11 ; 41898282+github-actions[bot] ; Version packages (#5689) ; (tag: refs/tags/@atproto/pds@0.5.42, tag: refs/tags/@atproto/ozone@0.10.1, tag: refs/tags/@atproto/dev-env@0.6.25, tag: refs/tags/@atproto/bsky@0.3.3, tag: refs/tags/@atproto/api@0.29.0)
+2026-10-20T16:35:46 ;   1a9976679 ; gcwill70 ; ozone: queue tag matching (#5693) ;
 2026-10-20T15:34:53 ;   063542dcb ; devinivy ; Update PDS privileged methods to cover additional chat.bsky endpoints (#5692) ;
 2026-10-20T14:04:24 ;   a2840e277 ; foysal ; ozone: Preserve client-supplied strike expiry on reversals and scheduled takedowns (#5662) ;
 2026-10-19T15:18:55 ;   ccd16f24b ; 41898282+github-actions[bot] ; Version packages (#5682) ; (tag: refs/tags/@atproto/pds@0.5.41, tag: refs/tags/@atproto/ozone@0.10.0, tag: refs/tags/@atproto/dev-env@0.6.24, tag: refs/tags/@atproto/bsky@0.3.2, tag: refs/tags/@atproto/api@0.28.1)
