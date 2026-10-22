@@ -1,3 +1,7 @@
+2026-10-21T21:45:14 ;   790c3b652 ; 41898282+github-actions[bot] ; Version packages (#5709) ; (tag: refs/tags/@atproto/tap@0.4.15, tag: refs/tags/@atproto/sync@0.4.17, tag: refs/tags/@atproto/pds@0.5.46, tag: refs/tags/@atproto/ozone@0.10.5, tag: refs/tags/@atproto/oauth-provider@0.24.3, tag: refs/tags/@atproto/oauth-client-node@0.5.12, tag: refs/tags/@atproto/lexicon-resolver@0.4.28, tag: refs/tags/@atproto/lex@0.4.2, tag: refs/tags/@atproto/lex-installer@0.2.2, tag: refs/tags/@atproto/identity@0.5.20, tag: refs/tags/@atproto/dev-env@0.6.29, tag: refs/tags/@atproto/bsky@0.3.7, tag: refs/tags/@atproto-labs/handle-resolver-node@0.2.14, tag: refs/tags/@atproto-labs/fetch-node@0.4.3)
+2026-10-21T21:37:49 ;   0e60f3f00 ; rafaeleyng ; Require patched Undici dependency versions (#5708) ;
+2026-10-22T02:01:47 ;   1a0f77fe4 ; 41898282+github-actions[bot] ; Version packages (#5702) ; (tag: refs/tags/@atproto/sync@0.4.16, tag: refs/tags/@atproto/pds@0.5.45, tag: refs/tags/@atproto/ozone@0.10.4, tag: refs/tags/@atproto/lexicon-resolver@0.4.27, tag: refs/tags/@atproto/identity@0.5.19, tag: refs/tags/@atproto/dev-env@0.6.28, tag: refs/tags/@atproto/bsky@0.3.6)
+2026-10-22T01:57:42 ;   8eac4b0c0 ; foysal ; Use a bounded in-memory DID cache (#5707) ;
 2026-10-21T16:56:57 ;   de3db87b0 ; rafaeleyng ; Require patched Node.js versions for development and CI (#5704) ;
 2026-10-21T13:02:15 ;   586088267 ; devinivy ; Update Node.js Docker images to 24.22 (#5703) ;
 2026-10-21T15:11:45 ;   400777b95 ; foysal ; bsky: support needs-review tags (#5698) ;

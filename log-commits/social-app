@@ -1,3 +1,15 @@
+2026-10-22T23:10:52 ;   ae4ed274f ; mozzius ; APP-3524: Upgrade to React Native 0.88 / Expo SDK 58 (#12057) ;
+2026-10-22T22:54:50 ;   b0d4185d3 ; mozzius ; Fix iOS e2e flows (create-account, login, thread-muting) (#12138) ;
+2026-10-22T11:04:39 ;   fe6348c56 ; 260543580+ds-boyce ; Fix missing paper plane icon in chat send button (#12149) ;
+2026-10-22T10:02:39 ;   527e52c41 ; spencerfpope ; Suggest a standard.site blog's own title for profile links (#12145) ;
+2026-10-22T10:02:17 ;   5d7fcf959 ; spencerfpope ; Block more shortener and redirect domains in profile links (#12144) ;
+2026-10-22T15:37:17 ;   5fc8eade0 ; tomekzawadzki98 ; Split the react-native patch into one file per change (#12143) ;
+2026-10-22T13:05:08 ;   cc7413e25 ; mozzius ; [APP-3609] Fix sheets ignoring close after a cancelled swipe on iOS (#12142) ; (tag: refs/tags/1.136.0)
+2026-10-22T11:56:04 ;   f2403c6aa ; mozzius ; v1.136.0 release prep take 2 (#12141) ;
+2026-10-22T11:24:33 ;   3b92f1b6a ; mozzius ; [APP-3602] Keep sheet content full width when the native canvas size is missing (#12139) ;
+2026-10-22T11:19:52 ;   00ff89e3c ; 85058931+whoisanku ; Add “Clear all” to recent searches (#12069) ;
+2026-10-21T22:03:40 ;   8fe120217 ; 260543580+ds-boyce ; Loosen restrictions on TokenField input (#12136) ;
+2026-10-21T22:05:30 ;   ace74cf21 ; rafaeleyng ; Update Undici dependencies to patched versions (#12135) ;
 2026-10-21T23:09:43 ;   df8ce385e ; mozzius ; v1.136.0 release prep (#12133) ;
 2026-10-21T17:08:10 ;   f13810a5a ; rafaeleyng ; Fix OG card font loading (#12134) ;
 2026-10-21T15:42:22 ;   f38dba4e4 ; spencerfpope ; Add video playback duration analytics (#11664) ;
