@@ -1,3 +1,14 @@
+2026-10-23T14:39:32 ;   8da92dd44 ; 41898282+github-actions[bot] ; Version packages (#5717) ; (tag: refs/tags/@atproto/pds@0.5.47, tag: refs/tags/@atproto/ozone@0.10.6, tag: refs/tags/@atproto/oauth-client-browser-example@0.2.1, tag: refs/tags/@atproto/dev-env@0.6.31, tag: refs/tags/@atproto/bsky@0.3.9, tag: refs/tags/@atproto/api@0.29.2)
+2026-10-23T14:30:06 ;   f8a8186ac ; git ; Resolve lexicons from published Bluesky schemas (#5722) ;
+2026-10-23T15:17:12 ;   5c622471b ; gcwill70 ; ozone/queues: tag matches take precedent (#5721) ;
+2026-10-23T14:33:05 ;   9a4011bca ; gcwill70 ; ozone: allow closeReports to close all owned subjects (#5720) ;
+2026-10-23T12:30:19 ;   c1aa9ab24 ; git ; Link Grain gallery views to web URLs (#5719) ;
+2026-10-23T09:21:38 ;   1c7c8028f ; git ; Update CI certificate and Bun runtime dependencies (#5716) ;
+2026-10-23T07:10:23 ;   3938b8a51 ; 260543580+ds-boyce ; fix dev-env: use strong refs in mock replies (#5578) ;
+2026-10-23T08:41:17 ;   a9c35afdf ; 41898282+github-actions[bot] ; Version packages (#5715) ; (tag: refs/tags/@atproto/dev-env@0.6.30, tag: refs/tags/@atproto/bsky@0.3.8)
+2026-10-23T09:36:59 ;   bbd530d44 ; spencerfpope ; Leave links to more URL shorteners out of profile views (#5710) ;
+2026-10-22T23:00:21 ;   3b3bb0541 ; 54160+amckinley ; claude: use Opus 5.5 for mention workflow (#5713) ;
+2026-10-22T22:57:04 ;   66c5bfdc2 ; 54160+amckinley ; claude: use Opus 5.5 for PR review workflow (#5712) ;
 2026-10-21T21:45:14 ;   790c3b652 ; 41898282+github-actions[bot] ; Version packages (#5709) ; (tag: refs/tags/@atproto/tap@0.4.15, tag: refs/tags/@atproto/sync@0.4.17, tag: refs/tags/@atproto/pds@0.5.46, tag: refs/tags/@atproto/ozone@0.10.5, tag: refs/tags/@atproto/oauth-provider@0.24.3, tag: refs/tags/@atproto/oauth-client-node@0.5.12, tag: refs/tags/@atproto/lexicon-resolver@0.4.28, tag: refs/tags/@atproto/lex@0.4.2, tag: refs/tags/@atproto/lex-installer@0.2.2, tag: refs/tags/@atproto/identity@0.5.20, tag: refs/tags/@atproto/dev-env@0.6.29, tag: refs/tags/@atproto/bsky@0.3.7, tag: refs/tags/@atproto-labs/handle-resolver-node@0.2.14, tag: refs/tags/@atproto-labs/fetch-node@0.4.3)
 2026-10-21T21:37:49 ;   0e60f3f00 ; rafaeleyng ; Require patched Undici dependency versions (#5708) ;
 2026-10-22T02:01:47 ;   1a0f77fe4 ; 41898282+github-actions[bot] ; Version packages (#5702) ; (tag: refs/tags/@atproto/sync@0.4.16, tag: refs/tags/@atproto/pds@0.5.45, tag: refs/tags/@atproto/ozone@0.10.4, tag: refs/tags/@atproto/lexicon-resolver@0.4.27, tag: refs/tags/@atproto/identity@0.5.19, tag: refs/tags/@atproto/dev-env@0.6.28, tag: refs/tags/@atproto/bsky@0.3.6)
