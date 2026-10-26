@@ -1,0 +1,10 @@
+2026-10-26T12:59:40 ;   ca7e94b96 ; 260543580+ds-boyce ; Fix trending topic text alignment (#12210) ;
+2026-10-26T12:56:47 ;   eeb97dc6a ; 35648646+abcbrookie ; Fix the feed jumping to the top on web when the window resizes (#12207) ;
+2026-10-26T14:16:34 ;   d436727ba ; spencerfpope ; [APP-3554] Cache a missing Safelink cursor (#12200) ;
+2026-10-26T14:16:25 ;   f62ca7c3a ; spencerfpope ; [APP-3652] Remove the profile links feature gate (#12199) ;
+2026-10-26T10:26:46 ;   5512c8c74 ; 260543580+ds-boyce ; Hide Open post for unavailable moderation inbox posts (#12204) ;
+2026-10-26T17:45:20 ;   00b9225ab ; mozzius ; Fix the iOS build failing on the widget layout registry (#12202) ;
+2026-10-26T08:43:43 ;   5d4f1058b ; hailey ; bskyweb: check facet offsets against the post text, resolve embedr handles with gttp (#12203) ;
+2026-10-26T16:48:43 ;   491c3bde7 ; mozzius ; Fix KeyboardAvoidingView stale init race (APP-3472) (#12033) ;
+2026-10-26T14:57:07 ;   21e9497ba ; mozzius ; Add a Trending Topics widget (#11720) ;
+2026-10-26T14:25:49 ;   18bde8a3f ; mozzius ; [APP-3660] Fix the EAS build cache for local native builds (#12197) ;
