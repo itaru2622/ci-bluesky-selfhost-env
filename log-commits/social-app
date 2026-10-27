@@ -1,3 +1,18 @@
+2026-10-27T13:05:16 ;   42359d00a ; 260543580+ds-boyce ; Add note about ad blockers and VPNs to beta features (#12238) ;
+2026-10-27T20:21:41 ;   01cc6ba29 ; davidmarcosg98 ; Add GitHub Sponsors to the profile links support providers (#12234) ;
+2026-10-27T18:55:20 ;   e4cdd7c8d ; mozzius ; Add a “Trending” header to the small iOS trending widget (#12222) ;
+2026-10-27T18:48:26 ;   fe940d81f ; mozzius ; Bump Expo to 58.0.19 (#12228) ;
+2026-10-27T18:37:20 ;   d04a70cc2 ; mozzius ; [APP-3693] Give notifications tab labels their own translation context (#12227) ;
+2026-10-27T18:35:04 ;   8cec29fdf ; mozzius ; [APP-3490] Fix fatal Android crash and ANR on first launch when reading the Play install referrer (#12037) ;
+2026-10-27T15:19:32 ;   77d400a99 ; mozzius ; [APP-3644] Keep iPad window controls clear of the header (#12184) ;
+2026-10-27T15:19:01 ;   b00895dca ; mozzius ; [Tablet] Constrain the home header to the center column (#12225) ;
+2026-10-27T12:38:13 ;   0d30bbead ; mozzius ; Build OTA-path Android native builds on the 32-core runner (#12224) ;
+2026-10-27T10:51:50 ;   2ebefee58 ; mozzius ; [APP-3669] Match multi-post like/repost preview color to single-post rows (#12215) ;
+2026-10-27T09:18:11 ;   2af7e063d ; mozzius ; Trending widget: design polish, sync on background, picker preview (#12205) ;
+2026-10-27T02:26:33 ;   0bfaadf01 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-10-26T15:45:20 ;   b2963d3f6 ; 260543580+ds-boyce ; Fix overlapping skeleton text bars (#12214) ;
+2026-10-26T22:22:48 ;   04b4bc4ad ; mozzius ; [APP-3621] Notifications v2 row polish: follow back alignment, +N count, “replied to you” (#12209) ;
+2026-10-26T22:13:30 ;   a0c1dea98 ; mozzius ; [APP-3624] Notifications v2 dividers and dark-mode timestamps (#12208) ;
 2026-10-26T12:59:40 ;   ca7e94b96 ; 260543580+ds-boyce ; Fix trending topic text alignment (#12210) ;
 2026-10-26T12:56:47 ;   eeb97dc6a ; 35648646+abcbrookie ; Fix the feed jumping to the top on web when the window resizes (#12207) ;
 2026-10-26T14:16:34 ;   d436727ba ; spencerfpope ; [APP-3554] Cache a missing Safelink cursor (#12200) ;

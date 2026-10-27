@@ -1,1 +1,6 @@
+2026-10-26T18:47:26 ;   a2f0bdc ; bnewbold ; Merge pull request #170 from did-method-plc/bnewbold/website-deps-update ;
 2026-10-26T13:28:32 ;   03adcae ; matthieusieben ; Improve typesafety and typescript setup (#163) ;
+2026-10-20T15:33:30 ;   f9f77a9 ; bnewbold ; website: go mod tidy ;
+2026-10-20T15:33:22 ;   dbb5676 ; bnewbold ; website: replace go-log with slog ;
+2026-10-20T15:28:19 ;   99d9d79 ; bnewbold ; website: bump all go deps ;
+2026-10-20T15:27:21 ;   b6ff70f ; bnewbold ; website: update go toolchain ;

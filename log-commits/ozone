@@ -1,1 +1,4 @@
+2026-10-27T15:44:18 ;   bd619ed ; gcwill70 ; send current report id in ids param to ensure it gets closed (#652) ;
+2026-10-27T15:17:28 ;   a5dd414 ; gcwill70 ; fix: add metadata to report activities created by custom actions (#651) ;
+2026-10-27T11:46:06 ;   25534a9 ; gcwill70 ; use new online moderators endpoint (#650) ;
 2026-10-26T11:17:57 ;   7f5ef01 ; gcwill70 ; add alt text to export (#647) ;

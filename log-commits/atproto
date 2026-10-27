@@ -1,3 +1,15 @@
+2026-10-27T15:32:27 ;   54f54ea83 ; gcwill70 ; fix(ozone): prevent broad report actions from closing reports in review (#5756) ;
+2026-10-27T12:07:24 ;   ea286121a ; michael.black ; APP-3645: Remove Datadog tracing integration from bsync (#5723) ;
+2026-10-27T17:58:53 ;   3bfd00f48 ; matthieusieben ; Add decompression and size limits when decoding streams (#5753) ;
+2026-10-27T12:07:23 ;   87faeddd9 ; rafaeleyng ; bsky: group activity notifications in All (APP-3673) (#5748) ;
+2026-10-27T09:47:22 ;   b33e55b4a ; git ; Report prehydrated external hydration traversals (#5751) ;
+2026-10-27T10:40:53 ;   03a76ee15 ; gcwill70 ; ozone/fix: dont fail mod event if no reports match in reportAction (#5750) ;
+2026-10-27T15:20:33 ;   1c8c3a3a8 ; matthieusieben ; Update to OpenTelemetry JS SDK 3.x (#5746) ;
+2026-10-27T15:06:59 ;   63bc47471 ; matthieusieben ; Record the scopes the user approved, not the ones the client requested (#5747) ;
+2026-10-26T18:57:32 ;   66ce7c5fd ; bnewbold ; readme: clarifying updates (#5586) ;
+2026-10-26T17:17:00 ;   fb16c8e02 ; 41898282+github-actions[bot] ; Version packages (#5744) ; (tag: refs/tags/@atproto/pds@0.5.51, tag: refs/tags/@atproto/oauth-provider@0.25.1, tag: refs/tags/@atproto/dev-env@0.6.36)
+2026-10-26T17:09:58 ;   b8fdb58b7 ; me ; Copy oauth-resolver into service Docker builds (#5745) ;
+2026-10-26T17:01:08 ;   86563037e ; me ; Record the scopes the user approved, not the ones the client requested (#5743) ;
 2026-10-26T14:12:00 ;   cc2437295 ; 41898282+github-actions[bot] ; Version packages (#5737) ; (tag: refs/tags/@atproto/tap@0.4.16, tag: refs/tags/@atproto/sync@0.4.19, tag: refs/tags/@atproto/pds@0.5.50, tag: refs/tags/@atproto/ozone@0.10.10, tag: refs/tags/@atproto/oauth-resolver@0.0.1, tag: refs/tags/@atproto/oauth-provider@0.25.0, tag: refs/tags/@atproto/oauth-provider-ui@0.11.0, tag: refs/tags/@atproto/oauth-provider-api@0.11.0, tag: refs/tags/@atproto/oauth-client@0.9.0, tag: refs/tags/@atproto/oauth-client-node@0.5.13, tag: refs/tags/@atproto/oauth-client-expo@0.2.8, tag: refs/tags/@atproto/oauth-client-browser@0.5.11, tag: refs/tags/@atproto/lexicon-resolver@0.4.29, tag: refs/tags/@atproto/lex@0.4.3, tag: refs/tags/@atproto/lex-installer@0.2.3, tag: refs/tags/@atproto/dev-env@0.6.35, tag: refs/tags/@atproto/bsync@0.1.5, tag: refs/tags/@atproto/bsky@0.3.13, tag: refs/tags/@atproto/api@0.29.5, tag: refs/tags/@atproto-labs/opentelemetry-node@0.4.0, tag: refs/tags/@atproto-labs/handle-resolver-node@0.2.15)
 2026-10-26T14:06:18 ;   33c23e0e8 ; gcwill70 ; ozone: add endpoint for listing online moderators (#5741) ;
 2026-10-26T15:38:44 ;   2720f72a5 ; matthieusieben ; Disable OTEL context propagation by default (#5671) ;
