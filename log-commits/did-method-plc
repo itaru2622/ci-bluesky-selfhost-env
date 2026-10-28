@@ -1,3 +1,4 @@
+2026-10-27T23:18:19 ;   29f1a70 ; devinivy ; Replace Datadog observability with OpenTelemetry (#172) ;
 2026-10-26T18:47:26 ;   a2f0bdc ; bnewbold ; Merge pull request #170 from did-method-plc/bnewbold/website-deps-update ;
 2026-10-26T13:28:32 ;   03adcae ; matthieusieben ; Improve typesafety and typescript setup (#163) ;
 2026-10-20T15:33:30 ;   f9f77a9 ; bnewbold ; website: go mod tidy ;

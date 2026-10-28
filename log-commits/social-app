@@ -1,3 +1,11 @@
+2026-10-28T11:22:20 ;   b44ad8e2f ; 260543580+ds-boyce ; Scope beta feedback to the selected feature (#12237) ;
+2026-10-28T19:25:11 ;   874c1177d ; mozzius ; Flex the gap below the iOS trending widget header on every size (#12241) ;
+2026-10-28T18:20:28 ;   2c5c3dbe8 ; mozzius ; [APP-3716] Restore the compose FAB on Notifications v2 (#12242) ;
+2026-10-28T11:01:50 ;   2dba1fafa ; michael.black ; Add profile tab deep links for native and web (#12230) ;
+2026-10-28T08:51:29 ;   9e4caeab3 ; git ; Use approximate location for age assurance (#12240) ;
+2026-10-28T02:18:21 ;   1a1a3ceea ; 1270099+pfrazee ; Nightly source-language update ;
+2026-10-27T20:15:26 ;   dffd4e717 ; git ; Log out after password reset (#12236) ;
+2026-10-27T23:19:36 ;   5a9630244 ; mozzius ; [APP-3677] Remove unused microphone permission (#12216) ;
 2026-10-27T13:05:16 ;   42359d00a ; 260543580+ds-boyce ; Add note about ad blockers and VPNs to beta features (#12238) ;
 2026-10-27T20:21:41 ;   01cc6ba29 ; davidmarcosg98 ; Add GitHub Sponsors to the profile links support providers (#12234) ;
 2026-10-27T18:55:20 ;   e4cdd7c8d ; mozzius ; Add a “Trending” header to the small iOS trending widget (#12222) ;

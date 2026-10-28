@@ -1,3 +1,10 @@
+2026-10-28T16:27:32 ;   861d677b6 ; rafaeleyng ; bsky: reduce repeated notification grouping work (APP-3673) (#5763) ;
+2026-10-28T12:26:22 ;   8060c8262 ; rafaeleyng ; bsky: split notification spotlights by activity burst (APP-3673) (#5759) ;
+2026-10-28T10:25:57 ;   bbfb9ce8e ; git ; Attribute AppView hydration to originating XRPC endpoints (#5761) ;
+2026-10-28T12:02:32 ;   e0409585e ; rafaeleyng ; bsky: measure grouped notification hydration duration (#5758) ;
+2026-10-28T09:15:55 ;   f2c7c0f97 ; 41898282+github-actions[bot] ; Version packages (#5749) ; (tag: refs/tags/@atproto/xrpc-server@0.13.7, tag: refs/tags/@atproto/tap@0.4.17, tag: refs/tags/@atproto/sync@0.4.20, tag: refs/tags/@atproto/repo@0.11.2, tag: refs/tags/@atproto/pds@0.5.52, tag: refs/tags/@atproto/ozone@0.11.0, tag: refs/tags/@atproto/oauth-provider@0.25.2, tag: refs/tags/@atproto/lexicon-resolver@0.4.30, tag: refs/tags/@atproto/lex@0.4.4, tag: refs/tags/@atproto/lex-resolver@0.4.1, tag: refs/tags/@atproto/lex-installer@0.2.4, tag: refs/tags/@atproto/dev-env@0.7.0, tag: refs/tags/@atproto/common@0.8.7, tag: refs/tags/@atproto/bsync@0.1.6, tag: refs/tags/@atproto/bsky@0.4.0, tag: refs/tags/@atproto/aws@0.3.21, tag: refs/tags/@atproto/api@0.29.6, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.28, tag: refs/tags/@atproto-labs/opentelemetry-node@0.5.0)
+2026-10-28T09:06:06 ;   78b3e2062 ; git ; 🌎 Hook up feed embed hydration to new external hydrator (#5752) ;
+2026-10-28T00:39:02 ;   6ed6fe39d ; foysal ; Fix appeals after new moderation actions (#5757) ;
 2026-10-27T15:32:27 ;   54f54ea83 ; gcwill70 ; fix(ozone): prevent broad report actions from closing reports in review (#5756) ;
 2026-10-27T12:07:24 ;   ea286121a ; michael.black ; APP-3645: Remove Datadog tracing integration from bsync (#5723) ;
 2026-10-27T17:58:53 ;   3bfd00f48 ; matthieusieben ; Add decompression and size limits when decoding streams (#5753) ;
