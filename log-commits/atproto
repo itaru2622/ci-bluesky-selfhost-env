@@ -1,3 +1,9 @@
+2026-10-29T16:45:24 ;   30e599016 ; rafaeleyng ; ci: cache image dependency installs across source changes (#5775) ;
+2026-10-29T12:19:57 ;   a1c019aeb ; rafaeleyng ; ci: measure PR workflow timings (#5773) ;
+2026-10-29T11:47:36 ;   b6ee6c7d1 ; rafaeleyng ; ci: avoid unnecessary image build work (#5772) ;
+2026-10-29T13:03:24 ;   c2b5ce39e ; foysal ; Allow configuring blob diversion size limit (#5770) ;
+2026-10-28T18:10:23 ;   8562b1727 ; 62569789+ocseckin ; bsky: remove the Topics (hot-topic) client (#5714) ;
+2026-10-28T19:51:10 ;   cde583837 ; rafaeleyng ; bsky: notifications v2 optimize reply block (APP-3673) (#5765) ;
 2026-10-28T16:27:32 ;   861d677b6 ; rafaeleyng ; bsky: reduce repeated notification grouping work (APP-3673) (#5763) ;
 2026-10-28T12:26:22 ;   8060c8262 ; rafaeleyng ; bsky: split notification spotlights by activity burst (APP-3673) (#5759) ;
 2026-10-28T10:25:57 ;   bbfb9ce8e ; git ; Attribute AppView hydration to originating XRPC endpoints (#5761) ;
