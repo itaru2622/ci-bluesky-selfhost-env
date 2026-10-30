@@ -1,3 +1,10 @@
+2026-10-30T19:28:09 ;   4d4f091b1 ; mozzius ; [APP-3746] Constrain the Notifications v2 web header backgrounds to the center column (#12282) ;
+2026-10-30T12:12:45 ;   83e2afcf5 ; git ; Send more headers to Discover (#12275) ;
+2026-10-30T16:27:49 ;   527aa8c74 ; matthieusieben ; Share iOS app passwords with bsky.app and bsky.social (#12077) ;
+2026-10-30T02:06:11 ;   fe771917c ; mozzius ; Bump version from 1.137.0 to 1.138.0 ;
+2026-10-30T02:18:29 ;   246ffffb3 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-10-29T20:13:49 ;   ea6db1633 ; git ; Add noindex web route for /atmosphere (#12276) ;
+2026-10-29T23:14:01 ;   f2983134c ; mozzius ; [APP-3710] [APP-3682] Match Notifications v2 avatars and gutters to the feed (#12248) ;
 2026-10-29T11:39:50 ;   6f2bbec36 ; 260543580+ds-boyce ; Fix TOTP login code handling (#12268) ;
 2026-10-29T20:02:36 ;   ffdd59a35 ; mozzius ; [APP-3729] Rename notifications “Activity” tab to “Post alerts” (#12261) ;
 2026-10-29T12:51:36 ;   bd74c6b69 ; git ; Refresh link warning pages and update safety copy (#12269) ;
