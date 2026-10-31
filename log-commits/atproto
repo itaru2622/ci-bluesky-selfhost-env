@@ -1,34 +1,6 @@
+2026-10-30T16:16:28 ;   d3080834a ; 41898282+github-actions[bot] ; Version packages (#5760) ; (tag: refs/tags/@atproto/ozone@0.12.0, tag: refs/tags/@atproto/dev-env@0.7.1, tag: refs/tags/@atproto/bsky@0.5.0, tag: refs/tags/@atproto/api@0.30.0)
+2026-10-30T16:13:17 ;   d6e1945e0 ; git ; 🌎 Explore tab, update contract lexicons (#5783) ;
 2026-10-30T11:15:13 ;   15aacf429 ; michael.black ; bsky: implement Atmosphere timeline (APP-3707) (#5777) ;
 2026-10-29T21:58:05 ;   a2dd244d6 ; foysal ; fix(ozone): hydrate tag event durations (#5779) ;
 2026-10-29T17:15:22 ;   321ab6906 ; rafaeleyng ; ci: test bsky image dependency caching (#5778) ;
 2026-10-29T16:45:24 ;   30e599016 ; rafaeleyng ; ci: cache image dependency installs across source changes (#5775) ;
-2026-10-29T12:19:57 ;   a1c019aeb ; rafaeleyng ; ci: measure PR workflow timings (#5773) ;
-2026-10-29T11:47:36 ;   b6ee6c7d1 ; rafaeleyng ; ci: avoid unnecessary image build work (#5772) ;
-2026-10-29T13:03:24 ;   c2b5ce39e ; foysal ; Allow configuring blob diversion size limit (#5770) ;
-2026-10-28T18:10:23 ;   8562b1727 ; 62569789+ocseckin ; bsky: remove the Topics (hot-topic) client (#5714) ;
-2026-10-28T19:51:10 ;   cde583837 ; rafaeleyng ; bsky: notifications v2 optimize reply block (APP-3673) (#5765) ;
-2026-10-28T16:27:32 ;   861d677b6 ; rafaeleyng ; bsky: reduce repeated notification grouping work (APP-3673) (#5763) ;
-2026-10-28T12:26:22 ;   8060c8262 ; rafaeleyng ; bsky: split notification spotlights by activity burst (APP-3673) (#5759) ;
-2026-10-28T10:25:57 ;   bbfb9ce8e ; git ; Attribute AppView hydration to originating XRPC endpoints (#5761) ;
-2026-10-28T12:02:32 ;   e0409585e ; rafaeleyng ; bsky: measure grouped notification hydration duration (#5758) ;
-2026-10-28T09:15:55 ;   f2c7c0f97 ; 41898282+github-actions[bot] ; Version packages (#5749) ; (tag: refs/tags/@atproto/xrpc-server@0.13.7, tag: refs/tags/@atproto/tap@0.4.17, tag: refs/tags/@atproto/sync@0.4.20, tag: refs/tags/@atproto/repo@0.11.2, tag: refs/tags/@atproto/pds@0.5.52, tag: refs/tags/@atproto/ozone@0.11.0, tag: refs/tags/@atproto/oauth-provider@0.25.2, tag: refs/tags/@atproto/lexicon-resolver@0.4.30, tag: refs/tags/@atproto/lex@0.4.4, tag: refs/tags/@atproto/lex-resolver@0.4.1, tag: refs/tags/@atproto/lex-installer@0.2.4, tag: refs/tags/@atproto/dev-env@0.7.0, tag: refs/tags/@atproto/common@0.8.7, tag: refs/tags/@atproto/bsync@0.1.6, tag: refs/tags/@atproto/bsky@0.4.0, tag: refs/tags/@atproto/aws@0.3.21, tag: refs/tags/@atproto/api@0.29.6, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.28, tag: refs/tags/@atproto-labs/opentelemetry-node@0.5.0)
-2026-10-28T09:06:06 ;   78b3e2062 ; git ; 🌎 Hook up feed embed hydration to new external hydrator (#5752) ;
-2026-10-28T00:39:02 ;   6ed6fe39d ; foysal ; Fix appeals after new moderation actions (#5757) ;
-2026-10-27T15:32:27 ;   54f54ea83 ; gcwill70 ; fix(ozone): prevent broad report actions from closing reports in review (#5756) ;
-2026-10-27T12:07:24 ;   ea286121a ; michael.black ; APP-3645: Remove Datadog tracing integration from bsync (#5723) ;
-2026-10-27T17:58:53 ;   3bfd00f48 ; matthieusieben ; Add decompression and size limits when decoding streams (#5753) ;
-2026-10-27T12:07:23 ;   87faeddd9 ; rafaeleyng ; bsky: group activity notifications in All (APP-3673) (#5748) ;
-2026-10-27T09:47:22 ;   b33e55b4a ; git ; Report prehydrated external hydration traversals (#5751) ;
-2026-10-27T10:40:53 ;   03a76ee15 ; gcwill70 ; ozone/fix: dont fail mod event if no reports match in reportAction (#5750) ;
-2026-10-27T15:20:33 ;   1c8c3a3a8 ; matthieusieben ; Update to OpenTelemetry JS SDK 3.x (#5746) ;
-2026-10-27T15:06:59 ;   63bc47471 ; matthieusieben ; Record the scopes the user approved, not the ones the client requested (#5747) ;
-2026-10-26T18:57:32 ;   66ce7c5fd ; bnewbold ; readme: clarifying updates (#5586) ;
-2026-10-26T17:17:00 ;   fb16c8e02 ; 41898282+github-actions[bot] ; Version packages (#5744) ; (tag: refs/tags/@atproto/pds@0.5.51, tag: refs/tags/@atproto/oauth-provider@0.25.1, tag: refs/tags/@atproto/dev-env@0.6.36)
-2026-10-26T17:09:58 ;   b8fdb58b7 ; me ; Copy oauth-resolver into service Docker builds (#5745) ;
-2026-10-26T17:01:08 ;   86563037e ; me ; Record the scopes the user approved, not the ones the client requested (#5743) ;
-2026-10-26T14:12:00 ;   cc2437295 ; 41898282+github-actions[bot] ; Version packages (#5737) ; (tag: refs/tags/@atproto/tap@0.4.16, tag: refs/tags/@atproto/sync@0.4.19, tag: refs/tags/@atproto/pds@0.5.50, tag: refs/tags/@atproto/ozone@0.10.10, tag: refs/tags/@atproto/oauth-resolver@0.0.1, tag: refs/tags/@atproto/oauth-provider@0.25.0, tag: refs/tags/@atproto/oauth-provider-ui@0.11.0, tag: refs/tags/@atproto/oauth-provider-api@0.11.0, tag: refs/tags/@atproto/oauth-client@0.9.0, tag: refs/tags/@atproto/oauth-client-node@0.5.13, tag: refs/tags/@atproto/oauth-client-expo@0.2.8, tag: refs/tags/@atproto/oauth-client-browser@0.5.11, tag: refs/tags/@atproto/lexicon-resolver@0.4.29, tag: refs/tags/@atproto/lex@0.4.3, tag: refs/tags/@atproto/lex-installer@0.2.3, tag: refs/tags/@atproto/dev-env@0.6.35, tag: refs/tags/@atproto/bsync@0.1.5, tag: refs/tags/@atproto/bsky@0.3.13, tag: refs/tags/@atproto/api@0.29.5, tag: refs/tags/@atproto-labs/opentelemetry-node@0.4.0, tag: refs/tags/@atproto-labs/handle-resolver-node@0.2.15)
-2026-10-26T14:06:18 ;   33c23e0e8 ; gcwill70 ; ozone: add endpoint for listing online moderators (#5741) ;
-2026-10-26T15:38:44 ;   2720f72a5 ; matthieusieben ; Disable OTEL context propagation by default (#5671) ;
-2026-10-26T23:28:40 ;   dc47f7b1a ; fonytailmoe ; Complete Korean translation of oauth-provider-ui (#5663) ;
-2026-10-26T15:22:58 ;   943170bd3 ; matthieusieben ; oauth-provider-ui: accept sign-in identifiers filled by password managers (#5687) ;
-2026-10-25T20:19:11 ;   b7dcaeefb ; 35648646+abcbrookie ; oauth-provider-ui: action buttons keep their text color (#5735) ;
