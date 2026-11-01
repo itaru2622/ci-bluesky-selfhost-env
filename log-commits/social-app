@@ -1,0 +1,2 @@
+2026-11-01T11:42:02 ;   ea0aa7ceb ; mozzius ; [APP-3662] Compile the iOS app with Xcode 27 in CI (#12198) ;
+2026-10-31T23:02:03 ;   ba50c0e6a ; 54160+amckinley ; ci: use the shared hardened Claude review workflows [skip ci] ;

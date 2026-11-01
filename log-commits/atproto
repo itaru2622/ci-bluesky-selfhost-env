@@ -1,0 +1,2 @@
+2026-11-01T12:32:06 ;   34dbe242c ; matthieusieben ; fix(pds): embed .hbs sources in mailer template source maps (#5788) ;
+2026-10-31T22:32:24 ;   edb7f4782 ; 54160+amckinley ; ci: use the shared hardened Claude review workflows [skip ci] ;
