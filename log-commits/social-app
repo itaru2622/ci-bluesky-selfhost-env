@@ -1,2 +1,14 @@
+2026-11-03T02:16:25 ;   b404fd271 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-02T22:03:51 ;   e34094457 ; 63914185+abulenok ; Expand alt text when clicked out of text bounds (#11733) ;
+2026-11-02T20:57:12 ;   5dfd01d8f ; mozzius ; [APP-3743] Update OTA docs for the release-branch process (#12280) ;
+2026-11-02T20:50:34 ;   85ec5a1af ; mozzius ; [APP-3744] Report native build numbers from the built artifacts (#12281) ;
+2026-11-02T13:48:29 ;   10ff77e80 ; spencerfpope ; Log the link record on profile link metrics (#12307) ;
+2026-11-02T09:52:40 ;   dcbf54ece ; 260543580+ds-boyce ; Explain blocked-account restrictions when adding group members (#12309) ;
+2026-11-02T09:48:35 ;   80f9b9f41 ; 260543580+ds-boyce ; Fix moderation notice wording for non-post content (#12308) ;
+2026-11-02T19:40:35 ;   888fc79ab ; mozzius ; Add soft scroll edge effect behind the lightbox status bar (#12301) ;
+2026-11-02T12:32:32 ;   9a627f136 ; spencerfpope ; Log the profile on profile link click, impression, and preview metrics (#12306) ;
+2026-11-02T13:30:19 ;   bc5942183 ; rafaeleyng ; docs: update web OTA release instructions (#12305) ;
+2026-11-02T10:29:31 ;   5c6737a60 ; rafaeleyng ; bskyweb: use one handler for both robots files (#12304) ;
+2026-11-02T04:46:57 ;   0f931595a ; 54160+amckinley ; bskyweb: serve robots-disallow-all.txt from the static file system (#12298) ;
 2026-11-01T11:42:02 ;   ea0aa7ceb ; mozzius ; [APP-3662] Compile the iOS app with Xcode 27 in CI (#12198) ;
 2026-10-31T23:02:03 ;   ba50c0e6a ; 54160+amckinley ; ci: use the shared hardened Claude review workflows [skip ci] ;

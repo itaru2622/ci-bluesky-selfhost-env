@@ -1,2 +1,7 @@
+2026-11-02T12:00:37 ;   ee68c9389 ; baileytownsend ; feat: change the uploadBlob endpoint to use both the ip and did (#4748) ;
+2026-11-02T14:58:51 ;   799d2b9e6 ; rafaeleyng ; APP-3773: Undo BFF auth support on AppView (#5797) ;
+2026-11-02T11:40:52 ;   07c25d410 ; matthieusieben ; Depend on the @atproto/lex-* packages instead of @atproto/lex (#5786) ;
+2026-11-02T11:07:32 ;   7aa8e7e9e ; matthieusieben ; ci: build service images from a single Dockerfile (#5782) ;
+2026-11-02T10:41:42 ;   d38661dac ; foysal ; test(ozone): reduce integration test workload (#5780) ;
 2026-11-01T12:32:06 ;   34dbe242c ; matthieusieben ; fix(pds): embed .hbs sources in mailer template source maps (#5788) ;
 2026-10-31T22:32:24 ;   edb7f4782 ; 54160+amckinley ; ci: use the shared hardened Claude review workflows [skip ci] ;
