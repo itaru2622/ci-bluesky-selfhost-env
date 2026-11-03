@@ -1,3 +1,4 @@
+2026-11-03T19:05:53 ;   4151ee09e ; mozzius ; Hide the native left nav scroll bar and stop it clipping items on short screens (#12313) ;
 2026-11-03T02:16:25 ;   b404fd271 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-11-02T22:03:51 ;   e34094457 ; 63914185+abulenok ; Expand alt text when clicked out of text bounds (#11733) ;
 2026-11-02T20:57:12 ;   5dfd01d8f ; mozzius ; [APP-3743] Update OTA docs for the release-branch process (#12280) ;
