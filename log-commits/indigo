@@ -1,3 +1,7 @@
+2026-11-03T22:06:05 ;   a41b0563 ; foysal ; automod: fix record action deduplication (#1546) ;
+2026-11-03T21:01:02 ;   198e2613 ; cfaion341 ; automod: preserve record action compatibility ;
+2026-11-03T20:32:06 ;   6c2d5212 ; cfaion341 ; test: wait for relay subscriber before emitting ;
+2026-11-03T20:21:49 ;   5514c781 ; cfaion341 ; automod: fix record label deduplication ;
 2026-11-03T09:39:11 ;   f56e75ee ; bnewbold ; identity: fail handle DNS resolution on multiple different DIDs (#1545) ;
 2026-11-03T13:30:41 ;   c105d4c6 ; 153192858+RaphaelFakhri ; identity: fail handle DNS resolution on multiple different DIDs ;
 2026-11-02T18:19:09 ;   14edde8f ; bnewbold ; remove `fakermaker` (#1541) ;

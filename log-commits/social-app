@@ -1,3 +1,15 @@
+2026-11-04T21:55:57 ;   d828748d7 ; mozzius ; Extend the Home header under the status bar on all native (#12324) ;
+2026-11-04T18:58:32 ;   39f0802ca ; mozzius ; Render SVG icons when the binary lacks the icon font (#12325) ;
+2026-11-04T17:01:55 ;   41ef630f9 ; mozzius ; Bump fingerprint-native action to v0.5.1 (#12179) ;
+2026-11-04T16:34:26 ;   845cf5f58 ; mozzius ; Show v1 icons in the left column of Notifications v2 reaction rows (#12078) ;
+2026-11-04T15:37:27 ;   6875c7295 ; mozzius ; APP-3429: Only mark Notifications v2 read up to the newest notification All loaded (#11995) ;
+2026-11-04T14:40:07 ;   8b00b82a3 ; mozzius ; [APP-3730] Migrate off deprecated react-native-edge-to-edge (#12264) ;
+2026-11-04T03:44:20 ;   5b25c74dc ; sarahmaeve ; Title post pages with the author's handle instead of the URL's DID (#12312) ;
+2026-11-04T06:32:00 ;   62b91d96e ; apenwarr ; TextInput: fix bad interaction with iOS Safari autocorrect backspace. (#12316) ;
+2026-11-04T09:04:58 ;   c3a8497ca ; mozzius ; [APP-3739] Upgrade Expo to 58.0.23 and React Native to 0.88.1 (#12277) ;
+2026-11-04T02:15:42 ;   156d97cd6 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-03T15:47:15 ;   1144b4680 ; git ; Bump expo-modules-core for Swift 6.4.2 (#12319) ;
+2026-11-03T15:01:42 ;   9f51522a3 ; git ; Add Atmosphere Apps tab with category filters (#12288) ;
 2026-11-03T19:05:53 ;   4151ee09e ; mozzius ; Hide the native left nav scroll bar and stop it clipping items on short screens (#12313) ;
 2026-11-03T02:16:25 ;   b404fd271 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-11-02T22:03:51 ;   e34094457 ; 63914185+abulenok ; Expand alt text when clicked out of text bounds (#11733) ;
