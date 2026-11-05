@@ -1,3 +1,7 @@
+2026-11-05T21:06:19 ;   226c0bf28 ; mozzius ; [APP-3806] Show play buttons on video and GIF thumbnails in Notifications v2 (#12338) ;
+2026-11-05T02:16:04 ;   a32233e73 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-04T17:38:39 ;   a6f716ef8 ; spencerfpope ; Add pronouns to profiles (#12334) ;
+2026-11-04T22:56:59 ;   837e026cc ; mozzius ; Render the composer image icon as a nano glyph (#12318) ;
 2026-11-04T21:55:57 ;   d828748d7 ; mozzius ; Extend the Home header under the status bar on all native (#12324) ;
 2026-11-04T18:58:32 ;   39f0802ca ; mozzius ; Render SVG icons when the binary lacks the icon font (#12325) ;
 2026-11-04T17:01:55 ;   41ef630f9 ; mozzius ; Bump fingerprint-native action to v0.5.1 (#12179) ;

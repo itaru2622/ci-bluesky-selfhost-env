@@ -1,3 +1,4 @@
+2026-11-04T23:57:02 ;   fa754ed6 ; bnewbold ; go mod tidy ;
 2026-11-03T22:06:05 ;   a41b0563 ; foysal ; automod: fix record action deduplication (#1546) ;
 2026-11-03T21:01:02 ;   198e2613 ; cfaion341 ; automod: preserve record action compatibility ;
 2026-11-03T20:32:06 ;   6c2d5212 ; cfaion341 ; test: wait for relay subscriber before emitting ;
