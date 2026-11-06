@@ -1,3 +1,5 @@
+2026-11-06T02:16:28 ;   1ff197301 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-05T23:47:39 ;   842dcf47c ; mozzius ; Fix iOS JS status bar being ignored until the lightbox opens (#12339) ;
 2026-11-05T21:06:19 ;   226c0bf28 ; mozzius ; [APP-3806] Show play buttons on video and GIF thumbnails in Notifications v2 (#12338) ;
 2026-11-05T02:16:04 ;   a32233e73 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-11-04T17:38:39 ;   a6f716ef8 ; spencerfpope ; Add pronouns to profiles (#12334) ;
