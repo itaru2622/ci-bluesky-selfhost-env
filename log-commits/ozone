@@ -1,6 +1,0 @@
-2026-11-05T14:16:37 ;   6996637 ; gcwill70 ; custom-actions: add did+queue scoping and soft failure modes (#664) ;
-2026-11-05T11:31:12 ;   5d1f85f ; gcwill70 ; Labeler report types (#663) ;
-2026-11-05T09:46:41 ;   dbbf846 ; git ; Add moderation previews for Atmosphere records (#661) ;
-2026-11-05T12:12:25 ;   a9e61f5 ; foysal ; Align moderation inbox preview with social app (#660) ;
-2026-11-05T11:48:12 ;   d302c8f ; foysal ; Add account-wide report closure to report actions (#658) ;
-2026-11-03T23:04:17 ;   c01bf38 ; foysal ; Replace moderation stats with takedown history shortcuts (#656) ;
