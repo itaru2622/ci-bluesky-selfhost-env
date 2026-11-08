@@ -1,0 +1,2 @@
+2026-11-08T09:39:23 ;   8a61650d4 ; mozzius ; Revert "Stop native Sentry from tracing every request (#12349)" (#12353) ;
+2026-11-07T23:09:07 ;   6dad99a8e ; mozzius ; Stop native Sentry from tracing every request (#12349) ;
