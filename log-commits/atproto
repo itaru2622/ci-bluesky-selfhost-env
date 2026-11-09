@@ -1,2 +1,6 @@
+2026-11-09T12:02:23 ;   1ec24ff2a ; gcwill70 ; bsky: add atmosphere apps to test dataplane (#5835) ;
+2026-11-09T05:07:59 ;   7a4671209 ; me ; Redact cookie headers in HTTP logs (#5762) ;
+2026-11-08T18:08:06 ;   0849c24d4 ; 54160+amckinley ; pds: accept the entryway service JWT on createAccount (#5847) ;
+2026-11-08T18:08:00 ;   39d702c85 ; 54160+amckinley ; pds: PDS_ENTRYWAY_API_URL for calls to the entryway (#5846) ;
 2026-11-07T23:02:16 ;   7f619aff8 ; 54160+amckinley ; pds: attribute entryway traffic for rate limiting by signed tokens (#5845) ;
 2026-11-07T21:30:37 ;   103341946 ; 54160+amckinley ; pds: accept entryway service JWTs on entryway-called routes (#5844) ;

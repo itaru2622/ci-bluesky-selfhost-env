@@ -1,2 +1,8 @@
+2026-11-09T19:27:23 ;   c5fe6e8e3 ; foysal ; Improve moderation inbox account notices (#12330) ;
+2026-11-09T18:56:22 ;   0343daf64 ; mozzius ; Compress at most two images at once when posting (#12362) ;
+2026-11-09T18:21:13 ;   adfbdda15 ; mozzius ; Update zizmor to 1.32.0 (#12361) ;
+2026-11-09T10:36:46 ;   7514ac610 ; spencerfpope ; [APP-3718] Add share platform catalog and install detection (#12317) ;
+2026-11-09T09:25:49 ;   d1f5fa42b ; spencerfpope ; Log link records on profile link impressions (#12332) ;
+2026-11-09T08:58:06 ;   79bdfa044 ; spencerfpope ; Block repeat saves while profile links are being written (#12331) ;
 2026-11-08T09:39:23 ;   8a61650d4 ; mozzius ; Revert "Stop native Sentry from tracing every request (#12349)" (#12353) ;
 2026-11-07T23:09:07 ;   6dad99a8e ; mozzius ; Stop native Sentry from tracing every request (#12349) ;
