@@ -1,3 +1,7 @@
+2026-11-10T12:00:33 ;   8c7be8e3e ; 41898282+github-actions[bot] ; Version packages (#5838) ; (tag: refs/tags/@atproto/xrpc-server@0.13.10, tag: refs/tags/@atproto/tap@0.4.20, tag: refs/tags/@atproto/sync@0.4.24, tag: refs/tags/@atproto/repo@0.11.5, tag: refs/tags/@atproto/pds@0.5.56, tag: refs/tags/@atproto/ozone@0.13.0, tag: refs/tags/@atproto/oauth-provider@0.25.6, tag: refs/tags/@atproto/lexicon-resolver@0.4.34, tag: refs/tags/@atproto/lex@0.4.8, tag: refs/tags/@atproto/lex-server@0.2.4, tag: refs/tags/@atproto/lex-resolver@0.4.5, tag: refs/tags/@atproto/lex-installer@0.2.8, tag: refs/tags/@atproto/lex-cbor@0.1.10, tag: refs/tags/@atproto/dev-env@0.7.6, tag: refs/tags/@atproto/common@0.8.10, tag: refs/tags/@atproto/bsync@0.1.9, tag: refs/tags/@atproto/bsky@0.5.5, tag: refs/tags/@atproto/aws@0.3.24, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.31)
+2026-11-10T11:58:10 ;   ac78dcf2c ; git ; Fix CBOR declarations for strict NodeNext consumers (#5855) ;
+2026-11-10T13:38:30 ;   388638e8d ; matthieusieben ; pds: verify entryway tokens once, outside AuthVerifier (#5850) ;
+2026-11-09T21:26:00 ;   870a5346d ; git ; Raise putPreferences request-body limit to 300 KiB (#5852) ;
 2026-11-09T12:02:23 ;   1ec24ff2a ; gcwill70 ; bsky: add atmosphere apps to test dataplane (#5835) ;
 2026-11-09T05:07:59 ;   7a4671209 ; me ; Redact cookie headers in HTTP logs (#5762) ;
 2026-11-08T18:08:06 ;   0849c24d4 ; 54160+amckinley ; pds: accept the entryway service JWT on createAccount (#5847) ;
