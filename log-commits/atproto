@@ -1,3 +1,12 @@
+2026-11-11T17:01:21 ;   b43dd14e0 ; rafaeleyng ; bsky: simplify authentication verifier (#5872) ;
+2026-11-11T11:57:30 ;   57b7a375f ; michael.black ; Hydrate associated Bluesky posts in Atmosphere views (APP-3798) (#5853) ;
+2026-11-11T10:53:41 ;   3fb2578a5 ; michael.black ; Add batch Atmosphere record views endpoint (#5860) ;
+2026-11-10T21:44:56 ;   ec49bcb0d ; 41898282+github-actions[bot] ; Version packages (#5859) ; (tag: refs/tags/@atproto/xrpc-server@0.13.11, tag: refs/tags/@atproto/sync@0.4.25, tag: refs/tags/@atproto/pds@0.5.57, tag: refs/tags/@atproto/ozone@0.14.0, tag: refs/tags/@atproto/dev-env@0.7.7, tag: refs/tags/@atproto/bsky@0.5.6, tag: refs/tags/@atproto/api@0.31.0, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.32)
+2026-11-10T18:27:26 ;   bae981e23 ; 54160+amckinley ; pds: look up accounts by handle and email through their indexes (#5863) ;
+2026-11-10T18:55:30 ;   211c9e8ac ; michael.black ; Use Iris gallery recommendations in Atmosphere Explore (#5861) ;
+2026-11-10T17:29:53 ;   dd7469905 ; rafaeleyng ; Limit subscribed-post and spotlight notification groups to 150 (#5858) ;
+2026-11-10T21:22:46 ;   d930c3b6b ; foysal ; Retire moderation subject statistics in ozone (#5802) ;
+2026-11-10T12:16:11 ;   b30ea7305 ; 54160+amckinley ; pds: PDS_DISABLE_IP_RATE_LIMITS for PDSes behind a per-IP rate limiting edge (#5857) ;
 2026-11-10T12:00:33 ;   8c7be8e3e ; 41898282+github-actions[bot] ; Version packages (#5838) ; (tag: refs/tags/@atproto/xrpc-server@0.13.10, tag: refs/tags/@atproto/tap@0.4.20, tag: refs/tags/@atproto/sync@0.4.24, tag: refs/tags/@atproto/repo@0.11.5, tag: refs/tags/@atproto/pds@0.5.56, tag: refs/tags/@atproto/ozone@0.13.0, tag: refs/tags/@atproto/oauth-provider@0.25.6, tag: refs/tags/@atproto/lexicon-resolver@0.4.34, tag: refs/tags/@atproto/lex@0.4.8, tag: refs/tags/@atproto/lex-server@0.2.4, tag: refs/tags/@atproto/lex-resolver@0.4.5, tag: refs/tags/@atproto/lex-installer@0.2.8, tag: refs/tags/@atproto/lex-cbor@0.1.10, tag: refs/tags/@atproto/dev-env@0.7.6, tag: refs/tags/@atproto/common@0.8.10, tag: refs/tags/@atproto/bsync@0.1.9, tag: refs/tags/@atproto/bsky@0.5.5, tag: refs/tags/@atproto/aws@0.3.24, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.31)
 2026-11-10T11:58:10 ;   ac78dcf2c ; git ; Fix CBOR declarations for strict NodeNext consumers (#5855) ;
 2026-11-10T13:38:30 ;   388638e8d ; matthieusieben ; pds: verify entryway tokens once, outside AuthVerifier (#5850) ;
