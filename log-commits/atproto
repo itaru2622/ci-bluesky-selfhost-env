@@ -1,3 +1,19 @@
+2026-11-12T16:51:37 ;   413f04f60 ; rafaeleyng ; bsky: log client info for entryway sessions (#5889) ;
+2026-11-12T20:44:33 ;   0264f20f5 ; foysal ; Ozone: link account action cascades to reports (#5887) ;
+2026-11-12T12:43:00 ;   e9fbdab8e ; michael.black ; Add photoCount to gallery views (APP-3891) (#5880) ;
+2026-11-12T12:29:38 ;   7e9def8d2 ; git ; Fix inbox isolation test for historical message labels (#5886) ;
+2026-11-12T17:31:06 ;   a65dc6a80 ; foysal ; Fix moderation actions for chat message reports (#5869) ;
+2026-11-12T13:12:17 ;   9c64255ee ; rafaeleyng ; bsky: log whether entryway sessions use an app password (#5884) ;
+2026-11-12T11:20:05 ;   007e051ac ; rafaeleyng ; Remove remaining Datadog references (#5883) ;
+2026-11-12T10:54:53 ;   ff86b0afd ; rafaeleyng ; bsky: log entryway session auth attempts (#5882) ;
+2026-11-11T20:19:34 ;   b4dac063a ; 54160+amckinley ; pds: require the entryway service JWT on createAccount under PDS_ENTRYWAY_REQUIRE_SERVICE_AUTH (#5866) ;
+2026-11-11T23:14:00 ;   695eb1e97 ; git ; Drops `GetPostViewCounts` adding generic `GetFeatures` (#5874) ;
+2026-11-11T21:06:35 ;   a44c12d63 ; rafaeleyng ; ozone: test the reporterDid backfill without running the migration (#5879) ;
+2026-11-11T20:41:53 ;   d152ca369 ; rafaeleyng ; bsky: count requests by authentication verifier, remove Datadog tracer (#5876) ;
+2026-11-11T15:37:48 ;   83f9828c1 ; 41898282+github-actions[bot] ; Version packages (#5870) ; (tag: refs/tags/@atproto/ozone@0.14.1, tag: refs/tags/@atproto/dev-env@0.7.8, tag: refs/tags/@atproto/bsky@0.5.7, tag: refs/tags/@atproto/api@0.31.1)
+2026-11-11T15:33:01 ;   bf67a6eab ; michael.black ; Fix incorrect changeset bumps (#5875) ;
+2026-11-11T15:20:23 ;   4ca55dbc6 ; michael.black ; Rework Atmosphere timeline group responses (APP-3876) (#5871) ;
+2026-11-11T17:52:29 ;   3b93b6f2b ; rafaeleyng ; Reduce notification group sizes to 100 (#5873) ;
 2026-11-11T17:01:21 ;   b43dd14e0 ; rafaeleyng ; bsky: simplify authentication verifier (#5872) ;
 2026-11-11T11:57:30 ;   57b7a375f ; michael.black ; Hydrate associated Bluesky posts in Atmosphere views (APP-3798) (#5853) ;
 2026-11-11T10:53:41 ;   3fb2578a5 ; michael.black ; Add batch Atmosphere record views endpoint (#5860) ;

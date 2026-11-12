@@ -1,3 +1,6 @@
+2026-11-12T02:16:43 ;   44a037a63 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-11T23:34:23 ;   6bcd04cf6 ; 57507616+RetroSunstar ; Add 'Share Profile' dialog to Labeller profiles (#12125) ;
+2026-11-11T12:38:26 ;   f99d819a5 ; 260543580+ds-boyce ; Include the selected beta feature as a tag in the Sentry report (#12395) ;
 2026-11-11T13:15:39 ;   2da6ecf83 ; git ; Atmo explore tab design tweaks (#12388) ;
 2026-11-11T09:29:31 ;   300b5885a ; 260543580+ds-boyce ; Enable profile header suggestions on Android (#12239) ;
 2026-11-11T17:19:44 ;   dc04dcab0 ; mozzius ; [APP-3850] Remove the Notifications v2 gate and the v1 screen (#12367) ;
