@@ -1,3 +1,12 @@
+2026-11-13T09:22:48 ;   059460af0 ; spencerfpope ; [APP-3670] Share sheet frontend (#12398) ;
+2026-11-12T22:38:20 ;   2ce37d03e ; git ; Activity feed v2 (#12407) ;
+2026-11-13T04:02:33 ;   0c0b5a07e ; 57507616+RetroSunstar ; Add Profile Links to labellers (#12183) ;
+2026-11-12T22:53:46 ;   3d420cabe ; lonk ; Fix web feed viewability rootMargin to avoid deadzone at top of feed (#12405) ;
+2026-11-12T21:53:33 ;   78abf19f9 ; git ; Fix nav order on mobile (#12406) ;
+2026-11-12T21:44:01 ;   1917863c9 ; git ; Activity feed (#12403) ;
+2026-11-13T02:14:34 ;   750d0d8a5 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-12T12:51:30 ;   8fe5fcb69 ; 260543580+ds-boyce ; Retire Moderation Inbox feature flag (#12401) ;
+2026-11-12T14:47:48 ;   1cee0e1a3 ; git ; Prefer native app handoffs for photo links (#12402) ;
 2026-11-12T02:16:43 ;   44a037a63 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-11-11T23:34:23 ;   6bcd04cf6 ; 57507616+RetroSunstar ; Add 'Share Profile' dialog to Labeller profiles (#12125) ;
 2026-11-11T12:38:26 ;   f99d819a5 ; 260543580+ds-boyce ; Include the selected beta feature as a tag in the Sentry report (#12395) ;
