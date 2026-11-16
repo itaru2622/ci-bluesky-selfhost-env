@@ -1,0 +1,2 @@
+2026-11-16T11:52:43 ;   f55e0cb ; gcwill70 ; add report type filtering to custom actions. show roles in actions list (#676) ;
+2026-11-16T15:58:11 ;   9fbd311 ; foysal ; Fix bulk no-action closure of the current report (#675) ;

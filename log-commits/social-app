@@ -1,0 +1,6 @@
+2026-11-16T15:01:58 ;   94a08bf3f ; spencerfpope ; [APP-2963] Fix the Android bottom sheet leak and orphaned dialogs (#12377) ;
+2026-11-16T19:46:48 ;   29f5cf4f4 ; 63914185+abulenok ; OTA update from main targets buildNumber from main (#11953) ;
+2026-11-16T20:08:49 ;   3b4dce26a ; mozzius ; [APP-3890] Remove iPad support from beta features (#12396) ;
+2026-11-16T16:08:28 ;   72e3c4df1 ; mozzius ; [APP-3713] Show the notification timestamp tooltip above post actions (#12421) ;
+2026-11-16T09:07:10 ;   2537937c6 ; spencerfpope ; Stop the profile links row from flipping between fold points (#12400) ;
+2026-11-16T01:34:09 ;   7f064abe2 ; 54160+amckinley ; bskyweb: drop ips-v4 addresses Bluesky no longer holds (#12417) ;

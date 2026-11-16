@@ -1,3 +1,9 @@
+2026-11-16T15:50:34 ;   137591c05 ; rafaeleyng ; bsky: don't log the mod service's labeler service JWTs (#5921) ;
+2026-11-16T15:09:19 ;   b575ca131 ; rafaeleyng ; bsky: log and count labeler service JWTs by lxm (#5918) ;
+2026-11-16T11:31:21 ;   e249c2d63 ; 41898282+github-actions[bot] ; Version packages (#5908) ; (tag: refs/tags/@atproto/pds@0.5.60, tag: refs/tags/@atproto/ozone@0.15.1, tag: refs/tags/@atproto/dev-env@0.7.13, tag: refs/tags/@atproto/bsky@0.5.12, tag: refs/tags/@atproto/api@0.32.1)
+2026-11-16T11:26:57 ;   b9f1f1d2b ; gcwill70 ; Ozone bulk events (#4722) ;
+2026-11-16T15:28:03 ;   50877ccd3 ; foysal ; Fix bulk no-action closure of the current report (#5913) ;
+2026-11-15T19:49:34 ;   56201be4a ; 54160+amckinley ; pds: exempt the configured AppView from proxy SSRF protection (#5915) ;
 2026-11-14T15:55:31 ;   7dd086d4d ; 54160+amckinley ; pds: add opt-in PDS_SQLITE_SYNCHRONOUS_FULL (#5911) ;
 2026-11-14T19:47:32 ;   d330b0ca6 ; rafaeleyng ; bsky: accept only internal service tokens on internal endpoints (#5909) ;
 2026-11-14T19:45:55 ;   918a00028 ; rafaeleyng ; bsky: remove hydrateFeedSkeleton and check getFeed service JWTs (#5912) ;
