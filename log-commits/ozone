@@ -1,2 +1,7 @@
+2026-11-17T17:59:13 ;   f574a6a ; foysal ; Fix record label replacement on report pages (#683) ;
+2026-11-16T16:32:21 ;   d81c075 ; gcwill70 ; fix: use proper action inputs when selecting apply to account (#682) ;
+2026-11-16T16:32:05 ;   9ea07aa ; gcwill70 ; allow emitEvents to be used from workspace (#680) ;
+2026-11-16T16:23:37 ;   c6eb934 ; gcwill70 ; show handle as fallback (#681) ;
+2026-11-16T15:16:06 ;   ed4aed8 ; gcwill70 ; add moderator analytics tab (#678) ;
 2026-11-16T11:52:43 ;   f55e0cb ; gcwill70 ; add report type filtering to custom actions. show roles in actions list (#676) ;
 2026-11-16T15:58:11 ;   9fbd311 ; foysal ; Fix bulk no-action closure of the current report (#675) ;
