@@ -1,3 +1,11 @@
+2026-11-18T07:51:33 ;   c310166de ; 15894818+treethought ; bsync: expose operation creation timestamps (#5934) ;
+2026-11-18T16:09:39 ;   6ee0f4d79 ; matthieusieben ; lex-rpc: add XRPC subscriptions (#5885) ;
+2026-11-18T15:38:37 ;   bb765e9bd ; matthieusieben ; Add rate limiting to the OAuth provider (#5798) ;
+2026-11-18T11:47:26 ;   118a82770 ; matthieusieben ; Check lex declarations as a strict consumer in the build (#5930) ;
+2026-11-17T17:36:11 ;   07d1f6b6a ; 41898282+github-actions[bot] ; Version packages (#5933) ; (tag: refs/tags/@atproto/ozone@0.15.3, tag: refs/tags/@atproto/dev-env@0.7.15, tag: refs/tags/@atproto/bsky@0.5.14)
+2026-11-17T15:02:00 ;   b54391d5d ; me ; Add a blob source endpoint to AppView (#5898) ;
+2026-11-17T14:46:36 ;   d3adef81c ; 260543580+ds-boyce ; Hydrate private post view counts for authors (#5890) ;
+2026-11-17T13:39:37 ;   bc2ac561f ; 54160+amckinley ; Let inbox appeals target actions taken before the inbox start date (#5927) ;
 2026-11-17T12:32:14 ;   786a666d0 ; 41898282+github-actions[bot] ; Version packages (#5920) ; (tag: refs/tags/@atproto/xrpc-server@0.13.13, tag: refs/tags/@atproto/sync@0.4.27, tag: refs/tags/@atproto/pds@0.5.61, tag: refs/tags/@atproto/ozone@0.15.2, tag: refs/tags/@atproto/oauth-provider@0.26.0, tag: refs/tags/@atproto/oauth-client@0.9.4, tag: refs/tags/@atproto/oauth-client-node@0.5.17, tag: refs/tags/@atproto/oauth-client-expo@0.2.12, tag: refs/tags/@atproto/oauth-client-browser@0.5.15, tag: refs/tags/@atproto/lexicon-resolver@0.4.35, tag: refs/tags/@atproto/lex@0.5.0, tag: refs/tags/@atproto/lex-server@0.2.5, tag: refs/tags/@atproto/lex-rpc@0.1.0, tag: refs/tags/@atproto/lex-resolver@0.4.6, tag: refs/tags/@atproto/lex-password-session@0.3.3, tag: refs/tags/@atproto/lex-installer@0.2.9, tag: refs/tags/@atproto/lex-client@0.5.0, tag: refs/tags/@atproto/dev-env@0.7.14, tag: refs/tags/@atproto/bsync@0.1.10, tag: refs/tags/@atproto/bsky@0.5.13, tag: refs/tags/@atproto/api@0.32.2, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.34, tag: refs/tags/@atproto-labs/simple-store-redis@0.1.7)
 2026-11-17T12:28:05 ;   3f7eb87d0 ; git ; Add author feed filter for posts and replies without reposts (#5925) ;
 2026-11-17T19:15:27 ;   ce21dda25 ; foysal ; Skip automatic language tags for chat subjects (#5931) ;
