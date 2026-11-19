@@ -1,3 +1,7 @@
+2026-11-19T15:58:54 ;   dfd475a ; foysal ; Enable Claude reviews for Ozone (#687) ;
+2026-11-19T09:56:27 ;   6779298 ; gcwill70 ; fix: respect workspace selection when revoking credentials (#685) ;
+2026-11-19T14:31:33 ;   b967cae ; foysal ; Clarify account action report closure (#672) ;
+2026-11-18T16:08:37 ;   e6262eb ; gcwill70 ; fix: cache workspace metadata across list changes (#684) ;
 2026-11-17T17:59:13 ;   f574a6a ; foysal ; Fix record label replacement on report pages (#683) ;
 2026-11-16T16:32:21 ;   d81c075 ; gcwill70 ; fix: use proper action inputs when selecting apply to account (#682) ;
 2026-11-16T16:32:05 ;   9ea07aa ; gcwill70 ; allow emitEvents to be used from workspace (#680) ;

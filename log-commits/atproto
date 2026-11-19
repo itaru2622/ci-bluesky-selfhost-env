@@ -1,3 +1,13 @@
+2026-11-19T11:07:42 ;   8a0e077d4 ; sarahmaeve ; xrpc-server: raise the listener limit on piped responses (#5954) ;
+2026-11-19T16:44:36 ;   6ebb491ac ; matthieusieben ; ozone: build strict-queue migration fixture in a rolled-back transaction (#5951) ;
+2026-11-19T16:27:11 ;   b9b1ca7f1 ; matthieusieben ; Update vitest to v5, vite to v8.3.8 and rolldown to v1.3.3 (#5950) ;
+2026-11-19T10:08:23 ;   f1155c411 ; gcwill70 ; ozone: create reports at ingestion (#5922) ;
+2026-11-19T15:28:45 ;   8c253ff0b ; matthieusieben ; Use local typescript version in VS Code (#5949) ;
+2026-11-19T14:47:25 ;   ce3723766 ; matthieusieben ; lex: port non-space improvements from permissioned-data (#5948) ;
+2026-11-19T14:22:27 ;   57ac20d8f ; foysal ; Expose current status in inbox report details (#5947) ;
+2026-11-19T00:07:48 ;   02f162ecd ; devinivy ; pds: allow rollbacks after newer db migrations (#5928) ;
+2026-11-18T17:21:06 ;   627b30915 ; git ; Cap Atmosphere timeline actor groups at 150 activities (#5944) ;
+2026-11-18T22:27:04 ;   b6adb5132 ; foysal ; Ozone: use moderator or admin auth for inbox push endpoints (#5943) ;
 2026-11-18T07:51:33 ;   c310166de ; 15894818+treethought ; bsync: expose operation creation timestamps (#5934) ;
 2026-11-18T16:09:39 ;   6ee0f4d79 ; matthieusieben ; lex-rpc: add XRPC subscriptions (#5885) ;
 2026-11-18T15:38:37 ;   bb765e9bd ; matthieusieben ; Add rate limiting to the OAuth provider (#5798) ;

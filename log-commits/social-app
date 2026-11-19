@@ -1,3 +1,18 @@
+2026-11-19T13:26:37 ;   f8950a8e0 ; git ; Add recommendation feedback to Atmosphere Discover and Explore (#12473) ;
+2026-11-19T10:51:29 ;   d39adc9c2 ; mozzius ; Bump version to 1.139.0 ;
+2026-11-19T20:35:19 ;   f33d01b56 ; mozzius ; [APP-4012] Fix Firefox exiting video fullscreen right after entering it (#12471) ;
+2026-11-19T03:10:48 ;   8796b9b83 ; 4732330+estrattonbailey ; Nightly source-language update ;
+2026-11-18T21:08:57 ;   41e085e26 ; git ; Add pluralization for languages that need it, such as esperanto (#12470) ;
+2026-11-19T02:16:30 ;   0fdabed9e ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-19T03:49:48 ;   32f5cae2a ; mozzius ; [APP-3931] Let translators reorder the activity header time and app name (#12423) ;
+2026-11-18T16:04:30 ;   abc18084b ; 260543580+ds-boyce ; Support Atmosphere records in moderation inbox (#12468) ;
+2026-11-18T15:54:03 ;   95cb9909b ; 260543580+ds-boyce ; Remove middot between date and view count (#12467) ;
+2026-11-18T18:31:53 ;   2988b9f35 ; spencerfpope ; [APP-3854] Share profiles, feeds and lists with the new share sheet (#12458) ;
+2026-11-18T15:22:25 ;   46982ff21 ; 260543580+ds-boyce ; Add Streamplace icon and regenerate (#12466) ;
+2026-11-18T17:03:00 ;   248e33065 ; git ; Add metrics to atmosphere tab (#12459) ;
+2026-11-18T23:44:27 ;   ba84d6ed3 ; mozzius ; [APP-3992] Stop downloading Android lightbox images twice (#12464) ;
+2026-11-18T16:13:42 ;   c55c3ad0b ; spencerfpope ; [APP-3670] Show the paste hint inside the share sheet (#12439) ;
+2026-11-18T23:13:07 ;   54719af16 ; mozzius ; [APP-3990] Show the full-resolution image when zoomed in the lightbox (#12462) ;
 2026-11-18T09:58:25 ;   9aea4353c ; 260543580+ds-boyce ; Show private post view counts in thread details (#12387) ;
 2026-11-18T11:24:58 ;   648411fe2 ; git ; Show and enable dismissal of the Atmosphere banner across tabs (#12460) ;
 2026-11-18T18:20:45 ;   30f6ce92f ; mozzius ; [APP-3930] Backport react-native#59286 so feed taps keep working after a cancelled fling on Android (#12422) ;
