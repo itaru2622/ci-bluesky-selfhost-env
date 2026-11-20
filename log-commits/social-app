@@ -1,3 +1,12 @@
+2026-11-20T13:05:52 ;   47e6acedf ; mozzius ; [APP-3544] Keep find-in-page working in the virtualized web List (#12067) ;
+2026-11-20T13:05:25 ;   f1146d7de ; mozzius ; [APP-3543] Compile the web List with React Compiler (#12065) ;
+2026-11-20T13:04:53 ;   02ef9f19a ; mozzius ; [APP-3542] Virtualize the web List (#12064) ;
+2026-11-20T02:16:14 ;   e89bd5bb9 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-19T19:24:32 ;   ebba4fbb2 ; git ; Update Atmosphere metrics and photo app handoff (#12475) ;
+2026-11-19T23:51:15 ;   f399c1a0c ; mozzius ; [APP-3492] Backport react-native#59776 for the addViewAt "already has a parent" crash (#12358) ;
+2026-11-19T23:46:14 ;   238e03e6b ; mozzius ; Remove expo-media-library patch (#12474) ;
+2026-11-19T23:45:53 ;   143172d4d ; mozzius ; Migrate Expo file system API (#11660) ;
+2026-11-19T23:36:02 ;   c1fd86bd7 ; mozzius ; Migrate Expo media library API (#11662) ;
 2026-11-19T13:26:37 ;   f8950a8e0 ; git ; Add recommendation feedback to Atmosphere Discover and Explore (#12473) ;
 2026-11-19T10:51:29 ;   d39adc9c2 ; mozzius ; Bump version to 1.139.0 ;
 2026-11-19T20:35:19 ;   f33d01b56 ; mozzius ; [APP-4012] Fix Firefox exiting video fullscreen right after entering it (#12471) ;
