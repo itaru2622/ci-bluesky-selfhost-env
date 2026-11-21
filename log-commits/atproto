@@ -1,3 +1,6 @@
+2026-11-21T09:59:34 ;   34063e968 ; 41898282+github-actions[bot] ; Version packages (#5977) ; (tag: refs/tags/@atproto/ozone@0.16.3, tag: refs/tags/@atproto/dev-env@0.7.19, tag: refs/tags/@atproto/bsky@0.5.18)
+2026-11-21T09:52:34 ;   38aa4f4dd ; me ; bsky: /blob-source answers what /blob answers for taken down or deactivated accounts (#5980) ;
+2026-11-20T23:08:00 ;   58e882b7b ; foysal ; ozone: allow appeals for configured tags (#5976) ;
 2026-11-20T11:02:05 ;   c93ef136f ; 41898282+github-actions[bot] ; Version packages (#5971) ; (tag: refs/tags/@atproto/pds@0.5.64, tag: refs/tags/@atproto/ozone@0.16.2, tag: refs/tags/@atproto/dev-env@0.7.18, tag: refs/tags/@atproto/bsky@0.5.17, tag: refs/tags/@atproto/api@0.32.5)
 2026-11-20T10:58:37 ;   2c3b0a209 ; git ; Sync Atmosphere and external embed lexicons with upstream (#5973) ;
 2026-11-20T10:03:18 ;   b6408e54b ; git ; Add viewer likes to external article and gallery views (#5967) ;
