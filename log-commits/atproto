@@ -1,3 +1,6 @@
+2026-11-23T11:30:04 ;   67fc7db6e ; matthieusieben ; opentelemetry-node: register ESM loader hook with module.registerHooks() (#5952) ;
+2026-11-23T14:49:05 ;   990141246 ; 168034895+1AbdullahButt ; lex-json: reject non data-model CIDs in strict $link parsing (#5843) ;
+2026-11-23T01:29:49 ;   53f926902 ; devinivy ; pds: make appview request limits opt-in (#5986) ;
 2026-11-21T15:43:15 ;   906202dc6 ; sarahmaeve ; pds: limit requests to the configured AppView (#5979) ;
 2026-11-21T09:59:34 ;   34063e968 ; 41898282+github-actions[bot] ; Version packages (#5977) ; (tag: refs/tags/@atproto/ozone@0.16.3, tag: refs/tags/@atproto/dev-env@0.7.19, tag: refs/tags/@atproto/bsky@0.5.18)
 2026-11-21T09:52:34 ;   38aa4f4dd ; me ; bsky: /blob-source answers what /blob answers for taken down or deactivated accounts (#5980) ;

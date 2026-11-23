@@ -1,1 +1,4 @@
+2026-11-22T21:49:48 ;   46bd9ce ; devinivy ; Replace axios with fetch (#177) ;
+2026-11-22T21:49:48 ;   0a233bb ; devinivy ; Client improvements: cancellation, richer errors, KEM keys (#176) ;
+2026-11-22T21:22:00 ;   22fcea8 ; devinivy ; ci: run lib tests before releasing (#179) ;
 2026-11-20T22:52:05 ;   984aff1 ; devinivy ; Release @did-plc/lib with Changesets (#175) ;
