@@ -1,3 +1,8 @@
+2026-11-23T21:14:13 ;   a5690bb7d ; mozzius ; [APP-4043] Bump tapper to 0.8.0 so emoticons like :) don't open emoji autocomplete (#12478) ;
+2026-11-23T21:10:12 ;   7cdea5012 ; mozzius ; [APP-3069] Ignore IME composition keys in autocomplete (#12480) ;
+2026-11-23T21:02:22 ;   a6e6887be ; mozzius ; [APP-4054] Restyle the content warning dialog to match post interaction settings (#12495) ;
+2026-11-23T21:01:56 ;   dce0f3644 ; mozzius ; [APP-4047] Don't nag limited-access users to select more photos (#12488) ;
+2026-11-23T20:15:06 ;   8bf4a42dc ; mozzius ; [APP-4049] Clear leftover compressed videos from “Clear image cache” (#12489) ;
 2026-11-23T16:55:58 ;   27a604fd4 ; mozzius ; [APP-3190] Remove legacy image compression path (#12491) ;
 2026-11-23T02:18:32 ;   8e989feab ; 1270099+pfrazee ; Nightly source-language update ;
 2026-11-22T17:23:33 ;   ea6bfc33d ; mozzius ; Fix the missing zoom transition on the alt text sheet (#12484) ;
