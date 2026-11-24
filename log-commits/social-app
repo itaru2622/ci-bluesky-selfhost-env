@@ -1,3 +1,15 @@
+2026-11-24T10:20:48 ;   3222eff25 ; 49699333+dependabot[bot] ; Bump shell-quote from 1.8.3 to 1.12.0 (#12520) ;
+2026-11-24T09:55:04 ;   f9ea21e42 ; 49699333+dependabot[bot] ; Bump svgo from 4.0.2 to 4.1.0 (#12508) ;
+2026-11-24T19:53:58 ;   c7bb8cade ; mozzius ; Bump uitextview and video-compressor (#12496) ;
+2026-11-24T19:47:30 ;   27901561d ; mozzius ; Fix feed skeleton overflowing past the right edge (#12490) ;
+2026-11-24T10:58:01 ;   06f10a6b0 ; spencerfpope ; [APP-3895] Accept at-uri in compose intent (#12399) ;
+2026-11-24T16:06:19 ;   1a0393b74 ; mozzius ; APP-3466: Swap the react-native-screens setSize patch for the React Native core fix (#12022) ;
+2026-11-24T02:16:55 ;   5618dc2dc ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-23T18:16:27 ;   ebb788479 ; spencerfpope ; [APP-2963] Fix the Android bottom sheet leak and orphaned dialogs (#12432) ;
+2026-11-23T18:16:14 ;   2a3520ba1 ; spencerfpope ; [APP-2963] Dismiss orphaned iOS sheets and release their dialog state (#12431) ;
+2026-11-23T22:10:04 ;   c85e67b62 ; foysal ; Show report status and record previews in moderation inbox (#12472) ;
+2026-11-23T23:00:28 ;   ffa433b78 ; mozzius ; [APP-3969] Measure iOS sheet content natively through its ScrollView (#12246) ;
+2026-11-23T23:00:28 ;   4e007a772 ; mozzius ; [APP-3969] Let long iPhone sheets scroll (#12243) ;
 2026-11-23T21:14:13 ;   a5690bb7d ; mozzius ; [APP-4043] Bump tapper to 0.8.0 so emoticons like :) don't open emoji autocomplete (#12478) ;
 2026-11-23T21:10:12 ;   7cdea5012 ; mozzius ; [APP-3069] Ignore IME composition keys in autocomplete (#12480) ;
 2026-11-23T21:02:22 ;   a6e6887be ; mozzius ; [APP-4054] Restyle the content warning dialog to match post interaction settings (#12495) ;
