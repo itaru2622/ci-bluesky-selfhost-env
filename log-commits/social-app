@@ -1,3 +1,7 @@
+2026-11-25T07:01:29 ;   57024dcf7 ; 260543580+ds-boyce ; Recover ogcard workers after WebAssembly rendering traps (#12524) ;
+2026-11-25T02:17:20 ;   01977e287 ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-24T14:13:35 ;   b4a274087 ; 260543580+ds-boyce ; Make gallery page dots clickable on web (#12504) ;
+2026-11-24T14:00:41 ;   64c131b5c ; 260543580+ds-boyce ; Fix native prop leakage in web date inputs (#12522) ;
 2026-11-24T10:20:48 ;   3222eff25 ; 49699333+dependabot[bot] ; Bump shell-quote from 1.8.3 to 1.12.0 (#12520) ;
 2026-11-24T09:55:04 ;   f9ea21e42 ; 49699333+dependabot[bot] ; Bump svgo from 4.0.2 to 4.1.0 (#12508) ;
 2026-11-24T19:53:58 ;   c7bb8cade ; mozzius ; Bump uitextview and video-compressor (#12496) ;

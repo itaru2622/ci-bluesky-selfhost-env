@@ -1,4 +1,11 @@
+2026-11-25T11:46:01 ;   99b3a82 ; devinivy ; Add PLC client headers, KEM key updates, and prev mismatch handling (#184) ;
+2026-11-24T16:10:48 ;   79b99aa ; bnewbold ; Merge pull request #183 from did-method-plc/bnewbold/spec-etag ;
+2026-11-24T15:39:55 ;   67fc8b0 ; dtholmgren ; Add If-Match header handling for POST DID (#174) ;
+2026-11-24T00:46:17 ;   426da2d ; bnewbold ; Update website/spec/v0.1/did-plc.md ;
+2026-11-23T15:10:18 ;   26f694c ; bnewbold ; update OpenAPI spec to mention If-Match header ;
 2026-11-23T15:04:04 ;   6583608 ; bnewbold ; Merge pull request #181 from did-method-plc/bnewbold/fix-redoc ;
+2026-11-23T15:00:52 ;   ceb6701 ; bnewbold ; specs: fix typos ;
+2026-11-23T15:00:29 ;   b26cdc7 ; bnewbold ; spec: document If-Match and ETag headers; v0.3.1 ;
 2026-11-23T14:44:09 ;   d5468e2 ; bnewbold ; fix redoc script import ;
 2026-11-22T21:49:48 ;   46bd9ce ; devinivy ; Replace axios with fetch (#177) ;
 2026-11-22T21:49:48 ;   0a233bb ; devinivy ; Client improvements: cancellation, richer errors, KEM keys (#176) ;
