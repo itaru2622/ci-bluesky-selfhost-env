@@ -1,3 +1,5 @@
+2026-11-26T18:05:16 ;   ddd30d0 ; foysal ; Fix takedowns from DM reports (#693) ;
+2026-11-26T14:43:40 ;   0392b67 ; foysal ; Show report subject status in inbox preview (#686) ;
 2026-11-19T15:58:54 ;   dfd475a ; foysal ; Enable Claude reviews for Ozone (#687) ;
 2026-11-19T09:56:27 ;   6779298 ; gcwill70 ; fix: respect workspace selection when revoking credentials (#685) ;
 2026-11-19T14:31:33 ;   b967cae ; foysal ; Clarify account action report closure (#672) ;

@@ -1,3 +1,7 @@
+2026-11-26T17:47:07 ;   bdeb25ed8 ; mozzius ; [APP-4074] Stop the notifications badge coming back after reading them (#12528) ;
+2026-11-26T01:18:38 ;   61f2efc14 ; 260543580+ds-boyce ; Fix App Clip launch crash by adopting scene lifecycle (#12532) ;
+2026-11-26T02:16:37 ;   73f98dbaf ; 1270099+pfrazee ; Nightly source-language update ;
+2026-11-25T13:25:11 ;   f7399a645 ; 260543580+ds-boyce ; Handle malformed saved feed URIs in feed management (#12530) ;
 2026-11-25T07:01:29 ;   57024dcf7 ; 260543580+ds-boyce ; Recover ogcard workers after WebAssembly rendering traps (#12524) ;
 2026-11-25T02:17:20 ;   01977e287 ; 1270099+pfrazee ; Nightly source-language update ;
 2026-11-24T14:13:35 ;   b4a274087 ; 260543580+ds-boyce ; Make gallery page dots clickable on web (#12504) ;

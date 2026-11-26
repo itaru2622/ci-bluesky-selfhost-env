@@ -1,3 +1,13 @@
+2026-11-25T19:58:22 ;   0cd86484 ; bnewbold ; api: add 'agnostic' space API helpers (#1572) ;
+2026-11-25T19:45:34 ;   f075da2b ; bnewbold ; add 'agnostic' space API helpers ;
+2026-11-25T18:59:46 ;   36c07467 ; bnewbold ; space lexicons: JSON schemas, lexgen, and cborgen (#1569) ;
+2026-11-25T18:15:10 ;   3036cae7 ; bnewbold ; make cborgen ;
+2026-11-25T18:15:00 ;   89e42f28 ; bnewbold ; cborgen: add new space types ;
+2026-11-25T18:13:38 ;   95cccde5 ; bnewbold ; run lexgen for space APIs ;
+2026-11-25T18:00:39 ;   0eb8676c ; bnewbold ; lexgen: add support for STAR files ;
+2026-11-25T17:57:16 ;   b85164ff ; bnewbold ; import space lexicon JSON files ;
+2026-11-25T15:13:31 ;   da5352df ; bnewbold ; lexlint: space schema is top-level (#1568) ;
+2026-11-25T15:10:30 ;   9632085f ; bnewbold ; lexlint: space schema is top-level ;
 2026-11-24T19:01:34 ;   6017e7ee ; bnewbold ; Fix typos in oauth/labeling/lexicon/mst docs and an error message (#1567) ;
 2026-11-24T13:49:03 ;   38c604e1 ; bnewbold ; atproto spaces support in existing packages (#1445) ;
 2026-11-24T13:48:43 ;   bb310792 ; bnewbold ; add space client attestation helper to OAuth client (#1566) ;
