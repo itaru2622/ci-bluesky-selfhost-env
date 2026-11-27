@@ -1,3 +1,18 @@
+2026-11-27T19:23:07 ;   a422d2c13 ; 41898282+github-actions[bot] ; Version packages (#6054) ; (tag: refs/tags/@atproto/pds@0.5.68, tag: refs/tags/@atproto/ozone@0.16.8, tag: refs/tags/@atproto/lex-server@0.3.2, tag: refs/tags/@atproto/lex-cli@0.10.22, tag: refs/tags/@atproto/dev-env@0.7.24, tag: refs/tags/@atproto/bsync@0.1.14, tag: refs/tags/@atproto/bsky@0.5.23, tag: refs/tags/@atproto/api@0.32.8, tag: refs/tags/@atproto-labs/opentelemetry-node@0.7.0)
+2026-11-27T19:09:11 ;   6d6ec7557 ; matthieusieben ; ozone: migrate tests to vitest and load the dev-env graph once per worker (#6056) ;
+2026-11-27T18:52:50 ;   3d7a1a6ee ; matthieusieben ; lex-server: give upgraded WebSocket requests a 101 status on Node.js (#6055) ;
+2026-11-27T17:14:00 ;   32e4abfe0 ; matthieusieben ; ozone: speed up slow integration tests (#6053) ;
+2026-11-27T17:04:19 ;   d7799ead8 ; matthieusieben ; bsky: reduce vitest import overhead in tests (#6052) ;
+2026-11-27T16:40:09 ;   f6d3902d5 ; matthieusieben ; lex-cli: build generated files from ts-morph structures (~15x faster gen-api) (#6050) ;
+2026-11-27T16:40:01 ;   88bf64a43 ; matthieusieben ; opentelemetry-node: drop auto-instrumentations-node, detect resources locally (#6051) ;
+2026-11-27T12:44:13 ;   dce608b49 ; matthieusieben ; ci: run every job on ubuntu-latest and drop the CA certificates workaround (#6044) ;
+2026-11-27T12:05:23 ;   3a940d54a ; 41898282+github-actions[bot] ; Version packages (#6029) ; (tag: refs/tags/@atproto/xrpc-server@0.13.18, tag: refs/tags/@atproto/ws-client@0.2.3, tag: refs/tags/@atproto/tap@0.4.25, tag: refs/tags/@atproto/sync@0.4.32, tag: refs/tags/@atproto/pds@0.5.67, tag: refs/tags/@atproto/ozone@0.16.7, tag: refs/tags/@atproto/oauth-provider@0.27.4, tag: refs/tags/@atproto/oauth-client-expo@0.2.17, tag: refs/tags/@atproto/lexicon-resolver@0.4.40, tag: refs/tags/@atproto/lex@0.7.1, tag: refs/tags/@atproto/lex-server@0.3.1, tag: refs/tags/@atproto/lex-rpc@0.3.1, tag: refs/tags/@atproto/lex-resolver@0.4.11, tag: refs/tags/@atproto/lex-password-session@0.3.8, tag: refs/tags/@atproto/lex-installer@0.2.14, tag: refs/tags/@atproto/lex-client@0.7.1, tag: refs/tags/@atproto/dev-env@0.7.23, tag: refs/tags/@atproto/bsky@0.5.22, tag: refs/tags/@atproto-labs/xrpc-utils@0.1.39)
+2026-11-27T11:45:39 ;   aa681d3a7 ; matthieusieben ; Fix build (#6043) ;
+2026-11-27T05:43:28 ;   62410de90 ; ofriperetzdev ; pds: compare the admin Basic-auth password in constant time (#6042) ;
+2026-11-27T11:27:05 ;   2fdc0ded5 ; matthieusieben ; lex-server: detect request aborts with isCausedBySignal; lex-rpc: walk the whole cause chain (#6040) ;
+2026-11-27T11:10:58 ;   813ad0c29 ; matthieusieben ; lex-server: convert and report healthCheck errors, accept HEAD on /xrpc/_health (#6035) ;
+2026-11-27T11:10:18 ;   72367e7b0 ; matthieusieben ; ws-client: start the backoff over after a normal close (#6039) ;
+2026-11-27T10:35:31 ;   6a61eafd8 ; matthieusieben ; ws-client: reset the backoff only after a stable connection, ±50% jitter after the cap; lex-rpc: re-export ws-client errors (#6037) ;
 2026-11-25T06:43:16 ;   665c90c82 ; 140691303+Till3005 ; oauth-client-expo: fix ExpoOAuthClient resolution in Metro (#5978) ;
 2026-11-25T14:47:58 ;   aac0bce07 ; 41898282+github-actions[bot] ; Version packages (#6025) ; (tag: refs/tags/@atproto/lex-server@0.3.0)
 2026-11-25T14:43:25 ;   59662dddf ; matthieusieben ; lex-server: configurable WebSocket compression, clean WebSocket shutdown (#6024) ;

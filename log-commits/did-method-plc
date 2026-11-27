@@ -1,3 +1,4 @@
+2026-11-27T13:45:16 ;   9137bfe ; 41898282+github-actions[bot] ; Version Packages (#180) ; (tag: refs/tags/@did-plc/lib@1.0.0)
 2026-11-25T11:46:01 ;   99b3a82 ; devinivy ; Add PLC client headers, KEM key updates, and prev mismatch handling (#184) ;
 2026-11-24T16:10:48 ;   79b99aa ; bnewbold ; Merge pull request #183 from did-method-plc/bnewbold/spec-etag ;
 2026-11-24T15:39:55 ;   67fc8b0 ; dtholmgren ; Add If-Match header handling for POST DID (#174) ;
